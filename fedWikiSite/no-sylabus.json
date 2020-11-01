@@ -1,0 +1,28 @@
+{
+  "title": "No Sylabus",
+  "story": [
+    {
+      "type": "factory",
+      "id": "c2009630984e9ee3"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "No Sylabus",
+        "story": []
+      },
+      "date": 1603035557814
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c2009630984e9ee3"
+      },
+      "id": "c2009630984e9ee3",
+      "type": "add",
+      "date": 1603035558926
+    }
+  ]
+}
