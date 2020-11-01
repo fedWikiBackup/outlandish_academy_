@@ -1,0 +1,72 @@
+{
+  "title": "Weekly Rhythm",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "05ad5920482b3fbf",
+      "text": "We find that one or more weekly structured [[Zoom Meeting]]s which give the opportunity to summarise the previous weeks work, and set the agenda for the next learning cycle suit many types of community.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "20cbfbeeb38b6e99",
+      "text": "# Weekly meet and greet\n"
+    },
+    {
+      "type": "markdown",
+      "id": "0650643259175207",
+      "text": "The proceeds of these meetings are often recorded, and mixed together to create a [[Final Show]] at the end of the [[pod cycle]]. This may be a simple as recording a 10 minute presentation"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Weekly Rhythm",
+        "story": []
+      },
+      "date": 1603707046737
+    },
+    {
+      "id": "05ad5920482b3fbf",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "05ad5920482b3fbf",
+        "text": "# Weekly meet and greet\nWe find that one or more weekly structured [[Zoom Meeting]]s which give the opportunity to summarise the previous weeks work, and set the agenda for the next learning cycle suit many types of community.\n"
+      },
+      "date": 1603707048888
+    },
+    {
+      "id": "0650643259175207",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "0650643259175207",
+        "text": "The proceeds of these meetings are often recorded, and mixed together to create a [[Final Show]] at the end of the [[pod cycle]]. This may be a simple as recording a 10 minute presentation"
+      },
+      "after": "05ad5920482b3fbf",
+      "date": 1603707051131
+    },
+    {
+      "type": "edit",
+      "id": "05ad5920482b3fbf",
+      "item": {
+        "type": "markdown",
+        "id": "05ad5920482b3fbf",
+        "text": "We find that one or more weekly structured [[Zoom Meeting]]s which give the opportunity to summarise the previous weeks work, and set the agenda for the next learning cycle suit many types of community.\n"
+      },
+      "date": 1603707285481
+    },
+    {
+      "type": "add",
+      "id": "20cbfbeeb38b6e99",
+      "item": {
+        "type": "markdown",
+        "id": "20cbfbeeb38b6e99",
+        "text": "# Weekly meet and greet\n"
+      },
+      "after": "05ad5920482b3fbf",
+      "date": 1603707286614
+    }
+  ]
+}
