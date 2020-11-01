@@ -1,0 +1,55 @@
+{
+  "title": "Teamworker",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "6bb62f364c3319ef",
+      "text": "Helps the team to gel, using their versatility to identify the work required and complete it on behalf of the team.\n\n- **Strengths**: Co-operative, perceptive and diplomatic. Listens and averts friction.\n\n- **Allowable weaknesses**: Can be indecisive in crunch situations and tends to avoid confrontation.\n\n- **Don't be surprised to find that**: They might be hesitant to make unpopular decisions."
+    },
+    {
+      "type": "markdown",
+      "id": "9baef013b9e3d72a",
+      "text": "# See also\n\n- [[Belbin Team Roles]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Teamworker",
+        "story": []
+      },
+      "date": 1570549171960
+    },
+    {
+      "id": "6bb62f364c3319ef",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "6bb62f364c3319ef",
+        "text": "Helps the team to gel, using their versatility to identify the work required and complete it on behalf of the team.\n\n- **Strengths**: Co-operative, perceptive and diplomatic. Listens and averts friction.\n\n- **Allowable weaknesses**: Can be indecisive in crunch situations and tends to avoid confrontation.\n\n- **Don't be surprised to find that**: They might be hesitant to make unpopular decisions."
+      },
+      "date": 1570549178092
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9baef013b9e3d72a"
+      },
+      "id": "9baef013b9e3d72a",
+      "type": "add",
+      "after": "6bb62f364c3319ef",
+      "date": 1570549194649
+    },
+    {
+      "type": "edit",
+      "id": "9baef013b9e3d72a",
+      "item": {
+        "type": "markdown",
+        "id": "9baef013b9e3d72a",
+        "text": "# See also\n\n- [[Belbin Team Roles]]"
+      },
+      "date": 1570549204342
+    }
+  ]
+}
