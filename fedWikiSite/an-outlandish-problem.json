@@ -1,0 +1,265 @@
+{
+  "title": "An Outlandish Problem",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "f092f1ac4995dca5",
+      "text": "We started with similar data. Our initial focus was similarly on teaching computer science - more specifically coding (though this quickly changed). The facts around the challenges facing education were considerable. Schools simply did not have qualified staff to teach. When staff became qualified, they left schools to earn more money elsewhere.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "51fa8ab75a2cddf1",
+      "text": "We resonate with the experience in Dayton:"
+    },
+    {
+      "type": "markdown",
+      "id": "5411b97cb7afdae8",
+      "text": "Where we differ is in where we identified the source of the problem. We took for granted the idea that the learning experience would improve during the experiments. Our concern was more prosaic:\n> How do you convince convince educators?\n"
+    },
+    {
+      "type": "reference",
+      "id": "4957749a187ed441",
+      "site": "dev2.wiki.innovateoregon.org",
+      "slug": "understanding-the-problem",
+      "title": "Understanding the Problem",
+      "text": "We quickly found that Oregon had a serious graduation problem. Back in 2010, we were ranked 45th in the country for graduation rates. Nine years later, we are ranked 49th. Most people are shocked when we share this reality with them. Oregon?"
+    },
+    {
+      "type": "markdown",
+      "id": "ea06205ff112b23e",
+      "text": "That. is our starting point was more pessimistic. More critical of the institutional context. We believed that many good and even radical practices had been developed in education over the last 100 years, but very few of them have much impact on the institution of education.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "a563a685904e1f7b",
+      "text": "It seems from reading around [[The Dayton experiment]], that the focus is on inspiring the good will of all the parties involved. The focus is on the learning experience - on quality.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d69bad0534c9fc7f",
+      "text": "By contrast ours was on why good practices are not sticking. Our questions were around the fundamental drivers in the institutions concerned that prevented acceptance of such practice. It is interesting that such radically divergent perspectives essentially came up with the same conclusion."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "An Outlandish Problem",
+        "story": []
+      },
+      "date": 1603028861933
+    },
+    {
+      "id": "ea06205ff112b23e",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "ea06205ff112b23e",
+        "text": "Our starting point was more pessimistic. We believed that many good and even radical practices had been developed in education over the last 100 years, but very few of them have much impact on the institution of education. \n"
+      },
+      "date": 1603028869002
+    },
+    {
+      "item": {
+        "type": "reference",
+        "id": "4957749a187ed441",
+        "site": "dev2.wiki.innovateoregon.org",
+        "slug": "understanding-the-problem",
+        "title": "Understanding the Problem",
+        "text": "We quickly found that Oregon had a serious graduation problem. Back in 2010, we were ranked 45th in the country for graduation rates. Nine years later, we are ranked 49th. Most people are shocked when we share this reality with them. Oregon?"
+      },
+      "id": "4957749a187ed441",
+      "type": "add",
+      "after": "ea06205ff112b23e",
+      "date": 1603029154885
+    },
+    {
+      "type": "edit",
+      "id": "4957749a187ed441",
+      "item": {
+        "type": "reference",
+        "id": "4957749a187ed441",
+        "site": "dev2.wiki.innovateoregon.org",
+        "slug": "understanding-the-problem",
+        "title": "Understanding the Problem",
+        "text": "We quickly found that Oregon had a serious graduation problem. Back in 2010, we were ranked 45th in the country for graduation rates. Nine years later, we are ranked 49th. Most people are shocked when we share this reality with them. Oregon?"
+      },
+      "date": 1603029157053
+    },
+    {
+      "id": "aa5070a89308c30b",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "aa5070a89308c30b",
+        "text": "For us there were no teachers, and there were no exams. We replaced these concepts with a simple pragmatic methodology designed to address questions of cost and scaleability. We took for granted the idea that the learning experience would improve during the experiments. Our concern was more prosaic:\n> How do you convince convince educators?\n"
+      },
+      "date": 1603029178266
+    },
+    {
+      "type": "edit",
+      "id": "aa5070a89308c30b",
+      "item": {
+        "type": "markdown",
+        "id": "aa5070a89308c30b",
+        "text": "For us there were no teachers, no classrooms and there were no exams. We replaced these concepts with a simple pragmatic methodology designed to address questions of cost and scaleability. The thinking was deliberately mean spirited.\n"
+      },
+      "date": 1603029196047
+    },
+    {
+      "type": "add",
+      "id": "f092f1ac4995dca5",
+      "item": {
+        "type": "markdown",
+        "id": "f092f1ac4995dca5",
+        "text": "We started with similar data. The facts around the challenges facing education were considerable. Schools simply did not have qualified staff to teach. \n"
+      },
+      "after": "aa5070a89308c30b",
+      "date": 1603029197702
+    },
+    {
+      "id": "aa5070a89308c30b",
+      "type": "remove",
+      "date": 1603029206892
+    },
+    {
+      "id": "f092f1ac4995dca5",
+      "type": "remove",
+      "date": 1603029290235
+    },
+    {
+      "id": "f092f1ac4995dca5",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "f092f1ac4995dca5",
+        "text": "We took for granted the idea that the learning experience would improve during the experiments. Our concern was more prosaic:\n> How do you convince convince educators?\n"
+      },
+      "date": 1603029372511
+    },
+    {
+      "id": "4957749a187ed441",
+      "type": "move",
+      "order": [
+        "4957749a187ed441",
+        "f092f1ac4995dca5",
+        "ea06205ff112b23e"
+      ],
+      "date": 1603029378803
+    },
+    {
+      "type": "edit",
+      "id": "f092f1ac4995dca5",
+      "item": {
+        "type": "markdown",
+        "id": "f092f1ac4995dca5",
+        "text": "We started with similar data. The facts around the challenges facing education were considerable. Schools simply did not have qualified staff to teach. \n"
+      },
+      "date": 1603029455002
+    },
+    {
+      "id": "f092f1ac4995dca5",
+      "type": "move",
+      "order": [
+        "f092f1ac4995dca5",
+        "4957749a187ed441",
+        "5411b97cb7afdae8",
+        "ea06205ff112b23e"
+      ],
+      "date": 1603029456953,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1603029462288
+    },
+    {
+      "type": "add",
+      "id": "5411b97cb7afdae8",
+      "item": {
+        "type": "markdown",
+        "id": "5411b97cb7afdae8",
+        "text": "We took for granted the idea that the learning experience would improve during the experiments. Our concern was more prosaic:\n> How do you convince convince educators?\n"
+      },
+      "after": "f092f1ac4995dca5",
+      "date": 1603029462698
+    },
+    {
+      "type": "edit",
+      "id": "f092f1ac4995dca5",
+      "item": {
+        "type": "markdown",
+        "id": "f092f1ac4995dca5",
+        "text": "We started with similar data. Our initial focus was similarly on teaching computer science - more specifically coding (though this quickly changed). The facts around the challenges facing education were considerable. Schools simply did not have qualified staff to teach. When staff became qualified, they left schools to earn more money elsewhere.\n"
+      },
+      "date": 1603029549493
+    },
+    {
+      "type": "add",
+      "id": "51fa8ab75a2cddf1",
+      "item": {
+        "type": "markdown",
+        "id": "51fa8ab75a2cddf1",
+        "text": "We resonate with the experience in Dayton]]:"
+      },
+      "after": "f092f1ac4995dca5",
+      "date": 1603029568068
+    },
+    {
+      "type": "edit",
+      "id": "51fa8ab75a2cddf1",
+      "item": {
+        "type": "markdown",
+        "id": "51fa8ab75a2cddf1",
+        "text": "We resonate with the experience in Dayton:"
+      },
+      "date": 1603029573986
+    },
+    {
+      "type": "edit",
+      "id": "5411b97cb7afdae8",
+      "item": {
+        "type": "markdown",
+        "id": "5411b97cb7afdae8",
+        "text": "Where we differ is in where we identified the source of the problem. We took for granted the idea that the learning experience would improve during the experiments. Our concern was more prosaic:\n> How do you convince convince educators?\n"
+      },
+      "date": 1603029623063
+    },
+    {
+      "type": "edit",
+      "id": "ea06205ff112b23e",
+      "item": {
+        "type": "markdown",
+        "id": "ea06205ff112b23e",
+        "text": "That. is our starting point was more pessimistic. More critical of the institutional context. We believed that many good and even radical practices had been developed in education over the last 100 years, but very few of them have much impact on the institution of education.\n"
+      },
+      "date": 1603029660223
+    },
+    {
+      "type": "add",
+      "id": "a563a685904e1f7b",
+      "item": {
+        "type": "markdown",
+        "id": "a563a685904e1f7b",
+        "text": "It seems from reading around [[The Dayton experiment]], that the focus is on inspiring the good will of all the parties involved. The focus is on the learning experience - on quality.\n"
+      },
+      "after": "ea06205ff112b23e",
+      "date": 1603029721210
+    },
+    {
+      "type": "add",
+      "id": "d69bad0534c9fc7f",
+      "item": {
+        "type": "markdown",
+        "id": "d69bad0534c9fc7f",
+        "text": "By contrast ours was on why good practices are not sticking. Our questions were around the fundamental drivers in the institutions concerned that prevented acceptance of such practice. It is interesting that such radically divergent perspectives essentially came up with the same conclusion."
+      },
+      "after": "a563a685904e1f7b",
+      "date": 1603029815425
+    }
+  ]
+}
