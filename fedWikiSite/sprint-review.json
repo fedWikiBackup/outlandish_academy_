@@ -1,0 +1,64 @@
+{
+  "title": "Sprint review",
+  "journal": [
+    {
+      "date": 1541453149638,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Sprint review"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1541453062767
+    },
+    {
+      "type": "edit",
+      "id": "630085fe-b9fa-4d58-a628-b719aa68a4d0",
+      "item": {
+        "type": "markdown",
+        "id": "630085fe-b9fa-4d58-a628-b719aa68a4d0",
+        "text": "At the end of a sprint, the team holds two events: the sprint review and the [[sprint retrospective]] - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review wikipedia]"
+      },
+      "date": 1541453587610
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "630085fe-b9fa-4d58-a628-b719aa68a4d0",
+      "text": "At the end of a sprint, the team holds two events: the sprint review and the [[sprint retrospective]] - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_review wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "c3867492-57d1-4470-86d5-e2e6fad306c5",
+      "text": "At the sprint review, the team:"
+    },
+    {
+      "type": "markdown",
+      "id": "301ccf2b-a538-40cf-9c4f-4b2b7792dd00",
+      "text": "-  reviews the work that was completed and the planned work that was not completed\n-  presents the completed work to the stakeholders (a.k.a. the [[technology demo | demo]])\n-  collaborates with the stakeholders on what to work on next"
+    },
+    {
+      "type": "markdown",
+      "id": "36f95e5f-40eb-45dc-8189-e1d047a94d6c",
+      "text": "-  Incomplete work cannot be demonstrated.\n-  The recommended duration is two hours for a two-week sprint (proportional for other sprint-durations)."
+    },
+    {
+      "type": "markdown",
+      "id": "b5b93114-515e-4114-b4c6-bbb5c5a5ed06",
+      "text": "# Tools\n\nSearch for [[free culture]] images for this page on [https://www.google.com/search?as_st=y&tbm=isch&as_q=Scrum+%28software+development%29+Sprint+review&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&gws_rd=ssl google]"
+    },
+    {
+      "type": "transport",
+      "id": "c480c603-167b-4dd3-8c94-50c19869bd09",
+      "text": "POST https://rest.livecode.world/imagine"
+    },
+    {
+      "type": "markdown",
+      "id": "8725652c-3f06-491c-9497-970fdec43c0d",
+      "text": "# Sprint review"
+    }
+  ]
+}
