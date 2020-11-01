@@ -1,0 +1,59 @@
+{
+  "title": "Product owner",
+  "journal": [
+    {
+      "date": 1541452918516,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Product owner"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1541452829449
+    },
+    {
+      "type": "remove",
+      "id": "3125957d-7e03-4f87-9971-e3c720fabeec",
+      "date": 1541452835839
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "9deaab4f-2698-49b9-ace7-b0370facd815",
+      "text": "The product owner represents the product's [[Stakeholder (corporate)]] and the [[voice of the customer]], is responsible for the backlog and accountable for maximising the value that the team delivers. The product owner defines the product in customer-centric terms (typically [[user story]]), adds them to the [[Scrum (software development)#Product backlog]], and [[Requirement prioritization]] them based on importance and dependencies. A scrum team should have only one product owner (although a product owner could support more than one team). This role should not be combined with that of the scrum master. The product owner should focus on the business side of product development and spend the majority of their time liaising with stakeholders and should not dictate how the team reaches a technical solution. This role is equivalent to the [[customer representative]] role in some other agile frameworks such as [[extreme programming]] (XP) - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_owner wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "ff5fea3e-bc94-4a12-951a-09cfe80abd02",
+      "text": "Communication is a core responsibility of the product owner. The ability to convey priorities and empathize with team members and stakeholders is vital to steer product development in the right direction. The product owner role bridges the communication gap between the team and its stakeholders, serving as a proxy for stakeholders to the team and as a team representative to the overall stakeholder community."
+    },
+    {
+      "type": "markdown",
+      "id": "ecfeaa01-edae-42a7-bbe2-74a4735b5b2c",
+      "text": "As the face of the team to the stakeholders, the following are some of the communication tasks of the product owner to the stakeholders:"
+    },
+    {
+      "type": "markdown",
+      "id": "9efd407f-24db-4916-89c6-3621b60b0607",
+      "text": "-  demonstrates the solution to key stakeholders who were not present at a sprint review;\n-  defines and announces releases;\n-  communicates team status;\n-  organizes milestone reviews;\n-  educates stakeholders in the development process;\n-  negotiates priorities, scope, funding, and schedule;\n-  ensures that the product backlog is visible, transparent and clear."
+    },
+    {
+      "type": "markdown",
+      "id": "906060b7-f1ad-4816-98ce-7ce3470236e0",
+      "text": "A product owner's ability to communicate effectively is also enhanced by being skilled in techniques that identify stakeholder needs, negotiate priorities between stakeholder interests, and collaborate with developers to ensure effective implementation of requirements."
+    },
+    {
+      "type": "markdown",
+      "id": "def9aeec-0503-4487-9800-f1e3be50ef45",
+      "text": "# Tools\n\nSearch for [[free culture]] images for this page on [https://www.google.com/search?as_st=y&tbm=isch&as_q=Scrum+%28software+development%29+Product+owner&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&gws_rd=ssl google]"
+    },
+    {
+      "type": "transport",
+      "id": "2c88243c-830a-46df-86ed-0cbe3b6b18ef",
+      "text": "POST https://rest.livecode.world/imagine"
+    }
+  ]
+}
