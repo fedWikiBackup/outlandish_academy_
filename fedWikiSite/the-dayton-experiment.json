@@ -1,0 +1,154 @@
+{
+  "title": "The Dayton Experiment",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1147ab66200b18f6",
+      "text": "It started as an experiment. We call it the Dayton Experiment. \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f0d7b47b8b40f57a",
+      "text": "What might happen if you take the learning culture the fuels our fastest growing high technology companies and used that culture the re-imagine the educational experience in a school district? \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "f7c5de9bfa2f947b",
+      "text": "Four years ago, [[Innovate Oregon]], founded as a strategic initiative of the Technology Associaton of Oregon (TAO) Foundation, embarked on this adventure in Dayton Oregon, a rural community in Yamhill County. Dayton is a town of 2,500 people where more than two-thirds of its students qualify for free and reduced lunches. It is also a multicultural community, about a third of its students are Latino.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "a1da7c6d80e232e6",
+      "text": "We call this new culture [[Agile]]. It was birthed in 2001 as a movement and continues to transform how software is being developed and how companies are being managed. Could it also transform how we are preparing the next generation of students to be the makers and creators in a new creative economy?\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "ec8f078acdcc0b31",
+      "text": "The experiment has blossomed beyond anyone's expectations. Dayton’s graduation rate is now one of the highest in the state, 96.8%, 18% above the state average. The town has a 10 Gig fiber internet network, the fastest on the entire west coast, that was built by a committed local partner. Their teachers are working with New Relic to create a new mentoring program for other schools. And they are becoming an inspirational model for other districts around the state and beyond.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "243afaa8275b7ab3",
+      "text": "It’s a story worth telling.\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "The Dayton Experiment",
+        "story": []
+      },
+      "date": 1549299915950
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1147ab66200b18f6"
+      },
+      "id": "1147ab66200b18f6",
+      "type": "add",
+      "date": 1549299917846
+    },
+    {
+      "type": "edit",
+      "id": "1147ab66200b18f6",
+      "item": {
+        "type": "paragraph",
+        "id": "1147ab66200b18f6",
+        "text": "It started as an experiment. We called it the Dayton Experiment. \n"
+      },
+      "date": 1549299924326
+    },
+    {
+      "type": "add",
+      "id": "f0d7b47b8b40f57a",
+      "item": {
+        "type": "paragraph",
+        "id": "f0d7b47b8b40f57a",
+        "text": "What might happen if you take the learning culture the fuels our fastest growing high technology companies and used that culture the re-imagine the educational experience in a school district? \n"
+      },
+      "after": "1147ab66200b18f6",
+      "date": 1549299927502
+    },
+    {
+      "type": "add",
+      "id": "f7c5de9bfa2f947b",
+      "item": {
+        "type": "paragraph",
+        "id": "f7c5de9bfa2f947b",
+        "text": "Four years ago, Innovate Oregon, founded as a strategic initiative of the Technology Associaton of Oregon (TAO) Foundation, embarked on this adventure in Dayton Oregon, a rural community in Yamhill County. Dayton is a town of 2,500 people where more than two-thirds of its students qualify for free and reduced lunches. It is also a multicultural community, about a third of its students are Latino.\n"
+      },
+      "after": "f0d7b47b8b40f57a",
+      "date": 1549299931155
+    },
+    {
+      "type": "add",
+      "id": "a1da7c6d80e232e6",
+      "item": {
+        "type": "paragraph",
+        "id": "a1da7c6d80e232e6",
+        "text": "We call this new culture Agile. It was birthed in 2001 as a movement and continues to transform how software is being developed and how companies are being managed. Could it also transform how we are preparing the next generation of students to be the makers and creators in a new creative economy?\n"
+      },
+      "after": "f7c5de9bfa2f947b",
+      "date": 1549299934466
+    },
+    {
+      "type": "add",
+      "id": "ec8f078acdcc0b31",
+      "item": {
+        "type": "paragraph",
+        "id": "ec8f078acdcc0b31",
+        "text": "The experiment has blossomed beyond anyone's expectations. Dayton’s graduation rate is now one of the highest in the state, 96.8%, 18% above the state average. The town has a 10 Gig fiber internet network, the fastest on the entire west coast, that was built by a committed local partner. Their teachers are working with New Relic to create a new mentoring program for other schools. And they are becoming an inspirational model for other districts around the state and beyond.\n"
+      },
+      "after": "a1da7c6d80e232e6",
+      "date": 1549299939207
+    },
+    {
+      "type": "add",
+      "id": "243afaa8275b7ab3",
+      "item": {
+        "type": "paragraph",
+        "id": "243afaa8275b7ab3",
+        "text": "It’s a story worth telling.\n"
+      },
+      "after": "ec8f078acdcc0b31",
+      "date": 1549299941268
+    },
+    {
+      "type": "edit",
+      "id": "a1da7c6d80e232e6",
+      "item": {
+        "type": "paragraph",
+        "id": "a1da7c6d80e232e6",
+        "text": "We call this new culture [[Agile]]. It was birthed in 2001 as a movement and continues to transform how software is being developed and how companies are being managed. Could it also transform how we are preparing the next generation of students to be the makers and creators in a new creative economy?\n"
+      },
+      "date": 1549299972350
+    },
+    {
+      "type": "edit",
+      "id": "f7c5de9bfa2f947b",
+      "item": {
+        "type": "paragraph",
+        "id": "f7c5de9bfa2f947b",
+        "text": "Four years ago, [[Innovate Oregon]], founded as a strategic initiative of the Technology Associaton of Oregon (TAO) Foundation, embarked on this adventure in Dayton Oregon, a rural community in Yamhill County. Dayton is a town of 2,500 people where more than two-thirds of its students qualify for free and reduced lunches. It is also a multicultural community, about a third of its students are Latino.\n"
+      },
+      "date": 1549300035748
+    },
+    {
+      "type": "edit",
+      "id": "1147ab66200b18f6",
+      "item": {
+        "type": "paragraph",
+        "id": "1147ab66200b18f6",
+        "text": "It started as an experiment. We call it the Dayton Experiment. \n"
+      },
+      "date": 1549391051344
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1549732762156
+    }
+  ]
+}
