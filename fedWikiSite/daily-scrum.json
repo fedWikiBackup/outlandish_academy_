@@ -1,0 +1,49 @@
+{
+  "title": "Daily Scrum",
+  "journal": [
+    {
+      "date": 1541453129109,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Daily Scrum"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1541453042912
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "83750d55-d94a-4f35-a00b-8b8991753313",
+      "text": "Each day during a sprint, the team holds a daily scrum (or [[stand-up meeting]]) with specific guidelines - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Daily_Scrum wikipedia]"
+    },
+    {
+      "type": "html",
+      "id": "757de043-0044-4fa0-9199-c54a59b689bc",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://commons.wikimedia.org/wiki/File:Daily_sprint_meeting.jpg' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Daily_sprint_meeting.jpg/420px-Daily_sprint_meeting.jpg'>\n</a>\n\n<p class=caption>\nA daily scrum in the computing room. This centralized location helps the team start on time.\n- [https://commons.wikimedia.org/wiki/File:Daily_sprint_meeting.jpg wikimedia.org]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "3441d0d1-5924-4358-998d-a23a11db4b64",
+      "text": "-  All members of the development team come prepared. The daily scrum:\n- * starts precisely on time even if some development team members are missing\n- * should happen at the same time and place every day\n- * is limited ([[timeboxing|timeboxed]]) to fifteen minutes\n-  Anyone is welcome, though only development team members should contribute.\n-  During the daily scrum, each team member typically answers three questions:\n- * What did I complete yesterday that contributed to the team meeting our sprint goal?\n- * What do I plan to complete today to contribute to the team meeting our sprint goal?\n- * Do I see any impediment that could prevent me or the team from meeting our sprint goal?"
+    },
+    {
+      "type": "markdown",
+      "id": "2d177745-ce7e-4039-9056-0e82118f3166",
+      "text": "# Tools\n\nSearch for [[free culture]] images for this page on [https://www.google.com/search?as_st=y&tbm=isch&as_q=Scrum+%28software+development%29+Daily+Scrum&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&gws_rd=ssl google]"
+    },
+    {
+      "type": "transport",
+      "id": "b185b236-f71b-46f9-823c-057fddb6cabb",
+      "text": "POST https://rest.livecode.world/imagine"
+    },
+    {
+      "type": "markdown",
+      "id": "4ead8516-47ae-4a53-96f1-95c9eaa77501",
+      "text": "# Daily Scrum"
+    }
+  ]
+}
