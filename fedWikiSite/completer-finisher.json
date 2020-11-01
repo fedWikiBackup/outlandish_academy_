@@ -1,0 +1,45 @@
+{
+  "title": "Completer Finisher",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "38eda0daa0bcb4b1",
+      "text": "Most effectively used at the end of tasks to polish and scrutinise the work for errors, subjecting it to the highest standards of quality control.\n\n- **Strengths**: Painstaking, conscientious, anxious. Searches out errors. Polishes and perfects.\n\n- **Allowable weaknesses**: Can be inclined to worry unduly, and reluctant to delegate.\n\n- **Don't be surprised to find that**: They could be accused of taking their perfectionism to extremes."
+    },
+    {
+      "type": "markdown",
+      "id": "5a88bb2d58ffbcf7",
+      "text": "# See also\n\n- [[Belbin Team Roles]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Completer Finisher",
+        "story": []
+      },
+      "date": 1570549509070
+    },
+    {
+      "id": "5a88bb2d58ffbcf7",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "5a88bb2d58ffbcf7",
+        "text": "# See also\n\n- [[Belbin Team Roles]]"
+      },
+      "date": 1570549515136
+    },
+    {
+      "id": "38eda0daa0bcb4b1",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "38eda0daa0bcb4b1",
+        "text": "Most effectively used at the end of tasks to polish and scrutinise the work for errors, subjecting it to the highest standards of quality control.\n\n- **Strengths**: Painstaking, conscientious, anxious. Searches out errors. Polishes and perfects.\n\n- **Allowable weaknesses**: Can be inclined to worry unduly, and reluctant to delegate.\n\n- **Don't be surprised to find that**: They could be accused of taking their perfectionism to extremes."
+      },
+      "date": 1570549519503
+    }
+  ]
+}

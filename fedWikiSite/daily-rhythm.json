@@ -1,0 +1,62 @@
+{
+  "title": "Daily Rhythm",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "e4213670428a12ef",
+      "text": "A great deal of the issues and problems to do with learning revolves around the tension between structure and play time. Especially in an informal and self-directed setting the provision of a suitable framework for fitting the learning into the work day greatly helps outcomes.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "c95de343651c19dd",
+      "text": "In the case of working with the self employed or the unemployed (quickly becoming the same thing), the provision of advice or support for a daily routine can be particularly helpful. Here the provision of a clear structure is part of the learning outcome.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b135c715827439df",
+      "text": "On the other hand, people who are already in highly structured, busy or working lives need a way in which to include their participation in simple to manage, flexible ways. As each [[pod club]] benefits from a curated mix of [[learning roles]], we seek a structure which can accommodate both formal and informal learning.\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Daily Rhythm",
+        "story": []
+      },
+      "date": 1603707032580
+    },
+    {
+      "id": "e4213670428a12ef",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "e4213670428a12ef",
+        "text": "A great deal of the issues and problems to do with learning revolves around the tension between structure and play time. Especially in an informal and self-directed setting the provision of a suitable framework for fitting the learning into the work day greatly helps outcomes.\n"
+      },
+      "date": 1603707034822
+    },
+    {
+      "id": "c95de343651c19dd",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "c95de343651c19dd",
+        "text": "In the case of working with the self employed or the unemployed (quickly becoming the same thing), the provision of advice or support for a daily routine can be particularly helpful. Here the provision of a clear structure is part of the learning outcome.\n"
+      },
+      "after": "e4213670428a12ef",
+      "date": 1603707036537
+    },
+    {
+      "id": "b135c715827439df",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "b135c715827439df",
+        "text": "On the other hand, people who are already in highly structured, busy or working lives need a way in which to include their participation in simple to manage, flexible ways. As each [[pod club]] benefits from a curated mix of [[learning roles]], we seek a structure which can accommodate both formal and informal learning.\n"
+      },
+      "after": "c95de343651c19dd",
+      "date": 1603707038046
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "journal": [
+    {
+      "date": 1540670374814,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Learning Pods"
+      }
+    },
+    {
+      "id": "84a3c65f9ef5d9ac",
+      "type": "add",
+      "item": {
+        "text": "A Learning Pod is self-directed community working together on learning projects. ",
+        "type": "paragraph",
+        "id": "84a3c65f9ef5d9ac"
+      },
+      "date": 1540670378476
+    },
+    {
+      "id": "1016edb41b3ff763",
+      "type": "add",
+      "item": {
+        "text": "We are using the fed wiki to organize these learning communities.",
+        "type": "paragraph",
+        "id": "1016edb41b3ff763"
+      },
+      "after": "84a3c65f9ef5d9ac",
+      "date": 1540670380531
+    },
+    {
+      "id": "1016edb41b3ff763",
+      "type": "edit",
+      "item": {
+        "text": "We are using the fed wiki to organize these learning communities. The first learning pod that we are organizing around is focused how the process of re-imagining education. ",
+        "type": "paragraph",
+        "id": "1016edb41b3ff763"
+      },
+      "date": 1540670730379
+    },
+    {
+      "id": "79f8f1a86e7b539a",
+      "type": "add",
+      "item": {
+        "text": "These Learning Pods can be thought of as [[Ideaspaces]]",
+        "type": "paragraph",
+        "id": "79f8f1a86e7b539a"
+      },
+      "after": "1016edb41b3ff763",
+      "date": 1540670757012
+    },
+    {
+      "id": "79f8f1a86e7b539a",
+      "type": "edit",
+      "item": {
+        "text": "These Learning Pods can be thought of [[Collective Ideaspaces]]",
+        "type": "paragraph",
+        "id": "79f8f1a86e7b539a"
+      },
+      "date": 1540670810359
+    },
+    {
+      "id": "79f8f1a86e7b539a",
+      "type": "edit",
+      "item": {
+        "text": "These Learning Pods can be thought of [[Collective Ideaspaces]]. Here is our working area for our initial pilot, [[Collective Ideaspace One]]",
+        "type": "paragraph",
+        "id": "79f8f1a86e7b539a"
+      },
+      "date": 1540670854412
+    },
+    {
+      "type": "add",
+      "id": "ee36d650267d93a4",
+      "item": {
+        "type": "factory",
+        "id": "ee36d650267d93a4"
+      },
+      "after": "79f8f1a86e7b539a",
+      "date": 1541358471792
+    },
+    {
+      "id": "ee36d650267d93a4",
+      "type": "edit",
+      "item": {
+        "text": "Here are some other writers in our Learning Pod on education:\n\nluke.wiki.innovateoregon.org\njamifluke.wiki.innovateoregon.org\njamierichardson.wiki.innovateoregon.org\npath.ward.asia.wiki.org\n",
+        "type": "roster",
+        "id": "ee36d650267d93a4"
+      },
+      "date": 1541358489236
+    },
+    {
+      "site": "thompson.wiki.innovateoregon.org",
+      "type": "fork",
+      "date": 1586458669422
+    },
+    {
+      "id": "ee36d650267d93a4",
+      "type": "edit",
+      "item": {
+        "text": "Learning pod roster\n\nluke.wiki.innovateoregon.org\njamifluke.wiki.innovateoregon.org\njamierichardson.wiki.innovateoregon.org\npath.ward.asia.wiki.org\n",
+        "type": "roster",
+        "id": "ee36d650267d93a4"
+      },
+      "date": 1586458705746
+    },
+    {
+      "type": "add",
+      "id": "a8935c058cd051e5",
+      "item": {
+        "type": "factory",
+        "id": "a8935c058cd051e5"
+      },
+      "after": "ee36d650267d93a4",
+      "date": 1586458715741
+    },
+    {
+      "id": "a8935c058cd051e5",
+      "type": "edit",
+      "item": {
+        "text": "Here are some other writers in our Learning Pod on education:",
+        "type": "markdown",
+        "id": "a8935c058cd051e5"
+      },
+      "date": 1586458718845
+    },
+    {
+      "order": [
+        "84a3c65f9ef5d9ac",
+        "1016edb41b3ff763",
+        "79f8f1a86e7b539a",
+        "a8935c058cd051e5",
+        "ee36d650267d93a4"
+      ],
+      "type": "move",
+      "id": "a8935c058cd051e5",
+      "date": 1586458720502
+    },
+    {
+      "type": "add",
+      "id": "7546d03283d4709d",
+      "item": {
+        "type": "factory",
+        "id": "7546d03283d4709d"
+      },
+      "after": "ee36d650267d93a4",
+      "date": 1586459225573
+    },
+    {
+      "id": "7546d03283d4709d",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "id": "7546d03283d4709d",
+        "slug": "outlandish-researchers",
+        "site": "proto.institute",
+        "title": "Outlandish Researchers",
+        "text": "Here we list current researchers for the [[Outlandish Academy]]. Based on the content being developed we will recruit [[Learners]] and provide them with their own writing and collaboration space."
+      },
+      "date": 1586459228215
+    },
+    {
+      "type": "add",
+      "id": "ef56f861732dd0cd",
+      "item": {
+        "type": "factory",
+        "id": "ef56f861732dd0cd"
+      },
+      "after": "7546d03283d4709d",
+      "date": 1586459229469
+    },
+    {
+      "id": "ef56f861732dd0cd",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "id": "ef56f861732dd0cd",
+        "slug": "research-group",
+        "site": "proto.institute",
+        "title": "Research Group",
+        "text": "The [[Outlandish Academy]] is based around the idea of small study groups - a group of people working together and sharing research and learning on a particular topic. Other names for such groups are [[pods]], [[learning pod]]s, [[cells]], or [[happenings]]."
+      },
+      "date": 1586459232064
+    },
+    {
+      "type": "add",
+      "id": "895ebd4654ec79dd",
+      "item": {
+        "type": "factory",
+        "id": "895ebd4654ec79dd"
+      },
+      "after": "ef56f861732dd0cd",
+      "date": 1586459236478
+    },
+    {
+      "id": "895ebd4654ec79dd",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "id": "895ebd4654ec79dd",
+        "slug": "outlandish-academy",
+        "site": "proto.institute",
+        "title": "Outlandish Academy",
+        "text": "The Outlandish Academy is an open distributed education project for offline and online group work. Our aim is to make online learning more social, personalised, and flexible - [http://outlandish.academy outlandish]"
+      },
+      "date": 1586459239244
+    },
+    {
+      "type": "add",
+      "id": "7f6cba16aaad2b90",
+      "item": {
+        "type": "factory",
+        "id": "7f6cba16aaad2b90"
+      },
+      "after": "895ebd4654ec79dd",
+      "date": 1586459341548
+    },
+    {
+      "id": "7f6cba16aaad2b90",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "id": "7f6cba16aaad2b90",
+        "slug": "pods",
+        "site": "proto.institute",
+        "title": "Pods",
+        "text": "Here we discuss the creation of a new form of writing and research community that [[Mike Caulfield]] called a __Pod__. Other names for such groups are [[research group]], [[learning pod]]s, [[cells]], or [[happening]]."
+      },
+      "date": 1586459344390
+    },
+    {
+      "type": "add",
+      "id": "f2edb068b099cdaf",
+      "item": {
+        "type": "factory",
+        "id": "f2edb068b099cdaf"
+      },
+      "after": "7f6cba16aaad2b90",
+      "date": 1586460957880
+    },
+    {
+      "id": "f2edb068b099cdaf",
+      "type": "edit",
+      "item": {
+        "text": "Outlandish Researchers\n\nREFERENCES outlandish.academy/outlandish-researchers",
+        "type": "roster",
+        "id": "f2edb068b099cdaf"
+      },
+      "date": 1586460964137
+    },
+    {
+      "type": "add",
+      "id": "bdf3fcfdbf947aed",
+      "item": {
+        "type": "factory",
+        "id": "bdf3fcfdbf947aed"
+      },
+      "after": "f2edb068b099cdaf",
+      "date": 1586460980666
+    },
+    {
+      "id": "bdf3fcfdbf947aed",
+      "type": "edit",
+      "item": {
+        "text": "Proto Institute Members\n\nROSTER rest.livecode.world/proto",
+        "type": "roster",
+        "id": "bdf3fcfdbf947aed"
+      },
+      "date": 1586460986297
+    },
+    {
+      "order": [
+        "84a3c65f9ef5d9ac",
+        "1016edb41b3ff763",
+        "79f8f1a86e7b539a",
+        "a8935c058cd051e5",
+        "ee36d650267d93a4",
+        "bdf3fcfdbf947aed",
+        "7546d03283d4709d",
+        "ef56f861732dd0cd",
+        "895ebd4654ec79dd",
+        "7f6cba16aaad2b90",
+        "f2edb068b099cdaf"
+      ],
+      "type": "move",
+      "id": "bdf3fcfdbf947aed",
+      "date": 1586460991053
+    },
+    {
+      "order": [
+        "84a3c65f9ef5d9ac",
+        "1016edb41b3ff763",
+        "79f8f1a86e7b539a",
+        "a8935c058cd051e5",
+        "ee36d650267d93a4",
+        "bdf3fcfdbf947aed",
+        "f2edb068b099cdaf",
+        "7546d03283d4709d",
+        "ef56f861732dd0cd",
+        "895ebd4654ec79dd",
+        "7f6cba16aaad2b90"
+      ],
+      "type": "move",
+      "id": "f2edb068b099cdaf",
+      "date": 1586460993924
+    },
+    {
+      "id": "a8935c058cd051e5",
+      "type": "edit",
+      "item": {
+        "text": "# Learning Pod Rosters",
+        "type": "markdown",
+        "id": "a8935c058cd051e5"
+      },
+      "date": 1586461020367
+    },
+    {
+      "order": [
+        "84a3c65f9ef5d9ac",
+        "1016edb41b3ff763",
+        "79f8f1a86e7b539a",
+        "a8935c058cd051e5",
+        "ee36d650267d93a4",
+        "bdf3fcfdbf947aed",
+        "f2edb068b099cdaf",
+        "ef56f861732dd0cd",
+        "895ebd4654ec79dd",
+        "7546d03283d4709d",
+        "7f6cba16aaad2b90"
+      ],
+      "type": "move",
+      "id": "7546d03283d4709d",
+      "date": 1586461029931
+    },
+    {
+      "order": [
+        "84a3c65f9ef5d9ac",
+        "1016edb41b3ff763",
+        "79f8f1a86e7b539a",
+        "a8935c058cd051e5",
+        "ee36d650267d93a4",
+        "bdf3fcfdbf947aed",
+        "f2edb068b099cdaf",
+        "ef56f861732dd0cd",
+        "7f6cba16aaad2b90",
+        "895ebd4654ec79dd",
+        "7546d03283d4709d"
+      ],
+      "type": "move",
+      "id": "7f6cba16aaad2b90",
+      "date": 1586461033899
+    },
+    {
+      "id": "ee36d650267d93a4",
+      "type": "edit",
+      "item": {
+        "text": "Learning pod roster\n\nluke.wiki.innovateoregon.org\njamifluke.wiki.innovateoregon.org\njamierichardson.wiki.innovateoregon.org\npath.ward.asia.wiki.org",
+        "type": "roster",
+        "id": "ee36d650267d93a4"
+      },
+      "date": 1586461076279
+    },
+    {
+      "id": "a8935c058cd051e5",
+      "type": "edit",
+      "item": {
+        "text": "# Learning Pod Rosters\nBlow are some old and new examples of [[learning pods]]:",
+        "type": "markdown",
+        "id": "a8935c058cd051e5"
+      },
+      "date": 1586461097683
+    },
+    {
+      "id": "a8935c058cd051e5",
+      "type": "edit",
+      "item": {
+        "text": "# Learning Pod Rosters\nBlow are some old and new examples of learning [[pods]]:",
+        "type": "markdown",
+        "id": "a8935c058cd051e5"
+      },
+      "date": 1586461106169
+    },
+    {
+      "date": 1586460712806,
+      "id": "7546d03283d4709d",
+      "type": "remove"
+    },
+    {
+      "date": 1586460712806,
+      "id": "895ebd4654ec79dd",
+      "type": "remove"
+    },
+    {
+      "date": 1586460712807,
+      "id": "7f6cba16aaad2b90",
+      "type": "remove"
+    },
+    {
+      "date": 1586460712807,
+      "id": "ef56f861732dd0cd",
+      "type": "remove"
+    },
+    {
+      "type": "add",
+      "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "after": "f2edb068b099cdaf",
+      "item": {
+        "type": "factory",
+        "id": "4377d954-6cd6-4ece-a902-841ebb07029e"
+      },
+      "date": 1586460712808
+    },
+    {
+      "type": "edit",
+      "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "item": {
+        "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+        "type": "markdown",
+        "text": "# See also"
+      },
+      "date": 1586460712808
+    },
+    {
+      "type": "add",
+      "id": "9eb03162-4c65-43e4-ac85-370e74fd79a1",
+      "after": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "item": {
+        "type": "factory",
+        "id": "9eb03162-4c65-43e4-ac85-370e74fd79a1"
+      },
+      "date": 1586460712809
+    },
+    {
+      "type": "edit",
+      "id": "9eb03162-4c65-43e4-ac85-370e74fd79a1",
+      "item": {
+        "id": "9eb03162-4c65-43e4-ac85-370e74fd79a1",
+        "type": "markdown",
+        "text": "- [[Research Group]]\n- [[Pods]]\n- [[Outlandish Academy]]\n- [[Outlandish Researchers]]"
+      },
+      "date": 1586460712809
+    },
+    {
+      "type": "fork",
+      "date": 1586461120888
+    },
+    {
+      "type": "edit",
+      "id": "84a3c65f9ef5d9ac",
+      "item": {
+        "text": "A [[Learning Pod]] is self-directed community working together on learning projects. ",
+        "id": "84a3c65f9ef5d9ac",
+        "type": "paragraph"
+      },
+      "date": 1586461496159
+    },
+    {
+      "type": "fork",
+      "site": "proto.institute",
+      "date": 1598305399414
+    },
+    {
+      "type": "fork",
+      "site": "federation.life",
+      "date": 1603703223291
+    },
+    {
+      "type": "edit",
+      "id": "84a3c65f9ef5d9ac",
+      "item": {
+        "text": "A [[Learning Pod]] is self-directed community working together to research or learn something. ",
+        "id": "84a3c65f9ef5d9ac",
+        "type": "paragraph"
+      },
+      "date": 1603703270599
+    },
+    {
+      "type": "edit",
+      "id": "a8935c058cd051e5",
+      "item": {
+        "text": "# Context\nasdf\n",
+        "id": "a8935c058cd051e5",
+        "type": "markdown"
+      },
+      "date": 1603703368249
+    },
+    {
+      "type": "add",
+      "id": "28cc0005fad94ccd",
+      "item": {
+        "type": "markdown",
+        "id": "28cc0005fad94ccd",
+        "text": "# Learning Pod Rosters\nBlow are some old and new examples of learning [[pods]]:"
+      },
+      "after": "a8935c058cd051e5",
+      "date": 1603703371188
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8f4a3642eed7a7b4"
+      },
+      "id": "8f4a3642eed7a7b4",
+      "type": "add",
+      "after": "9eb03162-4c65-43e4-ac85-370e74fd79a1",
+      "date": 1603703386910
+    },
+    {
+      "type": "edit",
+      "id": "8f4a3642eed7a7b4",
+      "item": {
+        "type": "graphviz",
+        "id": "8f4a3642eed7a7b4",
+        "text": "DOT FROM wiki-map\n"
+      },
+      "date": 1603703391425
+    },
+    {
+      "id": "8f4a3642eed7a7b4",
+      "type": "move",
+      "order": [
+        "84a3c65f9ef5d9ac",
+        "1016edb41b3ff763",
+        "79f8f1a86e7b539a",
+        "a8935c058cd051e5",
+        "8f4a3642eed7a7b4",
+        "28cc0005fad94ccd",
+        "ee36d650267d93a4",
+        "bdf3fcfdbf947aed",
+        "f2edb068b099cdaf",
+        "4377d954-6cd6-4ece-a902-841ebb07029e",
+        "9eb03162-4c65-43e4-ac85-370e74fd79a1"
+      ],
+      "date": 1603703398555
+    },
+    {
+      "type": "remove",
+      "id": "9eb03162-4c65-43e4-ac85-370e74fd79a1",
+      "date": 1603703414975
+    },
+    {
+      "type": "edit",
+      "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "item": {
+        "type": "markdown",
+        "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+        "text": "# See also\n- [[Research Group]]\n- [[Pods]] and [[Learning Pod]]\n- [[Outlandish Academy]]\n- [[Outlandish Researchers]]"
+      },
+      "date": 1603703460585
+    },
+    {
+      "type": "edit",
+      "id": "a8935c058cd051e5",
+      "item": {
+        "text": "# Context\nLearning pods are [[Research Group]]s, or 'classes' organises as [[Pods]]. They form a core part of the [[Outlandish Academy]] and [[Academy Methodology]]\n",
+        "id": "a8935c058cd051e5",
+        "type": "markdown"
+      },
+      "date": 1603703626126
+    },
+    {
+      "type": "edit",
+      "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "item": {
+        "type": "markdown",
+        "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+        "text": "# Topics\n- [[learning Pod]]\n\n"
+      },
+      "date": 1603703671594
+    },
+    {
+      "type": "add",
+      "id": "95691d8c78fbf1cf",
+      "item": {
+        "type": "markdown",
+        "id": "95691d8c78fbf1cf",
+        "text": "# See also\n- [[Outlandish Researchers]]"
+      },
+      "after": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "date": 1603703673196
+    },
+    {
+      "type": "edit",
+      "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "item": {
+        "type": "markdown",
+        "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+        "text": "# Topics\n- [[Learning Pod]]\n\n"
+      },
+      "date": 1603703677405
+    },
+    {
+      "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "type": "move",
+      "order": [
+        "84a3c65f9ef5d9ac",
+        "1016edb41b3ff763",
+        "79f8f1a86e7b539a",
+        "4377d954-6cd6-4ece-a902-841ebb07029e",
+        "a8935c058cd051e5",
+        "8f4a3642eed7a7b4",
+        "28cc0005fad94ccd",
+        "ee36d650267d93a4",
+        "bdf3fcfdbf947aed",
+        "f2edb068b099cdaf",
+        "95691d8c78fbf1cf"
+      ],
+      "date": 1603703684807
+    },
+    {
+      "type": "edit",
+      "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "item": {
+        "type": "markdown",
+        "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+        "text": "# Topics\n\n- [[Learning Pod]]"
+      },
+      "date": 1603703707436
+    },
+    {
+      "type": "edit",
+      "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "item": {
+        "type": "markdown",
+        "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+        "text": "# Topics\n\n- [[Learning Pod]]\n- [[Outlandish Researchers]]\n- [[Proto Institute]]\n"
+      },
+      "date": 1603703737478
+    },
+    {
+      "type": "edit",
+      "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "item": {
+        "type": "markdown",
+        "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+        "text": "# Topics\n\n- [[Learning Pod]]\n- [[Wiki Dojo]]\n- [[Proto Institute]]\n- [[Outlandish Researchers]]"
+      },
+      "date": 1603703762026
+    }
+  ],
+  "title": "Learning Pods",
+  "story": [
+    {
+      "text": "A [[Learning Pod]] is self-directed community working together to research or learn something. ",
+      "id": "84a3c65f9ef5d9ac",
+      "type": "paragraph"
+    },
+    {
+      "text": "We are using the fed wiki to organize these learning communities. The first learning pod that we are organizing around is focused how the process of re-imagining education. ",
+      "id": "1016edb41b3ff763",
+      "type": "paragraph"
+    },
+    {
+      "text": "These Learning Pods can be thought of [[Collective Ideaspaces]]. Here is our working area for our initial pilot, [[Collective Ideaspace One]]",
+      "id": "79f8f1a86e7b539a",
+      "type": "paragraph"
+    },
+    {
+      "type": "markdown",
+      "id": "4377d954-6cd6-4ece-a902-841ebb07029e",
+      "text": "# Topics\n\n- [[Learning Pod]]\n- [[Wiki Dojo]]\n- [[Proto Institute]]\n- [[Outlandish Researchers]]"
+    },
+    {
+      "text": "# Context\nLearning pods are [[Research Group]]s, or 'classes' organises as [[Pods]]. They form a core part of the [[Outlandish Academy]] and [[Academy Methodology]]\n",
+      "id": "a8935c058cd051e5",
+      "type": "markdown"
+    },
+    {
+      "type": "graphviz",
+      "id": "8f4a3642eed7a7b4",
+      "text": "DOT FROM wiki-map\n"
+    },
+    {
+      "type": "markdown",
+      "id": "28cc0005fad94ccd",
+      "text": "# Learning Pod Rosters\nBlow are some old and new examples of learning [[pods]]:"
+    },
+    {
+      "text": "Learning pod roster\n\nluke.wiki.innovateoregon.org\njamifluke.wiki.innovateoregon.org\njamierichardson.wiki.innovateoregon.org\npath.ward.asia.wiki.org",
+      "id": "ee36d650267d93a4",
+      "type": "roster"
+    },
+    {
+      "text": "Proto Institute Members\n\nROSTER rest.livecode.world/proto",
+      "id": "bdf3fcfdbf947aed",
+      "type": "roster"
+    },
+    {
+      "text": "Outlandish Researchers\n\nREFERENCES outlandish.academy/outlandish-researchers",
+      "id": "f2edb068b099cdaf",
+      "type": "roster"
+    },
+    {
+      "type": "markdown",
+      "id": "95691d8c78fbf1cf",
+      "text": "# See also\n- [[Outlandish Researchers]]"
+    }
+  ]
+}

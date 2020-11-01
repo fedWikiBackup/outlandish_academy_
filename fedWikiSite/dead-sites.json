@@ -1,0 +1,173 @@
+{
+  "title": "Dead Sites",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "47f0554b37aa045f",
+      "text": "This page is for domains that are no longer maintained."
+    },
+    {
+      "type": "pagefold",
+      "id": "7a708de3d3de598e",
+      "text": "Sites"
+    },
+    {
+      "type": "reference",
+      "id": "a0a89441293397e0",
+      "site": "thethirdsystem.foundation",
+      "slug": "the-third-system",
+      "title": "The Third System",
+      "text": "thethirdsystem.foundation"
+    },
+    {
+      "type": "reference",
+      "id": "1534ad62fd981350",
+      "site": "andreworford.com",
+      "slug": "andrew-orford",
+      "title": "Andrew Orford",
+      "text": "andreworford.com"
+    },
+    {
+      "type": "reference",
+      "id": "a5387cd48061d525",
+      "site": "place.andreworford.com",
+      "slug": "place",
+      "title": "Place",
+      "text": "place.andreworford.com"
+    },
+    {
+      "type": "pagefold",
+      "id": "360f51777109dc4f",
+      "text": "."
+    },
+    {
+      "type": "markdown",
+      "id": "250d0c31b0229913",
+      "text": "See also [[Outlandish Researchers]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dead Sites",
+        "story": []
+      },
+      "date": 1582475547924
+    },
+    {
+      "id": "a0a89441293397e0",
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "a0a89441293397e0",
+        "site": "thethirdsystem.foundation",
+        "slug": "the-third-system",
+        "title": "The Third System",
+        "text": "thethirdsystem.foundation"
+      },
+      "date": 1582475552596
+    },
+    {
+      "id": "a5387cd48061d525",
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "a5387cd48061d525",
+        "site": "place.andreworford.com",
+        "slug": "place",
+        "title": "Place",
+        "text": "place.andreworford.com"
+      },
+      "after": "a0a89441293397e0",
+      "date": 1582475554802
+    },
+    {
+      "id": "1534ad62fd981350",
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "1534ad62fd981350",
+        "site": "andreworford.com",
+        "slug": "andrew-orford",
+        "title": "Andrew Orford",
+        "text": "andreworford.com"
+      },
+      "after": "a0a89441293397e0",
+      "date": 1582475557093
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "47f0554b37aa045f"
+      },
+      "id": "47f0554b37aa045f",
+      "type": "add",
+      "after": "a5387cd48061d525",
+      "date": 1582475567409
+    },
+    {
+      "type": "edit",
+      "id": "47f0554b37aa045f",
+      "item": {
+        "type": "markdown",
+        "id": "47f0554b37aa045f",
+        "text": "This page is for domains that are no longer maintained."
+      },
+      "date": 1582475579808
+    },
+    {
+      "id": "7a708de3d3de598e",
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "7a708de3d3de598e",
+        "text": "Sites"
+      },
+      "date": 1582475583613
+    },
+    {
+      "id": "47f0554b37aa045f",
+      "type": "move",
+      "order": [
+        "47f0554b37aa045f",
+        "7a708de3d3de598e",
+        "a0a89441293397e0",
+        "1534ad62fd981350",
+        "a5387cd48061d525"
+      ],
+      "date": 1582475585685
+    },
+    {
+      "id": "360f51777109dc4f",
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "360f51777109dc4f",
+        "text": "."
+      },
+      "after": "a5387cd48061d525",
+      "date": 1582475596180
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "250d0c31b0229913"
+      },
+      "id": "250d0c31b0229913",
+      "type": "add",
+      "after": "360f51777109dc4f",
+      "date": 1582475597928
+    },
+    {
+      "type": "edit",
+      "id": "250d0c31b0229913",
+      "item": {
+        "type": "markdown",
+        "id": "250d0c31b0229913",
+        "text": "See also [[Outlandish Researchers]]"
+      },
+      "date": 1582475613946
+    }
+  ]
+}

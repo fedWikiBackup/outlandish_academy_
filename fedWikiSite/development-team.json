@@ -1,0 +1,49 @@
+{
+  "title": "Development team",
+  "journal": [
+    {
+      "date": 1541452932372,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Development team"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1541452843789
+    },
+    {
+      "type": "remove",
+      "id": "4d744384-3996-4e6f-8d3d-1711ae09da7e",
+      "date": 1541452847228
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "5f428b8e-2bfd-4637-8cd3-14b9525f98c6",
+      "text": "The development team is responsible for delivering potentially shippable product increments every sprint (the sprint goal) - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Development_team wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "784b6adc-3da5-4945-a74b-7c0cf83172a7",
+      "text": "The team has from three to nine members who carry out all tasks required to build the product increments (analysis, design, development, testing, technical writing, etc.). Although there will be several disciplines represented in the team, its members are referred to generically as ''developers''. To avoid potential confusion that this only refers to programmers, some organizations call this a ''delivery team'' and its members just ''team members''."
+    },
+    {
+      "type": "markdown",
+      "id": "c3aa4535-0648-4ddb-b1fd-7f1832b60963",
+      "text": "The development team in Scrum is self-organizing, even though there may be interaction with other roles outside the team, such as a [[project management office]] (PMO)."
+    },
+    {
+      "type": "markdown",
+      "id": "371d7ae1-2e2a-40c2-b761-1cb91cf1a848",
+      "text": "# Tools\n\nSearch for [[free culture]] images for this page on [https://www.google.com/search?as_st=y&tbm=isch&as_q=Scrum+%28software+development%29+Development+team&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&gws_rd=ssl google]"
+    },
+    {
+      "type": "transport",
+      "id": "2ecb5b47-f935-43b6-903d-f74ff4da5b31",
+      "text": "POST https://rest.livecode.world/imagine"
+    }
+  ]
+}

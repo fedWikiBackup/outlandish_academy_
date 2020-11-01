@@ -1,0 +1,28 @@
+{
+  "title": "No Schools",
+  "story": [
+    {
+      "type": "factory",
+      "id": "7ef6432d4c22b963"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "No Schools",
+        "story": []
+      },
+      "date": 1603035533047
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7ef6432d4c22b963"
+      },
+      "id": "7ef6432d4c22b963",
+      "type": "add",
+      "date": 1603035534139
+    }
+  ]
+}

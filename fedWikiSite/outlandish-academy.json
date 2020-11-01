@@ -1,0 +1,279 @@
+{
+  "title": "Outlandish Academy",
+  "story": [
+    {
+      "id": "fd0995fbb95f83b9",
+      "text": "The Outlandish Academy is an open distributed education project for offline and online group work. Our aim is to make online learning more social, personalised, and flexible.",
+      "type": "paragraph"
+    },
+    {
+      "type": "markdown",
+      "id": "bc30266feb49b4c1",
+      "text": "# Context"
+    },
+    {
+      "type": "graphviz",
+      "id": "120ded983188f3b6",
+      "text": "DOT FROM wiki-map\n"
+    },
+    {
+      "type": "markdown",
+      "id": "578d3c94646b751d",
+      "text": "# Topics\n\n- [[Academy Methodology]]\n- [[Agile Teaching]]\n- [[Learning Pod]]\n- [[Learning Roles]]\n- [[Learning Passport]]\n- [[Learning TimeBank]]\n- [[Sustainable Learning Model]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "fa0df759ab438eff",
+      "text": "# Researchers"
+    },
+    {
+      "type": "roster",
+      "id": "837135217f9a7d8d",
+      "text": "Outlandish Researchers\n\nREFERENCES outlandish.academy/outlandish-researchers"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Outlandish Academy",
+        "story": []
+      },
+      "date": 1491155256266
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f1fefd2c8c9a8c13"
+      },
+      "id": "f1fefd2c8c9a8c13",
+      "type": "add",
+      "date": 1491155260874
+    },
+    {
+      "type": "edit",
+      "id": "f1fefd2c8c9a8c13",
+      "item": {
+        "type": "paragraph",
+        "id": "f1fefd2c8c9a8c13",
+        "text": "Outlandish is the proposed new branding for the [[Viral Academy]]."
+      },
+      "date": 1491155293448
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "010fbd0c2dffe5fa"
+      },
+      "id": "010fbd0c2dffe5fa",
+      "type": "add",
+      "after": "f1fefd2c8c9a8c13",
+      "date": 1491155322497
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "fd0995fbb95f83b9",
+        "text": "The Viral Academy is an open distributed education project for offline and online group work. Our aim is to make online learning more social, personalised, and flexible - [http://viral.academy viral.academy]",
+        "type": "paragraph"
+      },
+      "id": "fd0995fbb95f83b9",
+      "date": 1491155337091
+    },
+    {
+      "type": "edit",
+      "id": "fd0995fbb95f83b9",
+      "item": {
+        "id": "fd0995fbb95f83b9",
+        "text": "The Outlandish Academy is an open distributed education project for offline and online group work. Our aim is to make online learning more social, personalised, and flexible - [http://outlandish.academy outlandish.academy]",
+        "type": "paragraph"
+      },
+      "date": 1491155355395
+    },
+    {
+      "type": "edit",
+      "id": "fd0995fbb95f83b9",
+      "item": {
+        "id": "fd0995fbb95f83b9",
+        "text": "The Outlandish Academy is an open distributed education project for offline and online group work. Our aim is to make online learning more social, personalised, and flexible - [http://outlandish.academy outlandish]",
+        "type": "paragraph"
+      },
+      "date": 1491155366167
+    },
+    {
+      "type": "move",
+      "order": [
+        "fd0995fbb95f83b9",
+        "010fbd0c2dffe5fa",
+        "f1fefd2c8c9a8c13"
+      ],
+      "id": "010fbd0c2dffe5fa",
+      "date": 1491155375019
+    },
+    {
+      "type": "fork",
+      "site": "david.bovill.me",
+      "date": 1498775074115
+    },
+    {
+      "type": "remove",
+      "id": "f1fefd2c8c9a8c13",
+      "date": 1498934219279
+    },
+    {
+      "type": "edit",
+      "id": "010fbd0c2dffe5fa",
+      "item": {
+        "type": "reference",
+        "id": "010fbd0c2dffe5fa",
+        "site": "outlandish.academy",
+        "slug": "outlandish-researchers",
+        "title": "Outlandish Researchers",
+        "text": "Here we list current researchers for the [[Outlandish Academy]]. Based on the content being developed we will recruit [[Learners]] and provide them with their own writing and collaboration space."
+      },
+      "date": 1499443171309
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "837135217f9a7d8d",
+        "text": "Outlandish Researchers\n\nREFERENCES outlandish.academy/outlandish-researchers"
+      },
+      "after": "010fbd0c2dffe5fa",
+      "id": "837135217f9a7d8d",
+      "date": 1502460356004
+    },
+    {
+      "type": "remove",
+      "id": "010fbd0c2dffe5fa",
+      "date": 1603033291679
+    },
+    {
+      "type": "edit",
+      "id": "fd0995fbb95f83b9",
+      "item": {
+        "id": "fd0995fbb95f83b9",
+        "text": "The Outlandish Academy is an open distributed education project for offline and online group work. Our aim is to make online learning more social, personalised, and flexible.",
+        "type": "paragraph"
+      },
+      "date": 1603033306469
+    },
+    {
+      "type": "add",
+      "id": "578d3c94646b751d",
+      "item": {
+        "type": "paragraph",
+        "id": "578d3c94646b751d",
+        "text": "# Topics\n\n- [[Mapping the Federation]]"
+      },
+      "after": "fd0995fbb95f83b9",
+      "date": 1603033323208
+    },
+    {
+      "type": "edit",
+      "id": "578d3c94646b751d",
+      "item": {
+        "type": "markdown",
+        "id": "578d3c94646b751d",
+        "text": "# Topics\n\n- [[Mapping the Federation]]"
+      },
+      "date": 1603033324494
+    },
+    {
+      "type": "edit",
+      "id": "578d3c94646b751d",
+      "item": {
+        "type": "markdown",
+        "id": "578d3c94646b751d",
+        "text": "# Topics\n\n- [[Mapping the Federation]]\n"
+      },
+      "date": 1603033331941
+    },
+    {
+      "type": "add",
+      "id": "fa0df759ab438eff",
+      "item": {
+        "type": "markdown",
+        "id": "fa0df759ab438eff",
+        "text": "# Researchers"
+      },
+      "after": "578d3c94646b751d",
+      "date": 1603033338741
+    },
+    {
+      "type": "edit",
+      "id": "578d3c94646b751d",
+      "item": {
+        "type": "markdown",
+        "id": "578d3c94646b751d",
+        "text": "# Topics\n\n- [[Academy Methodology]]\n- [[Learning Roles]]\n- [[Learning Passport]]\n- [[Agile Teaching]]\n- [[Nomadic Teaching]]\n- [[Sustainable Learning Model]]\n"
+      },
+      "date": 1603033392890
+    },
+    {
+      "type": "edit",
+      "id": "578d3c94646b751d",
+      "item": {
+        "type": "markdown",
+        "id": "578d3c94646b751d",
+        "text": "# Topics\n\n- [[Academy Methodology]]\n- [[Agile Teaching]]\n- [[Learning Pod]]\n- [[Learning Roles]]\n- [[Learning Passport]]\n- [[Learning TimeBank]]\n- [[Sustainable Learning Model]]\n"
+      },
+      "date": 1603033416325
+    },
+    {
+      "type": "add",
+      "id": "bc30266feb49b4c1",
+      "item": {
+        "type": "paragraph",
+        "id": "bc30266feb49b4c1",
+        "text": "# Context"
+      },
+      "after": "fd0995fbb95f83b9",
+      "date": 1603709089108
+    },
+    {
+      "type": "edit",
+      "id": "bc30266feb49b4c1",
+      "item": {
+        "type": "markdown",
+        "id": "bc30266feb49b4c1",
+        "text": "# Context"
+      },
+      "date": 1603709090476
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "120ded983188f3b6"
+      },
+      "id": "120ded983188f3b6",
+      "type": "add",
+      "after": "837135217f9a7d8d",
+      "date": 1603709094733
+    },
+    {
+      "id": "120ded983188f3b6",
+      "type": "move",
+      "order": [
+        "fd0995fbb95f83b9",
+        "bc30266feb49b4c1",
+        "120ded983188f3b6",
+        "578d3c94646b751d",
+        "fa0df759ab438eff",
+        "837135217f9a7d8d"
+      ],
+      "date": 1603709097041
+    },
+    {
+      "type": "edit",
+      "id": "120ded983188f3b6",
+      "item": {
+        "type": "graphviz",
+        "id": "120ded983188f3b6",
+        "text": "DOT FROM wiki-map\n"
+      },
+      "date": 1603710018607
+    }
+  ]
+}

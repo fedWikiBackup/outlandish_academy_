@@ -1,0 +1,537 @@
+{
+  "title": "Pods",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "b780f790958931e0",
+      "text": "Here we discuss the creation of a new form of writing and research community that [[Mike Caulfield]] called a __Pod__. Other names for such groups are [[research group]], [[learning pod]]s, [[cells]], or [[happening]].\n"
+    },
+    {
+      "type": "html",
+      "id": "20084356ff8e69ce",
+      "text": "<blockquote><b style='color: purple'>Note: </b>\n\n I've just come across this writing from 19 months ago, and it is fascinating how strikingly similar it is to how I personally have been thinking and writing for a number of years now. Personal note to self - contact Mike about doing this as a small easy collaboration - [[Pod Club]] maybe?"
+    },
+    {
+      "type": "paragraph",
+      "id": "e15c5d60f55a1dbb",
+      "text": "[[Wiki]] was founded to find a new language of work constructed from the experiences of skilled practitioners. But it was more than a \"community of practice\" because it left a written record to influence outside of that community."
+    },
+    {
+      "type": "paragraph",
+      "id": "e3464289e3b04cc1",
+      "text": "Federated wiki uses internet technology twenty years more recent to enable lasting intervention in our thoughts of work and life. But how are its communities, neighborhoods we call them, to be formed? To what ends should we will convene new communities of purpose?"
+    },
+    {
+      "type": "paragraph",
+      "id": "b7f2ae5ba3829ace",
+      "text": "We can assemble small neighborhoods artificially by managing a [[Roster]] of participants. This has specific application in institutional education where it becomes the class roster. The goal of the class would be to master the material in the syllabus. But it has other applications as well. "
+    },
+    {
+      "type": "markdown",
+      "id": "9f8bd07c139f0a4b",
+      "text": "## Active Reading Pods"
+    },
+    {
+      "type": "paragraph",
+      "id": "c7a1c1eb375c37e0",
+      "text": "For the coming [[Happening]], we imagine pods of active readers supplementing existing Wikipedia articles with additional materials, gloss, and insights with the help of a [[Pod Leader]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b7ae954c8f1080fb",
+      "text": "A pod will be successful when it organizes reasoned thought about important issues. Pod members have an obligation to research and reflect within the constraints of its charter. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b8faecab2009dabf",
+      "text": "Charters need not be forever. A strength of federated wiki is sites can be left but they are never abandoned. The record of one community's reflection becomes material for the next community to repurpose and remix."
+    },
+    {
+      "type": "markdown",
+      "id": "03cce5bc5076f4b7",
+      "text": "# See also\n"
+    },
+    {
+      "type": "markdown",
+      "id": "5b2070427f0e4ffe",
+      "text": "- [[Research Group]]\n- [[Learning Pods]]\n- [[Tribes]]\n- [[Crew]]\n- [[Cell]]"
+    },
+    {
+      "type": "markdown",
+      "id": "716dde69ae81bf9c",
+      "text": "- [[Pod Leader]]\n- [[Pod Charter]]\n- [[Goals Pod Charter]]\n- [[Goals for Federated Wiki]]\n- [[Livelihood Pods]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Pods",
+        "story": []
+      },
+      "date": 1433375257010
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "7b2df1598079a940",
+        "text": "# Pods"
+      },
+      "id": "7b2df1598079a940",
+      "date": 1433375264651
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b780f790958931e0",
+        "text": "Wiki was founded to find a new language of work constructed from the experiences of skilled practitioners. But it was more than a \"community of practice\" because it left a written record to influence outside of that community."
+      },
+      "after": "7b2df1598079a940",
+      "id": "b780f790958931e0",
+      "date": 1433375270064
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e3464289e3b04cc1",
+        "text": "Federated wiki uses internet technology twenty years more recent to enable lasting intervention in our thoughts of work and life. But how are its communities, neighborhoods we call them, to be formed? To what ends should we will convene new communities of purpose?"
+      },
+      "after": "b780f790958931e0",
+      "id": "e3464289e3b04cc1",
+      "date": 1433375273960
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b7f2ae5ba3829ace",
+        "text": "We can assemble small neighborhoods artificially by managing a Roster of participants. This has specific application in institutional education where it becomes the class roster. The goal of the class would be to master the material in the syllabus."
+      },
+      "after": "e3464289e3b04cc1",
+      "id": "b7f2ae5ba3829ace",
+      "date": 1433375278556
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b7ae954c8f1080fb",
+        "text": "A pod will be successful when it organizes reasoned thought about important issues. Pod members have an obligation to research and reflect within the constraints of its charter. Those charters should align with journalistic initiatives, stories that need to be told and should sway readers. The pods product is then Quinn's ideal. Readers that absorb and extend their world consciously, critically and publicly in their own and others best interest."
+      },
+      "after": "b7f2ae5ba3829ace",
+      "id": "b7ae954c8f1080fb",
+      "date": 1433375286843
+    },
+    {
+      "type": "remove",
+      "id": "7b2df1598079a940",
+      "date": 1433375324308
+    },
+    {
+      "type": "edit",
+      "id": "b7f2ae5ba3829ace",
+      "item": {
+        "type": "paragraph",
+        "id": "b7f2ae5ba3829ace",
+        "text": "We can assemble small neighborhoods artificially by managing a [[Roster]] of participants. This has specific application in institutional education where it becomes the class roster. The goal of the class would be to master the material in the syllabus."
+      },
+      "date": 1433375358594
+    },
+    {
+      "type": "edit",
+      "id": "b7f2ae5ba3829ace",
+      "item": {
+        "type": "paragraph",
+        "id": "b7f2ae5ba3829ace",
+        "text": "We can assemble small neighborhoods artificially by managing a [[Roster]] of participants. This has specific application in institutional education where it becomes the class roster. The goal of the class would be to master the material in the syllabus. But it has other applications as well. "
+      },
+      "date": 1433375381687
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f8bd07c139f0a4b"
+      },
+      "id": "9f8bd07c139f0a4b",
+      "type": "add",
+      "after": "b7ae954c8f1080fb",
+      "date": 1433375385457
+    },
+    {
+      "type": "edit",
+      "id": "9f8bd07c139f0a4b",
+      "item": {
+        "type": "markdown",
+        "id": "9f8bd07c139f0a4b",
+        "text": "## Pod success"
+      },
+      "date": 1433375397482
+    },
+    {
+      "type": "move",
+      "order": [
+        "b780f790958931e0",
+        "e3464289e3b04cc1",
+        "b7f2ae5ba3829ace",
+        "9f8bd07c139f0a4b",
+        "b7ae954c8f1080fb"
+      ],
+      "id": "9f8bd07c139f0a4b",
+      "date": 1433375399661
+    },
+    {
+      "type": "edit",
+      "id": "b7ae954c8f1080fb",
+      "item": {
+        "type": "paragraph",
+        "id": "b7ae954c8f1080fb",
+        "text": "A pod will be successful when it organizes reasoned thought about important issues. Pod members have an obligation to research and reflect within the constraints of its charter. "
+      },
+      "date": 1433375420239
+    },
+    {
+      "type": "edit",
+      "id": "9f8bd07c139f0a4b",
+      "item": {
+        "type": "markdown",
+        "id": "9f8bd07c139f0a4b",
+        "text": "## Active Reading Pods"
+      },
+      "date": 1433375487137
+    },
+    {
+      "type": "add",
+      "id": "c7a1c1eb375c37e0",
+      "item": {
+        "type": "paragraph",
+        "id": "c7a1c1eb375c37e0",
+        "text": "For the coming Happening, we imagine pods of active readers supplementing existing Wikipedia articles with additional materials, gloss, and insights with the help of a [[Pod Leader]]. "
+      },
+      "after": "b7ae954c8f1080fb",
+      "date": 1433375590663
+    },
+    {
+      "type": "add",
+      "id": "b8faecab2009dabf",
+      "item": {
+        "type": "paragraph",
+        "id": "b8faecab2009dabf",
+        "text": "Charters need not be forever. A strength of federated wiki is sites can be left but they are never abandoned. The record of one community's reflection becomes material for the next community."
+      },
+      "after": "b7ae954c8f1080fb",
+      "date": 1433375720080
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1433379490064
+    },
+    {
+      "type": "move",
+      "order": [
+        "b780f790958931e0",
+        "e3464289e3b04cc1",
+        "b7f2ae5ba3829ace",
+        "9f8bd07c139f0a4b",
+        "c7a1c1eb375c37e0",
+        "b7ae954c8f1080fb",
+        "b8faecab2009dabf"
+      ],
+      "id": "c7a1c1eb375c37e0",
+      "site": "journal.hapgood.net",
+      "date": 1433379490062
+    },
+    {
+      "type": "fork",
+      "date": 1433379531453
+    },
+    {
+      "type": "edit",
+      "id": "b8faecab2009dabf",
+      "item": {
+        "type": "paragraph",
+        "id": "b8faecab2009dabf",
+        "text": "Charters need not be forever. A strength of federated wiki is sites can be left but they are never abandoned. The record of one community's reflection becomes material for the next community to repurpose and remix."
+      },
+      "date": 1433379588717
+    },
+    {
+      "type": "fork",
+      "site": "journal.hapgood.net",
+      "date": 1495381027626
+    },
+    {
+      "type": "fork",
+      "site": "pods.wiki.org",
+      "date": 1547026793513
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "03cce5bc5076f4b7",
+        "text": "# See also\n"
+      },
+      "after": "b8faecab2009dabf",
+      "id": "03cce5bc5076f4b7",
+      "date": 1547026798135
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "716dde69ae81bf9c",
+        "text": "- [[Loomio]]\n- [[Livelihood Pods]]"
+      },
+      "after": "03cce5bc5076f4b7",
+      "id": "716dde69ae81bf9c",
+      "date": 1547026801681
+    },
+    {
+      "type": "edit",
+      "id": "716dde69ae81bf9c",
+      "item": {
+        "type": "markdown",
+        "id": "716dde69ae81bf9c",
+        "text": "- [[Pod Leader]]\n- [[Pod Charter]]\n- [[Goals Pod Charter]]\n- [[Goals for Federated Wiki]]\n- [[Livelihood Pods]]"
+      },
+      "date": 1547026825361
+    },
+    {
+      "type": "edit",
+      "id": "716dde69ae81bf9c",
+      "item": {
+        "type": "markdown",
+        "id": "716dde69ae81bf9c",
+        "text": "- [[Pod Leader]]\n- [[Pod Charter]]\n- [[Goals Pod Charter]]\n- [[Goals for Federated Wiki]]\n- [[Livelihood Pods]]"
+      },
+      "date": 1547026843322
+    },
+    {
+      "type": "edit",
+      "id": "716dde69ae81bf9c",
+      "item": {
+        "type": "markdown",
+        "id": "716dde69ae81bf9c",
+        "text": "- [[Pod Leader]]\n- [[Pod Charter]]\n- [[Goals Pod Charter]]\n- [[Goals for Federated Wiki]]\n- [[Livelihood Pods]]"
+      },
+      "date": 1547026864063
+    },
+    {
+      "type": "edit",
+      "id": "716dde69ae81bf9c",
+      "item": {
+        "type": "markdown",
+        "id": "716dde69ae81bf9c",
+        "text": "- [[Pod Leader]]\n- [[Pod Charter]]\n- [[Goals Pod Charter]]\n- [[Goals for Federated Wiki]]\n- [[Livelihood Pods]]"
+      },
+      "date": 1547026893439
+    },
+    {
+      "type": "edit",
+      "id": "716dde69ae81bf9c",
+      "item": {
+        "type": "markdown",
+        "id": "716dde69ae81bf9c",
+        "text": "- [[Pod Leader]]\n- [[Pod Charter]]\n- [[Goals Pod Charter]]\n- [[Goals for Federated Wiki]]\n- [[Livelihood Pods]]"
+      },
+      "date": 1547026904655
+    },
+    {
+      "type": "edit",
+      "id": "b780f790958931e0",
+      "item": {
+        "type": "paragraph",
+        "id": "b780f790958931e0",
+        "text": "[[Wiki]] was founded to find a new language of work constructed from the experiences of skilled practitioners. But it was more than a \"community of practice\" because it left a written record to influence outside of that community."
+      },
+      "date": 1547026976373
+    },
+    {
+      "type": "edit",
+      "id": "c7a1c1eb375c37e0",
+      "item": {
+        "type": "paragraph",
+        "id": "c7a1c1eb375c37e0",
+        "text": "For the coming [[Happening]], we imagine pods of active readers supplementing existing Wikipedia articles with additional materials, gloss, and insights with the help of a [[Pod Leader]]. "
+      },
+      "date": 1547026983147
+    },
+    {
+      "type": "fork",
+      "date": 1547027013251
+    },
+    {
+      "type": "edit",
+      "id": "b780f790958931e0",
+      "item": {
+        "type": "paragraph",
+        "id": "b780f790958931e0",
+        "text": "Here we discuss the creation of a new form of writing and research community that [[Mike Caulfield]] called a __Pod__."
+      },
+      "date": 1547027095667
+    },
+    {
+      "type": "edit",
+      "id": "b780f790958931e0",
+      "item": {
+        "type": "markdown",
+        "id": "b780f790958931e0",
+        "text": "Here we discuss the creation of a new form of writing and research community that [[Mike Caulfield]] called a __Pod__."
+      },
+      "date": 1547027098482
+    },
+    {
+      "type": "add",
+      "id": "e15c5d60f55a1dbb",
+      "item": {
+        "type": "paragraph",
+        "id": "e15c5d60f55a1dbb",
+        "text": "[[Wiki]] was founded to find a new language of work constructed from the experiences of skilled practitioners. But it was more than a \"community of practice\" because it left a written record to influence outside of that community."
+      },
+      "after": "b780f790958931e0",
+      "date": 1547027100041
+    },
+    {
+      "type": "edit",
+      "id": "b780f790958931e0",
+      "item": {
+        "type": "markdown",
+        "id": "b780f790958931e0",
+        "text": "Here we discuss the creation of a new form of writing and research community that [[Mike Caulfield]] called a __Pod__. \n"
+      },
+      "date": 1547027177906
+    },
+    {
+      "type": "add",
+      "id": "43f23fdd636a52d3",
+      "item": {
+        "type": "markdown",
+        "id": "43f23fdd636a52d3",
+        "text": "[[Note]]: I've just come across this writing from 19 months ago, and it is fascinating how strikingly similar it is to how I personally have been thinking and writing for a number of years now. Personal note to self - contact Mike about doing this as a small easy collaboration!"
+      },
+      "after": "b780f790958931e0",
+      "date": 1547027223648
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "20084356ff8e69ce",
+        "text": "<blockquote><b style='color: purple'>Note: </b>\n\nor you can copy this formatting here (as it looks prettier :)\n<p>"
+      },
+      "after": "b780f790958931e0",
+      "id": "20084356ff8e69ce",
+      "date": 1547027235367
+    },
+    {
+      "type": "remove",
+      "id": "43f23fdd636a52d3",
+      "date": 1547027241352
+    },
+    {
+      "type": "edit",
+      "id": "20084356ff8e69ce",
+      "item": {
+        "type": "html",
+        "id": "20084356ff8e69ce",
+        "text": "<blockquote><b style='color: purple'>Note: </b>\n\n I've just come across this writing from 19 months ago, and it is fascinating how strikingly similar it is to how I personally have been thinking and writing for a number of years now. Personal note to self - contact Mike about doing this as a small easy collaboration!"
+      },
+      "date": 1547027246330
+    },
+    {
+      "type": "edit",
+      "id": "b780f790958931e0",
+      "item": {
+        "type": "markdown",
+        "id": "b780f790958931e0",
+        "text": "Here we discuss the creation of a new form of writing and research community that [[Mike Caulfield]] called a __Pod__.\n"
+      },
+      "date": 1547027266691
+    },
+    {
+      "type": "edit",
+      "id": "20084356ff8e69ce",
+      "item": {
+        "type": "html",
+        "id": "20084356ff8e69ce",
+        "text": "<blockquote><b style='color: purple'>Note: </b>\n\n I've just come across this writing from 19 months ago, and it is fascinating how strikingly similar it is to how I personally have been thinking and writing for a number of years now. Personal note to self - contact Mike about doing this as a small easy collaboration - [[Podclub]]"
+      },
+      "date": 1547027300088
+    },
+    {
+      "type": "edit",
+      "id": "20084356ff8e69ce",
+      "item": {
+        "type": "html",
+        "id": "20084356ff8e69ce",
+        "text": "<blockquote><b style='color: purple'>Note: </b>\n\n I've just come across this writing from 19 months ago, and it is fascinating how strikingly similar it is to how I personally have been thinking and writing for a number of years now. Personal note to self - contact Mike about doing this as a small easy collaboration - [[Pod Club]] maybe?"
+      },
+      "date": 1547027361684
+    },
+    {
+      "type": "fork",
+      "site": "search.fedwiki.org",
+      "date": 1547027425915
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "5b2070427f0e4ffe",
+        "text": "- [[Pods]]\n- [[Learning Pods]]\n- [[Tribes]]\n- [[Crew]]\n- [[Cell]]"
+      },
+      "after": "03cce5bc5076f4b7",
+      "id": "5b2070427f0e4ffe",
+      "date": 1547029054246
+    },
+    {
+      "type": "edit",
+      "id": "5b2070427f0e4ffe",
+      "item": {
+        "type": "markdown",
+        "id": "5b2070427f0e4ffe",
+        "text": "- [[Research Group]]\n- [[Learning Pods]]\n- [[Tribes]]\n- [[Crew]]\n- [[Cell]]"
+      },
+      "date": 1547029062198
+    },
+    {
+      "type": "edit",
+      "id": "b780f790958931e0",
+      "item": {
+        "type": "markdown",
+        "id": "b780f790958931e0",
+        "text": "Here we discuss the creation of a new form of writing and research community that [[Mike Caulfield]] called a __Pod__. We have been \n"
+      },
+      "date": 1547029112166
+    },
+    {
+      "type": "edit",
+      "id": "b780f790958931e0",
+      "item": {
+        "type": "markdown",
+        "id": "b780f790958931e0",
+        "text": "Here we discuss the creation of a new form of writing and research community that [[Mike Caulfield]] called a __Pod__. Other names for such groups are [[research group]], [[learning pod]]s, [[cells]], or [[happenings]].\n"
+      },
+      "date": 1547029223262
+    },
+    {
+      "type": "edit",
+      "id": "b780f790958931e0",
+      "item": {
+        "type": "markdown",
+        "id": "b780f790958931e0",
+        "text": "Here we discuss the creation of a new form of writing and research community that [[Mike Caulfield]] called a __Pod__. Other names for such groups are [[research group]], [[learning pod]]s, [[cells]], or [[happening]].\n"
+      },
+      "date": 1547029248620
+    },
+    {
+      "type": "fork",
+      "site": "governance.platform.earth",
+      "date": 1570547811390
+    }
+  ]
+}

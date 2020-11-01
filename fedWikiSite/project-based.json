@@ -1,0 +1,28 @@
+{
+  "title": "Project-based",
+  "story": [
+    {
+      "type": "factory",
+      "id": "c993b902c16752c0"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Project-based",
+        "story": []
+      },
+      "date": 1603037957731
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c993b902c16752c0"
+      },
+      "id": "c993b902c16752c0",
+      "type": "add",
+      "date": 1603037958863
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "title": "Genius Hour",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6abac27839442314",
+      "text": "[[Genius Hour]] has roots in tech, with many attributing the open format concept to large tech companies where developers are encouraged to spend a portion of their time solving problems that interest them."
+    },
+    {
+      "type": "paragraph",
+      "id": "da58c2cdd3f3162f",
+      "text": "[http://geniushour.com/ Genius Hour] is a project in the classroom and sometimes in the workplace where students and employees are allowed to explore their own passions and wonders for a set amount of time, usually ranging from 1 hour per week to 20% of their total class time. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0300492afb5ca992",
+      "text": "Read more about Mr. Solarz’s ideas on teaching over at [http://learnlikeapirate.com/ learnlikeapirate.com]"
+    },
+    {
+      "type": "video",
+      "id": "19fc6708240ad04f",
+      "text": "YOUTUBE NMFQUtHsWhc\nWhat is Genius Hour? - Introduction to Genius Hour in the Classroom \n"
+    },
+    {
+      "type": "paragraph",
+      "id": "7c876bcbef4c6a8d",
+      "text": "[[Genius Hour]] and the essentials of personalized-education [http://www.edutopia.org/blog/genius-hour-essentials-personalized-education-nichole-carter edutopia.org]"
+    },
+    {
+      "type": "markdown",
+      "id": "a3dd4bcfee7804cb",
+      "text": "# Dayton"
+    },
+    {
+      "type": "paragraph",
+      "id": "abbd1eb22af249f0",
+      "text": "At Dayton, all of their Junior High School students have a period that is their Genius Hour. In these classes, they form small teams to work on projects, organized by two week sprint cycles. The hope is that they are laying the foundation of passionate learning that will lead them through their high school experience. "
+    },
+    {
+      "type": "paragraph",
+      "id": "0a5ce767659013cd",
+      "text": "This middle school Genius Hour experiment began in the Fall of 2018 with [[Genius Hour v1]]. It is now continuing in the spring term, relaunched as [[Genius Hour v2]]."
+    },
+    {
+      "type": "markdown",
+      "id": "6e401c645e9d37b8",
+      "text": "# See also"
+    },
+    {
+      "type": "markdown",
+      "id": "b241223116f9d5b7",
+      "text": "- [[The Dayton Experiment]]\n- [[Genius Hour v1]]\n- [[Genius Hour v2]]\n- [[Curiosity and the Genius Hour]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Genius Hour",
+        "story": []
+      },
+      "date": 1432744792742
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "6abac27839442314",
+        "text": "[[Genius Hour]] actually has roots in tech, with many attributing the open format concept to large tech companies where developers are encouraged to spend a portion of their time solving problems that interest them."
+      },
+      "id": "6abac27839442314",
+      "date": 1432744796383
+    },
+    {
+      "type": "edit",
+      "id": "6abac27839442314",
+      "item": {
+        "type": "paragraph",
+        "id": "6abac27839442314",
+        "text": "[[Genius Hour]] has roots in tech, with many attributing the open format concept to large tech companies where developers are encouraged to spend a portion of their time solving problems that interest them."
+      },
+      "date": 1432744810404
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "19fc6708240ad04f",
+        "text": "YOUTUBE NMFQUtHsWhc\n(double-click to edit caption)\n"
+      },
+      "after": "6abac27839442314",
+      "id": "19fc6708240ad04f",
+      "date": 1432744936582
+    },
+    {
+      "type": "edit",
+      "id": "19fc6708240ad04f",
+      "item": {
+        "type": "video",
+        "id": "19fc6708240ad04f",
+        "text": "YOUTUBE NMFQUtHsWhc\nWhat is Genius Hour? - Introduction to Genius Hour in the Classroom \n"
+      },
+      "date": 1432744956810
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "7c876bcbef4c6a8d",
+        "text": "[[Genius Hour]] and the essentials of personalized-education [http://www.edutopia.org/blog/genius-hour-essentials-personalized-education-nichole-carter edutopia.org]"
+      },
+      "after": "19fc6708240ad04f",
+      "id": "7c876bcbef4c6a8d",
+      "date": 1432745139668
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "0300492afb5ca992",
+        "text": "Read more about Mr. Solarz’s ideas on teaching over at [http://learnlikeapirate.com/ learnlikeapirate.com]"
+      },
+      "after": "6abac27839442314",
+      "id": "0300492afb5ca992",
+      "date": 1432745142671
+    },
+    {
+      "type": "fork",
+      "site": "wiki.outlandish.academy",
+      "date": 1549732697733
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "da58c2cdd3f3162f",
+        "text": "[http://geniushour.com/ Genius Hour] is a project in the classroom and sometimes in the workplace where students and employees are allowed to explore their own passions and wonders for a set amount of time, usually ranging from 1 hour per week to 20% of their total class time. "
+      },
+      "after": "0300492afb5ca992",
+      "id": "da58c2cdd3f3162f",
+      "date": 1549732732977
+    },
+    {
+      "type": "move",
+      "order": [
+        "6abac27839442314",
+        "da58c2cdd3f3162f",
+        "0300492afb5ca992",
+        "19fc6708240ad04f",
+        "7c876bcbef4c6a8d"
+      ],
+      "id": "0300492afb5ca992",
+      "date": 1549732735410
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a3dd4bcfee7804cb",
+        "text": "At Dayton, all of their Junior High School students have a period that is their Genius Hour. In these classes, they form small teams to work on projects, organized by two week sprint cycles. The hope is that they are laying the foundation of passionate learning that will lead them through their high school experience. "
+      },
+      "after": "19fc6708240ad04f",
+      "id": "a3dd4bcfee7804cb",
+      "date": 1549732740071
+    },
+    {
+      "type": "move",
+      "order": [
+        "6abac27839442314",
+        "da58c2cdd3f3162f",
+        "0300492afb5ca992",
+        "19fc6708240ad04f",
+        "7c876bcbef4c6a8d",
+        "a3dd4bcfee7804cb"
+      ],
+      "id": "7c876bcbef4c6a8d",
+      "date": 1549732743284
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "0a5ce767659013cd",
+        "text": "This middle school Genius Hour experiment began in the Fall of 2018 with [[Genius Hour v1]]. It is now continuing in the spring term, relaunched as [[Genius Hour v2]]."
+      },
+      "after": "a3dd4bcfee7804cb",
+      "id": "0a5ce767659013cd",
+      "date": 1549732745509
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "6e401c645e9d37b8",
+        "text": "[[The Dayton Experiment]]"
+      },
+      "after": "7c876bcbef4c6a8d",
+      "id": "6e401c645e9d37b8",
+      "date": 1549732750671
+    },
+    {
+      "type": "move",
+      "order": [
+        "6abac27839442314",
+        "da58c2cdd3f3162f",
+        "0300492afb5ca992",
+        "19fc6708240ad04f",
+        "7c876bcbef4c6a8d",
+        "a3dd4bcfee7804cb",
+        "0a5ce767659013cd",
+        "6e401c645e9d37b8"
+      ],
+      "id": "6e401c645e9d37b8",
+      "date": 1549732753879
+    },
+    {
+      "type": "edit",
+      "id": "a3dd4bcfee7804cb",
+      "item": {
+        "type": "paragraph",
+        "id": "a3dd4bcfee7804cb",
+        "text": "# Dayton"
+      },
+      "date": 1549732773389
+    },
+    {
+      "type": "edit",
+      "id": "a3dd4bcfee7804cb",
+      "item": {
+        "type": "markdown",
+        "id": "a3dd4bcfee7804cb",
+        "text": "# Dayton"
+      },
+      "date": 1549732775357
+    },
+    {
+      "type": "add",
+      "id": "abbd1eb22af249f0",
+      "item": {
+        "type": "paragraph",
+        "id": "abbd1eb22af249f0",
+        "text": "At Dayton, all of their Junior High School students have a period that is their Genius Hour. In these classes, they form small teams to work on projects, organized by two week sprint cycles. The hope is that they are laying the foundation of passionate learning that will lead them through their high school experience. "
+      },
+      "after": "a3dd4bcfee7804cb",
+      "date": 1549732778244
+    },
+    {
+      "type": "edit",
+      "id": "6e401c645e9d37b8",
+      "item": {
+        "type": "paragraph",
+        "id": "6e401c645e9d37b8",
+        "text": "# See also"
+      },
+      "date": 1549732783640
+    },
+    {
+      "type": "add",
+      "id": "b241223116f9d5b7",
+      "item": {
+        "type": "paragraph",
+        "id": "b241223116f9d5b7",
+        "text": "- [[The Dayton Experiment]]"
+      },
+      "after": "6e401c645e9d37b8",
+      "date": 1549732786953
+    },
+    {
+      "type": "edit",
+      "id": "6e401c645e9d37b8",
+      "item": {
+        "type": "markdown",
+        "id": "6e401c645e9d37b8",
+        "text": "# See also"
+      },
+      "date": 1549732788122
+    },
+    {
+      "type": "edit",
+      "id": "b241223116f9d5b7",
+      "item": {
+        "type": "markdown",
+        "id": "b241223116f9d5b7",
+        "text": "- [[The Dayton Experiment]]"
+      },
+      "date": 1549732789260
+    },
+    {
+      "type": "edit",
+      "id": "b241223116f9d5b7",
+      "item": {
+        "type": "markdown",
+        "id": "b241223116f9d5b7",
+        "text": "- [[The Dayton Experiment]]\n- [[Genius Hour v1]]\n- [[fdsa]]"
+      },
+      "date": 1549732837947
+    },
+    {
+      "type": "edit",
+      "id": "b241223116f9d5b7",
+      "item": {
+        "type": "markdown",
+        "id": "b241223116f9d5b7",
+        "text": "- [[The Dayton Experiment]]\n- [[Genius Hour v1]]\n- [[Genius Hour v2]]"
+      },
+      "date": 1549732845250
+    },
+    {
+      "type": "edit",
+      "id": "b241223116f9d5b7",
+      "item": {
+        "type": "markdown",
+        "id": "b241223116f9d5b7",
+        "text": "- [[The Dayton Experiment]]\n- [[Genius Hour v1]]\n- [[Genius Hour v2]]\n- [[Curiosity and the Genius Hour]]"
+      },
+      "date": 1549732888629
+    }
+  ]
+}

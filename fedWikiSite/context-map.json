@@ -1,0 +1,543 @@
+{
+  "title": "Context Map",
+  "story": [
+    {
+      "type": "image",
+      "id": "0651426177924412",
+      "url": "data:image/gif;base64,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",
+      "caption": "files/image012.gif",
+      "text": "files/image012.gif"
+    },
+    {
+      "type": "paragraph",
+      "id": "8286192577440092",
+      "text": "An individual [[bounded context]] leaves some problems in the absence of a global view. The context of other models may still be vague and in flux."
+    },
+    {
+      "type": "paragraph",
+      "id": "5852001423852296",
+      "text": "People on other teams won't be very aware of the context bounds and will unknowingly make changes that blur the edges or complicate the interconnections. When connections must be made between different contexts, they tend to bleed into each other."
+    },
+    {
+      "type": "markdown",
+      "id": "9524997826729954",
+      "text": "# Topics\n\nIdentify each model in play on the project and define its [[Bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each bounded context, and make the names part of the [[Ubiquitous language]]."
+    },
+    {
+      "type": "graphviz",
+      "id": "dfe9b6ac2d4c666c",
+      "text": "DOT FROM wiki-map",
+      "dot": "strict digraph {rankdir=LR\n\n\n\n\nnode [style=filled fillcolor=red penwidth=3 color=black]\n\"Context\nMap\"\nnode [style=filled fillcolor=yellow]\n\"Wiki\nMap\" -> \"Context\nMap\"\n\"Navigation\" -> \"Context\nMap\"\nnode [style=filled fillcolor=lightblue]\n\"Context\nMap\" -> \"bounded\ncontext\"\n\"Context\nMap\" -> \"bounded\ncontext\"\n\"Context\nMap\" -> \"ubiquitous\nlanguage\"\n\"bounded\ncontext\"\nnode [style=filled fillcolor=green]\n\"bounded\ncontext\"\nnode [style=filled fillcolor=green]\n\"ubiquitous\nlanguage\"\nnode [style=filled fillcolor=green]}",
+      "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\"\n \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\n<!-- Generated by graphviz version 2.44.0 (20200518.1210)\n -->\n<!-- Pages: 1 -->\n<svg width=\"379pt\" height=\"144pt\"\n viewBox=\"0.00 0.00 379.45 143.83\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g id=\"graph0\" class=\"graph\" transform=\"scale(1 1) rotate(0) translate(4 139.83)\">\n<polygon fill=\"white\" stroke=\"transparent\" points=\"-4,4 -4,-139.83 375.45,-139.83 375.45,4 -4,4\"/>\n<!-- Context\nMap -->\n<g id=\"node1\" class=\"node\">\n<title>Context\nMap</title>\n<ellipse fill=\"red\" stroke=\"black\" stroke-width=\"3\" cx=\"186.55\" cy=\"-67.42\" rx=\"42.82\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"186.55\" y=\"-71.62\" font-family=\"Times,serif\" font-size=\"14.00\">Context</text>\n<text text-anchor=\"middle\" x=\"186.55\" y=\"-54.82\" font-family=\"Times,serif\" font-size=\"14.00\">Map</text>\n</g>\n<!-- bounded\ncontext -->\n<g id=\"node4\" class=\"node\">\n<title>bounded\ncontext</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"318.33\" cy=\"-106.42\" rx=\"45.31\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-110.62\" font-family=\"Times,serif\" font-size=\"14.00\">bounded</text>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-93.82\" font-family=\"Times,serif\" font-size=\"14.00\">context</text>\n</g>\n<!-- Context\nMap&#45;&gt;bounded\ncontext -->\n<g id=\"edge3\" class=\"edge\">\n<title>Context\nMap&#45;&gt;bounded\ncontext</title>\n<path fill=\"none\" stroke=\"black\" d=\"M226.14,-79.01C239.01,-82.88 253.53,-87.24 267.15,-91.34\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"266.28,-94.73 276.86,-94.25 268.3,-88.02 266.28,-94.73\"/>\n</g>\n<!-- ubiquitous\nlanguage -->\n<g id=\"node5\" class=\"node\">\n<title>ubiquitous\nlanguage</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"318.33\" cy=\"-29.42\" rx=\"53.23\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-33.62\" font-family=\"Times,serif\" font-size=\"14.00\">ubiquitous</text>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-16.82\" font-family=\"Times,serif\" font-size=\"14.00\">language</text>\n</g>\n<!-- Context\nMap&#45;&gt;ubiquitous\nlanguage -->\n<g id=\"edge4\" class=\"edge\">\n<title>Context\nMap&#45;&gt;ubiquitous\nlanguage</title>\n<path fill=\"none\" stroke=\"black\" d=\"M226.14,-56.12C237.11,-52.9 249.3,-49.34 261.09,-45.88\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"262.26,-49.19 270.87,-43.02 260.29,-42.47 262.26,-49.19\"/>\n</g>\n<!-- Wiki\nMap -->\n<g id=\"node2\" class=\"node\">\n<title>Wiki\nMap</title>\n<ellipse fill=\"yellow\" stroke=\"black\" stroke-width=\"3\" cx=\"53.95\" cy=\"-100.42\" rx=\"31.22\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"53.95\" y=\"-104.62\" font-family=\"Times,serif\" font-size=\"14.00\">Wiki</text>\n<text text-anchor=\"middle\" x=\"53.95\" y=\"-87.82\" font-family=\"Times,serif\" font-size=\"14.00\">Map</text>\n</g>\n<!-- Wiki\nMap&#45;&gt;Context\nMap -->\n<g id=\"edge1\" class=\"edge\">\n<title>Wiki\nMap&#45;&gt;Context\nMap</title>\n<path fill=\"none\" stroke=\"black\" d=\"M84.26,-93.01C99.47,-89.17 118.48,-84.36 135.9,-79.96\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"137.1,-83.27 145.94,-77.42 135.39,-76.48 137.1,-83.27\"/>\n</g>\n<!-- Navigation -->\n<g id=\"node3\" class=\"node\">\n<title>Navigation</title>\n<ellipse fill=\"yellow\" stroke=\"black\" stroke-width=\"3\" cx=\"53.95\" cy=\"-35.42\" rx=\"53.89\" ry=\"18\"/>\n<text text-anchor=\"middle\" x=\"53.95\" y=\"-31.22\" font-family=\"Times,serif\" font-size=\"14.00\">Navigation</text>\n</g>\n<!-- Navigation&#45;&gt;Context\nMap -->\n<g id=\"edge2\" class=\"edge\">\n<title>Navigation&#45;&gt;Context\nMap</title>\n<path fill=\"none\" stroke=\"black\" d=\"M98.07,-45.98C110.27,-48.97 123.63,-52.24 136.17,-55.32\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"135.46,-58.74 146,-57.73 137.12,-51.95 135.46,-58.74\"/>\n</g>\n</g>\n</svg>\n"
+    },
+    {
+      "type": "markdown",
+      "id": "9326252839227405",
+      "text": "# Action"
+    },
+    {
+      "type": "paragraph",
+      "id": "16463a005d5a93f2",
+      "text": "Describe the points of contact between the models, outlining explicit translation for any communication and highlighting any sharing."
+    },
+    {
+      "type": "markdown",
+      "id": "0832250888264150",
+      "text": "Map the existing terrain. Take up transformations later.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "fe7188f411185f69",
+      "text": "# Context\n\n- [[Wiki Map]]\n- [[Navigation]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b0e7a8ede9b389f9",
+      "text": "# See also\n"
+    },
+    {
+      "type": "markdown",
+      "id": "78aa8f08ac9b13aa",
+      "text": "- [[Conversation]]\n- [[Context Icons]]\n- [[Page Map]]\n- [[Argument map]]\n- [[Social Chromatography]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "edit",
+      "id": "0832250888264150",
+      "item": {
+        "type": "paragraph",
+        "id": "0832250888264150",
+        "text": "Map the existing terrain. Take up transformations later."
+      },
+      "date": 1495912755561
+    },
+    {
+      "type": "fork",
+      "site": "ddd.fed.wiki.org",
+      "date": 1549974250238
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "5888627075861059",
+        "text": "* * *"
+      },
+      "after": "8286192577440092",
+      "id": "5888627075861059",
+      "date": 1549974264840
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "0764307008696693",
+        "text": "Therefore:"
+      },
+      "after": "5852001423852296",
+      "id": "0764307008696693",
+      "date": 1549974269507
+    },
+    {
+      "type": "edit",
+      "id": "5852001423852296",
+      "item": {
+        "type": "paragraph",
+        "id": "5852001423852296",
+        "text": "People on other teams won't be very aware of the context bounds and will unknowingly make changes that blur the edges or complicate the interconnections. When connections must be made between different contexts, they tend to bleed into each other."
+      },
+      "date": 1549974274673
+    },
+    {
+      "type": "remove",
+      "id": "9524997826729954",
+      "date": 1549974286679
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9524997826729954",
+        "text": "Identify each model in play on the project and define its [[bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each [[bounded context]], and make the names part of the [[ubiquitous language]]."
+      },
+      "after": "0764307008696693",
+      "id": "9524997826729954",
+      "date": 1549974290318
+    },
+    {
+      "type": "edit",
+      "id": "0832250888264150",
+      "item": {
+        "type": "markdown",
+        "id": "0832250888264150",
+        "text": "Map the existing terrain. Take up transformations later.\n\n"
+      },
+      "date": 1549974307877
+    },
+    {
+      "type": "add",
+      "id": "b0e7a8ede9b389f9",
+      "item": {
+        "type": "markdown",
+        "id": "b0e7a8ede9b389f9",
+        "text": "# See also\n"
+      },
+      "after": "0832250888264150",
+      "date": 1549974309885
+    },
+    {
+      "type": "add",
+      "id": "78aa8f08ac9b13aa",
+      "item": {
+        "type": "markdown",
+        "id": "78aa8f08ac9b13aa",
+        "text": "- [[Conversation]]"
+      },
+      "after": "b0e7a8ede9b389f9",
+      "date": 1549974314123
+    },
+    {
+      "type": "fork",
+      "site": "thought.garden",
+      "date": 1549981707187
+    },
+    {
+      "type": "edit",
+      "id": "78aa8f08ac9b13aa",
+      "item": {
+        "type": "markdown",
+        "id": "78aa8f08ac9b13aa",
+        "text": "- [[Conversation]]\n- [[Context Icons]]"
+      },
+      "date": 1549981717295
+    },
+    {
+      "type": "edit",
+      "id": "78aa8f08ac9b13aa",
+      "item": {
+        "type": "markdown",
+        "id": "78aa8f08ac9b13aa",
+        "text": "- [[Conversation]]\n- [[Context Icons]]\n- [[Page Map]]"
+      },
+      "date": 1549981741662
+    },
+    {
+      "type": "edit",
+      "id": "78aa8f08ac9b13aa",
+      "item": {
+        "type": "markdown",
+        "id": "78aa8f08ac9b13aa",
+        "text": "- [[Conversation]]\n- [[Context Icons]]\n- [[Page Map]]\n- [[Argument map]]"
+      },
+      "date": 1549981772838
+    },
+    {
+      "type": "edit",
+      "id": "78aa8f08ac9b13aa",
+      "item": {
+        "type": "markdown",
+        "id": "78aa8f08ac9b13aa",
+        "text": "- [[Conversation]]\n- [[Context Icons]]\n- [[Page Map]]\n- [[Argument map]]\n- [[Social Chromatography]]"
+      },
+      "date": 1549981815359
+    },
+    {
+      "type": "remove",
+      "id": "5888627075861059",
+      "date": 1549981833238
+    },
+    {
+      "type": "fork",
+      "site": "conversation.thought.garden",
+      "date": 1569321443283
+    },
+    {
+      "type": "fork",
+      "site": "thought.garden",
+      "date": 1603036346911
+    },
+    {
+      "type": "edit",
+      "id": "0832250888264150",
+      "item": {
+        "type": "markdown",
+        "id": "0832250888264150",
+        "text": "Map the existing terrain. Take up transformations later.\n"
+      },
+      "date": 1603036373186
+    },
+    {
+      "type": "add",
+      "id": "fe7188f411185f69",
+      "item": {
+        "type": "markdown",
+        "id": "fe7188f411185f69",
+        "text": "# Context\n\n- [[Wiki Map]]\n- [[Navigation]]\n"
+      },
+      "after": "0832250888264150",
+      "date": 1603036411427
+    },
+    {
+      "type": "edit",
+      "id": "0764307008696693",
+      "item": {
+        "type": "paragraph",
+        "id": "0764307008696693",
+        "text": "# Topics"
+      },
+      "date": 1603036458107
+    },
+    {
+      "type": "edit",
+      "id": "0764307008696693",
+      "item": {
+        "type": "markdown",
+        "id": "0764307008696693",
+        "text": "# Topics"
+      },
+      "date": 1603036461853
+    },
+    {
+      "type": "remove",
+      "id": "9524997826729954",
+      "date": 1603036465322
+    },
+    {
+      "type": "edit",
+      "id": "0764307008696693",
+      "item": {
+        "type": "markdown",
+        "id": "0764307008696693",
+        "text": "# Topics\nIdentify each model in play on the project and define its [[bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each [[bounded context]], and make the names part of the [[ubiquitous language]]."
+      },
+      "date": 1603036470229
+    },
+    {
+      "type": "edit",
+      "id": "0764307008696693",
+      "item": {
+        "type": "paragraph",
+        "id": "0764307008696693",
+        "text": "# Actions"
+      },
+      "date": 1603036488490
+    },
+    {
+      "type": "edit",
+      "id": "0764307008696693",
+      "item": {
+        "type": "markdown",
+        "id": "0764307008696693",
+        "text": "# Actions"
+      },
+      "date": 1603036489444
+    },
+    {
+      "id": "dfe9b6ac2d4c666c",
+      "type": "add",
+      "item": {
+        "type": "graphviz",
+        "id": "dfe9b6ac2d4c666c",
+        "text": "DOT FROM wiki-map",
+        "dot": "strict digraph {rankdir=LR\n\n\n\n\nnode [style=filled fillcolor=red penwidth=3 color=black]\n\"Academy\nMethodology\"\nnode [style=filled fillcolor=yellow]\n\"An\nOutlandish\nSolution\" -> \"Academy\nMethodology\"\nnode [style=filled fillcolor=lightblue]\n\"Academy\nMethodology\" -> \"Agile\nTeaching\"\n\"Academy\nMethodology\" -> \"Learning\nPods\"\n\"Academy\nMethodology\" -> \"Learning\nRoles\"\n\"Academy\nMethodology\" -> \"Learning\nPassport\"\n\"Academy\nMethodology\" -> \"Learning\nTimeBank\"\n\"Academy\nMethodology\" -> \"Nomadic\nTeaching\"\n\"Agile\nTeaching\"\nnode [style=filled fillcolor=green]\n\"Learning\nRoles\"\nnode [style=filled fillcolor=green]\n\"Learning\nPassport\"\nnode [style=filled fillcolor=green]\n\"Learning\nTimeBank\"\nnode [style=filled fillcolor=green]\n\"Nomadic\nTeaching\"\nnode [style=filled fillcolor=green]}",
+        "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\"\n \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\n<!-- Generated by graphviz version 2.44.0 (20200518.1210)\n -->\n<!-- Pages: 1 -->\n<svg width=\"425pt\" height=\"452pt\"\n viewBox=\"0.00 0.00 425.04 451.83\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g id=\"graph0\" class=\"graph\" transform=\"scale(1 1) rotate(0) translate(4 447.83)\">\n<polygon fill=\"white\" stroke=\"transparent\" points=\"-4,4 -4,-447.83 421.04,-447.83 421.04,4 -4,4\"/>\n<!-- Academy\nMethodology -->\n<g id=\"node1\" class=\"node\">\n<title>Academy\nMethodology</title>\n<ellipse fill=\"red\" stroke=\"black\" stroke-width=\"3\" cx=\"210.17\" cy=\"-221.42\" rx=\"64.82\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"210.17\" y=\"-225.62\" font-family=\"Times,serif\" font-size=\"14.00\">Academy</text>\n<text text-anchor=\"middle\" x=\"210.17\" y=\"-208.82\" font-family=\"Times,serif\" font-size=\"14.00\">Methodology</text>\n</g>\n<!-- Agile\nTeaching -->\n<g id=\"node3\" class=\"node\">\n<title>Agile\nTeaching</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-414.42\" rx=\"48.29\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-418.62\" font-family=\"Times,serif\" font-size=\"14.00\">Agile</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-401.82\" font-family=\"Times,serif\" font-size=\"14.00\">Teaching</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Agile\nTeaching -->\n<g id=\"edge2\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Agile\nTeaching</title>\n<path fill=\"none\" stroke=\"black\" d=\"M225.77,-250.22C243.18,-282.86 274.53,-336.55 310.83,-375.42 314.4,-379.24 318.39,-382.96 322.52,-386.48\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"320.6,-389.43 330.57,-392.99 325,-383.98 320.6,-389.43\"/>\n</g>\n<!-- Learning\nPods -->\n<g id=\"node4\" class=\"node\">\n<title>Learning\nPods</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-337.42\" rx=\"47.09\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-341.62\" font-family=\"Times,serif\" font-size=\"14.00\">Learning</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-324.82\" font-family=\"Times,serif\" font-size=\"14.00\">Pods</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Learning\nPods -->\n<g id=\"edge3\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Learning\nPods</title>\n<path fill=\"none\" stroke=\"black\" d=\"M243.84,-246.86C263.25,-261.92 288.38,-281.34 310.83,-298.42 315.27,-301.79 319.94,-305.32 324.58,-308.81\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"322.74,-311.81 332.84,-315.01 326.95,-306.21 322.74,-311.81\"/>\n</g>\n<!-- Learning\nRoles -->\n<g id=\"node5\" class=\"node\">\n<title>Learning\nRoles</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-260.42\" rx=\"47.09\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-264.62\" font-family=\"Times,serif\" font-size=\"14.00\">Learning</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-247.82\" font-family=\"Times,serif\" font-size=\"14.00\">Roles</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Learning\nRoles -->\n<g id=\"edge4\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Learning\nRoles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M266.82,-235.72C280.98,-239.35 296.15,-243.25 310.16,-246.85\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"309.57,-250.32 320.13,-249.42 311.31,-243.54 309.57,-250.32\"/>\n</g>\n<!-- Learning\nPassport -->\n<g id=\"node6\" class=\"node\">\n<title>Learning\nPassport</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-183.42\" rx=\"47.09\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-187.62\" font-family=\"Times,serif\" font-size=\"14.00\">Learning</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-170.82\" font-family=\"Times,serif\" font-size=\"14.00\">Passport</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Learning\nPassport -->\n<g id=\"edge5\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Learning\nPassport</title>\n<path fill=\"none\" stroke=\"black\" d=\"M267.25,-207.37C281.25,-203.87 296.21,-200.12 310.05,-196.66\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"311.04,-200.02 319.89,-194.19 309.34,-193.23 311.04,-200.02\"/>\n</g>\n<!-- Learning\nTimeBank -->\n<g id=\"node7\" class=\"node\">\n<title>Learning\nTimeBank</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-106.42\" rx=\"53.21\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-110.62\" font-family=\"Times,serif\" font-size=\"14.00\">Learning</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-93.82\" font-family=\"Times,serif\" font-size=\"14.00\">TimeBank</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Learning\nTimeBank -->\n<g id=\"edge6\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Learning\nTimeBank</title>\n<path fill=\"none\" stroke=\"black\" d=\"M244.33,-196.01C263.69,-181.2 288.61,-162.2 310.83,-145.42 314.89,-142.34 319.14,-139.14 323.39,-135.96\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"325.59,-138.68 331.49,-129.88 321.39,-133.08 325.59,-138.68\"/>\n</g>\n<!-- Nomadic\nTeaching -->\n<g id=\"node8\" class=\"node\">\n<title>Nomadic\nTeaching</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-29.42\" rx=\"48.29\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-33.62\" font-family=\"Times,serif\" font-size=\"14.00\">Nomadic</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-16.82\" font-family=\"Times,serif\" font-size=\"14.00\">Teaching</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Nomadic\nTeaching -->\n<g id=\"edge7\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Nomadic\nTeaching</title>\n<path fill=\"none\" stroke=\"black\" d=\"M225.81,-192.81C243.25,-160.39 274.64,-107.05 310.83,-68.42 314.41,-64.6 318.4,-60.88 322.53,-57.36\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"325.01,-59.86 330.59,-50.85 320.61,-54.41 325.01,-59.86\"/>\n</g>\n<!-- An\nOutlandish\nSolution -->\n<g id=\"node2\" class=\"node\">\n<title>An\nOutlandish\nSolution</title>\n<ellipse fill=\"yellow\" stroke=\"black\" stroke-width=\"3\" cx=\"54.76\" cy=\"-221.42\" rx=\"54.51\" ry=\"41.09\"/>\n<text text-anchor=\"middle\" x=\"54.76\" y=\"-234.02\" font-family=\"Times,serif\" font-size=\"14.00\">An</text>\n<text text-anchor=\"middle\" x=\"54.76\" y=\"-217.22\" font-family=\"Times,serif\" font-size=\"14.00\">Outlandish</text>\n<text text-anchor=\"middle\" x=\"54.76\" y=\"-200.42\" font-family=\"Times,serif\" font-size=\"14.00\">Solution</text>\n</g>\n<!-- An\nOutlandish\nSolution&#45;&gt;Academy\nMethodology -->\n<g id=\"edge1\" class=\"edge\">\n<title>An\nOutlandish\nSolution&#45;&gt;Academy\nMethodology</title>\n<path fill=\"none\" stroke=\"black\" d=\"M109.84,-221.42C118.09,-221.42 126.72,-221.42 135.3,-221.42\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"135.33,-224.92 145.33,-221.42 135.33,-217.92 135.33,-224.92\"/>\n</g>\n</g>\n</svg>\n"
+      },
+      "after": "5852001423852296",
+      "date": 1603036523944
+    },
+    {
+      "type": "edit",
+      "id": "dfe9b6ac2d4c666c",
+      "item": {
+        "type": "graphviz",
+        "id": "dfe9b6ac2d4c666c",
+        "text": "DOT FROM wiki-map",
+        "dot": "strict digraph {rankdir=LR\n\n\n\n\nnode [style=filled fillcolor=red penwidth=3 color=black]\n\"Academy\nMethodology\"\nnode [style=filled fillcolor=yellow]\n\"An\nOutlandish\nSolution\" -> \"Academy\nMethodology\"\nnode [style=filled fillcolor=lightblue]\n\"Academy\nMethodology\" -> \"Agile\nTeaching\"\n\"Academy\nMethodology\" -> \"Learning\nPods\"\n\"Academy\nMethodology\" -> \"Learning\nRoles\"\n\"Academy\nMethodology\" -> \"Learning\nPassport\"\n\"Academy\nMethodology\" -> \"Learning\nTimeBank\"\n\"Academy\nMethodology\" -> \"Nomadic\nTeaching\"\n\"Agile\nTeaching\"\nnode [style=filled fillcolor=green]\n\"Learning\nRoles\"\nnode [style=filled fillcolor=green]\n\"Learning\nPassport\"\nnode [style=filled fillcolor=green]\n\"Learning\nTimeBank\"\nnode [style=filled fillcolor=green]\n\"Nomadic\nTeaching\"\nnode [style=filled fillcolor=green]}",
+        "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\"\n \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\n<!-- Generated by graphviz version 2.44.0 (20200518.1210)\n -->\n<!-- Pages: 1 -->\n<svg width=\"425pt\" height=\"452pt\"\n viewBox=\"0.00 0.00 425.04 451.83\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g id=\"graph0\" class=\"graph\" transform=\"scale(1 1) rotate(0) translate(4 447.83)\">\n<polygon fill=\"white\" stroke=\"transparent\" points=\"-4,4 -4,-447.83 421.04,-447.83 421.04,4 -4,4\"/>\n<!-- Academy\nMethodology -->\n<g id=\"node1\" class=\"node\">\n<title>Academy\nMethodology</title>\n<ellipse fill=\"red\" stroke=\"black\" stroke-width=\"3\" cx=\"210.17\" cy=\"-221.42\" rx=\"64.82\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"210.17\" y=\"-225.62\" font-family=\"Times,serif\" font-size=\"14.00\">Academy</text>\n<text text-anchor=\"middle\" x=\"210.17\" y=\"-208.82\" font-family=\"Times,serif\" font-size=\"14.00\">Methodology</text>\n</g>\n<!-- Agile\nTeaching -->\n<g id=\"node3\" class=\"node\">\n<title>Agile\nTeaching</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-414.42\" rx=\"48.29\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-418.62\" font-family=\"Times,serif\" font-size=\"14.00\">Agile</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-401.82\" font-family=\"Times,serif\" font-size=\"14.00\">Teaching</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Agile\nTeaching -->\n<g id=\"edge2\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Agile\nTeaching</title>\n<path fill=\"none\" stroke=\"black\" d=\"M225.77,-250.22C243.18,-282.86 274.53,-336.55 310.83,-375.42 314.4,-379.24 318.39,-382.96 322.52,-386.48\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"320.6,-389.43 330.57,-392.99 325,-383.98 320.6,-389.43\"/>\n</g>\n<!-- Learning\nPods -->\n<g id=\"node4\" class=\"node\">\n<title>Learning\nPods</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-337.42\" rx=\"47.09\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-341.62\" font-family=\"Times,serif\" font-size=\"14.00\">Learning</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-324.82\" font-family=\"Times,serif\" font-size=\"14.00\">Pods</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Learning\nPods -->\n<g id=\"edge3\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Learning\nPods</title>\n<path fill=\"none\" stroke=\"black\" d=\"M243.84,-246.86C263.25,-261.92 288.38,-281.34 310.83,-298.42 315.27,-301.79 319.94,-305.32 324.58,-308.81\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"322.74,-311.81 332.84,-315.01 326.95,-306.21 322.74,-311.81\"/>\n</g>\n<!-- Learning\nRoles -->\n<g id=\"node5\" class=\"node\">\n<title>Learning\nRoles</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-260.42\" rx=\"47.09\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-264.62\" font-family=\"Times,serif\" font-size=\"14.00\">Learning</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-247.82\" font-family=\"Times,serif\" font-size=\"14.00\">Roles</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Learning\nRoles -->\n<g id=\"edge4\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Learning\nRoles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M266.82,-235.72C280.98,-239.35 296.15,-243.25 310.16,-246.85\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"309.57,-250.32 320.13,-249.42 311.31,-243.54 309.57,-250.32\"/>\n</g>\n<!-- Learning\nPassport -->\n<g id=\"node6\" class=\"node\">\n<title>Learning\nPassport</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-183.42\" rx=\"47.09\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-187.62\" font-family=\"Times,serif\" font-size=\"14.00\">Learning</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-170.82\" font-family=\"Times,serif\" font-size=\"14.00\">Passport</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Learning\nPassport -->\n<g id=\"edge5\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Learning\nPassport</title>\n<path fill=\"none\" stroke=\"black\" d=\"M267.25,-207.37C281.25,-203.87 296.21,-200.12 310.05,-196.66\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"311.04,-200.02 319.89,-194.19 309.34,-193.23 311.04,-200.02\"/>\n</g>\n<!-- Learning\nTimeBank -->\n<g id=\"node7\" class=\"node\">\n<title>Learning\nTimeBank</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-106.42\" rx=\"53.21\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-110.62\" font-family=\"Times,serif\" font-size=\"14.00\">Learning</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-93.82\" font-family=\"Times,serif\" font-size=\"14.00\">TimeBank</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Learning\nTimeBank -->\n<g id=\"edge6\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Learning\nTimeBank</title>\n<path fill=\"none\" stroke=\"black\" d=\"M244.33,-196.01C263.69,-181.2 288.61,-162.2 310.83,-145.42 314.89,-142.34 319.14,-139.14 323.39,-135.96\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"325.59,-138.68 331.49,-129.88 321.39,-133.08 325.59,-138.68\"/>\n</g>\n<!-- Nomadic\nTeaching -->\n<g id=\"node8\" class=\"node\">\n<title>Nomadic\nTeaching</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"363.93\" cy=\"-29.42\" rx=\"48.29\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-33.62\" font-family=\"Times,serif\" font-size=\"14.00\">Nomadic</text>\n<text text-anchor=\"middle\" x=\"363.93\" y=\"-16.82\" font-family=\"Times,serif\" font-size=\"14.00\">Teaching</text>\n</g>\n<!-- Academy\nMethodology&#45;&gt;Nomadic\nTeaching -->\n<g id=\"edge7\" class=\"edge\">\n<title>Academy\nMethodology&#45;&gt;Nomadic\nTeaching</title>\n<path fill=\"none\" stroke=\"black\" d=\"M225.81,-192.81C243.25,-160.39 274.64,-107.05 310.83,-68.42 314.41,-64.6 318.4,-60.88 322.53,-57.36\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"325.01,-59.86 330.59,-50.85 320.61,-54.41 325.01,-59.86\"/>\n</g>\n<!-- An\nOutlandish\nSolution -->\n<g id=\"node2\" class=\"node\">\n<title>An\nOutlandish\nSolution</title>\n<ellipse fill=\"yellow\" stroke=\"black\" stroke-width=\"3\" cx=\"54.76\" cy=\"-221.42\" rx=\"54.51\" ry=\"41.09\"/>\n<text text-anchor=\"middle\" x=\"54.76\" y=\"-234.02\" font-family=\"Times,serif\" font-size=\"14.00\">An</text>\n<text text-anchor=\"middle\" x=\"54.76\" y=\"-217.22\" font-family=\"Times,serif\" font-size=\"14.00\">Outlandish</text>\n<text text-anchor=\"middle\" x=\"54.76\" y=\"-200.42\" font-family=\"Times,serif\" font-size=\"14.00\">Solution</text>\n</g>\n<!-- An\nOutlandish\nSolution&#45;&gt;Academy\nMethodology -->\n<g id=\"edge1\" class=\"edge\">\n<title>An\nOutlandish\nSolution&#45;&gt;Academy\nMethodology</title>\n<path fill=\"none\" stroke=\"black\" d=\"M109.84,-221.42C118.09,-221.42 126.72,-221.42 135.3,-221.42\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"135.33,-224.92 145.33,-221.42 135.33,-217.92 135.33,-224.92\"/>\n</g>\n</g>\n</svg>\n"
+      },
+      "date": 1603036529210
+    },
+    {
+      "type": "remove",
+      "id": "0764307008696693",
+      "date": 1603036662971
+    },
+    {
+      "type": "edit",
+      "id": "fe7188f411185f69",
+      "item": {
+        "type": "markdown",
+        "id": "fe7188f411185f69",
+        "text": "# Topics\n\n- [[Wiki Map]]\n- [[Navigation]]\n"
+      },
+      "date": 1603036738564
+    },
+    {
+      "id": "fe7188f411185f69",
+      "type": "move",
+      "order": [
+        "0651426177924412",
+        "8286192577440092",
+        "5852001423852296",
+        "fe7188f411185f69",
+        "dfe9b6ac2d4c666c",
+        "9326252839227405",
+        "0832250888264150",
+        "b0e7a8ede9b389f9",
+        "78aa8f08ac9b13aa"
+      ],
+      "date": 1603036748193
+    },
+    {
+      "type": "edit",
+      "id": "fe7188f411185f69",
+      "item": {
+        "type": "markdown",
+        "id": "fe7188f411185f69",
+        "text": "# Context\n\n- [[Wiki Map]]\n- [[Navigation]]\n"
+      },
+      "date": 1603036789816
+    },
+    {
+      "id": "fe7188f411185f69",
+      "type": "move",
+      "order": [
+        "0651426177924412",
+        "8286192577440092",
+        "5852001423852296",
+        "dfe9b6ac2d4c666c",
+        "9326252839227405",
+        "0832250888264150",
+        "fe7188f411185f69",
+        "b0e7a8ede9b389f9",
+        "78aa8f08ac9b13aa"
+      ],
+      "date": 1603036798265
+    },
+    {
+      "id": "9524997826729954",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9524997826729954",
+        "text": "Identify each model in play on the project and define its [[bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each [[bounded context]], and make the names part of the [[ubiquitous language]]."
+      },
+      "after": "dfe9b6ac2d4c666c",
+      "date": 1603036882829
+    },
+    {
+      "type": "edit",
+      "id": "9524997826729954",
+      "item": {
+        "type": "paragraph",
+        "id": "9524997826729954",
+        "text": "# Topics"
+      },
+      "date": 1603036893237
+    },
+    {
+      "type": "edit",
+      "id": "9524997826729954",
+      "item": {
+        "type": "paragraph",
+        "id": "9524997826729954",
+        "text": "# TopicsIdentify each model in play on the project and define its [[bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each [[bounded context]], and make the names part of the [[ubiquitous language]]."
+      },
+      "date": 1603036898182
+    },
+    {
+      "type": "edit",
+      "id": "9524997826729954",
+      "item": {
+        "type": "markdown",
+        "id": "9524997826729954",
+        "text": "# TopicsIdentify each model in play on the project and define its [[bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each [[bounded context]], and make the names part of the [[ubiquitous language]]."
+      },
+      "date": 1603036899352
+    },
+    {
+      "type": "edit",
+      "id": "9524997826729954",
+      "item": {
+        "type": "markdown",
+        "id": "9524997826729954",
+        "text": "# Topics\nIdentify each model in play on the project and define its [[bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each [[bounded context]], and make the names part of the [[ubiquitous language]]."
+      },
+      "date": 1603036903351
+    },
+    {
+      "type": "edit",
+      "id": "9326252839227405",
+      "item": {
+        "type": "paragraph",
+        "id": "9326252839227405",
+        "text": "# Action"
+      },
+      "date": 1603036912167
+    },
+    {
+      "type": "add",
+      "id": "16463a005d5a93f2",
+      "item": {
+        "type": "paragraph",
+        "id": "16463a005d5a93f2",
+        "text": "Describe the points of contact between the models, outlining explicit translation for any communication and highlighting any sharing."
+      },
+      "after": "9326252839227405",
+      "date": 1603036913635
+    },
+    {
+      "type": "edit",
+      "id": "9326252839227405",
+      "item": {
+        "type": "markdown",
+        "id": "9326252839227405",
+        "text": "# Action"
+      },
+      "date": 1603036914864
+    },
+    {
+      "type": "edit",
+      "id": "dfe9b6ac2d4c666c",
+      "item": {
+        "type": "graphviz",
+        "id": "dfe9b6ac2d4c666c",
+        "text": "DOT FROM wiki-map",
+        "dot": "strict digraph {rankdir=LR\n\n\n\n\nnode [style=filled fillcolor=red penwidth=3 color=black]\n\"Context\nMap\"\nnode [style=filled fillcolor=yellow]\n\"Wiki\nMap\" -> \"Context\nMap\"\n\"Navigation\" -> \"Context\nMap\"\nnode [style=filled fillcolor=lightblue]\n\"Context\nMap\" -> \"bounded\ncontext\"\n\"Context\nMap\" -> \"bounded\ncontext\"\n\"Context\nMap\" -> \"ubiquitous\nlanguage\"}",
+        "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\"\n \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\n<!-- Generated by graphviz version 2.44.0 (20200518.1210)\n -->\n<!-- Pages: 1 -->\n<svg width=\"379pt\" height=\"144pt\"\n viewBox=\"0.00 0.00 379.45 143.83\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g id=\"graph0\" class=\"graph\" transform=\"scale(1 1) rotate(0) translate(4 139.83)\">\n<polygon fill=\"white\" stroke=\"transparent\" points=\"-4,4 -4,-139.83 375.45,-139.83 375.45,4 -4,4\"/>\n<!-- Context\nMap -->\n<g id=\"node1\" class=\"node\">\n<title>Context\nMap</title>\n<ellipse fill=\"red\" stroke=\"black\" stroke-width=\"3\" cx=\"186.55\" cy=\"-67.42\" rx=\"42.82\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"186.55\" y=\"-71.62\" font-family=\"Times,serif\" font-size=\"14.00\">Context</text>\n<text text-anchor=\"middle\" x=\"186.55\" y=\"-54.82\" font-family=\"Times,serif\" font-size=\"14.00\">Map</text>\n</g>\n<!-- bounded\ncontext -->\n<g id=\"node4\" class=\"node\">\n<title>bounded\ncontext</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"318.33\" cy=\"-106.42\" rx=\"45.31\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-110.62\" font-family=\"Times,serif\" font-size=\"14.00\">bounded</text>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-93.82\" font-family=\"Times,serif\" font-size=\"14.00\">context</text>\n</g>\n<!-- Context\nMap&#45;&gt;bounded\ncontext -->\n<g id=\"edge3\" class=\"edge\">\n<title>Context\nMap&#45;&gt;bounded\ncontext</title>\n<path fill=\"none\" stroke=\"black\" d=\"M226.14,-79.01C239.01,-82.88 253.53,-87.24 267.15,-91.34\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"266.28,-94.73 276.86,-94.25 268.3,-88.02 266.28,-94.73\"/>\n</g>\n<!-- ubiquitous\nlanguage -->\n<g id=\"node5\" class=\"node\">\n<title>ubiquitous\nlanguage</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"318.33\" cy=\"-29.42\" rx=\"53.23\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-33.62\" font-family=\"Times,serif\" font-size=\"14.00\">ubiquitous</text>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-16.82\" font-family=\"Times,serif\" font-size=\"14.00\">language</text>\n</g>\n<!-- Context\nMap&#45;&gt;ubiquitous\nlanguage -->\n<g id=\"edge4\" class=\"edge\">\n<title>Context\nMap&#45;&gt;ubiquitous\nlanguage</title>\n<path fill=\"none\" stroke=\"black\" d=\"M226.14,-56.12C237.11,-52.9 249.3,-49.34 261.09,-45.88\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"262.26,-49.19 270.87,-43.02 260.29,-42.47 262.26,-49.19\"/>\n</g>\n<!-- Wiki\nMap -->\n<g id=\"node2\" class=\"node\">\n<title>Wiki\nMap</title>\n<ellipse fill=\"yellow\" stroke=\"black\" stroke-width=\"3\" cx=\"53.95\" cy=\"-100.42\" rx=\"31.22\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"53.95\" y=\"-104.62\" font-family=\"Times,serif\" font-size=\"14.00\">Wiki</text>\n<text text-anchor=\"middle\" x=\"53.95\" y=\"-87.82\" font-family=\"Times,serif\" font-size=\"14.00\">Map</text>\n</g>\n<!-- Wiki\nMap&#45;&gt;Context\nMap -->\n<g id=\"edge1\" class=\"edge\">\n<title>Wiki\nMap&#45;&gt;Context\nMap</title>\n<path fill=\"none\" stroke=\"black\" d=\"M84.26,-93.01C99.47,-89.17 118.48,-84.36 135.9,-79.96\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"137.1,-83.27 145.94,-77.42 135.39,-76.48 137.1,-83.27\"/>\n</g>\n<!-- Navigation -->\n<g id=\"node3\" class=\"node\">\n<title>Navigation</title>\n<ellipse fill=\"yellow\" stroke=\"black\" stroke-width=\"3\" cx=\"53.95\" cy=\"-35.42\" rx=\"53.89\" ry=\"18\"/>\n<text text-anchor=\"middle\" x=\"53.95\" y=\"-31.22\" font-family=\"Times,serif\" font-size=\"14.00\">Navigation</text>\n</g>\n<!-- Navigation&#45;&gt;Context\nMap -->\n<g id=\"edge2\" class=\"edge\">\n<title>Navigation&#45;&gt;Context\nMap</title>\n<path fill=\"none\" stroke=\"black\" d=\"M98.07,-45.98C110.27,-48.97 123.63,-52.24 136.17,-55.32\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"135.46,-58.74 146,-57.73 137.12,-51.95 135.46,-58.74\"/>\n</g>\n</g>\n</svg>\n"
+      },
+      "date": 1603036946624
+    },
+    {
+      "type": "edit",
+      "id": "9524997826729954",
+      "item": {
+        "type": "markdown",
+        "id": "9524997826729954",
+        "text": "# Topics\nIdentify each model in play on the project and define its [[Bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each [[bounded context]], and make the names part of the [[Ubiquitous language]]."
+      },
+      "date": 1603036958578
+    },
+    {
+      "type": "edit",
+      "id": "dfe9b6ac2d4c666c",
+      "item": {
+        "type": "graphviz",
+        "id": "dfe9b6ac2d4c666c",
+        "text": "DOT FROM wiki-map",
+        "dot": "strict digraph {rankdir=LR\n\n\n\n\nnode [style=filled fillcolor=red penwidth=3 color=black]\n\"Context\nMap\"\nnode [style=filled fillcolor=yellow]\n\"Wiki\nMap\" -> \"Context\nMap\"\n\"Navigation\" -> \"Context\nMap\"\nnode [style=filled fillcolor=lightblue]\n\"Context\nMap\" -> \"bounded\ncontext\"\n\"Context\nMap\" -> \"bounded\ncontext\"\n\"Context\nMap\" -> \"ubiquitous\nlanguage\"\n\"bounded\ncontext\"\nnode [style=filled fillcolor=green]\n\"bounded\ncontext\"\nnode [style=filled fillcolor=green]\n\"ubiquitous\nlanguage\"\nnode [style=filled fillcolor=green]}",
+        "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\"\n \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\n<!-- Generated by graphviz version 2.44.0 (20200518.1210)\n -->\n<!-- Pages: 1 -->\n<svg width=\"379pt\" height=\"144pt\"\n viewBox=\"0.00 0.00 379.45 143.83\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g id=\"graph0\" class=\"graph\" transform=\"scale(1 1) rotate(0) translate(4 139.83)\">\n<polygon fill=\"white\" stroke=\"transparent\" points=\"-4,4 -4,-139.83 375.45,-139.83 375.45,4 -4,4\"/>\n<!-- Context\nMap -->\n<g id=\"node1\" class=\"node\">\n<title>Context\nMap</title>\n<ellipse fill=\"red\" stroke=\"black\" stroke-width=\"3\" cx=\"186.55\" cy=\"-67.42\" rx=\"42.82\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"186.55\" y=\"-71.62\" font-family=\"Times,serif\" font-size=\"14.00\">Context</text>\n<text text-anchor=\"middle\" x=\"186.55\" y=\"-54.82\" font-family=\"Times,serif\" font-size=\"14.00\">Map</text>\n</g>\n<!-- bounded\ncontext -->\n<g id=\"node4\" class=\"node\">\n<title>bounded\ncontext</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"318.33\" cy=\"-106.42\" rx=\"45.31\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-110.62\" font-family=\"Times,serif\" font-size=\"14.00\">bounded</text>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-93.82\" font-family=\"Times,serif\" font-size=\"14.00\">context</text>\n</g>\n<!-- Context\nMap&#45;&gt;bounded\ncontext -->\n<g id=\"edge3\" class=\"edge\">\n<title>Context\nMap&#45;&gt;bounded\ncontext</title>\n<path fill=\"none\" stroke=\"black\" d=\"M226.14,-79.01C239.01,-82.88 253.53,-87.24 267.15,-91.34\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"266.28,-94.73 276.86,-94.25 268.3,-88.02 266.28,-94.73\"/>\n</g>\n<!-- ubiquitous\nlanguage -->\n<g id=\"node5\" class=\"node\">\n<title>ubiquitous\nlanguage</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"318.33\" cy=\"-29.42\" rx=\"53.23\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-33.62\" font-family=\"Times,serif\" font-size=\"14.00\">ubiquitous</text>\n<text text-anchor=\"middle\" x=\"318.33\" y=\"-16.82\" font-family=\"Times,serif\" font-size=\"14.00\">language</text>\n</g>\n<!-- Context\nMap&#45;&gt;ubiquitous\nlanguage -->\n<g id=\"edge4\" class=\"edge\">\n<title>Context\nMap&#45;&gt;ubiquitous\nlanguage</title>\n<path fill=\"none\" stroke=\"black\" d=\"M226.14,-56.12C237.11,-52.9 249.3,-49.34 261.09,-45.88\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"262.26,-49.19 270.87,-43.02 260.29,-42.47 262.26,-49.19\"/>\n</g>\n<!-- Wiki\nMap -->\n<g id=\"node2\" class=\"node\">\n<title>Wiki\nMap</title>\n<ellipse fill=\"yellow\" stroke=\"black\" stroke-width=\"3\" cx=\"53.95\" cy=\"-100.42\" rx=\"31.22\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"53.95\" y=\"-104.62\" font-family=\"Times,serif\" font-size=\"14.00\">Wiki</text>\n<text text-anchor=\"middle\" x=\"53.95\" y=\"-87.82\" font-family=\"Times,serif\" font-size=\"14.00\">Map</text>\n</g>\n<!-- Wiki\nMap&#45;&gt;Context\nMap -->\n<g id=\"edge1\" class=\"edge\">\n<title>Wiki\nMap&#45;&gt;Context\nMap</title>\n<path fill=\"none\" stroke=\"black\" d=\"M84.26,-93.01C99.47,-89.17 118.48,-84.36 135.9,-79.96\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"137.1,-83.27 145.94,-77.42 135.39,-76.48 137.1,-83.27\"/>\n</g>\n<!-- Navigation -->\n<g id=\"node3\" class=\"node\">\n<title>Navigation</title>\n<ellipse fill=\"yellow\" stroke=\"black\" stroke-width=\"3\" cx=\"53.95\" cy=\"-35.42\" rx=\"53.89\" ry=\"18\"/>\n<text text-anchor=\"middle\" x=\"53.95\" y=\"-31.22\" font-family=\"Times,serif\" font-size=\"14.00\">Navigation</text>\n</g>\n<!-- Navigation&#45;&gt;Context\nMap -->\n<g id=\"edge2\" class=\"edge\">\n<title>Navigation&#45;&gt;Context\nMap</title>\n<path fill=\"none\" stroke=\"black\" d=\"M98.07,-45.98C110.27,-48.97 123.63,-52.24 136.17,-55.32\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"135.46,-58.74 146,-57.73 137.12,-51.95 135.46,-58.74\"/>\n</g>\n</g>\n</svg>\n"
+      },
+      "date": 1603036963398
+    },
+    {
+      "type": "edit",
+      "id": "9524997826729954",
+      "item": {
+        "type": "markdown",
+        "id": "9524997826729954",
+        "text": "# Topics\nIdentify each model in play on the project and define its [[Bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each bounded context, and make the names part of the [[Ubiquitous language]]."
+      },
+      "date": 1603036977786
+    },
+    {
+      "type": "edit",
+      "id": "9524997826729954",
+      "item": {
+        "type": "markdown",
+        "id": "9524997826729954",
+        "text": "# Topics\nIdentify each model in play on the project and define its [[bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each bounded context, and make the names part of the [[Ubiquitous language]]."
+      },
+      "date": 1603036989009
+    },
+    {
+      "type": "edit",
+      "id": "9524997826729954",
+      "item": {
+        "type": "markdown",
+        "id": "9524997826729954",
+        "text": "# Topics\n\nIdentify each model in play on the project and define its [[Bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each bounded context, and make the names part of the [[Ubiquitous language]]."
+      },
+      "date": 1603037001084
+    },
+    {
+      "id": "9524997826729954",
+      "type": "move",
+      "order": [
+        "0651426177924412",
+        "8286192577440092",
+        "5852001423852296",
+        "9524997826729954",
+        "dfe9b6ac2d4c666c",
+        "9326252839227405",
+        "16463a005d5a93f2",
+        "0832250888264150",
+        "fe7188f411185f69",
+        "b0e7a8ede9b389f9",
+        "78aa8f08ac9b13aa"
+      ],
+      "date": 1603037007788
+    }
+  ]
+}

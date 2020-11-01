@@ -1,0 +1,44 @@
+{
+  "title": "Sprint planning",
+  "journal": [
+    {
+      "date": 1541453104273,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Sprint planning"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1541453017864
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "8002f8c0-0361-490e-96da-084a656b97ee",
+      "text": "At the beginning of a sprint, the scrum team holds a sprint planning event to - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "77ca055b-2c7a-40bc-9273-9c3e65224f6d",
+      "text": "-  Mutually discuss and agree on the scope of work that is intended to be done during that sprint\n-  Select product backlog items that can be completed in one sprint\n-  Prepare a sprint backlog that includes the work needed to complete the selected product backlog items\n-  The recommended duration is four hours for a two-week sprint (pro-rata for other sprint durations)\n- * During the first half, the whole scrum team (development team, scrum master, and product owner) selects the product backlog items they believe could be completed in that sprint\n- * During the second half, the development team identifies the detailed work (tasks) required to complete those product backlog items; resulting in a confirmed sprint backlog\n- ** As the detailed work is elaborated, some product backlog items may be split or put back into the product backlog if the team no longer believes they can complete the required work in a single sprint\n-  Once the development team has prepared their sprint backlog, they forecast (usually by voting) which tasks will be delivered within the sprint."
+    },
+    {
+      "type": "markdown",
+      "id": "11b09111-0ec4-4d8b-a198-a83188f24f4d",
+      "text": "# Tools\n\nSearch for [[free culture]] images for this page on [https://www.google.com/search?as_st=y&tbm=isch&as_q=Scrum+%28software+development%29+Sprint+planning&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&gws_rd=ssl google]"
+    },
+    {
+      "type": "transport",
+      "id": "9e187fd5-cc16-4913-a50b-82cfecdff3f3",
+      "text": "POST https://rest.livecode.world/imagine"
+    },
+    {
+      "type": "markdown",
+      "id": "93428a63-dc42-4002-92be-e29dee26f6fe",
+      "text": "# Sprint planning"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Implementer",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "8463bbc678d17599",
+      "text": "Needed to plan a workable strategy and carry it out as efficiently as possible.\n\n- **Strengths**: Practical, reliable, efficient. Turns ideas into actions and organises work that needs to be done.\n\n- **Allowable weaknesses**: Can be a bit inflexible and slow to respond to new possibilities.\n\n- **Don't be surprised to find that**: They might be slow to relinquish their plans in favour of positive changes."
+    },
+    {
+      "type": "markdown",
+      "id": "5a88bb2d58ffbcf7",
+      "text": "# See also\n\n- [[Belbin Team Roles]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Implementer",
+        "story": []
+      },
+      "date": 1570549465598
+    },
+    {
+      "id": "5a88bb2d58ffbcf7",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "5a88bb2d58ffbcf7",
+        "text": "# See also\n\n- [[Belbin Team Roles]]"
+      },
+      "date": 1570549469671
+    },
+    {
+      "id": "8463bbc678d17599",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "8463bbc678d17599",
+        "text": "Needed to plan a workable strategy and carry it out as efficiently as possible.\n\n- **Strengths**: Practical, reliable, efficient. Turns ideas into actions and organises work that needs to be done.\n\n- **Allowable weaknesses**: Can be a bit inflexible and slow to respond to new possibilities.\n\n- **Don't be surprised to find that**: They might be slow to relinquish their plans in favour of positive changes."
+      },
+      "date": 1570549474622
+    }
+  ]
+}

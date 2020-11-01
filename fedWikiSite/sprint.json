@@ -1,0 +1,54 @@
+{
+  "title": "Sprint",
+  "journal": [
+    {
+      "date": 1541453079392,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Sprint"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1541452991906
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "73304891-8403-4f3a-9aeb-3ef5d6b00e0f",
+      "text": "A sprint (or iteration) is the basic unit of development in Scrum. The sprint is a [[timeboxing]] effort; that is, it is restricted to a specific duration. The duration is fixed in advance for each sprint and is normally between one week and one month, with two weeks being the most common - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint wikipedia]"
+    },
+    {
+      "type": "html",
+      "id": "0ae5e4cb-f17e-43df-a2c4-d4f0e43cbd6d",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://commons.wikimedia.org/wiki/File:Scrum_Framework.png' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Scrum_Framework.png/420px-Scrum_Framework.png'>\n</a>\n\n<p class=caption>\nThe Scrum process\n- [https://commons.wikimedia.org/wiki/File:Scrum_Framework.png wikimedia.org]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "61cb0bad-c2aa-4d13-9e64-63c5ac203400",
+      "text": "Each sprint starts with a sprint planning event that aims to define a sprint backlog, identify the work for the sprint, and make an estimated forecast for the sprint goal. Each sprint ends with a sprint review and sprint retrospective, that reviews progress to show to stakeholders and identify lessons and improvements for the next sprints."
+    },
+    {
+      "type": "markdown",
+      "id": "b66db59e-ae34-48b2-84e6-866e0ed66f40",
+      "text": "Scrum emphasizes working product at the end of the sprint that is really done. In the case of software, this likely includes that the software has been fully integrated, tested and documented, and is potentially shippable."
+    },
+    {
+      "type": "markdown",
+      "id": "919387fd-64d9-4b2e-9037-f2a06e0a758b",
+      "text": "# Tools\n\nSearch for [[free culture]] images for this page on [https://www.google.com/search?as_st=y&tbm=isch&as_q=Scrum+%28software+development%29+Sprint&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&gws_rd=ssl google]"
+    },
+    {
+      "type": "transport",
+      "id": "7217f1a3-65b8-46fb-b136-d466f66140a5",
+      "text": "POST https://rest.livecode.world/imagine"
+    },
+    {
+      "type": "markdown",
+      "id": "7f83d974-aaa7-4344-bf7c-af2255e59828",
+      "text": "# Sprint"
+    }
+  ]
+}

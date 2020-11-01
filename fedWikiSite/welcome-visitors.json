@@ -1,0 +1,343 @@
+{
+  "journal": [
+    {
+      "date": 1420938191608,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Welcome Visitors"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1523435329300
+    },
+    {
+      "type": "remove",
+      "id": "dee5e3a7788400f1",
+      "date": 1523435375567
+    },
+    {
+      "type": "remove",
+      "id": "76f8fa8779890d10",
+      "date": 1523435377687
+    },
+    {
+      "type": "edit",
+      "id": "4e72574124e697f1",
+      "item": {
+        "id": "4e72574124e697f1",
+        "type": "roster",
+        "text": "Outlandish Researchers\n\nREFERENCES outlandish.academy/outlandish-researchers\nROSTER outlandish.academy/ninas-activity\nROSTER andreworford.com/andrews-activity",
+        "alias": "837135217f9a7d8d"
+      },
+      "date": 1523435512278
+    },
+    {
+      "type": "edit",
+      "id": "4e72574124e697f1",
+      "item": {
+        "id": "4e72574124e697f1",
+        "type": "roster",
+        "text": "Outlandish Researchers\n\nREFERENCES outlandish.academy/outlandish-researchers\nROSTER andreworford.com/andrews-activity\nROSTER outlandish.academy/ninas-activity\n",
+        "alias": "837135217f9a7d8d"
+      },
+      "date": 1523435532024
+    },
+    {
+      "type": "edit",
+      "id": "9a9d695c43ce7199",
+      "item": {
+        "text": "To view writing and learning from the current group of researchers, check:\n\n- [[Autonomous School Zürich]]\n- [[Outlandish Activity]]\n- [[Research Activity]]",
+        "id": "9a9d695c43ce7199",
+        "type": "markdown"
+      },
+      "date": 1523965633081
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4fbdcb0a97b7b6fb"
+      },
+      "id": "4fbdcb0a97b7b6fb",
+      "type": "add",
+      "after": "4e72574124e697f1",
+      "date": 1547770311518
+    },
+    {
+      "type": "edit",
+      "id": "4fbdcb0a97b7b6fb",
+      "item": {
+        "type": "roster",
+        "id": "4fbdcb0a97b7b6fb",
+        "text": "ROSTER rest.livecode.world/outlandish"
+      },
+      "date": 1547770337638
+    },
+    {
+      "type": "move",
+      "order": [
+        "26bf9f9b663585b3",
+        "b7042d14424aafe0",
+        "9a9d695c43ce7199",
+        "8e721f0df3ae5d1f",
+        "926804513c3b3a94",
+        "ea90a7040f620632",
+        "cb931681174bedc9",
+        "2a4e58e69ac96383",
+        "e9e9f102158e1382",
+        "90e0c10a218397c9",
+        "4fbdcb0a97b7b6fb",
+        "4e72574124e697f1"
+      ],
+      "id": "4fbdcb0a97b7b6fb",
+      "date": 1547770346609
+    },
+    {
+      "type": "edit",
+      "id": "90e0c10a218397c9",
+      "item": {
+        "text": "# Rosters",
+        "id": "90e0c10a218397c9",
+        "type": "markdown"
+      },
+      "date": 1547770353808
+    },
+    {
+      "type": "edit",
+      "id": "4fbdcb0a97b7b6fb",
+      "item": {
+        "type": "roster",
+        "id": "4fbdcb0a97b7b6fb",
+        "text": "Outlandish Sites\n\nROSTER rest.livecode.world/outlandish"
+      },
+      "date": 1547770365313
+    },
+    {
+      "type": "remove",
+      "id": "4fbdcb0a97b7b6fb",
+      "date": 1547770410224
+    },
+    {
+      "type": "edit",
+      "id": "8e721f0df3ae5d1f",
+      "item": {
+        "text": "# Drop in\n\n- To our chat - [https://vector.im/beta/#/room/#fedwiki:matrix.org vector.im]",
+        "id": "8e721f0df3ae5d1f",
+        "type": "markdown"
+      },
+      "date": 1547770457147
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "4fbdcb0a97b7b6fb",
+        "text": "Outlandish Sites\n\nROSTER rest.livecode.world/outlandish"
+      },
+      "after": "90e0c10a218397c9",
+      "id": "4fbdcb0a97b7b6fb",
+      "date": 1547770473219
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4094fcb9950e1590"
+      },
+      "id": "4094fcb9950e1590",
+      "type": "add",
+      "after": "4e72574124e697f1",
+      "date": 1547770474768
+    },
+    {
+      "type": "move",
+      "order": [
+        "26bf9f9b663585b3",
+        "b7042d14424aafe0",
+        "9a9d695c43ce7199",
+        "8e721f0df3ae5d1f",
+        "926804513c3b3a94",
+        "ea90a7040f620632",
+        "cb931681174bedc9",
+        "2a4e58e69ac96383",
+        "e9e9f102158e1382",
+        "90e0c10a218397c9",
+        "4fbdcb0a97b7b6fb",
+        "4094fcb9950e1590",
+        "4e72574124e697f1"
+      ],
+      "id": "4094fcb9950e1590",
+      "date": 1547770476486
+    },
+    {
+      "type": "edit",
+      "id": "4094fcb9950e1590",
+      "item": {
+        "type": "markdown",
+        "id": "4094fcb9950e1590",
+        "text": "The roste above is programatically created, while the one below ins hand crafted."
+      },
+      "date": 1547770511331
+    },
+    {
+      "type": "edit",
+      "id": "4e72574124e697f1",
+      "item": {
+        "id": "4e72574124e697f1",
+        "type": "roster",
+        "text": "Outlandish Researchers\n\nREFERENCES outlandish.academy/outlandish-researchers\n\nROSTER andreworford.com/andrews-activity\n\nROSTER outlandish.academy/ninas-activity\n",
+        "alias": "837135217f9a7d8d"
+      },
+      "date": 1547770527457
+    },
+    {
+      "type": "edit",
+      "id": "4e72574124e697f1",
+      "item": {
+        "id": "4e72574124e697f1",
+        "type": "roster",
+        "text": "Outlandish Researchers\n\nREFERENCES outlandish.academy/outlandish-researchers\n\nROSTER andreworford.com/andrews-activity\nROSTER outlandish.academy/ninas-activity\n",
+        "alias": "837135217f9a7d8d"
+      },
+      "date": 1547770534770
+    },
+    {
+      "type": "edit",
+      "id": "4e72574124e697f1",
+      "item": {
+        "id": "4e72574124e697f1",
+        "type": "roster",
+        "text": "Outlandish Researchers\n\nREFERENCES outlandish.academy/outlandish-researchers\n\nROSTER andreworford.com/andrews-activity\nROSTER outlandish.academy/ninas-activity",
+        "alias": "837135217f9a7d8d"
+      },
+      "date": 1547770545740
+    },
+    {
+      "type": "remove",
+      "id": "4e72574124e697f1",
+      "date": 1549732644020
+    },
+    {
+      "type": "edit",
+      "id": "9a9d695c43ce7199",
+      "item": {
+        "text": "To view writing and learning from the current group of researchers, check:\n\n- [[Autonomous School Zürich]]\n- [[Outlandish Activity]]\n- [[Wiki Map]]",
+        "id": "9a9d695c43ce7199",
+        "type": "markdown"
+      },
+      "date": 1568631075018
+    },
+    {
+      "type": "edit",
+      "id": "ea90a7040f620632",
+      "item": {
+        "text": "We have started a group that meets [[Every Wednesday]], where we have decided to research the following subjects or perhaps we should call them projects:\n\n- [[Outlandish Methodology]]\n- [[Writing with Strangers]]",
+        "id": "ea90a7040f620632",
+        "type": "markdown"
+      },
+      "date": 1570547034659
+    },
+    {
+      "id": "9a9d695c43ce7199",
+      "type": "remove",
+      "date": 1570547335703
+    },
+    {
+      "type": "edit",
+      "id": "2a4e58e69ac96383",
+      "item": {
+        "text": "# Activity\n  \n- [[Changes to this Site]]\n- [[Federation Activity]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im",
+        "id": "2a4e58e69ac96383",
+        "type": "markdown"
+      },
+      "date": 1570783435282
+    },
+    {
+      "type": "remove",
+      "id": "4fbdcb0a97b7b6fb",
+      "date": 1603025158403
+    },
+    {
+      "type": "remove",
+      "id": "90e0c10a218397c9",
+      "date": 1603025160751
+    },
+    {
+      "type": "remove",
+      "id": "4094fcb9950e1590",
+      "date": 1603025162613
+    },
+    {
+      "id": "9524997826729954",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "9524997826729954",
+        "text": "Identify each model in play on the project and define its [[bounded context]]. This includes the implicit models of non-object-oriented subsystems. Name each [[bounded context]], and make the names part of the [[ubiquitous language]]."
+      },
+      "after": "8e721f0df3ae5d1f",
+      "date": 1603036878935
+    },
+    {
+      "id": "9524997826729954",
+      "type": "remove",
+      "date": 1603036882828
+    },
+    {
+      "type": "edit",
+      "id": "2a4e58e69ac96383",
+      "item": {
+        "text": "# Activity\n  \n- [[Activity]]\n- [[Changes to this Site]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]",
+        "id": "2a4e58e69ac96383",
+        "type": "markdown"
+      },
+      "date": 1603497671627
+    }
+  ],
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "26bf9f9b663585b3",
+      "text": "The [[Outlandish Academy]] is a P2P framework for creating online and offline learning experiences."
+    },
+    {
+      "id": "b7042d14424aafe0",
+      "type": "reference",
+      "site": "orientation.outlandish.academy",
+      "slug": "start-here",
+      "title": "Start Here",
+      "text": "orientation.outlandish.academy\n"
+    },
+    {
+      "text": "# Drop in\n\n- To our chat - [https://vector.im/beta/#/room/#fedwiki:matrix.org vector.im]",
+      "id": "8e721f0df3ae5d1f",
+      "type": "markdown"
+    },
+    {
+      "text": "# Learning Objectives",
+      "id": "926804513c3b3a94",
+      "type": "markdown"
+    },
+    {
+      "text": "We have started a group that meets [[Every Wednesday]], where we have decided to research the following subjects or perhaps we should call them projects:\n\n- [[Outlandish Methodology]]\n- [[Writing with Strangers]]",
+      "id": "ea90a7040f620632",
+      "type": "markdown"
+    },
+    {
+      "text": "# Core Proposal\n\n- [[Academy Methodology]]\n- [[Learning Roles]]\n- [[Learning Passport]]\n- [[Agile Teaching]]\n- [[Nomadic Teaching]]\n- [[Sustainable Learning Model]]\n",
+      "id": "cb931681174bedc9",
+      "type": "markdown"
+    },
+    {
+      "text": "# Activity\n  \n- [[Activity]]\n- [[Changes to this Site]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]",
+      "id": "2a4e58e69ac96383",
+      "type": "markdown"
+    },
+    {
+      "text": "NEIGHBORHOOD no\nNARRATIVE\nSINCE 5 days",
+      "id": "e9e9f102158e1382",
+      "type": "activity"
+    }
+  ]
+}

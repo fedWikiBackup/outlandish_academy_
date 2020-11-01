@@ -1,0 +1,312 @@
+{
+  "title": "Syllabus",
+  "journal": [
+    {
+      "date": 1603701002636,
+      "item": {
+        "title": "Syllabus",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "edit",
+      "id": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+      "item": {
+        "id": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+        "type": "markdown",
+        "text": "A __syllabus__ or __specification__ is a document that communicates information about a specific course and defines expectations and responsibilities. It is generally narrower in scope than a [[curriculum]]. A syllabus may be set out by an [[examination board]] or prepared by the tutor who teaches or controls the course - [https://en.wikipedia.org/wiki/Syllabus wikipedia]"
+      },
+      "date": 1603701280113,
+      "error": {
+        "type": "error",
+        "msg": "Not Found",
+        "response": "Page not found"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1603701288445
+    },
+    {
+      "id": "6537ed02-0f15-48af-8120-f82447af050f",
+      "type": "add",
+      "item": {
+        "id": "6537ed02-0f15-48af-8120-f82447af050f",
+        "type": "markdown",
+        "text": "According to the [[Oxford English Dictionary]], the word ''syllabus'' derives from [[New Latin]] ''syllabus'' \"list\", in turn from a misreading of the Greek σίττυβος ''sittybos'' (the leather parchment label that gave the title and contents of a document), which first occurred in a 15th-century print of [[Cicero]]'s letters to Atticus. Earlier Latin dictionaries such as [[Lewis and Short]] contain the word ''syllabus'', relating it to the non-existent Greek word σύλλαβος, which appears to be a mistaken reading of ''syllaba'' \"syllable\"; the newer [[Oxford Latin Dictionary]] does not contain this word. The apparent change from ''sitty-'' to ''sylla-'' is explained as a [[hypercorrection]] by analogy to συλλαμβάνω (''syllambano'' \"bring together, gather\") - [https://en.wikipedia.org/wiki/Syllabus#Etymology wikipedia]"
+      },
+      "after": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+      "date": 1603701323659
+    },
+    {
+      "id": "c75a2615-2e66-43d0-813f-263fc55479a7",
+      "type": "add",
+      "item": {
+        "id": "c75a2615-2e66-43d0-813f-263fc55479a7",
+        "type": "markdown",
+        "text": "# Etymology"
+      },
+      "after": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+      "date": 1603701325750
+    },
+    {
+      "type": "remove",
+      "id": "44273af1-2931-49d5-8d3d-3340804bbece",
+      "date": 1603701331884
+    },
+    {
+      "type": "remove",
+      "id": "3f7d1bc3-100e-4ffe-9762-505a3e0389e9",
+      "date": 1603701334810
+    },
+    {
+      "type": "edit",
+      "id": "6537ed02-0f15-48af-8120-f82447af050f",
+      "item": {
+        "id": "6537ed02-0f15-48af-8120-f82447af050f",
+        "type": "markdown",
+        "text": "According to the [[Oxford English Dictionary]], the word ''syllabus'' derives from [[New Latin]] ''syllabus'' \"list\", in turn from a misreading of the Greek σίττυβος ''sittybos'' (the leather parchment label that gave the title and contents of a document), which first occurred in a 15th-century print of [[Cicero]]'s letters to Atticus. \n"
+      },
+      "date": 1603701353194
+    },
+    {
+      "type": "add",
+      "id": "e45cb472ad0f76a8",
+      "item": {
+        "type": "markdown",
+        "id": "e45cb472ad0f76a8",
+        "text": "Earlier Latin dictionaries such as [[Lewis and Short]] contain the word ''syllabus'', relating it to the non-existent Greek word σύλλαβος, which appears to be a mistaken reading of ''syllaba'' \"syllable\"; the newer [[Oxford Latin Dictionary]] does not contain this word. The apparent change from ''sitty-'' to ''sylla-'' is explained as a [[hypercorrection]] by analogy to συλλαμβάνω (''syllambano'' \"bring together, gather\") - [https://en.wikipedia.org/wiki/Syllabus#Etymology wikipedia]"
+      },
+      "after": "6537ed02-0f15-48af-8120-f82447af050f",
+      "date": 1603701355940
+    },
+    {
+      "type": "edit",
+      "id": "6537ed02-0f15-48af-8120-f82447af050f",
+      "item": {
+        "id": "6537ed02-0f15-48af-8120-f82447af050f",
+        "type": "markdown",
+        "text": "According to the [[Oxford English Dictionary]], the word ''syllabus'' derives from [[New Latin]] ''syllabus'' \"list\", in turn from a misreading of the Greek σίττυβος ''sittybos'' (the leather parchment label that gave the title and contents of a document), which first occurred in a 15th-century print of [[Cicero]]'s letters to Atticus.\n"
+      },
+      "date": 1603701417640
+    },
+    {
+      "type": "add",
+      "id": "da6f6e47a9c83c40",
+      "item": {
+        "type": "markdown",
+        "id": "da6f6e47a9c83c40",
+        "text": "This [[etymology]] is interesting because it demonstrates many of the ways in which words change over time, and how poetry, mistakes, fake news and the emperors new clothes combine to create the respected canon of an institution."
+      },
+      "after": "6537ed02-0f15-48af-8120-f82447af050f",
+      "date": 1603701583248
+    },
+    {
+      "type": "edit",
+      "id": "54ce64aa-c33c-4f83-bb01-740355896c0b",
+      "item": {
+        "id": "54ce64aa-c33c-4f83-bb01-740355896c0b",
+        "type": "markdown",
+        "text": "- [[Lesson plan]]\n- [[Curated Podcasts]]\n- [[Learning Pod]]"
+      },
+      "date": 1603702528360
+    },
+    {
+      "type": "edit",
+      "id": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+      "item": {
+        "id": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+        "type": "markdown",
+        "text": "A __syllabus__ or __specification__ is a document that communicates information about a specific course and defines expectations and responsibilities. \n"
+      },
+      "date": 1603956908885
+    },
+    {
+      "type": "add",
+      "id": "847ebd2f380dfd59",
+      "item": {
+        "type": "markdown",
+        "id": "847ebd2f380dfd59",
+        "text": "It is generally narrower in scope than a [[curriculum]]. A syllabus may be set out by an [[examination board]] or prepared by the tutor who teaches or controls the course - [https://en.wikipedia.org/wiki/Syllabus wikipedia]"
+      },
+      "after": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+      "date": 1603956910851
+    },
+    {
+      "type": "edit",
+      "id": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+      "item": {
+        "id": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+        "type": "markdown",
+        "text": "A __syllabus__ or __specification__ is a document that communicates information about a specific course and defines expectations and responsibilities.\n"
+      },
+      "date": 1603956923770
+    },
+    {
+      "type": "add",
+      "id": "e381c9825f2b97c6",
+      "item": {
+        "type": "markdown",
+        "id": "e381c9825f2b97c6",
+        "text": "That may be so, but for [[Pod Club]] a syllabus is a musical concept. We think of [[playlist]]s and podcast]]s, rather than a [[Traditional syllabus]]. We try to answer the question [[What ought a syllabus be?]], according to the principles of [[agile learning]]. It is useful however to compare"
+      },
+      "after": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+      "date": 1603957149166
+    },
+    {
+      "type": "edit",
+      "id": "e381c9825f2b97c6",
+      "item": {
+        "type": "markdown",
+        "id": "e381c9825f2b97c6",
+        "text": "That may be so, but for [[Pod Club]] a syllabus is a musical concept. We think of [[playlist]]s and [[podcast]]s, rather than a [[Traditional syllabus]]. We try to answer the question [[What ought a syllabus be?]], according to the principles of [[agile learning]]. It is useful however to compare"
+      },
+      "date": 1603957160232
+    },
+    {
+      "id": "847ebd2f380dfd59",
+      "type": "remove",
+      "date": 1603957341094
+    },
+    {
+      "id": "c75a2615-2e66-43d0-813f-263fc55479a7",
+      "type": "remove",
+      "date": 1603957413867
+    },
+    {
+      "id": "6537ed02-0f15-48af-8120-f82447af050f",
+      "type": "remove",
+      "date": 1603957417525
+    },
+    {
+      "id": "da6f6e47a9c83c40",
+      "type": "remove",
+      "date": 1603957419647
+    },
+    {
+      "id": "e45cb472ad0f76a8",
+      "type": "remove",
+      "date": 1603957422080
+    },
+    {
+      "type": "remove",
+      "id": "54ce64aa-c33c-4f83-bb01-740355896c0b",
+      "date": 1603957431405
+    },
+    {
+      "type": "edit",
+      "id": "9a044192-32bf-4c1f-856b-2103d512d7df",
+      "item": {
+        "id": "9a044192-32bf-4c1f-856b-2103d512d7df",
+        "type": "markdown",
+        "text": "# See also\n- [[Lesson plan]]\n- [[Curated Podcasts]]\n- [[Learning Pod]]"
+      },
+      "date": 1603957434031
+    },
+    {
+      "type": "edit",
+      "id": "e381c9825f2b97c6",
+      "item": {
+        "type": "markdown",
+        "id": "e381c9825f2b97c6",
+        "text": "That may be so, but for [[Pod Club]] a syllabus is a musical concept. We think of [[playlist]]s and [[podcast]]s, rather than the text based formats we encounter more generally with a [[traditional syllabus]]. \n"
+      },
+      "date": 1603957488787
+    },
+    {
+      "type": "add",
+      "id": "49ba349918dd23c2",
+      "item": {
+        "type": "markdown",
+        "id": "49ba349918dd23c2",
+        "text": "In podclub we try to answer the question [[What ought a syllabus be?]], according to the principles of [[agile learning]]. It is useful however to compare"
+      },
+      "after": "e381c9825f2b97c6",
+      "date": 1603957500073
+    },
+    {
+      "type": "edit",
+      "id": "49ba349918dd23c2",
+      "item": {
+        "type": "markdown",
+        "id": "49ba349918dd23c2",
+        "text": "In podclub we try to answer the question:\n> [[What ought a syllabus be]], according to the principles of [[agile learning]]?.\n"
+      },
+      "date": 1603957531113
+    },
+    {
+      "type": "add",
+      "id": "579b08ff3e31ce51",
+      "item": {
+        "type": "markdown",
+        "id": "579b08ff3e31ce51",
+        "text": "It is useful however to compare"
+      },
+      "after": "49ba349918dd23c2",
+      "date": 1603957535114
+    },
+    {
+      "type": "remove",
+      "id": "49ba349918dd23c2",
+      "date": 1603957538240
+    },
+    {
+      "type": "edit",
+      "id": "e381c9825f2b97c6",
+      "item": {
+        "type": "markdown",
+        "id": "e381c9825f2b97c6",
+        "text": "That may be so, but for [[Pod Club]] a syllabus is a musical concept. We think of [[playlist]]s and [[podcast]]s, rather than the text based formats we encounter more generally with a [[traditional syllabus]]. In podclub we try to answer the question:\n\n> [[What ought a syllabus be]], according to the principles of [[agile learning]]?.\n"
+      },
+      "date": 1603957543443
+    },
+    {
+      "type": "edit",
+      "id": "e381c9825f2b97c6",
+      "item": {
+        "type": "markdown",
+        "id": "e381c9825f2b97c6",
+        "text": "That may be so, but for [[Pod Club]] a syllabus is a musical concept. We think of [[playlist]]s and [[podcast]]s, rather than the text based formats we encounter more generally with a [[traditional syllabus]]. In podclub we try to answer the question:\n\n> [[What ought a syllabus be?]] - according to the principles of [[agile learning]]?.\n"
+      },
+      "date": 1603957569941
+    },
+    {
+      "type": "edit",
+      "id": "e381c9825f2b97c6",
+      "item": {
+        "type": "markdown",
+        "id": "e381c9825f2b97c6",
+        "text": "That may be so, but for [[Pod Club]] a syllabus is a musical concept. We think of [[playlist]]s and [[podcast]]s, rather than the text based formats we encounter more generally with a [[traditional syllabus]]. In podclub we try to answer the question:\n\n> [[What ought a syllabus be?]]\n"
+      },
+      "date": 1603957584951
+    },
+    {
+      "type": "remove",
+      "id": "579b08ff3e31ce51",
+      "date": 1603957590474
+    },
+    {
+      "type": "fork",
+      "site": "pod.club",
+      "date": 1603957733559
+    }
+  ],
+  "story": [
+    {
+      "id": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+      "type": "markdown",
+      "text": "A __syllabus__ or __specification__ is a document that communicates information about a specific course and defines expectations and responsibilities.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "e381c9825f2b97c6",
+      "text": "That may be so, but for [[Pod Club]] a syllabus is a musical concept. We think of [[playlist]]s and [[podcast]]s, rather than the text based formats we encounter more generally with a [[traditional syllabus]]. In podclub we try to answer the question:\n\n> [[What ought a syllabus be?]]\n"
+    },
+    {
+      "id": "9a044192-32bf-4c1f-856b-2103d512d7df",
+      "type": "markdown",
+      "text": "# See also\n- [[Lesson plan]]\n- [[Curated Podcasts]]\n- [[Learning Pod]]"
+    }
+  ]
+}

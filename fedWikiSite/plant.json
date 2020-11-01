@@ -1,0 +1,46 @@
+{
+  "title": "Plant",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "adbdc86474846fb6",
+      "text": "Tends to be highly creative and good at solving problems in unconventional ways.\n\n- **Strengths**: Creative, imaginative, free-thinking, generates ideas and solves difficult problems.\n\n- **Allowable weaknesses**: Might ignore incidentals, and may be too preoccupied to communicate effectively.\n\n- **Don't be surprised to find that**: They could be absent-minded or forgetful."
+    },
+    {
+      "type": "markdown",
+      "id": "5a88bb2d58ffbcf7",
+      "text": "# See also\n\n- [[Belbin Team Roles]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Plant",
+        "story": []
+      },
+      "date": 1570549286443
+    },
+    {
+      "id": "adbdc86474846fb6",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "adbdc86474846fb6",
+        "text": "Tends to be highly creative and good at solving problems in unconventional ways.\n\n- **Strengths**: Creative, imaginative, free-thinking, generates ideas and solves difficult problems.\n\n- **Allowable weaknesses**: Might ignore incidentals, and may be too preoccupied to communicate effectively.\n\n- **Don't be surprised to find that**: They could be absent-minded or forgetful."
+      },
+      "date": 1570549294161
+    },
+    {
+      "id": "5a88bb2d58ffbcf7",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "5a88bb2d58ffbcf7",
+        "text": "# See also\n\n- [[Belbin Team Roles]]"
+      },
+      "after": "adbdc86474846fb6",
+      "date": 1570549300855
+    }
+  ]
+}
