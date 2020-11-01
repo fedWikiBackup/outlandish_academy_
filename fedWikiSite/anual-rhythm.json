@@ -1,0 +1,170 @@
+{
+  "title": "Anual Rhythm",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "de46374ca5c7ca2a",
+      "text": "It is not perhaps obvious why an annual rhythm should be important for the [[academy methodology]]. But it is. Individual [[pod cycle]]s are nice and short. The level of commitment needed to attend a 6 week [[learning sprint]] (course) is relatively low, but partly as a consequence the result is not all that polished. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "0184d41a0da9778f",
+      "text": "An annual event gives those interested the chance to show off the work they (and others) produced, and this event provides important motivation for everyone in the community."
+    },
+    {
+      "type": "markdown",
+      "id": "4e1cbceaa2ca437a",
+      "text": "# Context\nAn annual conference or performance of the work produced over the year forms part of the [[Agile Learning Cycle]]."
+    },
+    {
+      "type": "graphviz",
+      "id": "6871bf4566a8b485",
+      "text": "DOT FROM wiki-map\n"
+    },
+    {
+      "type": "markdown",
+      "id": "5d46ed4562182e4c",
+      "text": "# Topics\n\n- [[Conferences and Meetups]]\n- [[Decentralised Events]]\n- [[Theatre Conversations]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Anual Rhythm",
+        "story": []
+      },
+      "date": 1603711774116
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "de46374ca5c7ca2a"
+      },
+      "id": "de46374ca5c7ca2a",
+      "type": "add",
+      "date": 1603711775567
+    },
+    {
+      "type": "edit",
+      "id": "de46374ca5c7ca2a",
+      "item": {
+        "type": "markdown",
+        "id": "de46374ca5c7ca2a",
+        "text": "It is not perhaps obvious why an annual rhythm should be important for the [[academy methodology]]. But it is. Individual [[pod cycle]]s are nice and short. The level of commitment needed to attend a 6 week [[learning sprint]] (course) is relatively low, but partly as a consequence the result is not all that polished. An annual event gives those interested the chance to show off the work they (and others) produced, and this event provides important motivation for everyone in the community."
+      },
+      "date": 1603712129716
+    },
+    {
+      "type": "edit",
+      "id": "de46374ca5c7ca2a",
+      "item": {
+        "type": "markdown",
+        "id": "de46374ca5c7ca2a",
+        "text": "It is not perhaps obvious why an annual rhythm should be important for the [[academy methodology]]. But it is. Individual [[pod cycle]]s are nice and short. The level of commitment needed to attend a 6 week [[learning sprint]] (course) is relatively low, but partly as a consequence the result is not all that polished. \n"
+      },
+      "date": 1603712137170
+    },
+    {
+      "type": "add",
+      "id": "0184d41a0da9778f",
+      "item": {
+        "type": "markdown",
+        "id": "0184d41a0da9778f",
+        "text": "An annual event gives those interested the chance to show off the work they (and others) produced, and this event provides important motivation for everyone in the community."
+      },
+      "after": "de46374ca5c7ca2a",
+      "date": 1603712138115
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4e1cbceaa2ca437a"
+      },
+      "id": "4e1cbceaa2ca437a",
+      "type": "add",
+      "after": "0184d41a0da9778f",
+      "date": 1603712163873
+    },
+    {
+      "type": "edit",
+      "id": "4e1cbceaa2ca437a",
+      "item": {
+        "type": "markdown",
+        "id": "4e1cbceaa2ca437a",
+        "text": "# Context\nAn annual conference or performance of the work produced over the year forms part of the [[Agile Learning Cycle]]."
+      },
+      "date": 1603712226707
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6871bf4566a8b485"
+      },
+      "id": "6871bf4566a8b485",
+      "type": "add",
+      "after": "4e1cbceaa2ca437a",
+      "date": 1603712240891
+    },
+    {
+      "type": "edit",
+      "id": "6871bf4566a8b485",
+      "item": {
+        "type": "graphviz",
+        "id": "6871bf4566a8b485",
+        "text": "DOT FROM wiki-map\n"
+      },
+      "date": 1603712256287
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5d46ed4562182e4c"
+      },
+      "id": "5d46ed4562182e4c",
+      "type": "add",
+      "after": "6871bf4566a8b485",
+      "date": 1603712435569
+    },
+    {
+      "type": "edit",
+      "id": "5d46ed4562182e4c",
+      "item": {
+        "type": "markdown",
+        "id": "5d46ed4562182e4c",
+        "text": "# Topics\n\n- [[Daily Rhythm]]\n- [[Weekly Rhythm]]\n- [[Anual Rhythm]]"
+      },
+      "date": 1603712466312
+    },
+    {
+      "type": "edit",
+      "id": "5d46ed4562182e4c",
+      "item": {
+        "type": "markdown",
+        "id": "5d46ed4562182e4c",
+        "text": "# Topics\n\n- [[Conferences and Meetups]]"
+      },
+      "date": 1603712552263
+    },
+    {
+      "type": "edit",
+      "id": "5d46ed4562182e4c",
+      "item": {
+        "type": "markdown",
+        "id": "5d46ed4562182e4c",
+        "text": "# Topics\n\n- [[Conferences and Meetups]]\n- [[Decentralised Events]]"
+      },
+      "date": 1603712642408
+    },
+    {
+      "type": "edit",
+      "id": "5d46ed4562182e4c",
+      "item": {
+        "type": "markdown",
+        "id": "5d46ed4562182e4c",
+        "text": "# Topics\n\n- [[Conferences and Meetups]]\n- [[Decentralised Events]]\n- [[Theatre Conversations]]"
+      },
+      "date": 1603712650640
+    }
+  ]
+}
