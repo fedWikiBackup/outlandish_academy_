@@ -1,0 +1,1785 @@
+{
+  "title": "Livelihood Pods",
+  "journal": [
+    {
+      "date": 1546974475990,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Livelihood Pods"
+      }
+    },
+    {
+      "type": "add",
+      "id": "869ff8d7-8fa6-497a-a860-65261453fef3",
+      "item": {
+        "type": "factory",
+        "id": "869ff8d7-8fa6-497a-a860-65261453fef3"
+      },
+      "date": 1546974475992
+    },
+    {
+      "type": "edit",
+      "id": "869ff8d7-8fa6-497a-a860-65261453fef3",
+      "item": {
+        "id": "869ff8d7-8fa6-497a-a860-65261453fef3",
+        "type": "markdown",
+        "text": "__= small solidarity-based groups to create livelihoods for generative economic activities, explored by [[Enspiral]] and other [[Neotribes]].__ - [http://wiki.p2pfoundation.net/Livelihood_Pods ]"
+      },
+      "date": 1546974475992
+    },
+    {
+      "type": "add",
+      "id": "f4a6a760-0263-44f3-9ff5-1192292d46c9",
+      "after": "869ff8d7-8fa6-497a-a860-65261453fef3",
+      "item": {
+        "type": "factory",
+        "id": "f4a6a760-0263-44f3-9ff5-1192292d46c9"
+      },
+      "date": 1546974476016
+    },
+    {
+      "type": "edit",
+      "id": "f4a6a760-0263-44f3-9ff5-1192292d46c9",
+      "item": {
+        "id": "f4a6a760-0263-44f3-9ff5-1192292d46c9",
+        "type": "markdown",
+        "text": " Description"
+      },
+      "date": 1546974476017
+    },
+    {
+      "type": "add",
+      "id": "2b767e41-3e4f-43a0-aa02-eba3789af49c",
+      "after": "f4a6a760-0263-44f3-9ff5-1192292d46c9",
+      "item": {
+        "type": "factory",
+        "id": "2b767e41-3e4f-43a0-aa02-eba3789af49c"
+      },
+      "date": 1546974476017
+    },
+    {
+      "type": "edit",
+      "id": "2b767e41-3e4f-43a0-aa02-eba3789af49c",
+      "item": {
+        "id": "2b767e41-3e4f-43a0-aa02-eba3789af49c",
+        "type": "markdown",
+        "text": "__1. Richard Bartlett:__"
+      },
+      "date": 1546974476017
+    },
+    {
+      "type": "add",
+      "id": "78f50336-6947-4e01-8f66-166010bf526c",
+      "after": "2b767e41-3e4f-43a0-aa02-eba3789af49c",
+      "item": {
+        "type": "factory",
+        "id": "78f50336-6947-4e01-8f66-166010bf526c"
+      },
+      "date": 1546974476018
+    },
+    {
+      "type": "edit",
+      "id": "78f50336-6947-4e01-8f66-166010bf526c",
+      "item": {
+        "id": "78f50336-6947-4e01-8f66-166010bf526c",
+        "type": "markdown",
+        "text": "\"As I'm using the term in my video (https://www.youtube.com/watch?v=lmCOKGGTcfA), Pod's are a small highly-committed group with one set of finances. Income defaults to the collective, with some tolerance for inequal distribution to individuals. This is as opposed to e.g. the Services model, where the books are illegible and the income defaults to the individual, with some tolerance for inequal distribution to the collective."
+      },
+      "date": 1546974476018
+    },
+    {
+      "type": "add",
+      "id": "1024c4c2-4084-4bbe-8ad0-7aa3da20f5a5",
+      "after": "78f50336-6947-4e01-8f66-166010bf526c",
+      "item": {
+        "type": "factory",
+        "id": "1024c4c2-4084-4bbe-8ad0-7aa3da20f5a5"
+      },
+      "date": 1546974476018
+    },
+    {
+      "type": "edit",
+      "id": "1024c4c2-4084-4bbe-8ad0-7aa3da20f5a5",
+      "item": {
+        "id": "1024c4c2-4084-4bbe-8ad0-7aa3da20f5a5",
+        "type": "markdown",
+        "text": "I think these are really important characteristics that bias the group towards democracy, solidarity, mutual aid, etc., they are training grounds for learning how to be commoner.\""
+      },
+      "date": 1546974476018
+    },
+    {
+      "type": "add",
+      "id": "457fa371-75a0-4446-a86e-a2daaf04fe92",
+      "after": "1024c4c2-4084-4bbe-8ad0-7aa3da20f5a5",
+      "item": {
+        "type": "factory",
+        "id": "457fa371-75a0-4446-a86e-a2daaf04fe92"
+      },
+      "date": 1546974476019
+    },
+    {
+      "type": "edit",
+      "id": "457fa371-75a0-4446-a86e-a2daaf04fe92",
+      "item": {
+        "id": "457fa371-75a0-4446-a86e-a2daaf04fe92",
+        "type": "markdown",
+        "text": "(https://www.loomio.org/d/UNf4zXwP/livelihood-pods-and-or-ventures-sharing-ideas-and-practice)"
+      },
+      "date": 1546974476019
+    },
+    {
+      "type": "add",
+      "id": "d197344b-ee59-47e4-8fa2-6b736664c86e",
+      "after": "457fa371-75a0-4446-a86e-a2daaf04fe92",
+      "item": {
+        "type": "factory",
+        "id": "d197344b-ee59-47e4-8fa2-6b736664c86e"
+      },
+      "date": 1546974476019
+    },
+    {
+      "type": "edit",
+      "id": "d197344b-ee59-47e4-8fa2-6b736664c86e",
+      "item": {
+        "id": "d197344b-ee59-47e4-8fa2-6b736664c86e",
+        "type": "markdown",
+        "text": "__2. Mikey of Enspiral:__"
+      },
+      "date": 1546974476019
+    },
+    {
+      "type": "add",
+      "id": "7b3fb957-dc37-42f6-8838-82008b0254f3",
+      "after": "d197344b-ee59-47e4-8fa2-6b736664c86e",
+      "item": {
+        "type": "factory",
+        "id": "7b3fb957-dc37-42f6-8838-82008b0254f3"
+      },
+      "date": 1546974476020
+    },
+    {
+      "type": "edit",
+      "id": "7b3fb957-dc37-42f6-8838-82008b0254f3",
+      "item": {
+        "id": "7b3fb957-dc37-42f6-8838-82008b0254f3",
+        "type": "markdown",
+        "text": "\"each pod is a separate business/coop/trust with 3-12 members (?) using common services\""
+      },
+      "date": 1546974476020
+    },
+    {
+      "type": "add",
+      "id": "8de5ebeb-5e33-4249-9d5b-34d0b297603a",
+      "after": "7b3fb957-dc37-42f6-8838-82008b0254f3",
+      "item": {
+        "type": "factory",
+        "id": "8de5ebeb-5e33-4249-9d5b-34d0b297603a"
+      },
+      "date": 1546974476020
+    },
+    {
+      "type": "edit",
+      "id": "8de5ebeb-5e33-4249-9d5b-34d0b297603a",
+      "item": {
+        "id": "8de5ebeb-5e33-4249-9d5b-34d0b297603a",
+        "type": "markdown",
+        "text": "(https://www.loomio.org/d/UNf4zXwP/livelihood-pods-and-or-ventures-sharing-ideas-and-practice)"
+      },
+      "date": 1546974476020
+    },
+    {
+      "type": "add",
+      "id": "7e5a9022-2cc2-4c77-974a-2ef62bf13c38",
+      "after": "8de5ebeb-5e33-4249-9d5b-34d0b297603a",
+      "item": {
+        "type": "factory",
+        "id": "7e5a9022-2cc2-4c77-974a-2ef62bf13c38"
+      },
+      "date": 1546974476021
+    },
+    {
+      "type": "edit",
+      "id": "7e5a9022-2cc2-4c77-974a-2ef62bf13c38",
+      "item": {
+        "id": "7e5a9022-2cc2-4c77-974a-2ef62bf13c38",
+        "type": "markdown",
+        "text": " Principles"
+      },
+      "date": 1546974476021
+    },
+    {
+      "type": "add",
+      "id": "cbf1e20c-6cc5-4f55-945c-3edf22c5eb7b",
+      "after": "7e5a9022-2cc2-4c77-974a-2ef62bf13c38",
+      "item": {
+        "type": "factory",
+        "id": "cbf1e20c-6cc5-4f55-945c-3edf22c5eb7b"
+      },
+      "date": 1546974476021
+    },
+    {
+      "type": "edit",
+      "id": "cbf1e20c-6cc5-4f55-945c-3edf22c5eb7b",
+      "item": {
+        "id": "cbf1e20c-6cc5-4f55-945c-3edf22c5eb7b",
+        "type": "markdown",
+        "text": "Joshua Vial:"
+      },
+      "date": 1546974476021
+    },
+    {
+      "type": "add",
+      "id": "4b0415c6-d5cc-4a84-b8b3-2ad5dc6d771c",
+      "after": "cbf1e20c-6cc5-4f55-945c-3edf22c5eb7b",
+      "item": {
+        "type": "factory",
+        "id": "4b0415c6-d5cc-4a84-b8b3-2ad5dc6d771c"
+      },
+      "date": 1546974476022
+    },
+    {
+      "type": "edit",
+      "id": "4b0415c6-d5cc-4a84-b8b3-2ad5dc6d771c",
+      "item": {
+        "id": "4b0415c6-d5cc-4a84-b8b3-2ad5dc6d771c",
+        "type": "markdown",
+        "text": "\"After a year of explorations this is what I consider to be the core principles of a Livelihood Pod."
+      },
+      "date": 1546974476022
+    },
+    {
+      "type": "add",
+      "id": "15433c70-e11d-41f6-99ef-a5778ed65dea",
+      "after": "4b0415c6-d5cc-4a84-b8b3-2ad5dc6d771c",
+      "item": {
+        "type": "factory",
+        "id": "15433c70-e11d-41f6-99ef-a5778ed65dea"
+      },
+      "date": 1546974476022
+    },
+    {
+      "type": "edit",
+      "id": "15433c70-e11d-41f6-99ef-a5778ed65dea",
+      "item": {
+        "id": "15433c70-e11d-41f6-99ef-a5778ed65dea",
+        "type": "markdown",
+        "text": "-   Cooperative ownership: Livelihood Pods are cooperatives and follow the 7 cooperative principles\n-   Limited size: A Livelihood Pod has an upper limit - we don't know what this should be but somewhere in the 6 - 12 people range.\n-   Scoped purpose: The purpose of a Livelihood Pod is to create livelihoods for its members. That's it.\n-   Diverse income: Livelihood Pods consciously diversify their income streams and avoid coupling their financial health to a single client, product, business or individual.\n-  Interdependent: They are deeply interdependent with other Livelihood Pods and are collectively responsible for the health of the wider ecosystem."
+      },
+      "date": 1546974476022
+    },
+    {
+      "type": "add",
+      "id": "69591b58-5eba-4a17-97f2-cd13c4bc1961",
+      "after": "15433c70-e11d-41f6-99ef-a5778ed65dea",
+      "item": {
+        "type": "factory",
+        "id": "69591b58-5eba-4a17-97f2-cd13c4bc1961"
+      },
+      "date": 1546974476023
+    },
+    {
+      "type": "edit",
+      "id": "69591b58-5eba-4a17-97f2-cd13c4bc1961",
+      "item": {
+        "id": "69591b58-5eba-4a17-97f2-cd13c4bc1961",
+        "type": "markdown",
+        "text": "The 7 cooperative principles are solid and have stood the test of time. Personally, I don't see the value of a cooperative legal form and am happy with a LLC that is designed to follow the cooperative principles."
+      },
+      "date": 1546974476023
+    },
+    {
+      "type": "add",
+      "id": "660a1e41-4341-4851-93b4-9e256444eca1",
+      "after": "69591b58-5eba-4a17-97f2-cd13c4bc1961",
+      "item": {
+        "type": "factory",
+        "id": "660a1e41-4341-4851-93b4-9e256444eca1"
+      },
+      "date": 1546974476023
+    },
+    {
+      "type": "edit",
+      "id": "660a1e41-4341-4851-93b4-9e256444eca1",
+      "item": {
+        "id": "660a1e41-4341-4851-93b4-9e256444eca1",
+        "type": "markdown",
+        "text": "The cooperative ownership model of one share per person with a consent decision making process for governance is one of the core things that has worked for us at Enspiral. I've witnessed over 50 people go through the experience of 'earning' their ownership share at Enspiral and it's one of my favourite organising forms."
+      },
+      "date": 1546974476024
+    },
+    {
+      "type": "add",
+      "id": "076b6e91-38c3-4358-bfea-d6c06fb5f81f",
+      "after": "660a1e41-4341-4851-93b4-9e256444eca1",
+      "item": {
+        "type": "factory",
+        "id": "076b6e91-38c3-4358-bfea-d6c06fb5f81f"
+      },
+      "date": 1546974476024
+    },
+    {
+      "type": "edit",
+      "id": "076b6e91-38c3-4358-bfea-d6c06fb5f81f",
+      "item": {
+        "id": "076b6e91-38c3-4358-bfea-d6c06fb5f81f",
+        "type": "markdown",
+        "text": "It also has challenges and managing the balance of power and responsibility is no easy feat, particularly as the number of people involved grows, but by capping the size of a pod you can dodge a significant amount of challenges."
+      },
+      "date": 1546974476024
+    },
+    {
+      "type": "add",
+      "id": "813c91f4-2961-41bd-adb4-d0b2870d962b",
+      "after": "076b6e91-38c3-4358-bfea-d6c06fb5f81f",
+      "item": {
+        "type": "factory",
+        "id": "813c91f4-2961-41bd-adb4-d0b2870d962b"
+      },
+      "date": 1546974476025
+    },
+    {
+      "type": "edit",
+      "id": "813c91f4-2961-41bd-adb4-d0b2870d962b",
+      "item": {
+        "id": "813c91f4-2961-41bd-adb4-d0b2870d962b",
+        "type": "markdown",
+        "text": "# Limited in size"
+      },
+      "date": 1546974476025
+    },
+    {
+      "type": "add",
+      "id": "e99c102f-f646-4121-8b41-32a918ddcd42",
+      "after": "813c91f4-2961-41bd-adb4-d0b2870d962b",
+      "item": {
+        "type": "factory",
+        "id": "e99c102f-f646-4121-8b41-32a918ddcd42"
+      },
+      "date": 1546974476025
+    },
+    {
+      "type": "edit",
+      "id": "e99c102f-f646-4121-8b41-32a918ddcd42",
+      "item": {
+        "id": "e99c102f-f646-4121-8b41-32a918ddcd42",
+        "type": "markdown",
+        "text": "We don't know what the optimal upper limit of a Livelihood Pod is. Opinion generally ranges from 6 - 12 people, but we all agree that there should be one. Instead of changing the organisational form as people join a company, Livelihood Pods are designed to splin of other Livelihood Pods. This means you don't need to keep restructuring your team as a business grows or shrinks."
+      },
+      "date": 1546974476025
+    },
+    {
+      "type": "add",
+      "id": "5eab18e0-f4b6-4b75-b60b-ad9bebaeb2fe",
+      "after": "e99c102f-f646-4121-8b41-32a918ddcd42",
+      "item": {
+        "type": "factory",
+        "id": "5eab18e0-f4b6-4b75-b60b-ad9bebaeb2fe"
+      },
+      "date": 1546974476026
+    },
+    {
+      "type": "edit",
+      "id": "5eab18e0-f4b6-4b75-b60b-ad9bebaeb2fe",
+      "item": {
+        "id": "5eab18e0-f4b6-4b75-b60b-ad9bebaeb2fe",
+        "type": "markdown",
+        "text": "Rich Bartlett mentioned something in one of our catalyst calls last year which stuck with me. \"Everyone who I check in with at Enspiral who is thriving is involved in a highly functional small team. The people who are struggling are often isolated.\" I've found this to be true as well. When people are embedded in highly functional small teams then they seem to do much better in other contexts."
+      },
+      "date": 1546974476026
+    },
+    {
+      "type": "add",
+      "id": "f8fd1fdd-3855-4f09-baa4-026afe9ec5e9",
+      "after": "5eab18e0-f4b6-4b75-b60b-ad9bebaeb2fe",
+      "item": {
+        "type": "factory",
+        "id": "f8fd1fdd-3855-4f09-baa4-026afe9ec5e9"
+      },
+      "date": 1546974476026
+    },
+    {
+      "type": "edit",
+      "id": "f8fd1fdd-3855-4f09-baa4-026afe9ec5e9",
+      "item": {
+        "id": "f8fd1fdd-3855-4f09-baa4-026afe9ec5e9",
+        "type": "markdown",
+        "text": "There is some interesting lines of research from sociologists that I've summarised in my head as \"Human's inate biases are highly functional in small groups and destructive in large ones\"."
+      },
+      "date": 1546974476026
+    },
+    {
+      "type": "add",
+      "id": "b0d73c20-1e81-4eec-b94b-8d1390558309",
+      "after": "f8fd1fdd-3855-4f09-baa4-026afe9ec5e9",
+      "item": {
+        "type": "factory",
+        "id": "b0d73c20-1e81-4eec-b94b-8d1390558309"
+      },
+      "date": 1546974476027
+    },
+    {
+      "type": "edit",
+      "id": "b0d73c20-1e81-4eec-b94b-8d1390558309",
+      "item": {
+        "id": "b0d73c20-1e81-4eec-b94b-8d1390558309",
+        "type": "markdown",
+        "text": "# Scoped purpose"
+      },
+      "date": 1546974476027
+    },
+    {
+      "type": "add",
+      "id": "5ab9ead9-cdb8-4c03-9761-3688be247715",
+      "after": "b0d73c20-1e81-4eec-b94b-8d1390558309",
+      "item": {
+        "type": "factory",
+        "id": "5ab9ead9-cdb8-4c03-9761-3688be247715"
+      },
+      "date": 1546974476027
+    },
+    {
+      "type": "edit",
+      "id": "5ab9ead9-cdb8-4c03-9761-3688be247715",
+      "item": {
+        "id": "5ab9ead9-cdb8-4c03-9761-3688be247715",
+        "type": "markdown",
+        "text": "I think the sole purpose of a Livelihood Pod is to create livelihoods for its members. In this way you can consider a Livelihood Pod a for profit cooperative and we use other commercial vehicles to focus our for purpose work."
+      },
+      "date": 1546974476027
+    },
+    {
+      "type": "add",
+      "id": "9e2b1f7f-b58e-4d9b-a3f3-73ec13607389",
+      "after": "5ab9ead9-cdb8-4c03-9761-3688be247715",
+      "item": {
+        "type": "factory",
+        "id": "9e2b1f7f-b58e-4d9b-a3f3-73ec13607389"
+      },
+      "date": 1546974476028
+    },
+    {
+      "type": "edit",
+      "id": "9e2b1f7f-b58e-4d9b-a3f3-73ec13607389",
+      "item": {
+        "id": "9e2b1f7f-b58e-4d9b-a3f3-73ec13607389",
+        "type": "markdown",
+        "text": "Naturally, there is still a place in the ecosystem for purpose driven companies, capped return investments and not for profit communities. But by formalising Livelihood Pods as uncapped for profit cooperatives we can have a more nuanced approach when building multi stakeholder systems."
+      },
+      "date": 1546974476028
+    },
+    {
+      "type": "add",
+      "id": "cc5ddbbe-79f1-4067-a778-5031d47b81d2",
+      "after": "9e2b1f7f-b58e-4d9b-a3f3-73ec13607389",
+      "item": {
+        "type": "factory",
+        "id": "cc5ddbbe-79f1-4067-a778-5031d47b81d2"
+      },
+      "date": 1546974476028
+    },
+    {
+      "type": "edit",
+      "id": "cc5ddbbe-79f1-4067-a778-5031d47b81d2",
+      "item": {
+        "id": "cc5ddbbe-79f1-4067-a778-5031d47b81d2",
+        "type": "markdown",
+        "text": "I've found that there is something qualitatively different about a team that is committed to the well being of individual team members above and beyond the success of any one product or line of business."
+      },
+      "date": 1546974476029
+    },
+    {
+      "type": "add",
+      "id": "b1457bb6-0cda-4df8-aa3f-f80d58a57c9f",
+      "after": "cc5ddbbe-79f1-4067-a778-5031d47b81d2",
+      "item": {
+        "type": "factory",
+        "id": "b1457bb6-0cda-4df8-aa3f-f80d58a57c9f"
+      },
+      "date": 1546974476029
+    },
+    {
+      "type": "edit",
+      "id": "b1457bb6-0cda-4df8-aa3f-f80d58a57c9f",
+      "item": {
+        "id": "b1457bb6-0cda-4df8-aa3f-f80d58a57c9f",
+        "type": "markdown",
+        "text": "__...__"
+      },
+      "date": 1546974476029
+    },
+    {
+      "type": "add",
+      "id": "928b1f79-0103-4467-a4d0-bd4e6d3425c5",
+      "after": "b1457bb6-0cda-4df8-aa3f-f80d58a57c9f",
+      "item": {
+        "type": "factory",
+        "id": "928b1f79-0103-4467-a4d0-bd4e6d3425c5"
+      },
+      "date": 1546974476030
+    },
+    {
+      "type": "edit",
+      "id": "928b1f79-0103-4467-a4d0-bd4e6d3425c5",
+      "item": {
+        "id": "928b1f79-0103-4467-a4d0-bd4e6d3425c5",
+        "type": "markdown",
+        "text": "# Diversity of income streams"
+      },
+      "date": 1546974476030
+    },
+    {
+      "type": "add",
+      "id": "88655fcc-92c9-4137-9f3e-6f70baaa611e",
+      "after": "928b1f79-0103-4467-a4d0-bd4e6d3425c5",
+      "item": {
+        "type": "factory",
+        "id": "88655fcc-92c9-4137-9f3e-6f70baaa611e"
+      },
+      "date": 1546974476030
+    },
+    {
+      "type": "edit",
+      "id": "88655fcc-92c9-4137-9f3e-6f70baaa611e",
+      "item": {
+        "id": "88655fcc-92c9-4137-9f3e-6f70baaa611e",
+        "type": "markdown",
+        "text": "Too often we have seen amazing teams form around a single venture and then their collective fortunes are tied to that particular business opportunity. If things go well then the team will hire people and navigate the growing pains of becoming a multi-team venture. Or if they go poorly they will need to lose staff or cut salaries. The shape of the team becomes moulded by the product they are building and the market they are in."
+      },
+      "date": 1546974476030
+    },
+    {
+      "type": "add",
+      "id": "b98cdc24-6e1f-422c-9564-408179d9d019",
+      "after": "88655fcc-92c9-4137-9f3e-6f70baaa611e",
+      "item": {
+        "type": "factory",
+        "id": "b98cdc24-6e1f-422c-9564-408179d9d019"
+      },
+      "date": 1546974476031
+    },
+    {
+      "type": "edit",
+      "id": "b98cdc24-6e1f-422c-9564-408179d9d019",
+      "item": {
+        "id": "b98cdc24-6e1f-422c-9564-408179d9d019",
+        "type": "markdown",
+        "text": "Livelihood Pods are intentionally designed to have a diversity of income streams. People are working for different clients, applying different skills and investing in different products. There is still room for specialisation and Root Systems is a great example of a programming Livelihood Pod with resilient income sources."
+      },
+      "date": 1546974476031
+    },
+    {
+      "type": "add",
+      "id": "5b548ddf-c35c-4551-943f-87d14b1e8132",
+      "after": "b98cdc24-6e1f-422c-9564-408179d9d019",
+      "item": {
+        "type": "factory",
+        "id": "5b548ddf-c35c-4551-943f-87d14b1e8132"
+      },
+      "date": 1546974476031
+    },
+    {
+      "type": "edit",
+      "id": "5b548ddf-c35c-4551-943f-87d14b1e8132",
+      "item": {
+        "id": "5b548ddf-c35c-4551-943f-87d14b1e8132",
+        "type": "markdown",
+        "text": "I think there is an interesting line of research along the lines of \"products, not companies\". What if our branded ventures become quite lean legal structures which outsource much of the labour neeed to a network of high trust Livelihood Pods?"
+      },
+      "date": 1546974476031
+    },
+    {
+      "type": "add",
+      "id": "158155a4-a3e3-4089-84ca-99ce68d16254",
+      "after": "5b548ddf-c35c-4551-943f-87d14b1e8132",
+      "item": {
+        "type": "factory",
+        "id": "158155a4-a3e3-4089-84ca-99ce68d16254"
+      },
+      "date": 1546974476032
+    },
+    {
+      "type": "edit",
+      "id": "158155a4-a3e3-4089-84ca-99ce68d16254",
+      "item": {
+        "id": "158155a4-a3e3-4089-84ca-99ce68d16254",
+        "type": "markdown",
+        "text": "Would it be possible for successful products to scale better and more humanely by engaging a swarm of pods to meet its growing labour demands instead of reinventing its organising system every time it hires more people?"
+      },
+      "date": 1546974476032
+    },
+    {
+      "type": "add",
+      "id": "ffa93cf9-5f41-42f1-a464-946157ce0bbe",
+      "after": "158155a4-a3e3-4089-84ca-99ce68d16254",
+      "item": {
+        "type": "factory",
+        "id": "ffa93cf9-5f41-42f1-a464-946157ce0bbe"
+      },
+      "date": 1546974476033
+    },
+    {
+      "type": "edit",
+      "id": "ffa93cf9-5f41-42f1-a464-946157ce0bbe",
+      "item": {
+        "id": "ffa93cf9-5f41-42f1-a464-946157ce0bbe",
+        "type": "markdown",
+        "text": "# Pod Interdependence"
+      },
+      "date": 1546974476033
+    },
+    {
+      "type": "add",
+      "id": "f5d3fa63-b614-469d-8a9a-ff1a8e36ee1e",
+      "after": "ffa93cf9-5f41-42f1-a464-946157ce0bbe",
+      "item": {
+        "type": "factory",
+        "id": "f5d3fa63-b614-469d-8a9a-ff1a8e36ee1e"
+      },
+      "date": 1546974476033
+    },
+    {
+      "type": "edit",
+      "id": "f5d3fa63-b614-469d-8a9a-ff1a8e36ee1e",
+      "item": {
+        "id": "f5d3fa63-b614-469d-8a9a-ff1a8e36ee1e",
+        "type": "markdown",
+        "text": "For me, this is the killer principle which makes this organising form interesting. Livelihood Pods don't operate in isolation, there is the deep interdependence with other pods. We participate in a social, financial and information ecosystem and are collectively responsible for the health of that ecosystem."
+      },
+      "date": 1546974476033
+    },
+    {
+      "type": "add",
+      "id": "1b209e89-b68c-414f-843f-3b3013aa9d36",
+      "after": "f5d3fa63-b614-469d-8a9a-ff1a8e36ee1e",
+      "item": {
+        "type": "factory",
+        "id": "1b209e89-b68c-414f-843f-3b3013aa9d36"
+      },
+      "date": 1546974476034
+    },
+    {
+      "type": "edit",
+      "id": "1b209e89-b68c-414f-843f-3b3013aa9d36",
+      "item": {
+        "id": "1b209e89-b68c-414f-843f-3b3013aa9d36",
+        "type": "markdown",
+        "text": "We actively share learnings with each other about how we're running our pods. We intentionally hunt for leads and find mutally beneficial commercial opportunities. We help people who want to start pods do so."
+      },
+      "date": 1546974476034
+    },
+    {
+      "type": "add",
+      "id": "48e3f9b3-3bd6-44be-919b-77695f60ca3f",
+      "after": "1b209e89-b68c-414f-843f-3b3013aa9d36",
+      "item": {
+        "type": "factory",
+        "id": "48e3f9b3-3bd6-44be-919b-77695f60ca3f"
+      },
+      "date": 1546974476034
+    },
+    {
+      "type": "edit",
+      "id": "48e3f9b3-3bd6-44be-919b-77695f60ca3f",
+      "item": {
+        "id": "48e3f9b3-3bd6-44be-919b-77695f60ca3f",
+        "type": "markdown",
+        "text": "A Livelihood Pod by itself is just a quirky little company, but I believe a swarm of them could shape a new economic paradigm.\""
+      },
+      "date": 1546974476034
+    },
+    {
+      "type": "add",
+      "id": "fdc27245-323a-46be-9bf5-25b78e7685bf",
+      "after": "48e3f9b3-3bd6-44be-919b-77695f60ca3f",
+      "item": {
+        "type": "factory",
+        "id": "fdc27245-323a-46be-9bf5-25b78e7685bf"
+      },
+      "date": 1546974476035
+    },
+    {
+      "type": "edit",
+      "id": "fdc27245-323a-46be-9bf5-25b78e7685bf",
+      "item": {
+        "id": "fdc27245-323a-46be-9bf5-25b78e7685bf",
+        "type": "markdown",
+        "text": "(https://gist.github.com/joshuavial/b3063ac087b17d49491491b7d5735ee3)"
+      },
+      "date": 1546974476035
+    },
+    {
+      "type": "add",
+      "id": "edf7066b-b2c8-44ff-b7c0-4ec29281767c",
+      "after": "fdc27245-323a-46be-9bf5-25b78e7685bf",
+      "item": {
+        "type": "factory",
+        "id": "edf7066b-b2c8-44ff-b7c0-4ec29281767c"
+      },
+      "date": 1546974476035
+    },
+    {
+      "type": "edit",
+      "id": "edf7066b-b2c8-44ff-b7c0-4ec29281767c",
+      "item": {
+        "id": "edf7066b-b2c8-44ff-b7c0-4ec29281767c",
+        "type": "markdown",
+        "text": " Typology"
+      },
+      "date": 1546974476035
+    },
+    {
+      "type": "add",
+      "id": "0e986ad9-fc44-498e-9555-1a70fc257b72",
+      "after": "edf7066b-b2c8-44ff-b7c0-4ec29281767c",
+      "item": {
+        "type": "factory",
+        "id": "0e986ad9-fc44-498e-9555-1a70fc257b72"
+      },
+      "date": 1546974476036
+    },
+    {
+      "type": "edit",
+      "id": "0e986ad9-fc44-498e-9555-1a70fc257b72",
+      "item": {
+        "id": "0e986ad9-fc44-498e-9555-1a70fc257b72",
+        "type": "markdown",
+        "text": "Joshua Vial:"
+      },
+      "date": 1546974476036
+    },
+    {
+      "type": "add",
+      "id": "dd364f95-cee5-4f9f-a650-1a66826ac78f",
+      "after": "0e986ad9-fc44-498e-9555-1a70fc257b72",
+      "item": {
+        "type": "factory",
+        "id": "dd364f95-cee5-4f9f-a650-1a66826ac78f"
+      },
+      "date": 1546974476037
+    },
+    {
+      "type": "edit",
+      "id": "dd364f95-cee5-4f9f-a650-1a66826ac78f",
+      "item": {
+        "id": "dd364f95-cee5-4f9f-a650-1a66826ac78f",
+        "type": "markdown",
+        "text": "\"There are two models we've seen pods experimenting with Mutual Support and Income Pooling."
+      },
+      "date": 1546974476037
+    },
+    {
+      "type": "add",
+      "id": "7d1d53af-37c8-4b73-a633-10a3dd1e6fdd",
+      "after": "dd364f95-cee5-4f9f-a650-1a66826ac78f",
+      "item": {
+        "type": "factory",
+        "id": "7d1d53af-37c8-4b73-a633-10a3dd1e6fdd"
+      },
+      "date": 1546974476037
+    },
+    {
+      "type": "edit",
+      "id": "7d1d53af-37c8-4b73-a633-10a3dd1e6fdd",
+      "item": {
+        "id": "7d1d53af-37c8-4b73-a633-10a3dd1e6fdd",
+        "type": "markdown",
+        "text": "# A Mutual Support Pod"
+      },
+      "date": 1546974476037
+    },
+    {
+      "type": "add",
+      "id": "11687fe5-65af-4d8b-af8f-90f3dd4c03df",
+      "after": "7d1d53af-37c8-4b73-a633-10a3dd1e6fdd",
+      "item": {
+        "type": "factory",
+        "id": "11687fe5-65af-4d8b-af8f-90f3dd4c03df"
+      },
+      "date": 1546974476038
+    },
+    {
+      "type": "edit",
+      "id": "11687fe5-65af-4d8b-af8f-90f3dd4c03df",
+      "item": {
+        "id": "11687fe5-65af-4d8b-af8f-90f3dd4c03df",
+        "type": "markdown",
+        "text": "... is 'Livelihood Pods lite'. The members of the cooperative run all their commercial activities through the company but keep control over the majority of the revenue they generate. A small portion, 20% for example, would go into the pods core coffers and the team engages in collective decision making about how to spend those funds."
+      },
+      "date": 1546974476038
+    },
+    {
+      "type": "add",
+      "id": "ecdb6127-f69d-4ba4-a99f-026834e710dc",
+      "after": "11687fe5-65af-4d8b-af8f-90f3dd4c03df",
+      "item": {
+        "type": "factory",
+        "id": "ecdb6127-f69d-4ba4-a99f-026834e710dc"
+      },
+      "date": 1546974476038
+    },
+    {
+      "type": "edit",
+      "id": "ecdb6127-f69d-4ba4-a99f-026834e710dc",
+      "item": {
+        "id": "ecdb6127-f69d-4ba4-a99f-026834e710dc",
+        "type": "markdown",
+        "text": "# An Income Pooling Pod"
+      },
+      "date": 1546974476038
+    },
+    {
+      "type": "add",
+      "id": "a92782d2-cca2-4775-9091-f8e03266da02",
+      "after": "ecdb6127-f69d-4ba4-a99f-026834e710dc",
+      "item": {
+        "type": "factory",
+        "id": "a92782d2-cca2-4775-9091-f8e03266da02"
+      },
+      "date": 1546974476039
+    },
+    {
+      "type": "edit",
+      "id": "a92782d2-cca2-4775-9091-f8e03266da02",
+      "item": {
+        "id": "a92782d2-cca2-4775-9091-f8e03266da02",
+        "type": "markdown",
+        "text": "... puts 100% of their revenue in the middle and engages in collective decision making on how much each person is paid, as well as how much to spend on team expenses. People can be paid different amounts but everyone in the team consents to those amounts, or to the process for determining them.\""
+      },
+      "date": 1546974476039
+    },
+    {
+      "type": "add",
+      "id": "97194035-da39-40f7-b069-671e52a05461",
+      "after": "a92782d2-cca2-4775-9091-f8e03266da02",
+      "item": {
+        "type": "factory",
+        "id": "97194035-da39-40f7-b069-671e52a05461"
+      },
+      "date": 1546974476039
+    },
+    {
+      "type": "edit",
+      "id": "97194035-da39-40f7-b069-671e52a05461",
+      "item": {
+        "id": "97194035-da39-40f7-b069-671e52a05461",
+        "type": "markdown",
+        "text": "(https://gist.github.com/joshuavial/b3063ac087b17d49491491b7d5735ee3)"
+      },
+      "date": 1546974476040
+    },
+    {
+      "type": "add",
+      "id": "7cdea960-4fec-4c7a-9c3a-eb241f2a072d",
+      "after": "97194035-da39-40f7-b069-671e52a05461",
+      "item": {
+        "type": "factory",
+        "id": "7cdea960-4fec-4c7a-9c3a-eb241f2a072d"
+      },
+      "date": 1546974476040
+    },
+    {
+      "type": "edit",
+      "id": "7cdea960-4fec-4c7a-9c3a-eb241f2a072d",
+      "item": {
+        "id": "7cdea960-4fec-4c7a-9c3a-eb241f2a072d",
+        "type": "markdown",
+        "text": " Example"
+      },
+      "date": 1546974476040
+    },
+    {
+      "type": "add",
+      "id": "aa3a46d2-b18a-4fc1-b3d3-39e7f2798c8e",
+      "after": "7cdea960-4fec-4c7a-9c3a-eb241f2a072d",
+      "item": {
+        "type": "factory",
+        "id": "aa3a46d2-b18a-4fc1-b3d3-39e7f2798c8e"
+      },
+      "date": 1546974476041
+    },
+    {
+      "type": "edit",
+      "id": "aa3a46d2-b18a-4fc1-b3d3-39e7f2798c8e",
+      "item": {
+        "id": "aa3a46d2-b18a-4fc1-b3d3-39e7f2798c8e",
+        "type": "markdown",
+        "text": "-   [[Enspiral Root Systems Livelihood Pod]]"
+      },
+      "date": 1546974476041
+    },
+    {
+      "type": "add",
+      "id": "63cbe1da-ad55-4af5-9ad4-a0df86a47168",
+      "after": "aa3a46d2-b18a-4fc1-b3d3-39e7f2798c8e",
+      "item": {
+        "type": "factory",
+        "id": "63cbe1da-ad55-4af5-9ad4-a0df86a47168"
+      },
+      "date": 1546974476041
+    },
+    {
+      "type": "edit",
+      "id": "63cbe1da-ad55-4af5-9ad4-a0df86a47168",
+      "item": {
+        "id": "63cbe1da-ad55-4af5-9ad4-a0df86a47168",
+        "type": "markdown",
+        "text": "Michel Bauwens:"
+      },
+      "date": 1546974476041
+    },
+    {
+      "type": "add",
+      "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "after": "63cbe1da-ad55-4af5-9ad4-a0df86a47168",
+      "item": {
+        "type": "factory",
+        "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4"
+      },
+      "date": 1546974476042
+    },
+    {
+      "type": "edit",
+      "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "item": {
+        "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+        "type": "markdown",
+        "text": "In 2014, the founder and associates of the P2P Foundation were still extremely precarious, but the FLOK Society project in Ecuador, led to a new level of legitimacy and fortunes started to turn substantially. By July 2017, about a dozen people are living from their work related to the P2P Foundation, but without the organisation itself, which has still extremely limited means as a foundation, paying out salaries to al these members. After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. The P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. The first pod is our core team, which consists of myself (visioning stream), the advocacy stream (Stacco, AM), the operational stream (James Burke until 2016, now moving to other activities), and the research stream (Vasilis N. and K. from the [[P2P Lab]]; the second pod is the P2P Lab itself, which has another half a dozen collaborators (more or less), in addition to Vasilis N. and K. The key feature is that we look out for each other's income streams, i.e. when new opportunities present itself, such as for example a funded report project, or EU research funds, we look at who is capable, but also at the contextual needs at a particular moment. Doing this on a consistent basis, as opportunities arise, has allowed us to create a portfolio of incomes which funds the 2 pods, on a nearly continuous basis. As Joshua Vial states, there is the solidarity of income, there is not one income stream, there is a scoped purpose (the 3 key strategic priorities of the P2P Foundation), and there is the pod interdependence. It is not a formal coop, and there is no income pooling, just mutual support."
+      },
+      "date": 1546974476042
+    },
+    {
+      "type": "add",
+      "id": "b404fd11-0fd7-4639-8550-c2235b4874da",
+      "after": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "item": {
+        "type": "factory",
+        "id": "b404fd11-0fd7-4639-8550-c2235b4874da"
+      },
+      "date": 1546974476042
+    },
+    {
+      "type": "edit",
+      "id": "b404fd11-0fd7-4639-8550-c2235b4874da",
+      "item": {
+        "id": "b404fd11-0fd7-4639-8550-c2235b4874da",
+        "type": "markdown",
+        "text": "(June 2017)"
+      },
+      "date": 1546974476043
+    },
+    {
+      "type": "add",
+      "id": "07be56ca-2b3c-482a-a426-671addbace51",
+      "after": "b404fd11-0fd7-4639-8550-c2235b4874da",
+      "item": {
+        "type": "factory",
+        "id": "07be56ca-2b3c-482a-a426-671addbace51"
+      },
+      "date": 1546974476043
+    },
+    {
+      "type": "edit",
+      "id": "07be56ca-2b3c-482a-a426-671addbace51",
+      "item": {
+        "id": "07be56ca-2b3c-482a-a426-671addbace51",
+        "type": "markdown",
+        "text": " More Information"
+      },
+      "date": 1546974476043
+    },
+    {
+      "type": "add",
+      "id": "75d14ac7-e865-4ab0-9679-89aeaafae534",
+      "after": "07be56ca-2b3c-482a-a426-671addbace51",
+      "item": {
+        "type": "factory",
+        "id": "75d14ac7-e865-4ab0-9679-89aeaafae534"
+      },
+      "date": 1546974476044
+    },
+    {
+      "type": "edit",
+      "id": "75d14ac7-e865-4ab0-9679-89aeaafae534",
+      "item": {
+        "id": "75d14ac7-e865-4ab0-9679-89aeaafae534",
+        "type": "markdown",
+        "text": "-   Video: https://www.youtube.com/watch?v=lmCOKGGTcfA"
+      },
+      "date": 1546974476044
+    },
+    {
+      "type": "add",
+      "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+      "after": "75d14ac7-e865-4ab0-9679-89aeaafae534",
+      "item": {
+        "type": "factory",
+        "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a"
+      },
+      "date": 1546974476044
+    },
+    {
+      "type": "edit",
+      "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+      "item": {
+        "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+        "type": "markdown",
+        "text": "[[Category:Post-Corporate]]"
+      },
+      "date": 1546974476044
+    },
+    {
+      "type": "add",
+      "id": "d7ac5bd0-a91f-4d9a-a52e-38d080adbe18",
+      "after": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+      "item": {
+        "type": "factory",
+        "id": "d7ac5bd0-a91f-4d9a-a52e-38d080adbe18"
+      },
+      "date": 1546974476045
+    },
+    {
+      "type": "edit",
+      "id": "d7ac5bd0-a91f-4d9a-a52e-38d080adbe18",
+      "item": {
+        "id": "d7ac5bd0-a91f-4d9a-a52e-38d080adbe18",
+        "type": "markdown",
+        "text": "[[Category:Business Models]]"
+      },
+      "date": 1546974476045
+    },
+    {
+      "type": "add",
+      "id": "f5807982-e370-4df2-9b16-8b136cc80925",
+      "after": "d7ac5bd0-a91f-4d9a-a52e-38d080adbe18",
+      "item": {
+        "type": "factory",
+        "id": "f5807982-e370-4df2-9b16-8b136cc80925"
+      },
+      "date": 1546974476045
+    },
+    {
+      "type": "edit",
+      "id": "f5807982-e370-4df2-9b16-8b136cc80925",
+      "item": {
+        "id": "f5807982-e370-4df2-9b16-8b136cc80925",
+        "type": "markdown",
+        "text": "[[Category:Collaborative Economy]]"
+      },
+      "date": 1546974476046
+    },
+    {
+      "type": "add",
+      "id": "aef68ce3-8e33-4777-8562-a480640feb09",
+      "after": "f5807982-e370-4df2-9b16-8b136cc80925",
+      "item": {
+        "type": "factory",
+        "id": "aef68ce3-8e33-4777-8562-a480640feb09"
+      },
+      "date": 1546974476046
+    },
+    {
+      "type": "edit",
+      "id": "aef68ce3-8e33-4777-8562-a480640feb09",
+      "item": {
+        "id": "aef68ce3-8e33-4777-8562-a480640feb09",
+        "type": "markdown",
+        "text": "[[Category:Encyclopedia]]"
+      },
+      "date": 1546974476046
+    },
+    {
+      "type": "add",
+      "id": "f075f8ff-c8ae-4e5e-b190-36dad03060d8",
+      "after": "aef68ce3-8e33-4777-8562-a480640feb09",
+      "item": {
+        "type": "factory",
+        "id": "f075f8ff-c8ae-4e5e-b190-36dad03060d8"
+      },
+      "date": 1546974476047
+    },
+    {
+      "type": "edit",
+      "id": "f075f8ff-c8ae-4e5e-b190-36dad03060d8",
+      "item": {
+        "id": "f075f8ff-c8ae-4e5e-b190-36dad03060d8",
+        "type": "markdown",
+        "text": "[[Category:Open Company Formats]]"
+      },
+      "date": 1546974476047
+    },
+    {
+      "type": "fork",
+      "date": 1546974365057
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "e7c6d3be-f38a-4186-acd9-c01f3cbc01a6",
+        "text": "YOUTUBE DDZvpFXE-3o\n[[Joshua Vial - LIVELIHOOD PODS AND THEIR EMERGENCE AT ENSPIRAL]]. Broadcast on 8 Mar 2018."
+      },
+      "after": "869ff8d7-8fa6-497a-a860-65261453fef3",
+      "id": "e7c6d3be-f38a-4186-acd9-c01f3cbc01a6",
+      "date": 1546974543035
+    },
+    {
+      "type": "edit",
+      "id": "869ff8d7-8fa6-497a-a860-65261453fef3",
+      "item": {
+        "type": "markdown",
+        "id": "869ff8d7-8fa6-497a-a860-65261453fef3",
+        "text": "Small solidarity-based groups to create livelihoods for generative economic activities, explored by [[Enspiral]] and other [[Neotribes]].__ - [http://wiki.p2pfoundation.net/Livelihood_Pods ]"
+      },
+      "date": 1547025884619
+    },
+    {
+      "type": "edit",
+      "id": "869ff8d7-8fa6-497a-a860-65261453fef3",
+      "item": {
+        "type": "markdown",
+        "id": "869ff8d7-8fa6-497a-a860-65261453fef3",
+        "text": "Small solidarity-based groups to create livelihoods for generative economic activities, explored by [[Enspiral]] and other [[Neotribes]] - [http://wiki.p2pfoundation.net/Livelihood_Pods p2pfoundation.net]"
+      },
+      "date": 1547025908831
+    },
+    {
+      "type": "remove",
+      "id": "f4a6a760-0263-44f3-9ff5-1192292d46c9",
+      "date": 1547025943602
+    },
+    {
+      "type": "remove",
+      "id": "b1457bb6-0cda-4df8-aa3f-f80d58a57c9f",
+      "date": 1547025955615
+    },
+    {
+      "type": "remove",
+      "id": "fdc27245-323a-46be-9bf5-25b78e7685bf",
+      "date": 1547025995394
+    },
+    {
+      "type": "edit",
+      "id": "48e3f9b3-3bd6-44be-919b-77695f60ca3f",
+      "item": {
+        "type": "markdown",
+        "id": "48e3f9b3-3bd6-44be-919b-77695f60ca3f",
+        "text": "A Livelihood Pod by itself is just a quirky little company, but I believe a swarm of them could shape a new economic paradigm.\"- [https://gist.github.com/joshuavial/b3063ac087b17d49491491b7d5735ee3 gist.github.com]"
+      },
+      "date": 1547026002612
+    },
+    {
+      "type": "remove",
+      "id": "97194035-da39-40f7-b069-671e52a05461",
+      "date": 1547026050022
+    },
+    {
+      "type": "edit",
+      "id": "a92782d2-cca2-4775-9091-f8e03266da02",
+      "item": {
+        "type": "markdown",
+        "id": "a92782d2-cca2-4775-9091-f8e03266da02",
+        "text": "... puts 100% of their revenue in the middle and engages in collective decision making on how much each person is paid, as well as how much to spend on team expenses. People can be paid different amounts but everyone in the team consents to those amounts, or to the process for determining them.\" - [https://gist.github.com/joshuavial/b3063ac087b17d49491491b7d5735ee3 gist.github.com]"
+      },
+      "date": 1547026052460
+    },
+    {
+      "type": "edit",
+      "id": "7cdea960-4fec-4c7a-9c3a-eb241f2a072d",
+      "item": {
+        "type": "markdown",
+        "id": "7cdea960-4fec-4c7a-9c3a-eb241f2a072d",
+        "text": "# Example"
+      },
+      "date": 1547026059405
+    },
+    {
+      "type": "edit",
+      "id": "07be56ca-2b3c-482a-a426-671addbace51",
+      "item": {
+        "type": "markdown",
+        "id": "07be56ca-2b3c-482a-a426-671addbace51",
+        "text": "# See also"
+      },
+      "date": 1547026077663
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "8301b4da-0efc-43c6-b7f3-7a0908473188",
+        "text": "YOUTUBE lmCOKGGTcfA\n[[Structures for a Thriving Network]]. Broadcast on 10 Nov 2016."
+      },
+      "after": "78f50336-6947-4e01-8f66-166010bf526c",
+      "id": "8301b4da-0efc-43c6-b7f3-7a0908473188",
+      "date": 1547026098015
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "bf5b2933-94ff-4455-b7f4-1e67960b6f01",
+        "text": "Some thoughts-in-progress about structures emerging in the Enspiral network."
+      },
+      "after": "8301b4da-0efc-43c6-b7f3-7a0908473188",
+      "id": "bf5b2933-94ff-4455-b7f4-1e67960b6f01",
+      "date": 1547026110332
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "5c241a6e-ba99-480f-966a-1f0167f4b8bd",
+        "text": "Whiteboard diagram: https://i.imgur.com/Mf0k2Yw.png\n\nUnder discussion here (Enspiral contributors only): https://www.loomio.org/d/eaMT9WLE"
+      },
+      "after": "bf5b2933-94ff-4455-b7f4-1e67960b6f01",
+      "id": "5c241a6e-ba99-480f-966a-1f0167f4b8bd",
+      "date": 1547026115322
+    },
+    {
+      "type": "remove",
+      "id": "5c241a6e-ba99-480f-966a-1f0167f4b8bd",
+      "date": 1547026126712
+    },
+    {
+      "type": "edit",
+      "id": "bf5b2933-94ff-4455-b7f4-1e67960b6f01",
+      "item": {
+        "type": "paragraph",
+        "id": "bf5b2933-94ff-4455-b7f4-1e67960b6f01",
+        "text": "Some thoughts-in-progress about structures emerging in the Enspiral network. Diagram - [https://i.imgur.com/Mf0k2Yw.png afds]"
+      },
+      "date": 1547026161457
+    },
+    {
+      "type": "edit",
+      "id": "457fa371-75a0-4446-a86e-a2daaf04fe92",
+      "item": {
+        "type": "markdown",
+        "id": "457fa371-75a0-4446-a86e-a2daaf04fe92",
+        "text": "- https://www.loomio.org/d/UNf4zXwP/livelihood-pods-and-or-ventures-sharing-ideas-and-practice\n- https://www.loomio.org/d/eaMT9WLE"
+      },
+      "date": 1547026175289
+    },
+    {
+      "type": "remove",
+      "id": "bf5b2933-94ff-4455-b7f4-1e67960b6f01",
+      "date": 1547026184335
+    },
+    {
+      "type": "edit",
+      "id": "8301b4da-0efc-43c6-b7f3-7a0908473188",
+      "item": {
+        "type": "video",
+        "id": "8301b4da-0efc-43c6-b7f3-7a0908473188",
+        "text": "YOUTUBE lmCOKGGTcfA\n[[Structures for a Thriving Network]]. Broadcast on 10 Nov 2016. Some thoughts-in-progress about structures emerging in the Enspiral network. Diagram - [https://i.imgur.com/Mf0k2Yw.png imgur]"
+      },
+      "date": 1547026188014
+    },
+    {
+      "type": "fork",
+      "site": "search.fedwiki.org",
+      "date": 1547026235647
+    },
+    {
+      "type": "edit",
+      "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+      "item": {
+        "type": "markdown",
+        "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+        "text": "- [[Post-Corporate]]"
+      },
+      "date": 1547026253496
+    },
+    {
+      "type": "remove",
+      "id": "d7ac5bd0-a91f-4d9a-a52e-38d080adbe18",
+      "date": 1547026258471
+    },
+    {
+      "type": "edit",
+      "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+      "item": {
+        "type": "markdown",
+        "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+        "text": "- [[Post-Corporate]]\n- [[Business Models]]"
+      },
+      "date": 1547026261729
+    },
+    {
+      "type": "remove",
+      "id": "f5807982-e370-4df2-9b16-8b136cc80925",
+      "date": 1547026266311
+    },
+    {
+      "type": "edit",
+      "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+      "item": {
+        "type": "markdown",
+        "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+        "text": "- [[Post-Corporate]]\n- [[Business Models]]\n- [[Collaborative Economy]]"
+      },
+      "date": 1547026269219
+    },
+    {
+      "type": "remove",
+      "id": "aef68ce3-8e33-4777-8562-a480640feb09",
+      "date": 1547026270415
+    },
+    {
+      "type": "edit",
+      "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+      "item": {
+        "type": "markdown",
+        "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+        "text": "- [[Post-Corporate]]\n- [[Business Models]]\n- [[Collaborative Economy]]\n"
+      },
+      "date": 1547026280531
+    },
+    {
+      "type": "remove",
+      "id": "f075f8ff-c8ae-4e5e-b190-36dad03060d8",
+      "date": 1547026284880
+    },
+    {
+      "type": "edit",
+      "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+      "item": {
+        "type": "markdown",
+        "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+        "text": "- [[Post-Corporate]]\n- [[Business Models]]\n- [[Collaborative Economy]]\n- [[Open Company Formats]]"
+      },
+      "date": 1547026288069
+    },
+    {
+      "type": "remove",
+      "id": "75d14ac7-e865-4ab0-9679-89aeaafae534",
+      "date": 1547026304826
+    },
+    {
+      "type": "fork",
+      "site": "governance.platform.earth",
+      "date": 1570547976104
+    },
+    {
+      "type": "edit",
+      "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "item": {
+        "type": "markdown",
+        "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+        "text": "In 2014, the founder and associates of the P2P Foundation were still extremely precarious, but the FLOK Society project in Ecuador, led to a new level of legitimacy and fortunes started to turn substantially. \n"
+      },
+      "date": 1570548139827
+    },
+    {
+      "type": "add",
+      "id": "7643abdb250d11b5",
+      "item": {
+        "type": "markdown",
+        "id": "7643abdb250d11b5",
+        "text": "By July 2017, about a dozen people are living from their work related to the P2P Foundation, but without the organisation itself, which has still extremely limited means as a foundation, paying out salaries to al these members. \n"
+      },
+      "after": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "date": 1570548144197
+    },
+    {
+      "type": "add",
+      "id": "02e8c16cb3061e39",
+      "item": {
+        "type": "markdown",
+        "id": "02e8c16cb3061e39",
+        "text": "> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. The P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. The first pod is our core team, which consists of myself (visioning stream), the advocacy stream (Stacco, AM), the operational stream (James Burke until 2016, now moving to other activities), and the research stream (Vasilis N. and K. from the [[P2P Lab]]; the second pod is the P2P Lab itself, which has another half a dozen collaborators (more or less), in addition to Vasilis N. and K. The key feature is that we look out for each other's income streams, i.e. when new opportunities present itself, such as for example a funded report project, or EU research funds, we look at who is capable, but also at the contextual needs at a particular moment. Doing this on a consistent basis, as opportunities arise, has allowed us to create a portfolio of incomes which funds the 2 pods, on a nearly continuous basis. As Joshua Vial states, there is the solidarity of income, there is not one income stream, there is a scoped purpose (the 3 key strategic priorities of the P2P Foundation), and there is the pod interdependence. It is not a formal coop, and there is no income pooling, just mutual support."
+      },
+      "after": "7643abdb250d11b5",
+      "date": 1570548157533
+    },
+    {
+      "type": "edit",
+      "id": "7643abdb250d11b5",
+      "item": {
+        "type": "markdown",
+        "id": "7643abdb250d11b5",
+        "text": "> By July 2017, about a dozen people are living from their work related to the P2P Foundation, but without the organisation itself, which has still extremely limited means as a foundation, paying out salaries to al these members. \n"
+      },
+      "date": 1570548162586
+    },
+    {
+      "type": "edit",
+      "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "item": {
+        "type": "markdown",
+        "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+        "text": "> In 2014, the founder and associates of the P2P Foundation were still extremely precarious, but the FLOK Society project in Ecuador, led to a new level of legitimacy and fortunes started to turn substantially. \n"
+      },
+      "date": 1570548167295
+    },
+    {
+      "type": "edit",
+      "id": "02e8c16cb3061e39",
+      "item": {
+        "type": "markdown",
+        "id": "02e8c16cb3061e39",
+        "text": "> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. \nThe P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. The first pod is our core team, which consists of myself (visioning stream), the advocacy stream (Stacco, AM), the operational stream (James Burke until 2016, now moving to other activities), and the research stream (Vasilis N. and K. from the [[P2P Lab]]; the second pod is the P2P Lab itself, which has another half a dozen collaborators (more or less), in addition to Vasilis N. and K. The key feature is that we look out for each other's income streams, i.e. when new opportunities present itself, such as for example a funded report project, or EU research funds, we look at who is capable, but also at the contextual needs at a particular moment. Doing this on a consistent basis, as opportunities arise, has allowed us to create a portfolio of incomes which funds the 2 pods, on a nearly continuous basis. As Joshua Vial states, there is the solidarity of income, there is not one income stream, there is a scoped purpose (the 3 key strategic priorities of the P2P Foundation), and there is the pod interdependence. It is not a formal coop, and there is no income pooling, just mutual support."
+      },
+      "date": 1570548177117
+    },
+    {
+      "type": "edit",
+      "id": "02e8c16cb3061e39",
+      "item": {
+        "type": "markdown",
+        "id": "02e8c16cb3061e39",
+        "text": "> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. \n\nThe P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. "
+      },
+      "date": 1570548184763
+    },
+    {
+      "type": "add",
+      "id": "2d2b22c244994b59",
+      "item": {
+        "type": "markdown",
+        "id": "2d2b22c244994b59",
+        "text": "The first pod is our core team, which consists of myself (visioning stream), the advocacy stream (Stacco, AM), the operational stream (James Burke until 2016, now moving to other activities), and the research stream (Vasilis N. and K. from the [[P2P Lab]]; the second pod is the P2P Lab itself, which has another half a dozen collaborators (more or less), in addition to Vasilis N. and K. The key feature is that we look out for each other's income streams, i.e. when new opportunities present itself, such as for example a funded report project, or EU research funds, we look at who is capable, but also at the contextual needs at a particular moment. Doing this on a consistent basis, as opportunities arise, has allowed us to create a portfolio of incomes which funds the 2 pods, on a nearly continuous basis. As Joshua Vial states, there is the solidarity of income, there is not one income stream, there is a scoped purpose (the 3 key strategic priorities of the P2P Foundation), and there is the pod interdependence. It is not a formal coop, and there is no income pooling, just mutual support."
+      },
+      "after": "02e8c16cb3061e39",
+      "date": 1570548188894
+    },
+    {
+      "type": "edit",
+      "id": "02e8c16cb3061e39",
+      "item": {
+        "type": "markdown",
+        "id": "02e8c16cb3061e39",
+        "text": "> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. \n\n The P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. "
+      },
+      "date": 1570548196640
+    },
+    {
+      "type": "edit",
+      "id": "02e8c16cb3061e39",
+      "item": {
+        "type": "markdown",
+        "id": "02e8c16cb3061e39",
+        "text": "> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. \n\n>The P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. "
+      },
+      "date": 1570548201320
+    },
+    {
+      "type": "remove",
+      "id": "02e8c16cb3061e39",
+      "date": 1570548206138
+    },
+    {
+      "type": "edit",
+      "id": "7643abdb250d11b5",
+      "item": {
+        "type": "markdown",
+        "id": "7643abdb250d11b5",
+        "text": "> By July 2017, about a dozen people are living from their work related to the P2P Foundation, but without the organisation itself, which has still extremely limited means as a foundation, paying out salaries to al these members. \n> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. \n\n>The P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. "
+      },
+      "date": 1570548209065
+    },
+    {
+      "type": "remove",
+      "id": "7643abdb250d11b5",
+      "date": 1570548217667
+    },
+    {
+      "type": "edit",
+      "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "item": {
+        "type": "markdown",
+        "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+        "text": "> In 2014, the founder and associates of the P2P Foundation were still extremely precarious, but the FLOK Society project in Ecuador, led to a new level of legitimacy and fortunes started to turn substantially. \n\n> By July 2017, about a dozen people are living from their work related to the P2P Foundation, but without the organisation itself, which has still extremely limited means as a foundation, paying out salaries to al these members. \n\n> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. \n\n>The P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. "
+      },
+      "date": 1570548219001
+    },
+    {
+      "type": "remove",
+      "id": "2d2b22c244994b59",
+      "date": 1570548226305
+    },
+    {
+      "type": "edit",
+      "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "item": {
+        "type": "markdown",
+        "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+        "text": "> In 2014, the founder and associates of the P2P Foundation were still extremely precarious, but the FLOK Society project in Ecuador, led to a new level of legitimacy and fortunes started to turn substantially. \n\n> By July 2017, about a dozen people are living from their work related to the P2P Foundation, but without the organisation itself, which has still extremely limited means as a foundation, paying out salaries to al these members. \n\n> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. \n\n>The P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. \n>The first pod is our core team, which consists of myself (visioning stream), the advocacy stream (Stacco, AM), the operational stream (James Burke until 2016, now moving to other activities), and the research stream (Vasilis N. and K. from the [[P2P Lab]]; the second pod is the P2P Lab itself, which has another half a dozen collaborators (more or less), in addition to Vasilis N. and K. \n>The key feature is that we look out for each other's income streams, i.e. when new opportunities present itself, such as for example a funded report project, or EU research funds, we look at who is capable, but also at the contextual needs at a particular moment. \n>Doing this on a consistent basis, as opportunities arise, has allowed us to create a portfolio of incomes which funds the 2 pods, on a nearly continuous basis. As Joshua Vial states, there is the solidarity of income, there is not one income stream, there is a scoped purpose (the 3 key strategic priorities of the P2P Foundation), and there is the pod interdependence. It is not a formal coop, and there is no income pooling, just mutual support."
+      },
+      "date": 1570548246825
+    },
+    {
+      "type": "edit",
+      "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "item": {
+        "type": "markdown",
+        "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+        "text": "> In 2014, the founder and associates of the P2P Foundation were still extremely precarious, but the FLOK Society project in Ecuador, led to a new level of legitimacy and fortunes started to turn substantially. \n\n> By July 2017, about a dozen people are living from their work related to the P2P Foundation, but without the organisation itself, which has still extremely limited means as a foundation, paying out salaries to al these members. \n\n> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. \n\n>The P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. \n\n>The first pod is our core team, which consists of myself (visioning stream), the advocacy stream (Stacco, AM), the operational stream (James Burke until 2016, now moving to other activities), and the research stream (Vasilis N. and K. from the [[P2P Lab]]; the second pod is the P2P Lab itself, which has another half a dozen collaborators (more or less), in addition to Vasilis N. and K. "
+      },
+      "date": 1570548258192
+    },
+    {
+      "type": "edit",
+      "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "item": {
+        "type": "markdown",
+        "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+        "text": "> In 2014, the founder and associates of the P2P Foundation were still extremely precarious, but the FLOK Society project in Ecuador, led to a new level of legitimacy and fortunes started to turn substantially. \n\n> By July 2017, about a dozen people are living from their work related to the P2P Foundation, but without the organisation itself, which has still extremely limited means as a foundation, paying out salaries to al these members. \n\n> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. \n\n>The P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. \n\n>The first pod is our core team, which consists of myself (visioning stream), the advocacy stream (Stacco, AM), the operational stream (James Burke until 2016, now moving to other activities), and the research stream (Vasilis N. and K. from the [[P2P Lab]]; the second pod is the P2P Lab itself, which has another half a dozen collaborators (more or less), in addition to Vasilis N. and K. \n>The key feature is that we look out for each other's income streams, i.e. when new opportunities present itself, such as for example a funded report project, or EU research funds, we look at who is capable, but also at the contextual needs at a particular moment. \n\n>Doing this on a consistent basis, as opportunities arise, has allowed us to create a portfolio of incomes which funds the 2 pods, on a nearly continuous basis. As Joshua Vial states, there is the solidarity of income, there is not one income stream, there is a scoped purpose (the 3 key strategic priorities of the P2P Foundation), and there is the pod interdependence. It is not a formal coop, and there is no income pooling, just mutual support."
+      },
+      "date": 1570548270249
+    },
+    {
+      "type": "edit",
+      "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "item": {
+        "type": "markdown",
+        "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+        "text": "> In 2014, the founder and associates of the P2P Foundation were still extremely precarious, but the FLOK Society project in Ecuador, led to a new level of legitimacy and fortunes started to turn substantially. \n\n> By July 2017, about a dozen people are living from their work related to the P2P Foundation, but without the organisation itself, which has still extremely limited means as a foundation, paying out salaries to al these members. \n\n> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. \n\n>The P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. \n\n>The first pod is our core team, which consists of myself (visioning stream), the advocacy stream (Stacco, AM), the operational stream (James Burke until 2016, now moving to other activities), and the research stream (Vasilis N. and K. from the [[P2P Lab]]; the second pod is the P2P Lab itself, which has another half a dozen collaborators (more or less), in addition to Vasilis N. and K. \n\n>The key feature is that we look out for each other's income streams, i.e. when new opportunities present itself, such as for example a funded report project, or EU research funds, we look at who is capable, but also at the contextual needs at a particular moment. \n\n>Doing this on a consistent basis, as opportunities arise, has allowed us to create a portfolio of incomes which funds the 2 pods, on a nearly continuous basis. As Joshua Vial states, there is the solidarity of income, there is not one income stream, there is a scoped purpose (the 3 key strategic priorities of the P2P Foundation), and there is the pod interdependence. It is not a formal coop, and there is no income pooling, just mutual support."
+      },
+      "date": 1570548290752
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "869ff8d7-8fa6-497a-a860-65261453fef3",
+      "text": "Small solidarity-based groups to create livelihoods for generative economic activities, explored by [[Enspiral]] and other [[Neotribes]] - [http://wiki.p2pfoundation.net/Livelihood_Pods p2pfoundation.net]"
+    },
+    {
+      "type": "video",
+      "id": "e7c6d3be-f38a-4186-acd9-c01f3cbc01a6",
+      "text": "YOUTUBE DDZvpFXE-3o\n[[Joshua Vial - LIVELIHOOD PODS AND THEIR EMERGENCE AT ENSPIRAL]]. Broadcast on 8 Mar 2018."
+    },
+    {
+      "type": "markdown",
+      "id": "2b767e41-3e4f-43a0-aa02-eba3789af49c",
+      "text": "__1. Richard Bartlett:__"
+    },
+    {
+      "type": "markdown",
+      "id": "78f50336-6947-4e01-8f66-166010bf526c",
+      "text": "\"As I'm using the term in my video (https://www.youtube.com/watch?v=lmCOKGGTcfA), Pod's are a small highly-committed group with one set of finances. Income defaults to the collective, with some tolerance for inequal distribution to individuals. This is as opposed to e.g. the Services model, where the books are illegible and the income defaults to the individual, with some tolerance for inequal distribution to the collective."
+    },
+    {
+      "type": "video",
+      "id": "8301b4da-0efc-43c6-b7f3-7a0908473188",
+      "text": "YOUTUBE lmCOKGGTcfA\n[[Structures for a Thriving Network]]. Broadcast on 10 Nov 2016. Some thoughts-in-progress about structures emerging in the Enspiral network. Diagram - [https://i.imgur.com/Mf0k2Yw.png imgur]"
+    },
+    {
+      "type": "markdown",
+      "id": "1024c4c2-4084-4bbe-8ad0-7aa3da20f5a5",
+      "text": "I think these are really important characteristics that bias the group towards democracy, solidarity, mutual aid, etc., they are training grounds for learning how to be commoner.\""
+    },
+    {
+      "type": "markdown",
+      "id": "457fa371-75a0-4446-a86e-a2daaf04fe92",
+      "text": "- https://www.loomio.org/d/UNf4zXwP/livelihood-pods-and-or-ventures-sharing-ideas-and-practice\n- https://www.loomio.org/d/eaMT9WLE"
+    },
+    {
+      "type": "markdown",
+      "id": "d197344b-ee59-47e4-8fa2-6b736664c86e",
+      "text": "__2. Mikey of Enspiral:__"
+    },
+    {
+      "type": "markdown",
+      "id": "7b3fb957-dc37-42f6-8838-82008b0254f3",
+      "text": "\"each pod is a separate business/coop/trust with 3-12 members (?) using common services\""
+    },
+    {
+      "type": "markdown",
+      "id": "8de5ebeb-5e33-4249-9d5b-34d0b297603a",
+      "text": "(https://www.loomio.org/d/UNf4zXwP/livelihood-pods-and-or-ventures-sharing-ideas-and-practice)"
+    },
+    {
+      "type": "markdown",
+      "id": "7e5a9022-2cc2-4c77-974a-2ef62bf13c38",
+      "text": " Principles"
+    },
+    {
+      "type": "markdown",
+      "id": "cbf1e20c-6cc5-4f55-945c-3edf22c5eb7b",
+      "text": "Joshua Vial:"
+    },
+    {
+      "type": "markdown",
+      "id": "4b0415c6-d5cc-4a84-b8b3-2ad5dc6d771c",
+      "text": "\"After a year of explorations this is what I consider to be the core principles of a Livelihood Pod."
+    },
+    {
+      "type": "markdown",
+      "id": "15433c70-e11d-41f6-99ef-a5778ed65dea",
+      "text": "-   Cooperative ownership: Livelihood Pods are cooperatives and follow the 7 cooperative principles\n-   Limited size: A Livelihood Pod has an upper limit - we don't know what this should be but somewhere in the 6 - 12 people range.\n-   Scoped purpose: The purpose of a Livelihood Pod is to create livelihoods for its members. That's it.\n-   Diverse income: Livelihood Pods consciously diversify their income streams and avoid coupling their financial health to a single client, product, business or individual.\n-  Interdependent: They are deeply interdependent with other Livelihood Pods and are collectively responsible for the health of the wider ecosystem."
+    },
+    {
+      "type": "markdown",
+      "id": "69591b58-5eba-4a17-97f2-cd13c4bc1961",
+      "text": "The 7 cooperative principles are solid and have stood the test of time. Personally, I don't see the value of a cooperative legal form and am happy with a LLC that is designed to follow the cooperative principles."
+    },
+    {
+      "type": "markdown",
+      "id": "660a1e41-4341-4851-93b4-9e256444eca1",
+      "text": "The cooperative ownership model of one share per person with a consent decision making process for governance is one of the core things that has worked for us at Enspiral. I've witnessed over 50 people go through the experience of 'earning' their ownership share at Enspiral and it's one of my favourite organising forms."
+    },
+    {
+      "type": "markdown",
+      "id": "076b6e91-38c3-4358-bfea-d6c06fb5f81f",
+      "text": "It also has challenges and managing the balance of power and responsibility is no easy feat, particularly as the number of people involved grows, but by capping the size of a pod you can dodge a significant amount of challenges."
+    },
+    {
+      "type": "markdown",
+      "id": "813c91f4-2961-41bd-adb4-d0b2870d962b",
+      "text": "# Limited in size"
+    },
+    {
+      "type": "markdown",
+      "id": "e99c102f-f646-4121-8b41-32a918ddcd42",
+      "text": "We don't know what the optimal upper limit of a Livelihood Pod is. Opinion generally ranges from 6 - 12 people, but we all agree that there should be one. Instead of changing the organisational form as people join a company, Livelihood Pods are designed to splin of other Livelihood Pods. This means you don't need to keep restructuring your team as a business grows or shrinks."
+    },
+    {
+      "type": "markdown",
+      "id": "5eab18e0-f4b6-4b75-b60b-ad9bebaeb2fe",
+      "text": "Rich Bartlett mentioned something in one of our catalyst calls last year which stuck with me. \"Everyone who I check in with at Enspiral who is thriving is involved in a highly functional small team. The people who are struggling are often isolated.\" I've found this to be true as well. When people are embedded in highly functional small teams then they seem to do much better in other contexts."
+    },
+    {
+      "type": "markdown",
+      "id": "f8fd1fdd-3855-4f09-baa4-026afe9ec5e9",
+      "text": "There is some interesting lines of research from sociologists that I've summarised in my head as \"Human's inate biases are highly functional in small groups and destructive in large ones\"."
+    },
+    {
+      "type": "markdown",
+      "id": "b0d73c20-1e81-4eec-b94b-8d1390558309",
+      "text": "# Scoped purpose"
+    },
+    {
+      "type": "markdown",
+      "id": "5ab9ead9-cdb8-4c03-9761-3688be247715",
+      "text": "I think the sole purpose of a Livelihood Pod is to create livelihoods for its members. In this way you can consider a Livelihood Pod a for profit cooperative and we use other commercial vehicles to focus our for purpose work."
+    },
+    {
+      "type": "markdown",
+      "id": "9e2b1f7f-b58e-4d9b-a3f3-73ec13607389",
+      "text": "Naturally, there is still a place in the ecosystem for purpose driven companies, capped return investments and not for profit communities. But by formalising Livelihood Pods as uncapped for profit cooperatives we can have a more nuanced approach when building multi stakeholder systems."
+    },
+    {
+      "type": "markdown",
+      "id": "cc5ddbbe-79f1-4067-a778-5031d47b81d2",
+      "text": "I've found that there is something qualitatively different about a team that is committed to the well being of individual team members above and beyond the success of any one product or line of business."
+    },
+    {
+      "type": "markdown",
+      "id": "928b1f79-0103-4467-a4d0-bd4e6d3425c5",
+      "text": "# Diversity of income streams"
+    },
+    {
+      "type": "markdown",
+      "id": "88655fcc-92c9-4137-9f3e-6f70baaa611e",
+      "text": "Too often we have seen amazing teams form around a single venture and then their collective fortunes are tied to that particular business opportunity. If things go well then the team will hire people and navigate the growing pains of becoming a multi-team venture. Or if they go poorly they will need to lose staff or cut salaries. The shape of the team becomes moulded by the product they are building and the market they are in."
+    },
+    {
+      "type": "markdown",
+      "id": "b98cdc24-6e1f-422c-9564-408179d9d019",
+      "text": "Livelihood Pods are intentionally designed to have a diversity of income streams. People are working for different clients, applying different skills and investing in different products. There is still room for specialisation and Root Systems is a great example of a programming Livelihood Pod with resilient income sources."
+    },
+    {
+      "type": "markdown",
+      "id": "5b548ddf-c35c-4551-943f-87d14b1e8132",
+      "text": "I think there is an interesting line of research along the lines of \"products, not companies\". What if our branded ventures become quite lean legal structures which outsource much of the labour neeed to a network of high trust Livelihood Pods?"
+    },
+    {
+      "type": "markdown",
+      "id": "158155a4-a3e3-4089-84ca-99ce68d16254",
+      "text": "Would it be possible for successful products to scale better and more humanely by engaging a swarm of pods to meet its growing labour demands instead of reinventing its organising system every time it hires more people?"
+    },
+    {
+      "type": "markdown",
+      "id": "ffa93cf9-5f41-42f1-a464-946157ce0bbe",
+      "text": "# Pod Interdependence"
+    },
+    {
+      "type": "markdown",
+      "id": "f5d3fa63-b614-469d-8a9a-ff1a8e36ee1e",
+      "text": "For me, this is the killer principle which makes this organising form interesting. Livelihood Pods don't operate in isolation, there is the deep interdependence with other pods. We participate in a social, financial and information ecosystem and are collectively responsible for the health of that ecosystem."
+    },
+    {
+      "type": "markdown",
+      "id": "1b209e89-b68c-414f-843f-3b3013aa9d36",
+      "text": "We actively share learnings with each other about how we're running our pods. We intentionally hunt for leads and find mutally beneficial commercial opportunities. We help people who want to start pods do so."
+    },
+    {
+      "type": "markdown",
+      "id": "48e3f9b3-3bd6-44be-919b-77695f60ca3f",
+      "text": "A Livelihood Pod by itself is just a quirky little company, but I believe a swarm of them could shape a new economic paradigm.\"- [https://gist.github.com/joshuavial/b3063ac087b17d49491491b7d5735ee3 gist.github.com]"
+    },
+    {
+      "type": "markdown",
+      "id": "edf7066b-b2c8-44ff-b7c0-4ec29281767c",
+      "text": " Typology"
+    },
+    {
+      "type": "markdown",
+      "id": "0e986ad9-fc44-498e-9555-1a70fc257b72",
+      "text": "Joshua Vial:"
+    },
+    {
+      "type": "markdown",
+      "id": "dd364f95-cee5-4f9f-a650-1a66826ac78f",
+      "text": "\"There are two models we've seen pods experimenting with Mutual Support and Income Pooling."
+    },
+    {
+      "type": "markdown",
+      "id": "7d1d53af-37c8-4b73-a633-10a3dd1e6fdd",
+      "text": "# A Mutual Support Pod"
+    },
+    {
+      "type": "markdown",
+      "id": "11687fe5-65af-4d8b-af8f-90f3dd4c03df",
+      "text": "... is 'Livelihood Pods lite'. The members of the cooperative run all their commercial activities through the company but keep control over the majority of the revenue they generate. A small portion, 20% for example, would go into the pods core coffers and the team engages in collective decision making about how to spend those funds."
+    },
+    {
+      "type": "markdown",
+      "id": "ecdb6127-f69d-4ba4-a99f-026834e710dc",
+      "text": "# An Income Pooling Pod"
+    },
+    {
+      "type": "markdown",
+      "id": "a92782d2-cca2-4775-9091-f8e03266da02",
+      "text": "... puts 100% of their revenue in the middle and engages in collective decision making on how much each person is paid, as well as how much to spend on team expenses. People can be paid different amounts but everyone in the team consents to those amounts, or to the process for determining them.\" - [https://gist.github.com/joshuavial/b3063ac087b17d49491491b7d5735ee3 gist.github.com]"
+    },
+    {
+      "type": "markdown",
+      "id": "7cdea960-4fec-4c7a-9c3a-eb241f2a072d",
+      "text": "# Example"
+    },
+    {
+      "type": "markdown",
+      "id": "aa3a46d2-b18a-4fc1-b3d3-39e7f2798c8e",
+      "text": "-   [[Enspiral Root Systems Livelihood Pod]]"
+    },
+    {
+      "type": "markdown",
+      "id": "63cbe1da-ad55-4af5-9ad4-a0df86a47168",
+      "text": "Michel Bauwens:"
+    },
+    {
+      "type": "markdown",
+      "id": "1c8d9ec8-9847-4d8d-9cd6-8a01242e92f4",
+      "text": "> In 2014, the founder and associates of the P2P Foundation were still extremely precarious, but the FLOK Society project in Ecuador, led to a new level of legitimacy and fortunes started to turn substantially. \n\n> By July 2017, about a dozen people are living from their work related to the P2P Foundation, but without the organisation itself, which has still extremely limited means as a foundation, paying out salaries to al these members. \n\n> After reading the first draft texts about the concept of a livelihood pod, I realized that this is exactly what we had been doing. \n\n>The P2P Foundation has two working pods, and though they are not formally a coop, they correspond to the other principles outlined by Joshua Vial. \n\n>The first pod is our core team, which consists of myself (visioning stream), the advocacy stream (Stacco, AM), the operational stream (James Burke until 2016, now moving to other activities), and the research stream (Vasilis N. and K. from the [[P2P Lab]]; the second pod is the P2P Lab itself, which has another half a dozen collaborators (more or less), in addition to Vasilis N. and K. \n\n>The key feature is that we look out for each other's income streams, i.e. when new opportunities present itself, such as for example a funded report project, or EU research funds, we look at who is capable, but also at the contextual needs at a particular moment. \n\n>Doing this on a consistent basis, as opportunities arise, has allowed us to create a portfolio of incomes which funds the 2 pods, on a nearly continuous basis. As Joshua Vial states, there is the solidarity of income, there is not one income stream, there is a scoped purpose (the 3 key strategic priorities of the P2P Foundation), and there is the pod interdependence. It is not a formal coop, and there is no income pooling, just mutual support."
+    },
+    {
+      "type": "markdown",
+      "id": "b404fd11-0fd7-4639-8550-c2235b4874da",
+      "text": "(June 2017)"
+    },
+    {
+      "type": "markdown",
+      "id": "07be56ca-2b3c-482a-a426-671addbace51",
+      "text": "# See also"
+    },
+    {
+      "type": "markdown",
+      "id": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
+      "text": "- [[Post-Corporate]]\n- [[Business Models]]\n- [[Collaborative Economy]]\n- [[Open Company Formats]]"
+    }
+  ]
+}
