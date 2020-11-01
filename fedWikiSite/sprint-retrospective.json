@@ -1,0 +1,49 @@
+{
+  "title": "Sprint retrospective",
+  "journal": [
+    {
+      "date": 1541453182142,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Sprint retrospective"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1541453092134
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "7ee8e9cc-62ea-456e-8b29-346945b9dc7a",
+      "text": "At the sprint retrospective, the team - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_retrospective wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "f4ea4390-24b0-44be-9c02-10034db82473",
+      "text": "-  Reflects on the past sprint\n-  Identifies and agrees on [[Continual improvement process|continuous process improvement]] actions"
+    },
+    {
+      "type": "markdown",
+      "id": "b179df7e-1c21-4670-a2af-dc463d02636d",
+      "text": "-  Three main questions are asked in the sprint retrospective: What went well during the sprint? What does not go well? What could be improved for better productivity in the next sprint?\n-  The recommended duration is one-and-a-half hours for a two-week sprint (proportional for other sprint duration(s))\n-  This event is facilitated by the scrum master"
+    },
+    {
+      "type": "markdown",
+      "id": "f3a18c7d-c67b-4e0b-8aae-b5ec731d4854",
+      "text": "# Tools\n\nSearch for [[free culture]] images for this page on [https://www.google.com/search?as_st=y&tbm=isch&as_q=Scrum+%28software+development%29+Sprint+retrospective&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&gws_rd=ssl google]"
+    },
+    {
+      "type": "transport",
+      "id": "ce401a29-116e-4ab9-ad14-d3c9c63625b7",
+      "text": "POST https://rest.livecode.world/imagine"
+    },
+    {
+      "type": "markdown",
+      "id": "123cbd86-a54e-486e-8135-f9edd648a267",
+      "text": "# Sprint retrospective"
+    }
+  ]
+}
