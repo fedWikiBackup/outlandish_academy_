@@ -1,0 +1,45 @@
+{
+  "title": "Monitor Evaluator",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "e7537883f411ae88",
+      "text": "Provides a logical eye, making impartial judgements where required and weighs up the team's options in a dispassionate way.\n\n- **Strengths**: Sober, strategic and discerning. Sees all options and judges accurately.\n\n- **Allowable weaknesses**: Sometimes lacks the drive and ability to inspire others and can be overly critical.\n\n- **Don't be surprised to find that**: They could be slow to come to decisions."
+    },
+    {
+      "type": "markdown",
+      "id": "5a88bb2d58ffbcf7",
+      "text": "# See also\n\n- [[Belbin Team Roles]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Monitor Evaluator",
+        "story": []
+      },
+      "date": 1570549325722
+    },
+    {
+      "id": "5a88bb2d58ffbcf7",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "5a88bb2d58ffbcf7",
+        "text": "# See also\n\n- [[Belbin Team Roles]]"
+      },
+      "date": 1570549329915
+    },
+    {
+      "id": "e7537883f411ae88",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "e7537883f411ae88",
+        "text": "Provides a logical eye, making impartial judgements where required and weighs up the team's options in a dispassionate way.\n\n- **Strengths**: Sober, strategic and discerning. Sees all options and judges accurately.\n\n- **Allowable weaknesses**: Sometimes lacks the drive and ability to inspire others and can be overly critical.\n\n- **Don't be surprised to find that**: They could be slow to come to decisions."
+      },
+      "date": 1570549335309
+    }
+  ]
+}
