@@ -1,0 +1,247 @@
+{
+  "title": "Ninja School",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bb934b80-e715-4d1b-99a8-40d6b8618406",
+      "text": "Martial Arts taught at Ninja School:"
+    },
+    {
+      "type": "markdown",
+      "id": "e7f9947a9e99f5b5",
+      "text": "- TaiJutsu - a blanket term for any unarmed martial art system. At Ninja School we split Taijutsu into two categories; striking & grappling. \n\n- ShurikenJutsu - the practice of throwing shuriken (ninja stars). At Ninja School we make origami shuriken that the kids use in mindful exercises and battles!\n\n- Kenjutsu - the practice of swordsmanship. Taught by Sensie Tony during Ninja Camps.\n\n"
+    },
+    {
+      "type": "video",
+      "id": "b0427d19-c4d3-4985-889c-f513118ab3b9",
+      "text": "YOUTUBE la_XrxJvI2c\n[[The Ninja School Way]]. Broadcast on 11 Mar 2019."
+    },
+    {
+      "type": "markdown",
+      "id": "42a624312764a730",
+      "text": "We work with primary and secondary schools! Contact us at info@ninjaschool.org.uk for more information.\n\n- Track name: Walking Lightly\n- Artist name: Junip\n- Edited by: [[Harry Bovill]]\n- [https://ninjaschool.org.uk www.ninjaschool.org.uk]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "fe8df3e607ea5639",
+      "text": "# See also\n"
+    },
+    {
+      "type": "markdown",
+      "id": "19317d1c41054aed",
+      "text": "- [[Outlandish Academy]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ninja School",
+        "story": []
+      },
+      "date": 1552317184894
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fe8df3e607ea5639"
+      },
+      "id": "fe8df3e607ea5639",
+      "type": "add",
+      "date": 1552317186010
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "b0427d19-c4d3-4985-889c-f513118ab3b9",
+        "text": "YOUTUBE la_XrxJvI2c\n[[The Ninja School Way]]. Broadcast on 11 Mar 2019."
+      },
+      "after": "fe8df3e607ea5639",
+      "id": "b0427d19-c4d3-4985-889c-f513118ab3b9",
+      "date": 1552317209969
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "bb934b80-e715-4d1b-99a8-40d6b8618406",
+        "text": "enquiries@ninjaschool.org.uk\nwww.ninjaschool.org.uk\n\nMartial Arts taught at Ninja School:\nTaiJutsu - a blanket term for any unarmed martial art system. At Ninja School we split Taijutsu into two categories; striking & grappling. \n\nShurikenJutsu - the practice of throwing shuriken (ninja stars). At Ninja School we make origami shuriken that the kids use in mindful exercises and battles!\n\nKenjutsu - the practice of swordsmanship. Taught by Sensie Tony during Ninja Camps.\n\nWe work with primary and secondary schools! Contact us at info@ninjaschool.org.uk for more information.\n\nTrack name: Walking Lightly\nArtist name: Junip\nEdited by: Harry Bovill"
+      },
+      "id": "bb934b80-e715-4d1b-99a8-40d6b8618406",
+      "date": 1552317213403
+    },
+    {
+      "type": "edit",
+      "id": "fe8df3e607ea5639",
+      "item": {
+        "type": "markdown",
+        "id": "fe8df3e607ea5639",
+        "text": "# See also\n"
+      },
+      "date": 1552317222254
+    },
+    {
+      "type": "add",
+      "id": "19317d1c41054aed",
+      "item": {
+        "type": "markdown",
+        "id": "19317d1c41054aed",
+        "text": "- [[Outlandish Academy]]"
+      },
+      "after": "fe8df3e607ea5639",
+      "date": 1552317229124
+    },
+    {
+      "type": "move",
+      "order": [
+        "bb934b80-e715-4d1b-99a8-40d6b8618406",
+        "19317d1c41054aed",
+        "b0427d19-c4d3-4985-889c-f513118ab3b9",
+        "fe8df3e607ea5639"
+      ],
+      "id": "fe8df3e607ea5639",
+      "date": 1552317232895
+    },
+    {
+      "type": "move",
+      "order": [
+        "bb934b80-e715-4d1b-99a8-40d6b8618406",
+        "b0427d19-c4d3-4985-889c-f513118ab3b9",
+        "fe8df3e607ea5639",
+        "19317d1c41054aed"
+      ],
+      "id": "19317d1c41054aed",
+      "date": 1552317235563
+    },
+    {
+      "type": "edit",
+      "id": "bb934b80-e715-4d1b-99a8-40d6b8618406",
+      "item": {
+        "type": "paragraph",
+        "id": "bb934b80-e715-4d1b-99a8-40d6b8618406",
+        "text": "Martial Arts taught at Ninja School:\n- TaiJutsu - a blanket term for any unarmed martial art system. At Ninja School we split Taijutsu into two categories; striking & grappling. \n\n- ShurikenJutsu - the practice of throwing shuriken (ninja stars). At Ninja School we make origami shuriken that the kids use in mindful exercises and battles!\n\n- Kenjutsu - the practice of swordsmanship. Taught by Sensie Tony during Ninja Camps.\n\n"
+      },
+      "date": 1552317261016
+    },
+    {
+      "type": "add",
+      "id": "42a624312764a730",
+      "item": {
+        "type": "paragraph",
+        "id": "42a624312764a730",
+        "text": "We work with primary and secondary schools! Contact us at info@ninjaschool.org.uk for more information.\n\nTrack name: Walking Lightly\nArtist name: Junip\nEdited by: Harry Bovill"
+      },
+      "after": "bb934b80-e715-4d1b-99a8-40d6b8618406",
+      "date": 1552317261159
+    },
+    {
+      "type": "move",
+      "order": [
+        "bb934b80-e715-4d1b-99a8-40d6b8618406",
+        "b0427d19-c4d3-4985-889c-f513118ab3b9",
+        "42a624312764a730",
+        "fe8df3e607ea5639",
+        "19317d1c41054aed"
+      ],
+      "id": "42a624312764a730",
+      "date": 1552317266114
+    },
+    {
+      "type": "edit",
+      "id": "42a624312764a730",
+      "item": {
+        "type": "paragraph",
+        "id": "42a624312764a730",
+        "text": "We work with primary and secondary schools! Contact us at info@ninjaschool.org.uk for more information.\n\nTrack name: Walking Lightly\nArtist name: Junip\nEdited by: [[Harry Bovill]]"
+      },
+      "date": 1552317276214
+    },
+    {
+      "type": "edit",
+      "id": "42a624312764a730",
+      "item": {
+        "type": "paragraph",
+        "id": "42a624312764a730",
+        "text": "We work with primary and secondary schools! Contact us at info@ninjaschool.org.uk for more information.\n\n- Track name: Walking Lightly\n- Artist name: Junip\n- Edited by: [[Harry Bovill]]"
+      },
+      "date": 1552317295831
+    },
+    {
+      "type": "edit",
+      "id": "42a624312764a730",
+      "item": {
+        "type": "markdown",
+        "id": "42a624312764a730",
+        "text": "We work with primary and secondary schools! Contact us at info@ninjaschool.org.uk for more information.\n\n- Track name: Walking Lightly\n- Artist name: Junip\n- Edited by: [[Harry Bovill]]"
+      },
+      "date": 1552317296676
+    },
+    {
+      "type": "edit",
+      "id": "42a624312764a730",
+      "item": {
+        "type": "markdown",
+        "id": "42a624312764a730",
+        "text": "We work with primary and secondary schools! Contact us at info@ninjaschool.org.uk for more information.\n\n- Track name: Walking Lightly\n- Artist name: Junip\n- Edited by: [[Harry Bovill]]\n"
+      },
+      "date": 1552317301144
+    },
+    {
+      "type": "edit",
+      "id": "bb934b80-e715-4d1b-99a8-40d6b8618406",
+      "item": {
+        "type": "paragraph",
+        "id": "bb934b80-e715-4d1b-99a8-40d6b8618406",
+        "text": "Martial Arts taught at Ninja School:"
+      },
+      "date": 1552317316153
+    },
+    {
+      "type": "add",
+      "id": "e7f9947a9e99f5b5",
+      "item": {
+        "type": "paragraph",
+        "id": "e7f9947a9e99f5b5",
+        "text": "- TaiJutsu - a blanket term for any unarmed martial art system. At Ninja School we split Taijutsu into two categories; striking & grappling. \n\n- ShurikenJutsu - the practice of throwing shuriken (ninja stars). At Ninja School we make origami shuriken that the kids use in mindful exercises and battles!\n\n- Kenjutsu - the practice of swordsmanship. Taught by Sensie Tony during Ninja Camps.\n\n"
+      },
+      "after": "bb934b80-e715-4d1b-99a8-40d6b8618406",
+      "date": 1552317318983
+    },
+    {
+      "type": "edit",
+      "id": "e7f9947a9e99f5b5",
+      "item": {
+        "type": "markdown",
+        "id": "e7f9947a9e99f5b5",
+        "text": "- TaiJutsu - a blanket term for any unarmed martial art system. At Ninja School we split Taijutsu into two categories; striking & grappling. \n\n- ShurikenJutsu - the practice of throwing shuriken (ninja stars). At Ninja School we make origami shuriken that the kids use in mindful exercises and battles!\n\n- Kenjutsu - the practice of swordsmanship. Taught by Sensie Tony during Ninja Camps.\n\n"
+      },
+      "date": 1552317320209
+    },
+    {
+      "type": "edit",
+      "id": "42a624312764a730",
+      "item": {
+        "type": "markdown",
+        "id": "42a624312764a730",
+        "text": "We work with primary and secondary schools! Contact us at info@ninjaschool.org.uk for more information.\n\n- Track name: Walking Lightly\n- Artist name: Junip\n- Edited by: [[Harry Bovill]]\n- www.ninjaschool.org.uk\n"
+      },
+      "date": 1552317333521
+    },
+    {
+      "type": "edit",
+      "id": "42a624312764a730",
+      "item": {
+        "type": "markdown",
+        "id": "42a624312764a730",
+        "text": "We work with primary and secondary schools! Contact us at info@ninjaschool.org.uk for more information.\n\n- Track name: Walking Lightly\n- Artist name: Junip\n- Edited by: [[Harry Bovill]]\n- [https://ninjaschool.org.uk www.ninjaschool.org.uk]\n"
+      },
+      "date": 1552317356973
+    },
+    {
+      "type": "fork",
+      "site": "david.bovill.me",
+      "date": 1552317423616
+    }
+  ]
+}
