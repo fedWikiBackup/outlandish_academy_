@@ -1,0 +1,151 @@
+{
+  "title": "Belbin Team Roles",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "dcd4ad6e51aa15ed",
+      "text": "[http://www.belbin.com/about/belbin-team-roles/ Belbin] have identified nine different behaviours (or contributions) that individuals display in the work place."
+    },
+    {
+      "type": "markdown",
+      "id": "061baffa86d136d7",
+      "text": "1. [[Investigator]]\n1. [[Teamworker]]\n1. [[Co-ordinator]]\n1. [[Plant]]\n1. [[Monitor Evaluator]]\n1. [[Specialist]]\n1. [[Shaper]]\n1. [[Implementer]]\n1. [[Completer Finisher]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Belbin Team Roles",
+        "story": []
+      },
+      "date": 1499254038638
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "dcd4ad6e51aa15ed",
+        "text": "[http://www.belbin.com/about/belbin-team-roles/ Belbin] have identified nine different behaviours (or contributions) that individuals display in the work place."
+      },
+      "id": "dcd4ad6e51aa15ed",
+      "date": 1499254042773
+    },
+    {
+      "type": "fork",
+      "site": "david.outlandish.academy",
+      "date": 1570549149602
+    },
+    {
+      "id": "061baffa86d136d7",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "061baffa86d136d7",
+        "text": "# Teamworker"
+      },
+      "after": "dcd4ad6e51aa15ed",
+      "date": 1570549161672
+    },
+    {
+      "type": "edit",
+      "id": "061baffa86d136d7",
+      "item": {
+        "type": "markdown",
+        "id": "061baffa86d136d7",
+        "text": "- [[Teamworker]]"
+      },
+      "date": 1570549169207
+    },
+    {
+      "type": "edit",
+      "id": "061baffa86d136d7",
+      "item": {
+        "type": "markdown",
+        "id": "061baffa86d136d7",
+        "text": "- [[Teamworker]]\n- [[Co-ordinator]]"
+      },
+      "date": 1570549232117
+    },
+    {
+      "type": "edit",
+      "id": "061baffa86d136d7",
+      "item": {
+        "type": "markdown",
+        "id": "061baffa86d136d7",
+        "text": "- [[Teamworker]]\n- [[Co-ordinator]]\n- [[Plant]]"
+      },
+      "date": 1570549279827
+    },
+    {
+      "type": "edit",
+      "id": "061baffa86d136d7",
+      "item": {
+        "type": "markdown",
+        "id": "061baffa86d136d7",
+        "text": "- [[Teamworker]]\n- [[Co-ordinator]]\n- [[Plant]]\n- [[Monitor Evaluator]]"
+      },
+      "date": 1570549322155
+    },
+    {
+      "type": "edit",
+      "id": "061baffa86d136d7",
+      "item": {
+        "type": "markdown",
+        "id": "061baffa86d136d7",
+        "text": "- [[Teamworker]]\n- [[Co-ordinator]]\n- [[Plant]]\n- [[Monitor Evaluator]]\n- [[Specialist]]"
+      },
+      "date": 1570549352019
+    },
+    {
+      "type": "edit",
+      "id": "061baffa86d136d7",
+      "item": {
+        "type": "markdown",
+        "id": "061baffa86d136d7",
+        "text": "1. [[Teamworker]]\n1. [[Co-ordinator]]\n1. [[Plant]]\n1. [[Monitor Evaluator]]\n1. [[Specialist]]\n1. [[Shaper]]\n1."
+      },
+      "date": 1570549395409
+    },
+    {
+      "type": "edit",
+      "id": "061baffa86d136d7",
+      "item": {
+        "type": "markdown",
+        "id": "061baffa86d136d7",
+        "text": "1. [[Teamworker]]\n1. [[Co-ordinator]]\n1. [[Plant]]\n1. [[Monitor Evaluator]]\n1. [[Specialist]]\n1. [[Shaper]]\n1. [[Implementer]]"
+      },
+      "date": 1570549462888
+    },
+    {
+      "type": "edit",
+      "id": "061baffa86d136d7",
+      "item": {
+        "type": "markdown",
+        "id": "061baffa86d136d7",
+        "text": "1. [[Teamworker]]\n1. [[Co-ordinator]]\n1. [[Plant]]\n1. [[Monitor Evaluator]]\n1. [[Specialist]]\n1. [[Shaper]]\n1. [[Implementer]]\n1. [[Completer Finisher]]"
+      },
+      "date": 1570549507004
+    },
+    {
+      "type": "fork",
+      "site": "outlandish.academy",
+      "date": 1570635758202
+    },
+    {
+      "type": "edit",
+      "id": "061baffa86d136d7",
+      "item": {
+        "type": "markdown",
+        "id": "061baffa86d136d7",
+        "text": "1. [[Investigator]]\n1. [[Teamworker]]\n1. [[Co-ordinator]]\n1. [[Plant]]\n1. [[Monitor Evaluator]]\n1. [[Specialist]]\n1. [[Shaper]]\n1. [[Implementer]]\n1. [[Completer Finisher]]"
+      },
+      "date": 1570635867388
+    },
+    {
+      "type": "fork",
+      "site": "future.democracy.garden",
+      "date": 1570636069156
+    }
+  ]
+}
