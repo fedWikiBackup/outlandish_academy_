@@ -1,0 +1,55 @@
+{
+  "title": "Co-ordinator",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "ad0344706f40eda4",
+      "text": "Needed to focus on the team's objectives, draw out team members and delegate work appropriately.\n\n- **Strengths**: Mature, confident, identifies talent. Clarifies goals.\n\n- **Allowable weaknesses**: Can be seen as manipulative and might offload their own share of the work.\n\n- **Don't be surprised to find that**: They might over-delegate, leaving themselves little work to do."
+    },
+    {
+      "type": "markdown",
+      "id": "5a88bb2d58ffbcf7",
+      "text": "# See also\n\n- [[Belbin Team Roles]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Co-ordinator",
+        "story": []
+      },
+      "date": 1570549234689
+    },
+    {
+      "id": "ad0344706f40eda4",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "ad0344706f40eda4",
+        "text": "Needed to focus on the team's objectives, draw out team members and delegate work appropriately.\n\n- **Strengths**: Mature, confident, identifies talent. Clarifies goals.\n\n- **Allowable weaknesses**: Can be seen as manipulative and might offload their own share of the work.\n\n- **Don't be surprised to find that**: They might over-delegate, leaving themselves little work to do."
+      },
+      "date": 1570549242829
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5a88bb2d58ffbcf7"
+      },
+      "id": "5a88bb2d58ffbcf7",
+      "type": "add",
+      "after": "ad0344706f40eda4",
+      "date": 1570549258004
+    },
+    {
+      "type": "edit",
+      "id": "5a88bb2d58ffbcf7",
+      "item": {
+        "type": "markdown",
+        "id": "5a88bb2d58ffbcf7",
+        "text": "# See also\n\n- [[Belbin Team Roles]]"
+      },
+      "date": 1570549259745
+    }
+  ]
+}
