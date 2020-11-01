@@ -1,0 +1,49 @@
+{
+  "title": "Scrum master",
+  "journal": [
+    {
+      "date": 1541452942702,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Scrum master"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1541452852524
+    },
+    {
+      "type": "remove",
+      "id": "f4a05a89-4b8d-4040-911f-d709746b401e",
+      "date": 1541452857067
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "7781433d-3746-4f0f-97f7-4534c414b6db",
+      "text": "Scrum is facilitated by a scrum master, who is accountable for removing impediments to the ability of the team to deliver the product goals and deliverables. The scrum master is not a traditional [[team leader]] or [[project manager]] but acts as a buffer between the team and any distracting influences. The scrum master ensures that the Scrum framework is followed. The scrum master helps to ensure the team follows the agreed processes in the Scrum framework, often facilitates key sessions, and encourages the team to improve. The role has also been referred to as a team facilitator or [[servant leadership]] to reinforce these dual perspectives - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_master wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "df254e65-e785-4ef6-8a75-800562001d30",
+      "text": "The core responsibilities of a scrum master include (but are not limited to):"
+    },
+    {
+      "type": "markdown",
+      "id": "4983b830-337c-46a2-a83e-0cc03098b8db",
+      "text": "-  Helping the product owner maintain the product backlog in a way that ensures the needed work is well understood so the team can continually make forward progress\n-  Helping the team to determine the definition of done for the product, with input from key stakeholders\n-  Coaching the team, within the Scrum principles, in order to deliver high-quality features for its product\n-  Promoting self-organization within the team\n-  Helping the scrum team to avoid or remove impediments to its progress, whether internal or external to the team\n-  Facilitating team events to ensure regular progress\n-  Educating key stakeholders in the product on Scrum principles\n-  Coaching the development team in self-organization and cross-functionality"
+    },
+    {
+      "type": "markdown",
+      "id": "8291ee3c-3e3c-4fe4-a235-41c928f87689",
+      "text": "# Tools\n\nSearch for [[free culture]] images for this page on [https://www.google.com/search?as_st=y&tbm=isch&as_q=Scrum+%28software+development%29+Scrum+master&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&gws_rd=ssl google]"
+    },
+    {
+      "type": "transport",
+      "id": "e9158233-dbc4-467d-a306-ea86fef32ef4",
+      "text": "POST https://rest.livecode.world/imagine"
+    }
+  ]
+}
