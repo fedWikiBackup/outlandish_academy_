@@ -1,0 +1,28 @@
+{
+  "title": "What ought a syllabus be?",
+  "story": [
+    {
+      "type": "factory",
+      "id": "2133c53a978346f6"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "What ought a syllabus be?",
+        "story": []
+      },
+      "date": 1603957738779
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2133c53a978346f6"
+      },
+      "id": "2133c53a978346f6",
+      "type": "add",
+      "date": 1603957739967
+    }
+  ]
+}
