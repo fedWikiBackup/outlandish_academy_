@@ -1,0 +1,49 @@
+{
+  "title": "Teach Forwards",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f351dc5848f85de4",
+      "text": "Mimicry and [[Copying for Granted]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Teach Forwards",
+        "story": []
+      },
+      "date": 1603037877397
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f351dc5848f85de4"
+      },
+      "id": "f351dc5848f85de4",
+      "type": "add",
+      "date": 1603037878296
+    },
+    {
+      "type": "edit",
+      "id": "f351dc5848f85de4",
+      "item": {
+        "type": "paragraph",
+        "id": "f351dc5848f85de4",
+        "text": " {(Copying for Granted}"
+      },
+      "date": 1603037881299
+    },
+    {
+      "type": "edit",
+      "id": "f351dc5848f85de4",
+      "item": {
+        "type": "paragraph",
+        "id": "f351dc5848f85de4",
+        "text": "Mimicry and [[Copying for Granted]]"
+      },
+      "date": 1603037898069
+    }
+  ]
+}
