@@ -1,0 +1,39 @@
+{
+  "title": "Life-long",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "920051367ab89d4b",
+      "text": " (Students are Teachers)"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Life-long",
+        "story": []
+      },
+      "date": 1603037941185
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "920051367ab89d4b"
+      },
+      "id": "920051367ab89d4b",
+      "type": "add",
+      "date": 1603037942188
+    },
+    {
+      "type": "edit",
+      "id": "920051367ab89d4b",
+      "item": {
+        "type": "markdown",
+        "id": "920051367ab89d4b",
+        "text": " (Students are Teachers)"
+      },
+      "date": 1603037945438
+    }
+  ]
+}
