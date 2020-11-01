@@ -1,0 +1,417 @@
+{
+  "title": "Scrum (software development)",
+  "journal": [
+    {
+      "date": 1541452614569,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Scrum (software development)"
+      }
+    },
+    {
+      "type": "add",
+      "id": "a5b5b34a-d15d-4143-aedd-63a7aae6156b",
+      "after": "ec2f21df-5a5c-4dc3-b0b1-abf788c802cf",
+      "item": {
+        "type": "factory",
+        "id": "a5b5b34a-d15d-4143-aedd-63a7aae6156b"
+      },
+      "date": 1541452615509
+    },
+    {
+      "type": "edit",
+      "id": "a5b5b34a-d15d-4143-aedd-63a7aae6156b",
+      "item": {
+        "id": "a5b5b34a-d15d-4143-aedd-63a7aae6156b",
+        "type": "markdown",
+        "text": "# Debug info"
+      },
+      "date": 1541452615509
+    },
+    {
+      "type": "add",
+      "id": "8b28f921-ee84-43c9-9b7a-ab2b5b3a9f10",
+      "after": "a5b5b34a-d15d-4143-aedd-63a7aae6156b",
+      "item": {
+        "type": "factory",
+        "id": "8b28f921-ee84-43c9-9b7a-ab2b5b3a9f10"
+      },
+      "date": 1541452615510
+    },
+    {
+      "type": "edit",
+      "id": "8b28f921-ee84-43c9-9b7a-ab2b5b3a9f10",
+      "item": {
+        "id": "8b28f921-ee84-43c9-9b7a-ab2b5b3a9f10",
+        "type": "paragraph",
+        "text": "Searching for Wikipidia page \"scrum-software-development\", using handler 'search' of mediawiki.lc\n\nFound page title: Scrum (software development)\n\nFedwiki-slug: scrum-software-development"
+      },
+      "date": 1541452615510
+    },
+    {
+      "type": "fork",
+      "date": 1541452553260
+    },
+    {
+      "type": "remove",
+      "id": "8b28f921-ee84-43c9-9b7a-ab2b5b3a9f10",
+      "date": 1541452556463
+    },
+    {
+      "type": "remove",
+      "id": "a5b5b34a-d15d-4143-aedd-63a7aae6156b",
+      "date": 1541452558762
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "0ec79ffe-7432-4e66-a097-7ea6b0f4b43c",
+        "text": "# Key ideas"
+      },
+      "after": "bf46af5e-ac06-4296-ae49-0c4ebf4fdbe3",
+      "id": "0ec79ffe-7432-4e66-a097-7ea6b0f4b43c",
+      "date": 1541452569592
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "373f2365-fe63-47a3-b1aa-d257cfbea4ee",
+        "text": "Scrum is an [[Iterative design]] and [[Iterative and incremental development]] framework for managing product development. It defines \"a flexible, [[Holism]] product development strategy where a development team works as a unit to reach a common goal\", challenges assumptions of the \"traditional, sequential approach\" to product development, and enables teams to self-organize by encouraging physical [[Colocation (business)]] or close online collaboration of all team members, as well as daily face-to-face communication among all team members and disciplines involved - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Key_ideas wikipedia]"
+      },
+      "after": "0ec79ffe-7432-4e66-a097-7ea6b0f4b43c",
+      "id": "373f2365-fe63-47a3-b1aa-d257cfbea4ee",
+      "date": 1541452573434
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "008280f8-a4ad-47f5-ab5d-08835495381c",
+        "text": "A key principle of Scrum is the dual recognition that customers will change their minds about what they want or need (often called ''requirements volatility'') and that there will be unpredictable challenges—for which a predictive or planned approach is not suited. As such, Scrum adopts an evidence-based [[Empirical process]]—accepting that the problem cannot be fully understood or defined up front, and instead focusing on how to maximize the team's ability to deliver quickly, to respond to emerging requirements, and to adapt to evolving technologies and changes in market conditions."
+      },
+      "after": "373f2365-fe63-47a3-b1aa-d257cfbea4ee",
+      "id": "008280f8-a4ad-47f5-ab5d-08835495381c",
+      "date": 1541452576205
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "c8533811-555e-4efe-8c85-e4871cbb7f54",
+        "text": "Many of the terms used in Scrum (e.g., scrum master) are typically written with leading capitals (e.g., Scrum Master) or as conjoint words written in [[camel case]] (e.g., ScrumMaster). To maintain an encyclopedic tone, however, this article uses normal sentence case for these terms—unless they are recognized marks (such as ''Certified Scrum Master''). This is occasionally seen written in all-capitals, as SCRUM. The word is not an [[acronym]], so this is not correct; however, it likely arose due to an early paper by Ken Schwaber which capitalized SCRUM in its title."
+      },
+      "after": "008280f8-a4ad-47f5-ab5d-08835495381c",
+      "id": "c8533811-555e-4efe-8c85-e4871cbb7f54",
+      "date": 1541452580547
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "92475f00-8bc1-4007-8d63-1a4353a6e1b9",
+        "text": "While the [[trademark]] on the term Scrum itself has been allowed to lapse, so that it is deemed as owned by the wider community rather than an individual, the leading capital is retained—except when used with other words (as in ''daily scrum'' or ''scrum team'')."
+      },
+      "after": "c8533811-555e-4efe-8c85-e4871cbb7f54",
+      "id": "92475f00-8bc1-4007-8d63-1a4353a6e1b9",
+      "date": 1541452583853
+    },
+    {
+      "type": "remove",
+      "id": "92475f00-8bc1-4007-8d63-1a4353a6e1b9",
+      "date": 1541452590241
+    },
+    {
+      "type": "remove",
+      "id": "b2b0da04-a71e-46d6-be1c-f862def8ba8d",
+      "date": 1541452610281
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "799b6222-84d4-4c8b-8357-2be9a93aa8d6",
+        "text": "# Roles"
+      },
+      "after": "c8533811-555e-4efe-8c85-e4871cbb7f54",
+      "id": "799b6222-84d4-4c8b-8357-2be9a93aa8d6",
+      "date": 1541452815026
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "45fae233-6b95-4eb5-82a3-32af51560567",
+        "text": "There are three core roles in the Scrum framework. These are ideally co-located to deliver potentially shippable product increments every sprint. Together these three roles form the scrum team. While many organizations have other roles involved with defining and delivering the product, Scrum defines only these three - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Roles wikipedia]"
+      },
+      "after": "799b6222-84d4-4c8b-8357-2be9a93aa8d6",
+      "id": "45fae233-6b95-4eb5-82a3-32af51560567",
+      "date": 1541452818652
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "3125957d-7e03-4f87-9971-e3c720fabeec",
+        "text": "# Product owner"
+      },
+      "after": "45fae233-6b95-4eb5-82a3-32af51560567",
+      "id": "3125957d-7e03-4f87-9971-e3c720fabeec",
+      "date": 1541452835843
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "4d744384-3996-4e6f-8d3d-1711ae09da7e",
+        "text": "# Development team"
+      },
+      "after": "3125957d-7e03-4f87-9971-e3c720fabeec",
+      "id": "4d744384-3996-4e6f-8d3d-1711ae09da7e",
+      "date": 1541452847232
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "f4a05a89-4b8d-4040-911f-d709746b401e",
+        "text": "# Scrum master"
+      },
+      "after": "4d744384-3996-4e6f-8d3d-1711ae09da7e",
+      "id": "f4a05a89-4b8d-4040-911f-d709746b401e",
+      "date": 1541452857069
+    },
+    {
+      "type": "remove",
+      "id": "f4a05a89-4b8d-4040-911f-d709746b401e",
+      "date": 1541452869003
+    },
+    {
+      "type": "remove",
+      "id": "4d744384-3996-4e6f-8d3d-1711ae09da7e",
+      "date": 1541452878986
+    },
+    {
+      "type": "edit",
+      "id": "3125957d-7e03-4f87-9971-e3c720fabeec",
+      "item": {
+        "type": "markdown",
+        "id": "3125957d-7e03-4f87-9971-e3c720fabeec",
+        "text": "- [[Product owner]]\n- [[Development team]]\n- [[Scrum master]]"
+      },
+      "date": 1541452887759
+    },
+    {
+      "type": "remove",
+      "id": "63b75064-854f-4568-876b-d121129bb0ae",
+      "date": 1541452895049
+    },
+    {
+      "type": "remove",
+      "id": "c8533811-555e-4efe-8c85-e4871cbb7f54",
+      "date": 1541452946202
+    },
+    {
+      "type": "remove",
+      "id": "008280f8-a4ad-47f5-ab5d-08835495381c",
+      "date": 1541452948474
+    },
+    {
+      "type": "edit",
+      "id": "86d354c0-e5d9-4cc2-8287-5d47f122481e",
+      "item": {
+        "type": "markdown",
+        "id": "86d354c0-e5d9-4cc2-8287-5d47f122481e",
+        "text": "# Workflow\n"
+      },
+      "date": 1541452981156
+    },
+    {
+      "type": "add",
+      "id": "a70bdae31c2cc58b",
+      "item": {
+        "type": "markdown",
+        "id": "a70bdae31c2cc58b",
+        "text": "# Tools\n\nSearch for [[free culture]] images for this page on [https://www.google.com/search?as_st=y&tbm=isch&as_q=Scrum+%28software+development%29&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&gws_rd=ssl google]"
+      },
+      "after": "86d354c0-e5d9-4cc2-8287-5d47f122481e",
+      "date": 1541452982401
+    },
+    {
+      "type": "add",
+      "id": "7dc8d8a25f50a8e0",
+      "item": {
+        "type": "markdown",
+        "id": "7dc8d8a25f50a8e0",
+        "text": "1. [[Sprint]]"
+      },
+      "after": "86d354c0-e5d9-4cc2-8287-5d47f122481e",
+      "date": 1541453007161
+    },
+    {
+      "type": "edit",
+      "id": "7dc8d8a25f50a8e0",
+      "item": {
+        "type": "markdown",
+        "id": "7dc8d8a25f50a8e0",
+        "text": "1. [[Sprint]]\n1. [[Sprint planning]]"
+      },
+      "date": 1541453032339
+    },
+    {
+      "type": "edit",
+      "id": "7dc8d8a25f50a8e0",
+      "item": {
+        "type": "markdown",
+        "id": "7dc8d8a25f50a8e0",
+        "text": "1. [[Sprint]]\n1. [[Sprint planning]]\n1. [[Daily Scrum]]"
+      },
+      "date": 1541453052733
+    },
+    {
+      "type": "edit",
+      "id": "7dc8d8a25f50a8e0",
+      "item": {
+        "type": "markdown",
+        "id": "7dc8d8a25f50a8e0",
+        "text": "1. [[Sprint]]\n1. [[Sprint planning]]\n1. [[Daily Scrum]]\n1. [[Sprint review]]"
+      },
+      "date": 1541453072484
+    },
+    {
+      "type": "edit",
+      "id": "7dc8d8a25f50a8e0",
+      "item": {
+        "type": "markdown",
+        "id": "7dc8d8a25f50a8e0",
+        "text": "1. [[Sprint]]\n1. [[Sprint planning]]\n1. [[Daily Scrum]]\n1. [[Sprint review]]\n1. [[Sprint retrospective]]"
+      },
+      "date": 1541453102883
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "html",
+        "id": "12b2d6be-f7fa-4a02-9446-6dabf7c67dff",
+        "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Extensions'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Scrum (software development)&action=edit&section=13'>\n<input type=submit value=create></form>"
+      },
+      "after": "7dc8d8a25f50a8e0",
+      "id": "12b2d6be-f7fa-4a02-9446-6dabf7c67dff",
+      "date": 1541453133127
+    },
+    {
+      "type": "remove",
+      "id": "bf46af5e-ac06-4296-ae49-0c4ebf4fdbe3",
+      "date": 1541453234505
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "b1d76d80-108a-4246-bf04-dff62410ba80",
+      "text": "__Scrum__ is an [[agile software development]] framework for managing knowledge work, with an emphasis on [[software development]]. It is designed for teams of three to nine members, who break their work into actions that can be completed within timeboxed iterations, called \"sprints\", no longer than one month and most commonly two weeks, then track progress and re-plan in 15-minute [[stand-up meeting]]s, called ''daily scrums'' - [https://en.wikipedia.org/wiki/Scrum_(software_development) wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "0ec79ffe-7432-4e66-a097-7ea6b0f4b43c",
+      "text": "# Key ideas"
+    },
+    {
+      "type": "markdown",
+      "id": "373f2365-fe63-47a3-b1aa-d257cfbea4ee",
+      "text": "Scrum is an [[Iterative design]] and [[Iterative and incremental development]] framework for managing product development. It defines \"a flexible, [[Holism]] product development strategy where a development team works as a unit to reach a common goal\", challenges assumptions of the \"traditional, sequential approach\" to product development, and enables teams to self-organize by encouraging physical [[Colocation (business)]] or close online collaboration of all team members, as well as daily face-to-face communication among all team members and disciplines involved - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Key_ideas wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "799b6222-84d4-4c8b-8357-2be9a93aa8d6",
+      "text": "# Roles"
+    },
+    {
+      "type": "markdown",
+      "id": "45fae233-6b95-4eb5-82a3-32af51560567",
+      "text": "There are three core roles in the Scrum framework. These are ideally co-located to deliver potentially shippable product increments every sprint. Together these three roles form the scrum team. While many organizations have other roles involved with defining and delivering the product, Scrum defines only these three - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Roles wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "3125957d-7e03-4f87-9971-e3c720fabeec",
+      "text": "- [[Product owner]]\n- [[Development team]]\n- [[Scrum master]]"
+    },
+    {
+      "type": "markdown",
+      "id": "86d354c0-e5d9-4cc2-8287-5d47f122481e",
+      "text": "# Workflow\n"
+    },
+    {
+      "type": "markdown",
+      "id": "7dc8d8a25f50a8e0",
+      "text": "1. [[Sprint]]\n1. [[Sprint planning]]\n1. [[Daily Scrum]]\n1. [[Sprint review]]\n1. [[Sprint retrospective]]"
+    },
+    {
+      "type": "html",
+      "id": "12b2d6be-f7fa-4a02-9446-6dabf7c67dff",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Extensions'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Scrum (software development)&action=edit&section=13'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "markdown",
+      "id": "a70bdae31c2cc58b",
+      "text": "# Tools\n\nSearch for [[free culture]] images for this page on [https://www.google.com/search?as_st=y&tbm=isch&as_q=Scrum+%28software+development%29&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&gws_rd=ssl google]"
+    },
+    {
+      "type": "transport",
+      "id": "985bc578-1e5f-4612-922e-bff2abe9878e",
+      "text": "POST https://rest.livecode.world/imagine"
+    },
+    {
+      "type": "markdown",
+      "id": "cf289958-222c-4631-8635-fa33ab8a7047",
+      "text": "# Sections"
+    },
+    {
+      "type": "html",
+      "id": "2a273a7e-92c2-4215-8e13-4e611a1ae467",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='History'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Scrum (software development)&action=edit&section=2'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "e452b5c7-3319-4206-8f2e-e6e306d56112",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Workflow'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Scrum (software development)&action=edit&section=7'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "013ea1cb-b2a1-484e-b5f7-08458b5f606b",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Artifacts'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Scrum (software development)&action=edit&section=16'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "728d3f48-91ff-4263-bfaa-c76d6b0e4897",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Limitations'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Scrum (software development)&action=edit&section=28'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "df9f990c-a3d9-4ab4-a467-4556708c773d",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Tools for implementation'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Scrum (software development)&action=edit&section=29'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "2f29e8d0-8209-46ac-9d1f-ef2895b69f7d",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Scrum values'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Scrum (software development)&action=edit&section=30'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "e7048710-1df3-4d4b-81a6-54294a7578f7",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Adaptations'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Scrum (software development)&action=edit&section=31'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "markdown",
+      "id": "2f1557a6-844b-4254-999e-f330e0eda7e7",
+      "text": "# See also"
+    },
+    {
+      "type": "markdown",
+      "id": "ec2f21df-5a5c-4dc3-b0b1-abf788c802cf",
+      "text": "- [[Disciplined agile delivery]]\n- [[Lean software development]]\n- [[Project management]]\n- [[Unified Process]]\n- [[High-performance teams]]\n- [[Agile testing]]"
+    }
+  ]
+}
