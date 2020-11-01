@@ -1,0 +1,45 @@
+{
+  "title": "Specialist",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "98048b65ca7360e1",
+      "text": "Brings in-depth knowledge of a key area to the team.\n\n- **Strengths**: Single-minded, self-starting and dedicated. They provide specialist knowledge and skills.\n\n- **Allowable weaknesses**: Tends to contribute on a narrow front and can dwell on the technicalities.\n\n- **Don't be surprised to find that**: They overload you with information."
+    },
+    {
+      "type": "markdown",
+      "id": "5a88bb2d58ffbcf7",
+      "text": "# See also\n\n- [[Belbin Team Roles]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Specialist",
+        "story": []
+      },
+      "date": 1570549354415
+    },
+    {
+      "id": "5a88bb2d58ffbcf7",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "5a88bb2d58ffbcf7",
+        "text": "# See also\n\n- [[Belbin Team Roles]]"
+      },
+      "date": 1570549358095
+    },
+    {
+      "id": "98048b65ca7360e1",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "98048b65ca7360e1",
+        "text": "Brings in-depth knowledge of a key area to the team.\n\n- **Strengths**: Single-minded, self-starting and dedicated. They provide specialist knowledge and skills.\n\n- **Allowable weaknesses**: Tends to contribute on a narrow front and can dwell on the technicalities.\n\n- **Don't be surprised to find that**: They overload you with information."
+      },
+      "date": 1570549363661
+    }
+  ]
+}
