@@ -1,0 +1,45 @@
+{
+  "title": "Shaper",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "d7f2848821b00e09",
+      "text": "Provides the necessary drive to ensure that the team keeps moving and does not lose focus or momentum.\n\n- **Strengths**: Challenging, dynamic, thrives on pressure. Has the drive and courage to overcome obstacles.\n\n- **Allowable weaknesses**: Can be prone to provocation, and may sometimes offend people's feelings.\n\n- **Don't be surprised to find that**: They could risk becoming aggressive and bad-humoured in their attempts to get things done."
+    },
+    {
+      "type": "markdown",
+      "id": "5a88bb2d58ffbcf7",
+      "text": "# See also\n\n- [[Belbin Team Roles]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Shaper",
+        "story": []
+      },
+      "date": 1570549413675
+    },
+    {
+      "id": "5a88bb2d58ffbcf7",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "5a88bb2d58ffbcf7",
+        "text": "# See also\n\n- [[Belbin Team Roles]]"
+      },
+      "date": 1570549418357
+    },
+    {
+      "id": "d7f2848821b00e09",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "d7f2848821b00e09",
+        "text": "Provides the necessary drive to ensure that the team keeps moving and does not lose focus or momentum.\n\n- **Strengths**: Challenging, dynamic, thrives on pressure. Has the drive and courage to overcome obstacles.\n\n- **Allowable weaknesses**: Can be prone to provocation, and may sometimes offend people's feelings.\n\n- **Don't be surprised to find that**: They could risk becoming aggressive and bad-humoured in their attempts to get things done."
+      },
+      "date": 1570549422473
+    }
+  ]
+}
