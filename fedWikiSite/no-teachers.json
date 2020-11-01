@@ -1,0 +1,28 @@
+{
+  "title": "No Teachers",
+  "story": [
+    {
+      "type": "factory",
+      "id": "f2fc480791f38934"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "No Teachers",
+        "story": []
+      },
+      "date": 1603035537174
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f2fc480791f38934"
+      },
+      "id": "f2fc480791f38934",
+      "type": "add",
+      "date": 1603035538301
+    }
+  ]
+}
