@@ -1,0 +1,80 @@
+{
+  "title": "Investigator",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "27a8b59e6d6651c1",
+      "text": "A __Resource Investigator__ uses their inquisitive nature to find ideas to bring back to the team. \n\n- __Strengths__: Outgoing, enthusiastic. Explores opportunities and develops contacts.\n- __Allowable weaknesses__: Might be over-optimistic, and can lose interest once the initial enthusiasm has passed.\n- __Don't be surprised to find that__: They might forget to follow up on a lead."
+    },
+    {
+      "type": "markdown",
+      "id": "9baef013b9e3d72a",
+      "text": "# See also\n\n- [[Belbin Team Roles]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Investigator",
+        "story": []
+      },
+      "date": 1570635880015
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "27a8b59e6d6651c1"
+      },
+      "id": "27a8b59e6d6651c1",
+      "type": "add",
+      "date": 1570635881691
+    },
+    {
+      "type": "edit",
+      "id": "27a8b59e6d6651c1",
+      "item": {
+        "type": "markdown",
+        "id": "27a8b59e6d6651c1",
+        "text": "Uses their inquisitive nature to find ideas to bring back to the team. \n\n- __Strengths__: Outgoing, enthusiastic. Explores opportunities and develops contacts.\n- __Allowable weaknesses__: Might be over-optimistic, and can lose interest once the initial enthusiasm has passed.\n- __Don't be surprised to find that__: They might forget to follow up on a lead."
+      },
+      "date": 1570635919942
+    },
+    {
+      "type": "edit",
+      "id": "27a8b59e6d6651c1",
+      "item": {
+        "type": "markdown",
+        "id": "27a8b59e6d6651c1",
+        "text": "A __Resource Investigator uses their inquisitive nature to find ideas to bring back to the team. \n\n- __Strengths__: Outgoing, enthusiastic. Explores opportunities and develops contacts.\n- __Allowable weaknesses__: Might be over-optimistic, and can lose interest once the initial enthusiasm has passed.\n- __Don't be surprised to find that__: They might forget to follow up on a lead."
+      },
+      "date": 1570635948641
+    },
+    {
+      "type": "edit",
+      "id": "27a8b59e6d6651c1",
+      "item": {
+        "type": "markdown",
+        "id": "27a8b59e6d6651c1",
+        "text": "A __Resource Investigator__ uses their inquisitive nature to find ideas to bring back to the team. \n\n- __Strengths__: Outgoing, enthusiastic. Explores opportunities and develops contacts.\n- __Allowable weaknesses__: Might be over-optimistic, and can lose interest once the initial enthusiasm has passed.\n- __Don't be surprised to find that__: They might forget to follow up on a lead."
+      },
+      "date": 1570635954882
+    },
+    {
+      "id": "9baef013b9e3d72a",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "9baef013b9e3d72a",
+        "text": "# See also\n\n- [[Belbin Team Roles]]"
+      },
+      "after": "27a8b59e6d6651c1",
+      "date": 1570635958980
+    },
+    {
+      "type": "fork",
+      "site": "future.democracy.garden",
+      "date": 1570636062218
+    }
+  ]
+}
