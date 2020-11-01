@@ -1,0 +1,176 @@
+{
+  "title": "Genius Hour v1",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d1e12000dab44cd6",
+      "text": "In the Fall of 2018 Dayton introduced a class called the Genius Hour to all of its middle school students. In this class, they students worked in two-week sprints to explore areas of interests more deeply. They had to define a topic, then present it to the rest of the class each sprint cycle, using a presentation model called [[Inside/Outside]]. "
+    },
+    {
+      "type": "paragraph",
+      "id": "13dd146cd6e98a16",
+      "text": "This model worked well to introduce the [[Agile Learning]] concept of [[Learning Cycles]] and helped students begin to develop new skills and confidence with teamwork, project management, and presentation. "
+    },
+    {
+      "type": "paragraph",
+      "id": "758a66ed540e573a",
+      "text": "In the 2019 Spring Term, the program was restructured as [[Genius Hour v2]] to find ways to more closely connect this new learning to content from core classes.  "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Genius Hour v1",
+        "story": []
+      },
+      "date": 1549559998602
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d1e12000dab44cd6"
+      },
+      "id": "d1e12000dab44cd6",
+      "type": "add",
+      "date": 1549560002218
+    },
+    {
+      "type": "edit",
+      "id": "d1e12000dab44cd6",
+      "item": {
+        "type": "paragraph",
+        "id": "d1e12000dab44cd6",
+        "text": "In the Fall of 2018 Dayton introduced a class called the Genius Hour to all of the middle school students. In this class, they students worked in two week sprints to explore areas of interests more deeply. They had to define a topic, then present it to the rest of the class each sprint cycle, using a presentation model called [[Inside/Outside]]. "
+      },
+      "date": 1549560160570
+    },
+    {
+      "type": "add",
+      "id": "13dd146cd6e98a16",
+      "item": {
+        "type": "paragraph",
+        "id": "13dd146cd6e98a16",
+        "text": "This model worked well to introduce the Agile Learning concept of a Learning Cycle and helped student begin to develop new skills around project management and presentation. "
+      },
+      "after": "d1e12000dab44cd6",
+      "date": 1549560267820
+    },
+    {
+      "type": "add",
+      "id": "758a66ed540e573a",
+      "item": {
+        "type": "paragraph",
+        "id": "758a66ed540e573a",
+        "text": "For the 2019 Spring Term, the program was restructured as [[Genius Hour v2]] to find ways to connect this new learning style to core classes.  "
+      },
+      "after": "13dd146cd6e98a16",
+      "date": 1549560356692
+    },
+    {
+      "type": "edit",
+      "id": "758a66ed540e573a",
+      "item": {
+        "type": "paragraph",
+        "id": "758a66ed540e573a",
+        "text": "For the 2019 Spring Term, the program was restructured as [[Genius Hour v2]] to find ways to more closely connect this new learning to core classes.  "
+      },
+      "date": 1549561324076
+    },
+    {
+      "type": "edit",
+      "id": "13dd146cd6e98a16",
+      "item": {
+        "type": "paragraph",
+        "id": "13dd146cd6e98a16",
+        "text": "This model worked well to introduce the [[Agile Learning]] concept of a Learning Cycle and helped student begin to develop new skills around project management and presentation. "
+      },
+      "date": 1549561338490
+    },
+    {
+      "type": "edit",
+      "id": "13dd146cd6e98a16",
+      "item": {
+        "type": "paragraph",
+        "id": "13dd146cd6e98a16",
+        "text": "This model worked well to introduce the [[Agile Learning]] concept of [[Learning Cycles]] and helped student begin to develop new skills around project management and presentation. "
+      },
+      "date": 1549561353375
+    },
+    {
+      "type": "edit",
+      "id": "d1e12000dab44cd6",
+      "item": {
+        "type": "paragraph",
+        "id": "d1e12000dab44cd6",
+        "text": "In the Fall of 2018 Dayton introduced a class called the Genius Hour to all of its middle school students. In this class, they students worked in two week sprints to explore areas of interests more deeply. They had to define a topic, then present it to the rest of the class each sprint cycle, using a presentation model called [[Inside/Outside]]. "
+      },
+      "date": 1549583049898
+    },
+    {
+      "type": "edit",
+      "id": "13dd146cd6e98a16",
+      "item": {
+        "type": "paragraph",
+        "id": "13dd146cd6e98a16",
+        "text": "This model worked well to introduce the [[Agile Learning]] concept of [[Learning Cycles]] and helped students begin to develop new skills around project management and presentation. "
+      },
+      "date": 1549583068148
+    },
+    {
+      "type": "edit",
+      "id": "13dd146cd6e98a16",
+      "item": {
+        "type": "paragraph",
+        "id": "13dd146cd6e98a16",
+        "text": "This model worked well to introduce the [[Agile Learning]] concept of [[Learning Cycles]] and helped students begin to develop new skills and confidence with project management and presentation. "
+      },
+      "date": 1549583084024
+    },
+    {
+      "type": "edit",
+      "id": "13dd146cd6e98a16",
+      "item": {
+        "type": "paragraph",
+        "id": "13dd146cd6e98a16",
+        "text": "This model worked well to introduce the [[Agile Learning]] concept of [[Learning Cycles]] and helped students begin to develop new skills and confidence with teamwork, project management, and presentation. "
+      },
+      "date": 1549583094497
+    },
+    {
+      "type": "edit",
+      "id": "758a66ed540e573a",
+      "item": {
+        "type": "paragraph",
+        "id": "758a66ed540e573a",
+        "text": "In the 2019 Spring Term, the program was restructured as [[Genius Hour v2]] to find ways to more closely connect this new learning to core classes.  "
+      },
+      "date": 1549583103996
+    },
+    {
+      "type": "edit",
+      "id": "758a66ed540e573a",
+      "item": {
+        "type": "paragraph",
+        "id": "758a66ed540e573a",
+        "text": "In the 2019 Spring Term, the program was restructured as [[Genius Hour v2]] to find ways to more closely connect this new learning to content from core classes.  "
+      },
+      "date": 1549583122856
+    },
+    {
+      "type": "edit",
+      "id": "d1e12000dab44cd6",
+      "item": {
+        "type": "paragraph",
+        "id": "d1e12000dab44cd6",
+        "text": "In the Fall of 2018 Dayton introduced a class called the Genius Hour to all of its middle school students. In this class, they students worked in two-week sprints to explore areas of interests more deeply. They had to define a topic, then present it to the rest of the class each sprint cycle, using a presentation model called [[Inside/Outside]]. "
+      },
+      "date": 1549583217356
+    },
+    {
+      "type": "fork",
+      "site": "thompson.wiki.innovateoregon.org",
+      "date": 1549732825570
+    }
+  ]
+}
