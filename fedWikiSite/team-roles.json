@@ -1,0 +1,91 @@
+{
+  "title": "Team Roles",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bbcf3b2aff113798",
+      "text": "The list below is gathered from [[Belbin Team Roles]]. Let's look to refactor them and make them our own."
+    },
+    {
+      "type": "markdown",
+      "id": "061baffa86d136d7",
+      "text": "1. [[Teamworker]]\n1. [[Co-ordinator]]\n1. [[Plant]]\n1. [[Monitor Evaluator]]\n1. [[Specialist]]\n1. [[Shaper]]\n1. [[Implementer]]\n1. [[Completer Finisher]]"
+    },
+    {
+      "type": "markdown",
+      "id": "4f45c3a0ba69c15e",
+      "text": "You may also wish to check:\n\n- [[Six Thinking Hats]]\n- [[Learning Roles]]\n- [[Belbin Team Roles]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Team Roles",
+        "story": []
+      },
+      "date": 1570549569154
+    },
+    {
+      "id": "bbcf3b2aff113798",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "bbcf3b2aff113798",
+        "text": "The list below is gathered from [[Belbin Team Roles]]. Let's look to refactor them and make them our own."
+      },
+      "date": 1570549581961
+    },
+    {
+      "id": "061baffa86d136d7",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "061baffa86d136d7",
+        "text": "1. [[Teamworker]]\n1. [[Co-ordinator]]\n1. [[Plant]]\n1. [[Monitor Evaluator]]\n1. [[Specialist]]\n1. [[Shaper]]\n1. [[Implementer]]\n1. [[Completer Finisher]]"
+      },
+      "after": "bbcf3b2aff113798",
+      "date": 1570549586931
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f45c3a0ba69c15e"
+      },
+      "id": "4f45c3a0ba69c15e",
+      "type": "add",
+      "after": "061baffa86d136d7",
+      "date": 1570549734574
+    },
+    {
+      "type": "edit",
+      "id": "4f45c3a0ba69c15e",
+      "item": {
+        "type": "markdown",
+        "id": "4f45c3a0ba69c15e",
+        "text": "You may also wish to check:\n\n-[[Six Thinking Hats]]"
+      },
+      "date": 1570549757324
+    },
+    {
+      "type": "edit",
+      "id": "4f45c3a0ba69c15e",
+      "item": {
+        "type": "markdown",
+        "id": "4f45c3a0ba69c15e",
+        "text": "You may also wish to check:\n\n- [[Six Thinking Hats]]\n- [[Learning Roles]]"
+      },
+      "date": 1570549770076
+    },
+    {
+      "type": "edit",
+      "id": "4f45c3a0ba69c15e",
+      "item": {
+        "type": "markdown",
+        "id": "4f45c3a0ba69c15e",
+        "text": "You may also wish to check:\n\n- [[Six Thinking Hats]]\n- [[Learning Roles]]\n- [[Belbin Team Roles]]"
+      },
+      "date": 1570549795689
+    }
+  ]
+}
