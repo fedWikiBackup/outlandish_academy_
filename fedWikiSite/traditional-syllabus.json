@@ -1,0 +1,149 @@
+{
+  "title": "Traditional syllabus",
+  "story": [
+    {
+      "id": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+      "type": "markdown",
+      "text": "A __syllabus__ or __specification__ is a document that communicates information about a specific course and defines expectations and responsibilities.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "847ebd2f380dfd59",
+      "text": "It is generally narrower in scope than a [[curriculum]]. A syllabus may be set out by an [[examination board]] or prepared by the tutor who teaches or controls the course - [https://en.wikipedia.org/wiki/Syllabus wikipedia]"
+    },
+    {
+      "id": "c75a2615-2e66-43d0-813f-263fc55479a7",
+      "type": "markdown",
+      "text": "# Etymology"
+    },
+    {
+      "id": "6537ed02-0f15-48af-8120-f82447af050f",
+      "type": "markdown",
+      "text": "According to the [[Oxford English Dictionary]], the word ''syllabus'' derives from [[New Latin]] ''syllabus'' \"list\", in turn from a misreading of the Greek σίττυβος ''sittybos'' (the leather parchment label that gave the title and contents of a document), which first occurred in a 15th-century print of [[Cicero]]'s letters to Atticus.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "da6f6e47a9c83c40",
+      "text": "This [[etymology]] is interesting because it demonstrates many of the ways in which words change over time, and how poetry, mistakes, fake news and the emperors new clothes combine to create the respected canon of an institution."
+    },
+    {
+      "type": "markdown",
+      "id": "e45cb472ad0f76a8",
+      "text": "Earlier Latin dictionaries such as [[Lewis and Short]] contain the word ''syllabus'', relating it to the non-existent Greek word σύλλαβος, which appears to be a mistaken reading of ''syllaba'' \"syllable\"; the newer [[Oxford Latin Dictionary]] does not contain this word. The apparent change from ''sitty-'' to ''sylla-'' is explained as a [[hypercorrection]] by analogy to συλλαμβάνω (''syllambano'' \"bring together, gather\") - [https://en.wikipedia.org/wiki/Syllabus#Etymology wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "016223aab5945eb3",
+      "text": "# See also\n- [[Lesson plan]]\n- [[Curated Podcasts]]\n- [[Learning Pod]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Traditional syllabus",
+        "story": []
+      },
+      "date": 1603957336795
+    },
+    {
+      "id": "847ebd2f380dfd59",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "847ebd2f380dfd59",
+        "text": "It is generally narrower in scope than a [[curriculum]]. A syllabus may be set out by an [[examination board]] or prepared by the tutor who teaches or controls the course - [https://en.wikipedia.org/wiki/Syllabus wikipedia]"
+      },
+      "date": 1603957341095
+    },
+    {
+      "type": "fork",
+      "site": "pod.club",
+      "date": 1603957379708
+    },
+    {
+      "id": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+      "type": "add",
+      "item": {
+        "id": "c8869ac2-ce0d-45b6-9c66-bd9b2f353ffa",
+        "type": "markdown",
+        "text": "A __syllabus__ or __specification__ is a document that communicates information about a specific course and defines expectations and responsibilities.\n"
+      },
+      "date": 1603957397556
+    },
+    {
+      "type": "fork",
+      "site": "outlandish.academy",
+      "date": 1603957409189
+    },
+    {
+      "id": "c75a2615-2e66-43d0-813f-263fc55479a7",
+      "type": "add",
+      "item": {
+        "id": "c75a2615-2e66-43d0-813f-263fc55479a7",
+        "type": "markdown",
+        "text": "# Etymology"
+      },
+      "after": "847ebd2f380dfd59",
+      "date": 1603957413868
+    },
+    {
+      "id": "6537ed02-0f15-48af-8120-f82447af050f",
+      "type": "add",
+      "item": {
+        "id": "6537ed02-0f15-48af-8120-f82447af050f",
+        "type": "markdown",
+        "text": "According to the [[Oxford English Dictionary]], the word ''syllabus'' derives from [[New Latin]] ''syllabus'' \"list\", in turn from a misreading of the Greek σίττυβος ''sittybos'' (the leather parchment label that gave the title and contents of a document), which first occurred in a 15th-century print of [[Cicero]]'s letters to Atticus.\n"
+      },
+      "after": "c75a2615-2e66-43d0-813f-263fc55479a7",
+      "date": 1603957417526
+    },
+    {
+      "id": "da6f6e47a9c83c40",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "da6f6e47a9c83c40",
+        "text": "This [[etymology]] is interesting because it demonstrates many of the ways in which words change over time, and how poetry, mistakes, fake news and the emperors new clothes combine to create the respected canon of an institution."
+      },
+      "after": "6537ed02-0f15-48af-8120-f82447af050f",
+      "date": 1603957419648
+    },
+    {
+      "id": "e45cb472ad0f76a8",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "e45cb472ad0f76a8",
+        "text": "Earlier Latin dictionaries such as [[Lewis and Short]] contain the word ''syllabus'', relating it to the non-existent Greek word σύλλαβος, which appears to be a mistaken reading of ''syllaba'' \"syllable\"; the newer [[Oxford Latin Dictionary]] does not contain this word. The apparent change from ''sitty-'' to ''sylla-'' is explained as a [[hypercorrection]] by analogy to συλλαμβάνω (''syllambano'' \"bring together, gather\") - [https://en.wikipedia.org/wiki/Syllabus#Etymology wikipedia]"
+      },
+      "after": "da6f6e47a9c83c40",
+      "date": 1603957422081
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "016223aab5945eb3"
+      },
+      "id": "016223aab5945eb3",
+      "type": "add",
+      "after": "e45cb472ad0f76a8",
+      "date": 1603957435178
+    },
+    {
+      "type": "edit",
+      "id": "016223aab5945eb3",
+      "item": {
+        "type": "markdown",
+        "id": "016223aab5945eb3",
+        "text": "# See also\n- [[Lesson plan]]\n- [[Curated Podcasts]]\n- [[Learning Pod]]"
+      },
+      "date": 1603957437548
+    },
+    {
+      "type": "fork",
+      "site": "pod.club",
+      "date": 1603957728303
+    }
+  ]
+}
