@@ -1,0 +1,116 @@
+{
+  "title": "Paper prototyping",
+  "journal": [
+    {
+      "date": 1554130719978,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Paper prototyping"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1554130581172
+    },
+    {
+      "type": "edit",
+      "id": "bbf9e12b-573c-401b-9183-34afe1feaf42",
+      "item": {
+        "type": "markdown",
+        "id": "bbf9e12b-573c-401b-9183-34afe1feaf42",
+        "text": "In [[human–computer interaction]], __paper prototyping__ is a widely used method in the [[user-centered design]], a process that helps developers to create software that meets the user's expectations and needs—in this case, especially for [[user interface design]] and [[usability testing]] [[user interface]]s. \n"
+      },
+      "date": 1554130599283
+    },
+    {
+      "type": "add",
+      "id": "7d3058de716a3ef3",
+      "item": {
+        "type": "markdown",
+        "id": "7d3058de716a3ef3",
+        "text": "It is [[Software prototyping#Throwaway prototyping]] and involves creating rough, even hand-sketched, drawings of an interface to use as prototypes, or models, of a design. While paper prototyping seems simple, this method of [[usability testing]] can provide a great deal of useful feedback which will result in the design of better products. This is supported by many usability professionals - [https://en.wikipedia.org/wiki/Paper_prototyping wikipedia]"
+      },
+      "after": "bbf9e12b-573c-401b-9183-34afe1feaf42",
+      "date": 1554130600802
+    },
+    {
+      "type": "move",
+      "order": [
+        "bbf9e12b-573c-401b-9183-34afe1feaf42",
+        "e1715aba-4846-40fb-a564-d1bffcab94f1",
+        "7d3058de716a3ef3",
+        "014dadf4-34c8-4a17-ad84-c1825dcd37bc",
+        "83a3685d-dfb6-4a09-a956-f5cfe89358cd",
+        "aec15d35-3616-4d08-802a-d9b31574edce",
+        "0a48960a-de61-458c-b106-323a72b6bdd0",
+        "dddd0d11-76a4-4d3f-bc1f-45b7701a2ee9",
+        "2e8ead9c-1519-4451-a0da-1bd804c889f3"
+      ],
+      "id": "7d3058de716a3ef3",
+      "date": 1554130605148
+    },
+    {
+      "type": "edit",
+      "id": "7d3058de716a3ef3",
+      "item": {
+        "type": "markdown",
+        "id": "7d3058de716a3ef3",
+        "text": "It is throwaway prototyping and involves creating rough, even hand-sketched, drawings of an interface to use as prototypes, or models, of a design. While paper prototyping seems simple, this method of [[usability testing]] can provide a great deal of useful feedback which will result in the design of better products. This is supported by many usability professionals - [https://en.wikipedia.org/wiki/Paper_prototyping wikipedia]"
+      },
+      "date": 1554130626841
+    },
+    {
+      "type": "fork",
+      "site": "proto.institute",
+      "date": 1604672038487
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "bbf9e12b-573c-401b-9183-34afe1feaf42",
+      "text": "In [[human–computer interaction]], __paper prototyping__ is a widely used method in the [[user-centered design]], a process that helps developers to create software that meets the user's expectations and needs—in this case, especially for [[user interface design]] and [[usability testing]] [[user interface]]s. \n"
+    },
+    {
+      "type": "html",
+      "id": "e1715aba-4846-40fb-a564-d1bffcab94f1",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Paper_prototype_of_website_user_interface%2C_2015-04-16.jpg/420px-Paper_prototype_of_website_user_interface%2C_2015-04-16.jpg' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Paper_prototype_of_website_user_interface%2C_2015-04-16.jpg/420px-Paper_prototype_of_website_user_interface%2C_2015-04-16.jpg'>\n</a>\n\n<p class=caption>\nPaper prototyping in action\n- [https://commons.wikimedia.org/wiki/File:Paper_prototype_of_website_user_interface,_2015-04-16.jpg wikimedia]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "7d3058de716a3ef3",
+      "text": "It is throwaway prototyping and involves creating rough, even hand-sketched, drawings of an interface to use as prototypes, or models, of a design. While paper prototyping seems simple, this method of [[usability testing]] can provide a great deal of useful feedback which will result in the design of better products. This is supported by many usability professionals - [https://en.wikipedia.org/wiki/Paper_prototyping wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "014dadf4-34c8-4a17-ad84-c1825dcd37bc",
+      "text": "# Sections"
+    },
+    {
+      "type": "html",
+      "id": "83a3685d-dfb6-4a09-a956-f5cfe89358cd",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='History'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Paper prototyping&action=edit&section=1'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "aec15d35-3616-4d08-802a-d9b31574edce",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Benefits'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Paper prototyping&action=edit&section=2'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "html",
+      "id": "0a48960a-de61-458c-b106-323a72b6bdd0",
+      "text": "<form action='https://rest.livecode.world/mediawiki/importSection'><input name=section_title size=60 value='Usage'>\n<input name=url type=hidden value='https://en.wikipedia.org/w/index.php?title=Paper prototyping&action=edit&section=3'>\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "markdown",
+      "id": "dddd0d11-76a4-4d3f-bc1f-45b7701a2ee9",
+      "text": "# See also"
+    },
+    {
+      "type": "markdown",
+      "id": "2e8ead9c-1519-4451-a0da-1bd804c889f3",
+      "text": "- [[Prototyping]]\n- [[Software prototyping]]\n- [[User-centered design]]\n- [[Cardboard engineering]]"
+    }
+  ]
+}
