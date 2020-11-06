@@ -1,0 +1,208 @@
+{
+  "title": "Doris Kearns Goodwin",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d4ee38ca470dd549",
+      "text": "Doris Helen Kearns Goodwin (born January 4, 1943)[1] is an American biographer, historian, former sports journalist and political commentator.\n\nGoodwin has written biographies of several U.S. presidents, including Lyndon Johnson and the American Dream; The Fitzgeralds and the Kennedys: An American Saga; Team of Rivals: The Political Genius of Abraham Lincoln; and The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism. Goodwin's book No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II won the Pulitzer Prize for History in 1995 - [https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin wikipedia]"
+    },
+    {
+      "type": "video",
+      "id": "90d38e62fb481e0f",
+      "text": "\n"
+    },
+    {
+      "type": "video",
+      "id": "9f4c134f4441a32a",
+      "text": "YOUTUBE bQNYdF12j38\n\nReflections on 2020 US Elections - Leadership in Turbulent Times\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Doris Kearns Goodwin",
+        "story": []
+      },
+      "date": 1604564717788
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc2e0370c5626364"
+      },
+      "id": "cc2e0370c5626364",
+      "type": "add",
+      "date": 1604564722323
+    },
+    {
+      "type": "remove",
+      "id": "cc2e0370c5626364",
+      "date": 1604564726061
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a651c34499449af"
+      },
+      "id": "6a651c34499449af",
+      "type": "add",
+      "date": 1604564804082
+    },
+    {
+      "type": "edit",
+      "id": "6a651c34499449af",
+      "item": {
+        "type": "assets",
+        "id": "6a651c34499449af",
+        "text": "Doris Helen Kearns Goodwin (born January 4, 1943)[1] is an American biographer, historian, former sports journalist and political commentator.\n\nGoodwin has written biographies of several U.S. presidents, including Lyndon Johnson and the American Dream; The Fitzgeralds and the Kennedys: An American Saga; Team of Rivals: The Political Genius of Abraham Lincoln; and The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism. Goodwin's book No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II won the Pulitzer Prize for History in 1995."
+      },
+      "date": 1604564809589
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d4ee38ca470dd549"
+      },
+      "id": "d4ee38ca470dd549",
+      "type": "add",
+      "after": "6a651c34499449af",
+      "date": 1604564815272
+    },
+    {
+      "type": "remove",
+      "id": "6a651c34499449af",
+      "date": 1604564842476
+    },
+    {
+      "type": "edit",
+      "id": "d4ee38ca470dd549",
+      "item": {
+        "type": "paragraph",
+        "id": "d4ee38ca470dd549",
+        "text": "Doris Helen Kearns Goodwin (born January 4, 1943)[1] is an American biographer, historian, former sports journalist and political commentator.\n\nGoodwin has written biographies of several U.S. presidents, including Lyndon Johnson and the American Dream; The Fitzgeralds and the Kennedys: An American Saga; Team of Rivals: The Political Genius of Abraham Lincoln; and The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism. Goodwin's book No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II won the Pulitzer Prize for History in 1995."
+      },
+      "date": 1604564845653
+    },
+    {
+      "type": "edit",
+      "id": "d4ee38ca470dd549",
+      "item": {
+        "type": "paragraph",
+        "id": "d4ee38ca470dd549",
+        "text": "Doris Helen Kearns Goodwin (born January 4, 1943)[1] is an American biographer, historian, former sports journalist and political commentator.\n\nGoodwin has written biographies of several U.S. presidents, including Lyndon Johnson and the American Dream; The Fitzgeralds and the Kennedys: An American Saga; Team of Rivals: The Political Genius of Abraham Lincoln; and The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism. Goodwin's book No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II won the Pulitzer Prize for History in 1995.["
+      },
+      "date": 1604564883408
+    },
+    {
+      "type": "edit",
+      "id": "d4ee38ca470dd549",
+      "item": {
+        "type": "paragraph",
+        "id": "d4ee38ca470dd549",
+        "text": "Doris Helen Kearns Goodwin (born January 4, 1943)[1] is an American biographer, historian, former sports journalist and political commentator.\n\nGoodwin has written biographies of several U.S. presidents, including Lyndon Johnson and the American Dream; The Fitzgeralds and the Kennedys: An American Saga; Team of Rivals: The Political Genius of Abraham Lincoln; and The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism. Goodwin's book No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II won the Pulitzer Prize for History in 1995.[https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin Wikipedia]"
+      },
+      "date": 1604564903356
+    },
+    {
+      "type": "fork",
+      "site": "naturalcapital.greendeal.wiki",
+      "date": 1604581501962
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "90d38e62fb481e0f"
+      },
+      "id": "90d38e62fb481e0f",
+      "type": "add",
+      "after": "d4ee38ca470dd549",
+      "date": 1604661282208
+    },
+    {
+      "type": "edit",
+      "id": "90d38e62fb481e0f",
+      "item": {
+        "type": "video",
+        "id": "90d38e62fb481e0f",
+        "text": "YOUTUBE 7gRLkAyB8-o\n(double-click to edit caption)\n"
+      },
+      "date": 1604661336731
+    },
+    {
+      "type": "edit",
+      "id": "90d38e62fb481e0f",
+      "item": {
+        "type": "video",
+        "id": "90d38e62fb481e0f",
+        "text": "YOUTUBE 7gRLkAyB8-o\nReflections on 2020 US Elections\n"
+      },
+      "date": 1604661375761
+    },
+    {
+      "type": "edit",
+      "id": "90d38e62fb481e0f",
+      "item": {
+        "type": "video",
+        "id": "90d38e62fb481e0f",
+        "text": "https://www.youtube.com/watch?v=bQNYdF12j38\nReflections on 2020 US Elections - Leadership in Turbulent Times\n"
+      },
+      "date": 1604661488058
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9f4c134f4441a32a"
+      },
+      "id": "9f4c134f4441a32a",
+      "type": "add",
+      "after": "90d38e62fb481e0f",
+      "date": 1604661536654
+    },
+    {
+      "type": "edit",
+      "id": "9f4c134f4441a32a",
+      "item": {
+        "type": "video",
+        "id": "9f4c134f4441a32a",
+        "text": "YOUTUBE bQNYdF12j38\n(double-click to edit caption)\n"
+      },
+      "date": 1604661548101
+    },
+    {
+      "type": "edit",
+      "id": "90d38e62fb481e0f",
+      "item": {
+        "type": "video",
+        "id": "90d38e62fb481e0f",
+        "text": "\n"
+      },
+      "date": 1604661559664
+    },
+    {
+      "type": "edit",
+      "id": "9f4c134f4441a32a",
+      "item": {
+        "type": "video",
+        "id": "9f4c134f4441a32a",
+        "text": "YOUTUBE bQNYdF12j38\n\nReflections on 2020 US Elections - Leadership in Turbulent Times\n"
+      },
+      "date": 1604661564488
+    },
+    {
+      "type": "fork",
+      "site": "leadershipof2050.greendeal.wiki",
+      "date": 1604669085616
+    },
+    {
+      "type": "edit",
+      "id": "d4ee38ca470dd549",
+      "item": {
+        "type": "paragraph",
+        "id": "d4ee38ca470dd549",
+        "text": "Doris Helen Kearns Goodwin (born January 4, 1943)[1] is an American biographer, historian, former sports journalist and political commentator.\n\nGoodwin has written biographies of several U.S. presidents, including Lyndon Johnson and the American Dream; The Fitzgeralds and the Kennedys: An American Saga; Team of Rivals: The Political Genius of Abraham Lincoln; and The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism. Goodwin's book No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II won the Pulitzer Prize for History in 1995 - [https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin wikipedia]"
+      },
+      "date": 1604669128465
+    }
+  ]
+}

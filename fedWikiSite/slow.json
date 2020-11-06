@@ -1,0 +1,294 @@
+{
+  "title": "Slow",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "ac85082c33f47edd",
+      "text": "Here we gather writing and thinking in wiki about what it means to think slowly:"
+    },
+    {
+      "type": "reference",
+      "id": "65f0f09b2600b17f",
+      "site": "outlandish.academy",
+      "slug": "thoughtful-dialogue",
+      "title": "Thoughtful Dialogue",
+      "text": "A __Thoughtful Dialogue__ is a rare thing. There is a great deal of writing, and comment. There is chat. But much if not all of this is a barely disguised battle of egos, so much so that many economists and theoreticians of democracy view this as a fundamental natural law - the [[Law of Competition]]."
+    },
+    {
+      "type": "reference",
+      "id": "cc5db493bcb7d628",
+      "site": "found.ward.bay.wiki.org",
+      "slug": "hearts-beating-fast-and-slow",
+      "title": "Hearts Beating, Fast and Slow",
+      "text": "The strange story of an unlikely crew of people who band together to take on one of the worlds' largest problems using nothing but whale sounds, machine learning, and a willingness to think outside the box. [https://www.npr.org/transcripts/809336135 npr]"
+    },
+    {
+      "type": "reference",
+      "id": "d6514f5ccdd86d7a",
+      "site": "forage.ward.fed.wiki.org",
+      "slug": "slow-ideas",
+      "title": "Slow Ideas",
+      "text": "Some innovations spread fast. How do you speed the ones that don’t? By Atul Gawande. [http://www.newyorker.com/magazine/2013/07/29/slow-ideas newyorker]"
+    },
+    {
+      "type": "reference",
+      "id": "3dc18a87871d5060",
+      "site": "journal-hapgood-net-paul90.hashbase.io",
+      "slug": "slow-hunch",
+      "title": "Slow Hunch",
+      "text": "Slowhunch.com is a new, open source web app and \"innovation community\" inspired by Steven Johnson's new book entitled, Where Good Ideas Come From."
+    },
+    {
+      "type": "reference",
+      "id": "892f689dcce188f1",
+      "site": "wiki.sfw.c2.com",
+      "slug": "wiki-slow",
+      "title": "Wiki Slow",
+      "text": "[[Wiki Slow]] is a Wiki concept regarding the style of editing. Page created by [[Manorainjan Holzapfel]] 10/2014"
+    },
+    {
+      "type": "reference",
+      "id": "19914a3e627151aa",
+      "site": "wiki.parliamentofthings.org",
+      "slug": "slow-hunch",
+      "title": "Slow Hunch",
+      "text": "In Good Ideas, Steven suggests:"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Slow",
+        "story": []
+      },
+      "date": 1604669562759
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "892f689dcce188f1"
+      },
+      "id": "892f689dcce188f1",
+      "type": "add",
+      "date": 1604669566302
+    },
+    {
+      "type": "edit",
+      "id": "892f689dcce188f1",
+      "item": {
+        "type": "reference",
+        "id": "892f689dcce188f1",
+        "site": "wiki.sfw.c2.com",
+        "slug": "wiki-slow",
+        "title": "Wiki Slow",
+        "text": "[[Wiki Slow]] is a Wiki concept regarding the style of editing. Page created by [[Manorainjan Holzapfel]] 10/2014"
+      },
+      "date": 1604669568297
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc5db493bcb7d628"
+      },
+      "id": "cc5db493bcb7d628",
+      "type": "add",
+      "after": "892f689dcce188f1",
+      "date": 1604669569359
+    },
+    {
+      "type": "edit",
+      "id": "cc5db493bcb7d628",
+      "item": {
+        "type": "reference",
+        "id": "cc5db493bcb7d628",
+        "site": "found.ward.bay.wiki.org",
+        "slug": "hearts-beating-fast-and-slow",
+        "title": "Hearts Beating, Fast and Slow",
+        "text": "The strange story of an unlikely crew of people who band together to take on one of the worlds' largest problems using nothing but whale sounds, machine learning, and a willingness to think outside the box. [https://www.npr.org/transcripts/809336135 npr]"
+      },
+      "date": 1604669573029
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d6514f5ccdd86d7a"
+      },
+      "id": "d6514f5ccdd86d7a",
+      "type": "add",
+      "after": "cc5db493bcb7d628",
+      "date": 1604669574045
+    },
+    {
+      "type": "edit",
+      "id": "d6514f5ccdd86d7a",
+      "item": {
+        "type": "reference",
+        "id": "d6514f5ccdd86d7a",
+        "site": "forage.ward.fed.wiki.org",
+        "slug": "slow-ideas",
+        "title": "Slow Ideas",
+        "text": "Some innovations spread fast. How do you speed the ones that don’t? By Atul Gawande. [http://www.newyorker.com/magazine/2013/07/29/slow-ideas newyorker]"
+      },
+      "date": 1604669577627
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3dc18a87871d5060"
+      },
+      "id": "3dc18a87871d5060",
+      "type": "add",
+      "after": "d6514f5ccdd86d7a",
+      "date": 1604669585272
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "19914a3e627151aa"
+      },
+      "id": "19914a3e627151aa",
+      "type": "add",
+      "after": "3dc18a87871d5060",
+      "date": 1604669593630
+    },
+    {
+      "type": "edit",
+      "id": "19914a3e627151aa",
+      "item": {
+        "type": "reference",
+        "id": "19914a3e627151aa",
+        "site": "wiki.parliamentofthings.org",
+        "slug": "slow-hunch",
+        "title": "Slow Hunch",
+        "text": "In Good Ideas, Steven suggests:"
+      },
+      "date": 1604669597162
+    },
+    {
+      "type": "edit",
+      "id": "3dc18a87871d5060",
+      "item": {
+        "type": "reference",
+        "id": "3dc18a87871d5060",
+        "site": "journal-hapgood-net-paul90.hashbase.io",
+        "slug": "slow-hunch",
+        "title": "Slow Hunch",
+        "text": "Slowhunch.com is a new, open source web app and \"innovation community\" inspired by Steven Johnson's new book entitled, Where Good Ideas Come From."
+      },
+      "date": 1604669598151
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ac85082c33f47edd"
+      },
+      "id": "ac85082c33f47edd",
+      "type": "add",
+      "after": "19914a3e627151aa",
+      "date": 1604669605855
+    },
+    {
+      "id": "ac85082c33f47edd",
+      "type": "move",
+      "order": [
+        "ac85082c33f47edd",
+        "892f689dcce188f1",
+        "cc5db493bcb7d628",
+        "d6514f5ccdd86d7a",
+        "3dc18a87871d5060",
+        "19914a3e627151aa"
+      ],
+      "date": 1604669607898
+    },
+    {
+      "type": "edit",
+      "id": "ac85082c33f47edd",
+      "item": {
+        "type": "markdown",
+        "id": "ac85082c33f47edd",
+        "text": "Here we gather writing and thinking in wiki about what it means to think slowly:"
+      },
+      "date": 1604669650749
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "65f0f09b2600b17f"
+      },
+      "id": "65f0f09b2600b17f",
+      "type": "add",
+      "after": "19914a3e627151aa",
+      "date": 1604669764556
+    },
+    {
+      "type": "edit",
+      "id": "65f0f09b2600b17f",
+      "item": {
+        "type": "reference",
+        "id": "65f0f09b2600b17f",
+        "site": "outlandish.academy",
+        "slug": "thoughtful-dialogue",
+        "title": "Thoughtful Dialogue",
+        "text": "A __Thoughtful Dialogue__ is a rare thing. There is a great deal of writing, and comment. There is chat. But much if not all of this is a barely disguised battle of egos, so much so that many economists and theoreticians of democracy view this as a fundamental natural law - the [[Law of Competition]]."
+      },
+      "date": 1604669766552
+    },
+    {
+      "id": "65f0f09b2600b17f",
+      "type": "move",
+      "order": [
+        "ac85082c33f47edd",
+        "65f0f09b2600b17f",
+        "892f689dcce188f1",
+        "cc5db493bcb7d628",
+        "d6514f5ccdd86d7a",
+        "3dc18a87871d5060",
+        "19914a3e627151aa"
+      ],
+      "date": 1604669769203
+    },
+    {
+      "id": "cc5db493bcb7d628",
+      "type": "move",
+      "order": [
+        "ac85082c33f47edd",
+        "65f0f09b2600b17f",
+        "cc5db493bcb7d628",
+        "892f689dcce188f1",
+        "d6514f5ccdd86d7a",
+        "3dc18a87871d5060",
+        "19914a3e627151aa"
+      ],
+      "date": 1604669772753
+    },
+    {
+      "id": "d6514f5ccdd86d7a",
+      "type": "move",
+      "order": [
+        "ac85082c33f47edd",
+        "65f0f09b2600b17f",
+        "cc5db493bcb7d628",
+        "d6514f5ccdd86d7a",
+        "892f689dcce188f1",
+        "3dc18a87871d5060",
+        "19914a3e627151aa"
+      ],
+      "date": 1604669775579
+    },
+    {
+      "id": "3dc18a87871d5060",
+      "type": "move",
+      "order": [
+        "ac85082c33f47edd",
+        "65f0f09b2600b17f",
+        "cc5db493bcb7d628",
+        "d6514f5ccdd86d7a",
+        "3dc18a87871d5060",
+        "892f689dcce188f1",
+        "19914a3e627151aa"
+      ],
+      "date": 1604669777120
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "title": "Hannah Arendt",
+  "journal": [
+    {
+      "date": 1603717232828,
+      "item": {
+        "title": "Hannah Arendt",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1603717445674
+    },
+    {
+      "type": "edit",
+      "id": "59d67deb-eabd-4b66-8b14-bf7237c138b1",
+      "item": {
+        "id": "59d67deb-eabd-4b66-8b14-bf7237c138b1",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/8/8f/Hannah_Arendt_1975_%28cropped%29.jpg' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/8/8f/Hannah_Arendt_1975_%28cropped%29.jpg'>\n</a>\n\n<p class=caption>\n[[Hannah Arendt]]. German-American Jewish philosopher and political theorist\n- [https://upload.wikimedia.org/wikipedia/commons/8/8f/Hannah_Arendt_1975_%28cropped%29.jpg wikimedia]\n</p></div>"
+      },
+      "date": 1603717472598
+    },
+    {
+      "type": "edit",
+      "id": "1f14467f-698b-46c0-afa9-c99b8d5d5354",
+      "item": {
+        "id": "1f14467f-698b-46c0-afa9-c99b8d5d5354",
+        "type": "markdown",
+        "text": "Arendt was born in [[Linden-Limmer]] in 1906, to a [[Jewish]] family. At the age of three, her family moved to Königsberg, the capital of East Prussia, so that her father's [[syphilis]] could be treated. Paul Arendt had contracted the disease in his youth, and it was thought to be in remission when Arendt was born. He died when she was seven. \n"
+      },
+      "date": 1603717497490
+    },
+    {
+      "type": "add",
+      "id": "eb0e502674b62a25",
+      "item": {
+        "type": "markdown",
+        "id": "eb0e502674b62a25",
+        "text": "Arendt was raised in a politically progressive, secular family. Her mother was an ardent supporter of the [[Social Democratic Party of Germany]]. After completing her secondary education in Berlin, she studied at the [[University of Marburg]] under [[Martin Heidegger]], with whom she had a brief affair. She obtained her doctorate in philosophy writing on ''Love and Saint Augustine'' at the [[University of Heidelberg]] in 1929 under the direction of the [[Existentialism]] philosopher, [[Karl Jaspers]]."
+      },
+      "after": "1f14467f-698b-46c0-afa9-c99b8d5d5354",
+      "date": 1603717500885
+    },
+    {
+      "type": "edit",
+      "id": "e7d8effe-6fb0-4af4-a421-8d5bb30f794b",
+      "item": {
+        "id": "e7d8effe-6fb0-4af4-a421-8d5bb30f794b",
+        "type": "markdown",
+        "text": "Hannah Arendt married [[Günther Stern]] in 1929, but soon began to encounter increasing [[antisemitism]] in 1930s [[Nazi Germany]]. [[Adolf Hitler]] came to power in 1933, and while researching antisemitic propaganda for the [[Zionist Federation of Germany]] in Berlin that year, Arendt was arrested for collected antisemitic research at the Prussian State Library and briefly imprisoned by the [[Gestapo]]. \n"
+      },
+      "date": 1603717547749
+    },
+    {
+      "type": "add",
+      "id": "419e920cd38d2c0f",
+      "item": {
+        "type": "markdown",
+        "id": "419e920cd38d2c0f",
+        "text": "On release, she fled Germany, living in Czechoslovakia and Switzerland before settling in Paris. There she worked for [[Youth Aliyah]], assisting young Jews to emigrate to the [[Mandatory Palestine]] (now [[Israel]]). \n"
+      },
+      "after": "e7d8effe-6fb0-4af4-a421-8d5bb30f794b",
+      "date": 1603717567071
+    },
+    {
+      "type": "add",
+      "id": "2d81aa513ba64637",
+      "item": {
+        "type": "markdown",
+        "id": "2d81aa513ba64637",
+        "text": "Divorcing Stern in 1937, she married [[Heinrich Blücher]] in 1940, but when Germany invaded France in 1940 she was detained by the French as an alien, despite having been stripped of her [[German citizenship]] in 1937. \n"
+      },
+      "after": "419e920cd38d2c0f",
+      "date": 1603717588966
+    },
+    {
+      "type": "add",
+      "id": "91d0685b1c420438",
+      "item": {
+        "type": "markdown",
+        "id": "91d0685b1c420438",
+        "text": "She escaped and made her way to the United States in 1941 via Portugal. She settled in New York, which remained her principal residence for the rest of her life. She became a writer and editor and worked for the [[Jewish Cultural Reconstruction]], becoming an American citizen in 1950. \n"
+      },
+      "after": "2d81aa513ba64637",
+      "date": 1603717603786
+    },
+    {
+      "type": "add",
+      "id": "d4baa637f5817a7d",
+      "item": {
+        "type": "markdown",
+        "id": "d4baa637f5817a7d",
+        "text": "With the publication of [[The Origins of Totalitarianism]] in 1951, her reputation as a thinker and writer was established and a series of works followed. These included the books [[The Human Condition (book)]] in 1958, as well as [[Eichmann in Jerusalem]] and [[On Revolution]] in 1963. \n"
+      },
+      "after": "91d0685b1c420438",
+      "date": 1603717637510
+    },
+    {
+      "type": "edit",
+      "id": "d4baa637f5817a7d",
+      "item": {
+        "type": "markdown",
+        "id": "d4baa637f5817a7d",
+        "text": "With the publication of [[The Origins of Totalitarianism]] in 1951, her reputation as a thinker and writer was established and a series of works followed. These included the books [[The Human Condition (book)]] in 1958, as well as [[Eichmann in Jerusalem]] and [[On Revolution]] in 1963. She taught at many American universities, while declining [[tenure-track]] appointments. She died suddenly of a [[Myocardial infarction]] in 1975, at the age of 69, leaving her last work, [[The Life of the Mind]], unfinished."
+      },
+      "date": 1603717660872
+    },
+    {
+      "type": "edit",
+      "id": "da367982-9f2c-4883-b553-5b16924c4a1b",
+      "item": {
+        "id": "da367982-9f2c-4883-b553-5b16924c4a1b",
+        "type": "markdown",
+        "text": "Her works cover a broad range of topics, but she is best known for those dealing with the nature of [[power (sociology)]] and [[evil]], as well as politics, [[direct democracy]], [[authority]], and totalitarianism. \n"
+      },
+      "date": 1603717680404
+    },
+    {
+      "type": "add",
+      "id": "d631aa47873f99cd",
+      "item": {
+        "type": "markdown",
+        "id": "d631aa47873f99cd",
+        "text": "In the popular mind she is best remembered for the controversy surrounding the trial of [[Adolf Eichmann]], her attempt to explain how ordinary people become actors in totalitarian systems, which was considered by some an [[apologia]], and for the phrase \"[[the banality of evil]]\". \n"
+      },
+      "after": "da367982-9f2c-4883-b553-5b16924c4a1b",
+      "date": 1603717697404
+    },
+    {
+      "type": "add",
+      "id": "2f75b7f6f4e06b3b",
+      "item": {
+        "type": "markdown",
+        "id": "2f75b7f6f4e06b3b",
+        "text": "She is commemorated by institutions and journals devoted to her thinking, the [[Hannah Arendt Prize]] for political thinking, and on stamps, street names and schools, amongst other things."
+      },
+      "after": "d631aa47873f99cd",
+      "date": 1603717702466
+    },
+    {
+      "id": "26f532c9-5539-42a9-a83c-e2d089bf90be",
+      "type": "add",
+      "item": {
+        "id": "26f532c9-5539-42a9-a83c-e2d089bf90be",
+        "type": "markdown",
+        "text": "# Work"
+      },
+      "after": "2f75b7f6f4e06b3b",
+      "date": 1603717942114
+    },
+    {
+      "id": "6672aafd-917e-4456-8366-589bfb4ec653",
+      "type": "add",
+      "item": {
+        "id": "6672aafd-917e-4456-8366-589bfb4ec653",
+        "type": "markdown",
+        "text": "Arendt wrote works on intellectual history as a philosopher, using events and actions to develop insights into contemporary [[totalitarian]] movements and the threat to human freedom presented by scientific abstraction and bourgeois morality. Intellectually, she was an independent thinker, a loner not a \"joiner\", separating herself from schools of thought or ideology - [https://en.wikipedia.org/wiki/Hannah_Arendt#Work wikipedia]"
+      },
+      "after": "26f532c9-5539-42a9-a83c-e2d089bf90be",
+      "date": 1603717943731
+    },
+    {
+      "id": "41ce5f3f-7243-475a-b233-df797d06599f",
+      "type": "add",
+      "item": {
+        "id": "41ce5f3f-7243-475a-b233-df797d06599f",
+        "type": "markdown",
+        "text": "''Crises of the Republic'' In \"On Violence\" Arendt substantiates that violence presupposes power which she understands as a property of groups. Thus, she breaks with the predominant conception of power as derived from violence - [https://en.wikipedia.org/wiki/Hannah_Arendt#<i>Crises_of_the_Republic</i>_(1972) wikipedia]"
+      },
+      "after": "6672aafd-917e-4456-8366-589bfb4ec653",
+      "date": 1603718101728
+    },
+    {
+      "type": "edit",
+      "id": "41ce5f3f-7243-475a-b233-df797d06599f",
+      "item": {
+        "id": "41ce5f3f-7243-475a-b233-df797d06599f",
+        "type": "markdown",
+        "text": "[[Crises of the Republic]] In \"On Violence\" Arendt substantiates that violence presupposes power which she understands as a property of groups. Thus, she breaks with the predominant conception of power as derived from violence - [https://en.wikipedia.org/wiki/Hannah_Arendt#<i>Crises_of_the_Republic</i>_(1972) wikipedia]"
+      },
+      "date": 1603718314296
+    },
+    {
+      "id": "f902e2a8-f1b4-4fd6-92b4-e97d08ebbb74",
+      "type": "add",
+      "item": {
+        "id": "f902e2a8-f1b4-4fd6-92b4-e97d08ebbb74",
+        "type": "html",
+        "text": "<img src=\"https://ichef.bbci.co.uk/images/ic/1200x675/p04qv619.jpg\" width=100%>"
+      },
+      "after": "42eb859c-b4ce-4b19-87d5-06a03b6c3cfb",
+      "date": 1603726540282
+    },
+    {
+      "id": "da9bf724-97a7-4ad7-8bdf-f953d0234317",
+      "type": "add",
+      "item": {
+        "id": "da9bf724-97a7-4ad7-8bdf-f953d0234317",
+        "type": "audio",
+        "text": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p06k5yyv.mp3\nBBC Radio 4 - In Our Time, Hannah Arendt (Summer Repeat)"
+      },
+      "after": "f902e2a8-f1b4-4fd6-92b4-e97d08ebbb74",
+      "date": 1603726542797
+    },
+    {
+      "type": "edit",
+      "id": "da9bf724-97a7-4ad7-8bdf-f953d0234317",
+      "item": {
+        "id": "da9bf724-97a7-4ad7-8bdf-f953d0234317",
+        "type": "audio",
+        "text": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p06k5yyv.mp3\nBBC Radio 4 - In Our Time, Hannah Arendt (Summer Repeat). Melvyn Bragg and guests discuss the ideas of Hannah Arendt, political philosopher - [https://www.bbc.co.uk/programmes/p06k5zkq bbc]"
+      },
+      "date": 1603726592025
+    },
+    {
+      "id": "1f14467f-698b-46c0-afa9-c99b8d5d5354",
+      "type": "move",
+      "order": [
+        "42eb859c-b4ce-4b19-87d5-06a03b6c3cfb",
+        "f902e2a8-f1b4-4fd6-92b4-e97d08ebbb74",
+        "da9bf724-97a7-4ad7-8bdf-f953d0234317",
+        "1f14467f-698b-46c0-afa9-c99b8d5d5354",
+        "59d67deb-eabd-4b66-8b14-bf7237c138b1",
+        "eb0e502674b62a25",
+        "e7d8effe-6fb0-4af4-a421-8d5bb30f794b",
+        "419e920cd38d2c0f",
+        "2d81aa513ba64637",
+        "91d0685b1c420438",
+        "d4baa637f5817a7d",
+        "da367982-9f2c-4883-b553-5b16924c4a1b",
+        "d631aa47873f99cd",
+        "2f75b7f6f4e06b3b",
+        "26f532c9-5539-42a9-a83c-e2d089bf90be",
+        "6672aafd-917e-4456-8366-589bfb4ec653",
+        "41ce5f3f-7243-475a-b233-df797d06599f",
+        "d7d359d2-bce6-4897-8525-e4c70a542dbb",
+        "3b318f53-d0e3-406f-ab39-4627083dfbd7",
+        "ba38aa19-4830-4baf-b022-4edbdc54361e",
+        "567120b8-8e76-4fb7-b9a3-9708de89e68e",
+        "8c35b722-a718-43fe-a8b2-2da7a91d2645",
+        "161b38ad-a478-4f60-9a7d-a53132255d0e",
+        "6eab7452-9cc7-40bb-92cc-e772a0341792",
+        "af1c6f94-418d-48c0-b785-e0eb6054ee95",
+        "9d0be646-c0c6-4adc-8454-f9fe1003f5a3",
+        "8d4ac88d-ecfd-4a2f-8ac3-9bb007f2f788",
+        "0aa2c43b-df3c-41f7-8378-107910216a2d",
+        "1dd4244a-30de-4674-87e8-cc814d1b81c1",
+        "a8b2f27d-d7fc-4a3e-82ff-4677ca5b914c"
+      ],
+      "date": 1603726597275
+    },
+    {
+      "id": "1f14467f-698b-46c0-afa9-c99b8d5d5354",
+      "type": "move",
+      "order": [
+        "42eb859c-b4ce-4b19-87d5-06a03b6c3cfb",
+        "f902e2a8-f1b4-4fd6-92b4-e97d08ebbb74",
+        "1f14467f-698b-46c0-afa9-c99b8d5d5354",
+        "da9bf724-97a7-4ad7-8bdf-f953d0234317",
+        "59d67deb-eabd-4b66-8b14-bf7237c138b1",
+        "eb0e502674b62a25",
+        "e7d8effe-6fb0-4af4-a421-8d5bb30f794b",
+        "419e920cd38d2c0f",
+        "2d81aa513ba64637",
+        "91d0685b1c420438",
+        "d4baa637f5817a7d",
+        "da367982-9f2c-4883-b553-5b16924c4a1b",
+        "d631aa47873f99cd",
+        "2f75b7f6f4e06b3b",
+        "26f532c9-5539-42a9-a83c-e2d089bf90be",
+        "6672aafd-917e-4456-8366-589bfb4ec653",
+        "41ce5f3f-7243-475a-b233-df797d06599f",
+        "d7d359d2-bce6-4897-8525-e4c70a542dbb",
+        "3b318f53-d0e3-406f-ab39-4627083dfbd7",
+        "ba38aa19-4830-4baf-b022-4edbdc54361e",
+        "567120b8-8e76-4fb7-b9a3-9708de89e68e",
+        "8c35b722-a718-43fe-a8b2-2da7a91d2645",
+        "161b38ad-a478-4f60-9a7d-a53132255d0e",
+        "6eab7452-9cc7-40bb-92cc-e772a0341792",
+        "af1c6f94-418d-48c0-b785-e0eb6054ee95",
+        "9d0be646-c0c6-4adc-8454-f9fe1003f5a3",
+        "8d4ac88d-ecfd-4a2f-8ac3-9bb007f2f788",
+        "0aa2c43b-df3c-41f7-8378-107910216a2d",
+        "1dd4244a-30de-4674-87e8-cc814d1b81c1",
+        "a8b2f27d-d7fc-4a3e-82ff-4677ca5b914c"
+      ],
+      "date": 1603726600070
+    },
+    {
+      "id": "eb0e502674b62a25",
+      "type": "move",
+      "order": [
+        "42eb859c-b4ce-4b19-87d5-06a03b6c3cfb",
+        "f902e2a8-f1b4-4fd6-92b4-e97d08ebbb74",
+        "1f14467f-698b-46c0-afa9-c99b8d5d5354",
+        "eb0e502674b62a25",
+        "da9bf724-97a7-4ad7-8bdf-f953d0234317",
+        "59d67deb-eabd-4b66-8b14-bf7237c138b1",
+        "e7d8effe-6fb0-4af4-a421-8d5bb30f794b",
+        "419e920cd38d2c0f",
+        "2d81aa513ba64637",
+        "91d0685b1c420438",
+        "d4baa637f5817a7d",
+        "da367982-9f2c-4883-b553-5b16924c4a1b",
+        "d631aa47873f99cd",
+        "2f75b7f6f4e06b3b",
+        "26f532c9-5539-42a9-a83c-e2d089bf90be",
+        "6672aafd-917e-4456-8366-589bfb4ec653",
+        "41ce5f3f-7243-475a-b233-df797d06599f",
+        "d7d359d2-bce6-4897-8525-e4c70a542dbb",
+        "3b318f53-d0e3-406f-ab39-4627083dfbd7",
+        "ba38aa19-4830-4baf-b022-4edbdc54361e",
+        "567120b8-8e76-4fb7-b9a3-9708de89e68e",
+        "8c35b722-a718-43fe-a8b2-2da7a91d2645",
+        "161b38ad-a478-4f60-9a7d-a53132255d0e",
+        "6eab7452-9cc7-40bb-92cc-e772a0341792",
+        "af1c6f94-418d-48c0-b785-e0eb6054ee95",
+        "9d0be646-c0c6-4adc-8454-f9fe1003f5a3",
+        "8d4ac88d-ecfd-4a2f-8ac3-9bb007f2f788",
+        "0aa2c43b-df3c-41f7-8378-107910216a2d",
+        "1dd4244a-30de-4674-87e8-cc814d1b81c1",
+        "a8b2f27d-d7fc-4a3e-82ff-4677ca5b914c"
+      ],
+      "date": 1603726608919
+    },
+    {
+      "id": "e7d8effe-6fb0-4af4-a421-8d5bb30f794b",
+      "type": "move",
+      "order": [
+        "42eb859c-b4ce-4b19-87d5-06a03b6c3cfb",
+        "f902e2a8-f1b4-4fd6-92b4-e97d08ebbb74",
+        "1f14467f-698b-46c0-afa9-c99b8d5d5354",
+        "eb0e502674b62a25",
+        "da9bf724-97a7-4ad7-8bdf-f953d0234317",
+        "e7d8effe-6fb0-4af4-a421-8d5bb30f794b",
+        "59d67deb-eabd-4b66-8b14-bf7237c138b1",
+        "419e920cd38d2c0f",
+        "2d81aa513ba64637",
+        "91d0685b1c420438",
+        "d4baa637f5817a7d",
+        "da367982-9f2c-4883-b553-5b16924c4a1b",
+        "d631aa47873f99cd",
+        "2f75b7f6f4e06b3b",
+        "26f532c9-5539-42a9-a83c-e2d089bf90be",
+        "6672aafd-917e-4456-8366-589bfb4ec653",
+        "41ce5f3f-7243-475a-b233-df797d06599f",
+        "d7d359d2-bce6-4897-8525-e4c70a542dbb",
+        "3b318f53-d0e3-406f-ab39-4627083dfbd7",
+        "ba38aa19-4830-4baf-b022-4edbdc54361e",
+        "567120b8-8e76-4fb7-b9a3-9708de89e68e",
+        "8c35b722-a718-43fe-a8b2-2da7a91d2645",
+        "161b38ad-a478-4f60-9a7d-a53132255d0e",
+        "6eab7452-9cc7-40bb-92cc-e772a0341792",
+        "af1c6f94-418d-48c0-b785-e0eb6054ee95",
+        "9d0be646-c0c6-4adc-8454-f9fe1003f5a3",
+        "8d4ac88d-ecfd-4a2f-8ac3-9bb007f2f788",
+        "0aa2c43b-df3c-41f7-8378-107910216a2d",
+        "1dd4244a-30de-4674-87e8-cc814d1b81c1",
+        "a8b2f27d-d7fc-4a3e-82ff-4677ca5b914c"
+      ],
+      "date": 1603726615144
+    },
+    {
+      "id": "419e920cd38d2c0f",
+      "type": "move",
+      "order": [
+        "42eb859c-b4ce-4b19-87d5-06a03b6c3cfb",
+        "f902e2a8-f1b4-4fd6-92b4-e97d08ebbb74",
+        "1f14467f-698b-46c0-afa9-c99b8d5d5354",
+        "eb0e502674b62a25",
+        "da9bf724-97a7-4ad7-8bdf-f953d0234317",
+        "e7d8effe-6fb0-4af4-a421-8d5bb30f794b",
+        "419e920cd38d2c0f",
+        "59d67deb-eabd-4b66-8b14-bf7237c138b1",
+        "2d81aa513ba64637",
+        "91d0685b1c420438",
+        "d4baa637f5817a7d",
+        "da367982-9f2c-4883-b553-5b16924c4a1b",
+        "d631aa47873f99cd",
+        "2f75b7f6f4e06b3b",
+        "26f532c9-5539-42a9-a83c-e2d089bf90be",
+        "6672aafd-917e-4456-8366-589bfb4ec653",
+        "41ce5f3f-7243-475a-b233-df797d06599f",
+        "d7d359d2-bce6-4897-8525-e4c70a542dbb",
+        "3b318f53-d0e3-406f-ab39-4627083dfbd7",
+        "ba38aa19-4830-4baf-b022-4edbdc54361e",
+        "567120b8-8e76-4fb7-b9a3-9708de89e68e",
+        "8c35b722-a718-43fe-a8b2-2da7a91d2645",
+        "161b38ad-a478-4f60-9a7d-a53132255d0e",
+        "6eab7452-9cc7-40bb-92cc-e772a0341792",
+        "af1c6f94-418d-48c0-b785-e0eb6054ee95",
+        "9d0be646-c0c6-4adc-8454-f9fe1003f5a3",
+        "8d4ac88d-ecfd-4a2f-8ac3-9bb007f2f788",
+        "0aa2c43b-df3c-41f7-8378-107910216a2d",
+        "1dd4244a-30de-4674-87e8-cc814d1b81c1",
+        "a8b2f27d-d7fc-4a3e-82ff-4677ca5b914c"
+      ],
+      "date": 1603726620604
+    },
+    {
+      "type": "fork",
+      "site": "thought.garden",
+      "date": 1603727039379
+    },
+    {
+      "type": "fork",
+      "site": "david.dojo.fed.wiki",
+      "date": 1603788251444
+    },
+    {
+      "type": "edit",
+      "id": "42eb859c-b4ce-4b19-87d5-06a03b6c3cfb",
+      "item": {
+        "id": "42eb859c-b4ce-4b19-87d5-06a03b6c3cfb",
+        "type": "markdown",
+        "text": "__Hannah Arendt__ ( 14 October 1906– 4 December 1975), was a German-born American political philosopher. Her many books and articles have had a lasting influence on political theory and philosophy. Arendt is widely considered one of the most important political thinkers of the 20th century - [https://en.wikipedia.org/wiki/Hannah_Arendt wikipedia]\n"
+      },
+      "date": 1604131293154
+    },
+    {
+      "type": "fork",
+      "site": "ims.dojo.fed.wiki",
+      "date": 1604564585410
+    },
+    {
+      "type": "fork",
+      "site": "naturalcapital.greendeal.wiki",
+      "date": 1604669071216
+    }
+  ],
+  "story": [
+    {
+      "id": "42eb859c-b4ce-4b19-87d5-06a03b6c3cfb",
+      "type": "markdown",
+      "text": "__Hannah Arendt__ ( 14 October 1906– 4 December 1975), was a German-born American political philosopher. Her many books and articles have had a lasting influence on political theory and philosophy. Arendt is widely considered one of the most important political thinkers of the 20th century - [https://en.wikipedia.org/wiki/Hannah_Arendt wikipedia]\n"
+    },
+    {
+      "id": "f902e2a8-f1b4-4fd6-92b4-e97d08ebbb74",
+      "type": "html",
+      "text": "<img src=\"https://ichef.bbci.co.uk/images/ic/1200x675/p04qv619.jpg\" width=100%>"
+    },
+    {
+      "id": "1f14467f-698b-46c0-afa9-c99b8d5d5354",
+      "type": "markdown",
+      "text": "Arendt was born in [[Linden-Limmer]] in 1906, to a [[Jewish]] family. At the age of three, her family moved to Königsberg, the capital of East Prussia, so that her father's [[syphilis]] could be treated. Paul Arendt had contracted the disease in his youth, and it was thought to be in remission when Arendt was born. He died when she was seven. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "eb0e502674b62a25",
+      "text": "Arendt was raised in a politically progressive, secular family. Her mother was an ardent supporter of the [[Social Democratic Party of Germany]]. After completing her secondary education in Berlin, she studied at the [[University of Marburg]] under [[Martin Heidegger]], with whom she had a brief affair. She obtained her doctorate in philosophy writing on ''Love and Saint Augustine'' at the [[University of Heidelberg]] in 1929 under the direction of the [[Existentialism]] philosopher, [[Karl Jaspers]]."
+    },
+    {
+      "id": "da9bf724-97a7-4ad7-8bdf-f953d0234317",
+      "type": "audio",
+      "text": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p06k5yyv.mp3\nBBC Radio 4 - In Our Time, Hannah Arendt (Summer Repeat). Melvyn Bragg and guests discuss the ideas of Hannah Arendt, political philosopher - [https://www.bbc.co.uk/programmes/p06k5zkq bbc]"
+    },
+    {
+      "id": "e7d8effe-6fb0-4af4-a421-8d5bb30f794b",
+      "type": "markdown",
+      "text": "Hannah Arendt married [[Günther Stern]] in 1929, but soon began to encounter increasing [[antisemitism]] in 1930s [[Nazi Germany]]. [[Adolf Hitler]] came to power in 1933, and while researching antisemitic propaganda for the [[Zionist Federation of Germany]] in Berlin that year, Arendt was arrested for collected antisemitic research at the Prussian State Library and briefly imprisoned by the [[Gestapo]]. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "419e920cd38d2c0f",
+      "text": "On release, she fled Germany, living in Czechoslovakia and Switzerland before settling in Paris. There she worked for [[Youth Aliyah]], assisting young Jews to emigrate to the [[Mandatory Palestine]] (now [[Israel]]). \n"
+    },
+    {
+      "id": "59d67deb-eabd-4b66-8b14-bf7237c138b1",
+      "type": "html",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/8/8f/Hannah_Arendt_1975_%28cropped%29.jpg' target='_blank'>\n<img style='display:block; margin:auto; width:100%;'\nsrc='https://upload.wikimedia.org/wikipedia/commons/8/8f/Hannah_Arendt_1975_%28cropped%29.jpg'>\n</a>\n\n<p class=caption>\n[[Hannah Arendt]]. German-American Jewish philosopher and political theorist\n- [https://upload.wikimedia.org/wikipedia/commons/8/8f/Hannah_Arendt_1975_%28cropped%29.jpg wikimedia]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "2d81aa513ba64637",
+      "text": "Divorcing Stern in 1937, she married [[Heinrich Blücher]] in 1940, but when Germany invaded France in 1940 she was detained by the French as an alien, despite having been stripped of her [[German citizenship]] in 1937. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "91d0685b1c420438",
+      "text": "She escaped and made her way to the United States in 1941 via Portugal. She settled in New York, which remained her principal residence for the rest of her life. She became a writer and editor and worked for the [[Jewish Cultural Reconstruction]], becoming an American citizen in 1950. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "d4baa637f5817a7d",
+      "text": "With the publication of [[The Origins of Totalitarianism]] in 1951, her reputation as a thinker and writer was established and a series of works followed. These included the books [[The Human Condition (book)]] in 1958, as well as [[Eichmann in Jerusalem]] and [[On Revolution]] in 1963. She taught at many American universities, while declining [[tenure-track]] appointments. She died suddenly of a [[Myocardial infarction]] in 1975, at the age of 69, leaving her last work, [[The Life of the Mind]], unfinished."
+    },
+    {
+      "id": "da367982-9f2c-4883-b553-5b16924c4a1b",
+      "type": "markdown",
+      "text": "Her works cover a broad range of topics, but she is best known for those dealing with the nature of [[power (sociology)]] and [[evil]], as well as politics, [[direct democracy]], [[authority]], and totalitarianism. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "d631aa47873f99cd",
+      "text": "In the popular mind she is best remembered for the controversy surrounding the trial of [[Adolf Eichmann]], her attempt to explain how ordinary people become actors in totalitarian systems, which was considered by some an [[apologia]], and for the phrase \"[[the banality of evil]]\". \n"
+    },
+    {
+      "type": "markdown",
+      "id": "2f75b7f6f4e06b3b",
+      "text": "She is commemorated by institutions and journals devoted to her thinking, the [[Hannah Arendt Prize]] for political thinking, and on stamps, street names and schools, amongst other things."
+    },
+    {
+      "id": "26f532c9-5539-42a9-a83c-e2d089bf90be",
+      "type": "markdown",
+      "text": "# Work"
+    },
+    {
+      "id": "6672aafd-917e-4456-8366-589bfb4ec653",
+      "type": "markdown",
+      "text": "Arendt wrote works on intellectual history as a philosopher, using events and actions to develop insights into contemporary [[totalitarian]] movements and the threat to human freedom presented by scientific abstraction and bourgeois morality. Intellectually, she was an independent thinker, a loner not a \"joiner\", separating herself from schools of thought or ideology - [https://en.wikipedia.org/wiki/Hannah_Arendt#Work wikipedia]"
+    },
+    {
+      "id": "41ce5f3f-7243-475a-b233-df797d06599f",
+      "type": "markdown",
+      "text": "[[Crises of the Republic]] In \"On Violence\" Arendt substantiates that violence presupposes power which she understands as a property of groups. Thus, she breaks with the predominant conception of power as derived from violence - [https://en.wikipedia.org/wiki/Hannah_Arendt#<i>Crises_of_the_Republic</i>_(1972) wikipedia]"
+    },
+    {
+      "id": "d7d359d2-bce6-4897-8525-e4c70a542dbb",
+      "type": "markdown",
+      "text": "# Sections"
+    },
+    {
+      "id": "3b318f53-d0e3-406f-ab39-4627083dfbd7",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Early life and education (1906–1929)\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Hannah Arendt&action=edit&section=1\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "ba38aa19-4830-4baf-b022-4edbdc54361e",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Career\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Hannah Arendt&action=edit&section=10\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "567120b8-8e76-4fb7-b9a3-9708de89e68e",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Relationships\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Hannah Arendt&action=edit&section=23\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "8c35b722-a718-43fe-a8b2-2da7a91d2645",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Final illness and death\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Hannah Arendt&action=edit&section=24\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "161b38ad-a478-4f60-9a7d-a53132255d0e",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Work\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Hannah Arendt&action=edit&section=25\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "6eab7452-9cc7-40bb-92cc-e772a0341792",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Views\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Hannah Arendt&action=edit&section=51\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "af1c6f94-418d-48c0-b785-e0eb6054ee95",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"In popular culture\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Hannah Arendt&action=edit&section=54\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "9d0be646-c0c6-4adc-8454-f9fe1003f5a3",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Legacy\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Hannah Arendt&action=edit&section=56\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "8d4ac88d-ecfd-4a2f-8ac3-9bb007f2f788",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Family tree\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Hannah Arendt&action=edit&section=60\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "0aa2c43b-df3c-41f7-8378-107910216a2d",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Bibliography\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Hannah Arendt&action=edit&section=64\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "1dd4244a-30de-4674-87e8-cc814d1b81c1",
+      "type": "markdown",
+      "text": "# See also"
+    },
+    {
+      "id": "a8b2f27d-d7fc-4a3e-82ff-4677ca5b914c",
+      "type": "markdown",
+      "text": "- [[Women in philosophy]]\n- [[List of women philosophers]]\n- [[American philosophy]]\n- [[German philosophy]]"
+    }
+  ]
+}
