@@ -1,0 +1,385 @@
+{
+  "title": "Learning Garden",
+  "story": [
+    {
+      "type": "factory",
+      "id": "b7d1fffd85b71cc2"
+    },
+    {
+      "type": "video",
+      "id": "631393da6dfcd8df",
+      "text": "YOUTUBE 9xaYmssE9Zk\nNature AKademin Learning Lab, Stockholm \n"
+    },
+    {
+      "type": "markdown",
+      "id": "ea88af8cc4d47c61",
+      "text": "1. [[Daisy World]]\n1. [[Governance]]\n1. [[Energy]]\n1. [[Food]]\n1. [[Platform Earth]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6fb7fef9c968b051",
+      "text": "[[Naturally   - Naturally Wiser]] -  nature is our classroom, as part of my Learning Journey with Nature Akademi Learning Lab. ["
+    },
+    {
+      "type": "paragraph",
+      "id": "2d12cedd61a647c1",
+      "text": "I dedicated myself to roses and started planting roses in Molde. Moved back to Molde in 2001. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b9fca2f46c858ee8",
+      "text": "My journey as a single parent started, with 2 arms and too many dreams and still a deep trust in people.  "
+    },
+    {
+      "type": "paragraph",
+      "id": "ecdc0cb0ed0c0fa5",
+      "text": "...will write more about \"my Learning garden\"  an my learning journey  of the last 30 years... "
+    },
+    {
+      "type": "paragraph",
+      "id": "80b2fc8050ff9c01",
+      "text": "I leave Molde with an insight of not trusting People!"
+    },
+    {
+      "type": "paragraph",
+      "id": "e568be73d7995186",
+      "text": "Here is the reflection of the Learning Garden of 1999  -  recycling an idea worth doing - at the time I moved back to Molde. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Learning Garden",
+        "story": []
+      },
+      "date": 1603352724705
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6fb7fef9c968b051"
+      },
+      "id": "6fb7fef9c968b051",
+      "type": "add",
+      "date": 1603352727239
+    },
+    {
+      "type": "edit",
+      "id": "6fb7fef9c968b051",
+      "item": {
+        "type": "paragraph",
+        "id": "6fb7fef9c968b051",
+        "text": "Naturally   - Naturally Wise -  nature is our classroom! "
+      },
+      "date": 1603352759294
+    },
+    {
+      "type": "edit",
+      "id": "6fb7fef9c968b051",
+      "item": {
+        "type": "paragraph",
+        "id": "6fb7fef9c968b051",
+        "text": "Naturally   - Naturally Wiser -  nature is our classroom!"
+      },
+      "date": 1603352770871
+    },
+    {
+      "type": "add",
+      "id": "2d12cedd61a647c1",
+      "item": {
+        "type": "paragraph",
+        "id": "2d12cedd61a647c1",
+        "text": "I dedicated myself to roses and started planting roses in Molde.  "
+      },
+      "after": "6fb7fef9c968b051",
+      "date": 1603352800997
+    },
+    {
+      "type": "edit",
+      "id": "2d12cedd61a647c1",
+      "item": {
+        "type": "paragraph",
+        "id": "2d12cedd61a647c1",
+        "text": "I dedicated myself to roses and started planting roses in Molde,  moved back to Molde in 2001. "
+      },
+      "date": 1603352844532
+    },
+    {
+      "type": "add",
+      "id": "b9fca2f46c858ee8",
+      "item": {
+        "type": "paragraph",
+        "id": "b9fca2f46c858ee8",
+        "text": "My journey as a singleparent started, with 2 arms and two many dreams and still a deep trust in people. "
+      },
+      "after": "2d12cedd61a647c1",
+      "date": 1603352921663
+    },
+    {
+      "type": "edit",
+      "id": "2d12cedd61a647c1",
+      "item": {
+        "type": "paragraph",
+        "id": "2d12cedd61a647c1",
+        "text": "I dedicated myself to roses and started planting roses in Molde. Moved back to Molde in 2001. "
+      },
+      "date": 1603352965214
+    },
+    {
+      "type": "edit",
+      "id": "b9fca2f46c858ee8",
+      "item": {
+        "type": "paragraph",
+        "id": "b9fca2f46c858ee8",
+        "text": "My journey as a singleparent started, with 2 arms and two many dreams and still a deep trust in people.  "
+      },
+      "date": 1603800150724
+    },
+    {
+      "type": "add",
+      "id": "ecdc0cb0ed0c0fa5",
+      "item": {
+        "type": "paragraph",
+        "id": "ecdc0cb0ed0c0fa5",
+        "text": "will write more about \"my Learning garden.\""
+      },
+      "after": "b9fca2f46c858ee8",
+      "date": 1603800163619
+    },
+    {
+      "type": "edit",
+      "id": "ecdc0cb0ed0c0fa5",
+      "item": {
+        "type": "paragraph",
+        "id": "ecdc0cb0ed0c0fa5",
+        "text": "will write more about \"my Learning garden\"  an my learning journey  of the last 30 years. "
+      },
+      "date": 1603800188792
+    },
+    {
+      "type": "edit",
+      "id": "6fb7fef9c968b051",
+      "item": {
+        "type": "paragraph",
+        "id": "6fb7fef9c968b051",
+        "text": "[[Naturally   - Naturally Wiser]] -  nature is our classroom!"
+      },
+      "date": 1603800210821
+    },
+    {
+      "type": "edit",
+      "id": "b9fca2f46c858ee8",
+      "item": {
+        "type": "paragraph",
+        "id": "b9fca2f46c858ee8",
+        "text": "My journey as a singleparent started, with 2 arms and too many dreams and still a deep trust in people.  "
+      },
+      "date": 1604131984805
+    },
+    {
+      "type": "edit",
+      "id": "ecdc0cb0ed0c0fa5",
+      "item": {
+        "type": "paragraph",
+        "id": "ecdc0cb0ed0c0fa5",
+        "text": "...will write more about \"my Learning garden\"  an my learning journey  of the last 30 years... "
+      },
+      "date": 1604132002708
+    },
+    {
+      "type": "add",
+      "id": "80b2fc8050ff9c01",
+      "item": {
+        "type": "paragraph",
+        "id": "80b2fc8050ff9c01",
+        "text": "I leave Molde with an insight of not trusting People!"
+      },
+      "after": "ecdc0cb0ed0c0fa5",
+      "date": 1604132026054
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e568be73d7995186"
+      },
+      "id": "e568be73d7995186",
+      "type": "add",
+      "after": "80b2fc8050ff9c01",
+      "date": 1604132375547
+    },
+    {
+      "type": "edit",
+      "id": "e568be73d7995186",
+      "item": {
+        "type": "paragraph",
+        "id": "e568be73d7995186",
+        "text": "Learning Garden of 1999  -  recycling an idea worth doing!"
+      },
+      "date": 1604132421259
+    },
+    {
+      "type": "edit",
+      "id": "e568be73d7995186",
+      "item": {
+        "type": "paragraph",
+        "id": "e568be73d7995186",
+        "text": "Here is the reflection of the Learning Garden of 1999  -  recycling an idea worth doing - at the time I moved back to Molde. "
+      },
+      "date": 1604132480361
+    },
+    {
+      "type": "fork",
+      "site": "ims.dojo.fed.wiki",
+      "date": 1604658337485
+    },
+    {
+      "type": "edit",
+      "id": "b9fca2f46c858ee8",
+      "item": {
+        "type": "paragraph",
+        "id": "b9fca2f46c858ee8",
+        "text": "My journey as a single parent started, with 2 arms and too many dreams and still a deep trust in people.  "
+      },
+      "date": 1604658350101
+    },
+    {
+      "type": "add",
+      "id": "10104ddc179ad6e6",
+      "item": {
+        "type": "paragraph",
+        "id": "10104ddc179ad6e6",
+        "text": "To get more info about me, please look at the IMS Dojo"
+      },
+      "after": "e568be73d7995186",
+      "date": 1604658370159
+    },
+    {
+      "id": "10104ddc179ad6e6",
+      "type": "move",
+      "order": [
+        "6fb7fef9c968b051",
+        "10104ddc179ad6e6",
+        "2d12cedd61a647c1",
+        "b9fca2f46c858ee8",
+        "ecdc0cb0ed0c0fa5",
+        "80b2fc8050ff9c01",
+        "e568be73d7995186"
+      ],
+      "date": 1604658393020
+    },
+    {
+      "type": "edit",
+      "id": "10104ddc179ad6e6",
+      "item": {
+        "type": "paragraph",
+        "id": "10104ddc179ad6e6",
+        "text": "To get more info about me, please look at the [[IMS Dojo]]"
+      },
+      "date": 1604658403633
+    },
+    {
+      "type": "edit",
+      "id": "6fb7fef9c968b051",
+      "item": {
+        "type": "paragraph",
+        "id": "6fb7fef9c968b051",
+        "text": "[[Naturally   - Naturally Wiser]] -  nature is our classroom, as part of my Learning Journey with Nature Akademi Learning Lab. ["
+      },
+      "date": 1604658458457
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "631393da6dfcd8df"
+      },
+      "id": "631393da6dfcd8df",
+      "type": "add",
+      "after": "e568be73d7995186",
+      "date": 1604658486352
+    },
+    {
+      "id": "631393da6dfcd8df",
+      "type": "move",
+      "order": [
+        "631393da6dfcd8df",
+        "6fb7fef9c968b051",
+        "10104ddc179ad6e6",
+        "2d12cedd61a647c1",
+        "b9fca2f46c858ee8",
+        "ecdc0cb0ed0c0fa5",
+        "80b2fc8050ff9c01",
+        "e568be73d7995186"
+      ],
+      "date": 1604658491717
+    },
+    {
+      "type": "edit",
+      "id": "631393da6dfcd8df",
+      "item": {
+        "type": "video",
+        "id": "631393da6dfcd8df",
+        "text": "YOUTUBE 9xaYmssE9Zk\n(double-click to edit caption)\n"
+      },
+      "date": 1604658540932
+    },
+    {
+      "type": "edit",
+      "id": "631393da6dfcd8df",
+      "item": {
+        "type": "video",
+        "id": "631393da6dfcd8df",
+        "text": "YOUTUBE 9xaYmssE9Zk\nNature AKademin Learning Lab, Stockholm \n"
+      },
+      "date": 1604658571696
+    },
+    {
+      "type": "fork",
+      "site": "leadershipof2050.greendeal.wiki",
+      "date": 1604669928964
+    },
+    {
+      "id": "ea88af8cc4d47c61",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "ea88af8cc4d47c61",
+        "text": "1. [[Daisy World]]\n1. [[Governance]]\n1. [[Energy]]\n1. [[Food]]\n1. [[Platform Earth]]"
+      },
+      "after": "631393da6dfcd8df",
+      "date": 1604669932373
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b7d1fffd85b71cc2"
+      },
+      "id": "b7d1fffd85b71cc2",
+      "type": "add",
+      "after": "e568be73d7995186",
+      "date": 1604669940749
+    },
+    {
+      "id": "b7d1fffd85b71cc2",
+      "type": "move",
+      "order": [
+        "b7d1fffd85b71cc2",
+        "631393da6dfcd8df",
+        "ea88af8cc4d47c61",
+        "6fb7fef9c968b051",
+        "10104ddc179ad6e6",
+        "2d12cedd61a647c1",
+        "b9fca2f46c858ee8",
+        "ecdc0cb0ed0c0fa5",
+        "80b2fc8050ff9c01",
+        "e568be73d7995186"
+      ],
+      "date": 1604669942510
+    },
+    {
+      "type": "remove",
+      "id": "10104ddc179ad6e6",
+      "date": 1604670009360
+    }
+  ]
+}
