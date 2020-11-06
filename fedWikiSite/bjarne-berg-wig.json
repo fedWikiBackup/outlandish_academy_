@@ -1,0 +1,264 @@
+{
+  "title": "Bjarne Berg Wig",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "641b216b5b41e49b",
+      "text": "Visual aspect [[paper prototyping]]"
+    },
+    {
+      "type": "video",
+      "id": "d2c32522585def51",
+      "text": "YOUTUBE bFM7VLS3BB4\nBjarne Berg Wig founder of Institute of Learning Organizations.\n"
+    },
+    {
+      "type": "video",
+      "id": "785373f6f7b1dc36",
+      "text": "YOUTUBE PLAYLIST PLxmYBO14g_9ThMPlgt-bgN4a5bn4owGAo\nIntro video in Norwegian\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Bjarne Berg Wig",
+        "story": []
+      },
+      "date": 1604659430553
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d2c32522585def51"
+      },
+      "id": "d2c32522585def51",
+      "type": "add",
+      "date": 1604659431845
+    },
+    {
+      "type": "edit",
+      "id": "d2c32522585def51",
+      "item": {
+        "type": "video",
+        "id": "d2c32522585def51",
+        "text": "YOUTUBE bFM7VLS3BB4\n(double-click to edit caption)\n"
+      },
+      "date": 1604659439813
+    },
+    {
+      "type": "edit",
+      "id": "d2c32522585def51",
+      "item": {
+        "type": "video",
+        "id": "d2c32522585def51",
+        "text": "YOUTUBE bFM7VLS3BB4\nBjarne Berg Wig founder of Institute of Learning Organizations.\n"
+      },
+      "date": 1604659466860
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "785373f6f7b1dc36"
+      },
+      "id": "785373f6f7b1dc36",
+      "type": "add",
+      "after": "d2c32522585def51",
+      "date": 1604659551687
+    },
+    {
+      "type": "edit",
+      "id": "785373f6f7b1dc36",
+      "item": {
+        "type": "video",
+        "id": "785373f6f7b1dc36",
+        "text": "YOUTUBE PLAYLIST PLxmYBO14g_9ThMPlgt-bgN4a5bn4owGAo\n(double-click to edit caption)\n"
+      },
+      "date": 1604659559797
+    },
+    {
+      "type": "edit",
+      "id": "785373f6f7b1dc36",
+      "item": {
+        "type": "video",
+        "id": "785373f6f7b1dc36",
+        "text": "YOUTUBE PLAYLIST PLxmYBO14g_9ThMPlgt-bgN4a5bn4owGAo\nIntro video in Norwegian\n"
+      },
+      "date": 1604659575248
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "82af72cdab1336d1"
+      },
+      "id": "82af72cdab1336d1",
+      "type": "add",
+      "after": "785373f6f7b1dc36",
+      "date": 1604662607874
+    },
+    {
+      "type": "edit",
+      "id": "82af72cdab1336d1",
+      "item": {
+        "type": "video",
+        "id": "82af72cdab1336d1",
+        "text": "YOUTUBE PLAYLIST PLxmYBO14g_9ThMPlgt-bgN4a5bn4owGAo\n(double-click to edit caption)\n"
+      },
+      "date": 1604662615177
+    },
+    {
+      "type": "remove",
+      "id": "82af72cdab1336d1",
+      "date": 1604662633140
+    },
+    {
+      "type": "remove",
+      "id": "82af72cdab1336d1",
+      "date": 1604662690486
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "24c2c304e6ab7e8e"
+      },
+      "id": "24c2c304e6ab7e8e",
+      "type": "add",
+      "after": "785373f6f7b1dc36",
+      "date": 1604662691500
+    },
+    {
+      "type": "edit",
+      "id": "24c2c304e6ab7e8e",
+      "item": {
+        "type": "video",
+        "id": "24c2c304e6ab7e8e",
+        "text": "YOUTUBE PLAYLIST PLxmYBO14g_9ThMPlgt-bgN4a5bn4owGAo\n(double-click to edit caption)\n"
+      },
+      "date": 1604662722702
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ffd0d98214c5aa3f"
+      },
+      "id": "ffd0d98214c5aa3f",
+      "type": "add",
+      "after": "24c2c304e6ab7e8e",
+      "date": 1604662742284
+    },
+    {
+      "type": "remove",
+      "id": "24c2c304e6ab7e8e",
+      "date": 1604662743918
+    },
+    {
+      "type": "edit",
+      "id": "ffd0d98214c5aa3f",
+      "item": {
+        "type": "video",
+        "id": "ffd0d98214c5aa3f",
+        "text": "YOUTUBE PLAYLIST PLxmYBO14g_9ThMPlgt-bgN4a5bn4owGAo\n(double-click to edit caption)\n"
+      },
+      "date": 1604662785204
+    },
+    {
+      "type": "remove",
+      "id": "ffd0d98214c5aa3f",
+      "date": 1604662859083
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "50d91c8e6334c121"
+      },
+      "id": "50d91c8e6334c121",
+      "type": "add",
+      "after": "785373f6f7b1dc36",
+      "date": 1604663045417
+    },
+    {
+      "type": "edit",
+      "id": "50d91c8e6334c121",
+      "item": {
+        "type": "video",
+        "id": "50d91c8e6334c121",
+        "text": "YOUTUBE PLAYLIST PLxmYBO14g_9ThMPlgt-bgN4a5bn4owGAo\n(double-click to edit caption)\n"
+      },
+      "date": 1604663052627
+    },
+    {
+      "type": "edit",
+      "id": "50d91c8e6334c121",
+      "item": {
+        "type": "video",
+        "id": "50d91c8e6334c121",
+        "text": "Y"
+      },
+      "date": 1604663062320
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f7e7d37b73163f39"
+      },
+      "id": "f7e7d37b73163f39",
+      "type": "add",
+      "after": "50d91c8e6334c121",
+      "date": 1604663091628
+    },
+    {
+      "type": "edit",
+      "id": "f7e7d37b73163f39",
+      "item": {
+        "type": "video",
+        "id": "f7e7d37b73163f39",
+        "text": "YOUTUBE PLAYLIST PLxmYBO14g_9ThMPlgt-bgN4a5bn4owGAo\n(double-click to edit caption)\n"
+      },
+      "date": 1604663098801
+    },
+    {
+      "type": "remove",
+      "id": "f7e7d37b73163f39",
+      "date": 1604663114773
+    },
+    {
+      "type": "remove",
+      "id": "50d91c8e6334c121",
+      "date": 1604663118303
+    },
+    {
+      "type": "fork",
+      "site": "leadershipof2050.greendeal.wiki",
+      "date": 1604671935061
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "641b216b5b41e49b"
+      },
+      "id": "641b216b5b41e49b",
+      "type": "add",
+      "after": "785373f6f7b1dc36",
+      "date": 1604671940837
+    },
+    {
+      "id": "641b216b5b41e49b",
+      "type": "move",
+      "order": [
+        "641b216b5b41e49b",
+        "d2c32522585def51",
+        "785373f6f7b1dc36"
+      ],
+      "date": 1604671944584
+    },
+    {
+      "type": "edit",
+      "id": "641b216b5b41e49b",
+      "item": {
+        "type": "markdown",
+        "id": "641b216b5b41e49b",
+        "text": "Visual aspect [[paper prototyping]]"
+      },
+      "date": 1604672028300
+    }
+  ]
+}

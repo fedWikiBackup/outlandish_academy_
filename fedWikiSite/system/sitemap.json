@@ -907,7 +907,7 @@
   {
     "slug": "leadership-of-2050",
     "title": "Leadership of 2050",
-    "date": 1604670039708,
+    "date": 1604672848890,
     "synopsis": "On this page we begin to write together with the aim of forming a mutual understanding of the overlaps between the work of [[Bjarne Berg Wig]] and the __Institute of Learning Organizations__ - [https://www.learnorg.global/ learnorg.global]"
   },
   {
@@ -957,5 +957,29 @@
     "title": "Mission Possible 8",
     "date": 1604669978503,
     "synopsis": "Was coined by [http://ims.dojo.fed.wiki/view/welcome-visitors Inger-Mette Stenseth]  and Bert-Ola Bergstrand in the September of 2020, part of [[Global Impact Playground]] and the visit to Åndalsnes, Norway."
+  },
+  {
+    "slug": "bjarne-berg-wig",
+    "title": "Bjarne Berg Wig",
+    "date": 1604672028300,
+    "synopsis": "Visual aspect [[paper prototyping]]"
+  },
+  {
+    "slug": "paper-prototyping",
+    "title": "Paper prototyping",
+    "date": 1554130626841,
+    "synopsis": "In [[human–computer interaction]], __paper prototyping__ is a widely used method in the [[user-centered design]], a process that helps developers to create software that meets the user's expectations and needs—in this case, especially for [[user interface design]] and [[usability testing]] [[user interface]]s."
+  },
+  {
+    "slug": "learning-organisation",
+    "title": "Learning Organisation",
+    "date": 1604672856876,
+    "synopsis": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>"
+  },
+  {
+    "slug": "learning-organization",
+    "title": "Learning organization",
+    "date": 1604672947039,
+    "synopsis": "In business management, a __learning organization__ is a [[company]] that facilitates the learning of its members and continuously transforms itself. The concept was coined through the work and research of [[Peter Senge]] and his colleagues - [https://en.wikipedia.org/wiki/Learning_organization wikipedia]"
   }
 ]
