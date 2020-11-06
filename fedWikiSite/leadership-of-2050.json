@@ -17,6 +17,11 @@
       "text": "All organizations wanting to survive in a complex and rapidly changing environment, need to transform into a real learning organization. Learning organizations are a system of people who master the art of learning together. In this environment, work is seen as a continuous learning process rather than simply a way to execute tasks. "
     },
     {
+      "type": "markdown",
+      "id": "a9995e882bc5591f",
+      "text": "- [[Learning Organisation]]"
+    },
+    {
       "type": "paragraph",
       "id": "c99a021fac9eecd3",
       "text": "Through sensei mentorship, e-courses, and on-site training we offer more than 30 years of experience to leaders and organizations to make changes that last. [[Bjarne Berg Wig]]  "
@@ -738,6 +743,43 @@
         "text": "# Learning Garden"
       },
       "date": 1604670039708
+    },
+    {
+      "type": "add",
+      "id": "a9995e882bc5591f",
+      "item": {
+        "type": "paragraph",
+        "id": "a9995e882bc5591f",
+        "text": "- [[Learning Organisation]]"
+      },
+      "after": "69e09a9b73249864",
+      "date": 1604672736962
+    },
+    {
+      "type": "edit",
+      "id": "a9995e882bc5591f",
+      "item": {
+        "type": "markdown",
+        "id": "a9995e882bc5591f",
+        "text": "- [[Learning Organisation]]"
+      },
+      "date": 1604672738490
+    },
+    {
+      "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+      "type": "add",
+      "item": {
+        "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Organisation.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Organisation.png'>\n</a>\n<p class=caption>\nThis is an image - [http://outlandish.academy/assets/Learning_Organisation.png outlandish.academy]\n</p></div>"
+      },
+      "after": "dcf45749c7d4f96c",
+      "date": 1604672842685
+    },
+    {
+      "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+      "type": "remove",
+      "date": 1604672848890
     }
   ]
 }
