@@ -1,0 +1,100 @@
+{
+  "title": "David Owen",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "126a551b2526f23a",
+      "text": "Lord David Owen, a medical doctor by training and a former Minister of Health, writes a personal analysis of the UK’s Covid-19 pandemic."
+    },
+    {
+      "type": "paragraph",
+      "id": "b838af0ea8701756",
+      "text": "He is the author of numerous publications in the field of health and politics including his autobiography, Time to Declare (1991) Balkan Odyssey (1995) and The Hubris Syndrome (2007 & 2012). He also published in 1992 an anthology of poetry Seven Ages: Poetry for a Lifetime, proceeds of which are donated to Great Ormond Street Hospital.\n\nIn Sickness and In Power: Illness in Heads of Government, Military and Business Leaders since 1900 (hardback 2008, updated paperback 2016) is a unique study of illness in Heads of Government during the last 100 years and considers how illness – both physical and mental – can affect the process of government and decision-making. The updated 2016 edition includes additional chapters featuring examples from military and business life.[http://www.lorddavidowen.co.uk/ Lord David Owen]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "David Owen",
+        "story": []
+      },
+      "date": 1604566469084
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "54592c618f8879c3"
+      },
+      "id": "54592c618f8879c3",
+      "type": "add",
+      "date": 1604566471298
+    },
+    {
+      "id": "126a551b2526f23a",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "126a551b2526f23a",
+        "text": "He is the author of numerous publications in the field of health and politics including his autobiography, Time to Declare (1991) Balkan Odyssey (1995) and The Hubris Syndrome (2007 & 2012). He also published in 1992 an anthology of poetry Seven Ages: Poetry for a Lifetime, proceeds of which are donated to Great Ormond Street Hospital.\n\nIn Sickness and In Power: Illness in Heads of Government, Military and Business Leaders since 1900 (hardback 2008, updated paperback 2016) is a unique study of illness in Heads of Government during the last 100 years and considers how illness – both physical and mental – can affect the process of government and decision-making. The updated 2016 edition includes additional chapters featuring examples from military and business life.[http://www.lorddavidowen.co.uk/ Lord David Owen]"
+      },
+      "date": 1604566473722
+    },
+    {
+      "type": "edit",
+      "id": "126a551b2526f23a",
+      "item": {
+        "type": "paragraph",
+        "id": "126a551b2526f23a",
+        "text": "He is the author of numerous publications in the field of health and politics including his autobiography, Time to Declare (1991) Balkan Odyssey (1995) and The Hubris Syndrome (2007 & 2012). He also published in 1992 an anthology of poetry Seven Ages: Poetry for a Lifetime, proceeds of which are donated to Great Ormond Street Hospital.\nhttp://www.lorddavidowen.co.uk/\nIn Sickness and In Power: Illness in Heads of Government, Military and Business Leaders since 1900 (hardback 2008, updated paperback 2016) is a unique study of illness in Heads of Government during the last 100 years and considers how illness – both physical and mental – can affect the process of government and decision-making. The updated 2016 edition includes additional chapters featuring examples from military and business life.[http://www.lorddavidowen.co.uk/ Lord David Owen]"
+      },
+      "date": 1604566494389
+    },
+    {
+      "type": "edit",
+      "id": "126a551b2526f23a",
+      "item": {
+        "type": "paragraph",
+        "id": "126a551b2526f23a",
+        "text": "Lord David Owen, a medical doctor by training and a former Minister of Health, writes a personal analysis of the UK’s Covid-19 pandemic"
+      },
+      "date": 1604566522700
+    },
+    {
+      "type": "add",
+      "id": "b838af0ea8701756",
+      "item": {
+        "type": "paragraph",
+        "id": "b838af0ea8701756",
+        "text": "He is the author of numerous publications in the field of health and politics including his autobiography, Time to Declare (1991) Balkan Odyssey (1995) and The Hubris Syndrome (2007 & 2012). He also published in 1992 an anthology of poetry Seven Ages: Poetry for a Lifetime, proceeds of which are donated to Great Ormond Street Hospital.\n\nIn Sickness and In Power: Illness in Heads of Government, Military and Business Leaders since 1900 (hardback 2008, updated paperback 2016) is a unique study of illness in Heads of Government during the last 100 years and considers how illness – both physical and mental – can affect the process of government and decision-making. The updated 2016 edition includes additional chapters featuring examples from military and business life.[http://www.lorddavidowen.co.uk/ Lord David Owen]"
+      },
+      "after": "126a551b2526f23a",
+      "date": 1604566525812
+    },
+    {
+      "type": "edit",
+      "id": "126a551b2526f23a",
+      "item": {
+        "type": "paragraph",
+        "id": "126a551b2526f23a",
+        "text": "Lord David Owen, a medical doctor by training and a former Minister of Health, writes a personal analysis of the UK’s Covid-19 pandemic."
+      },
+      "date": 1604566530529
+    },
+    {
+      "type": "fork",
+      "site": "naturalcapital.greendeal.wiki",
+      "date": 1604581509624
+    },
+    {
+      "type": "fork",
+      "site": "leadershipof2050.greendeal.wiki",
+      "date": 1604669045908
+    },
+    {
+      "type": "remove",
+      "id": "54592c618f8879c3",
+      "date": 1604669048089
+    }
+  ]
+}
