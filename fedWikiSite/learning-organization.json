@@ -1,0 +1,80 @@
+{
+  "title": "Learning organization",
+  "journal": [
+    {
+      "date": 1604672703905,
+      "item": {
+        "title": "Learning organization",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1604672930789
+    },
+    {
+      "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+      "type": "add",
+      "item": {
+        "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Organisation.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Organisation.png'>\n</a>\n<p class=caption>\nThis is an image - [http://outlandish.academy/assets/Learning_Organisation.png outlandish.academy]\n</p></div>"
+      },
+      "after": "3485b1bc-e94d-4d38-a3b8-46c43b3eb28f",
+      "date": 1604672947039
+    }
+  ],
+  "story": [
+    {
+      "id": "3485b1bc-e94d-4d38-a3b8-46c43b3eb28f",
+      "type": "markdown",
+      "text": "In business management, a __learning organization__ is a [[company]] that facilitates the learning of its members and continuously transforms itself. The concept was coined through the work and research of [[Peter Senge]] and his colleagues - [https://en.wikipedia.org/wiki/Learning_organization wikipedia]"
+    },
+    {
+      "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+      "type": "html",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Organisation.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Organisation.png'>\n</a>\n<p class=caption>\nThis is an image - [http://outlandish.academy/assets/Learning_Organisation.png outlandish.academy]\n</p></div>"
+    },
+    {
+      "id": "73210725-23d2-41f5-a1ce-f198824bbdd6",
+      "type": "markdown",
+      "text": "Learning organizations develop as a result of the pressures facing modern organizations; this enables them to remain [[competitive]] in the business environment."
+    },
+    {
+      "id": "e6aac7d1-639d-44d4-acd1-871c6630917d",
+      "type": "markdown",
+      "text": "# Sections"
+    },
+    {
+      "id": "d5858f73-2fe7-422c-a74e-b17448f8afea",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Characteristics\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Learning organization&action=edit&section=1\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "8a5b2854-9987-4cbd-b1c8-902721af0862",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Development\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Learning organization&action=edit&section=2\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "d869d29c-a24c-419e-b8c5-284a42116c49",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Benefits\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Learning organization&action=edit&section=3\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "b1f093ca-98ee-4acc-ad6c-191e4436baba",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Barriers\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Learning organization&action=edit&section=4\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "c546da03-beec-4855-af89-0fadf7b31b86",
+      "type": "markdown",
+      "text": "# See also"
+    },
+    {
+      "id": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
+      "type": "markdown",
+      "text": "- [[Community of practice]]\n- [[Knowledge capture]]\n- [[Knowledge management]]\n- [[Knowledge organization]]\n- [[Learning agenda]]\n- [[Organizational learning]]\n- [[Professional learning community]]\n- [[Reflective practice]]\n- [[The Learning Organization]]"
+    }
+  ]
+}
