@@ -440,7 +440,7 @@
   {
     "slug": "learning-organization",
     "title": "Learning organization",
-    "date": 1604672947039,
+    "date": 1604756511080,
     "synopsis": "In business management, a __learning organization__ is a [[company]] that facilitates the learning of its members and continuously transforms itself. The concept was coined through the work and research of [[Peter Senge]] and his colleagues - [https://en.wikipedia.org/wiki/Learning_organization wikipedia]"
   },
   {
@@ -943,7 +943,7 @@
   {
     "slug": "welcome-visitors",
     "title": "Welcome Visitors",
-    "date": 1603497671627,
+    "date": 1604754967376,
     "synopsis": "The [[Outlandish Academy]] is a P2P framework for creating online and offline learning experiences."
   },
   {
@@ -981,5 +981,11 @@
     "title": "Writing with Strangers",
     "date": 1429804097374,
     "synopsis": "Writing in the presence of rampant forking calls into question [[What it Means to Write]] and how to do it well."
+  },
+  {
+    "slug": "learning-radar",
+    "title": "Learning Radar",
+    "date": 1604756690734,
+    "synopsis": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:"
   }
 ]

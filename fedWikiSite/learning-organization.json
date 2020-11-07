@@ -23,6 +23,311 @@
       },
       "after": "3485b1bc-e94d-4d38-a3b8-46c43b3eb28f",
       "date": 1604672947039
+    },
+    {
+      "id": "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
+      "type": "add",
+      "item": {
+        "id": "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Radar.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Radar.png'>\n</a>\n<p class=caption>\nThis is an image - [http://outlandish.academy/assets/Learning_Radar.png outlandish.academy]\n</p></div>"
+      },
+      "after": "73210725-23d2-41f5-a1ce-f198824bbdd6",
+      "date": 1604755060167
+    },
+    {
+      "type": "edit",
+      "id": "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
+      "item": {
+        "id": "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Radar.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Radar.png'>\n</a>\n<p class=caption>\n[[Learning Radar]] - [http://outlandish.academy/assets/Learning_Radar.png outlandish.academy]\n</p></div>"
+      },
+      "date": 1604755186546
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8e3f31cd93a1c802"
+      },
+      "id": "8e3f31cd93a1c802",
+      "type": "add",
+      "after": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
+      "date": 1604755201493
+    },
+    {
+      "id": "8e3f31cd93a1c802",
+      "type": "move",
+      "order": [
+        "3485b1bc-e94d-4d38-a3b8-46c43b3eb28f",
+        "dccb34e0-e619-4ed5-bba9-996293c1d016",
+        "73210725-23d2-41f5-a1ce-f198824bbdd6",
+        "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
+        "8e3f31cd93a1c802",
+        "e6aac7d1-639d-44d4-acd1-871c6630917d",
+        "d5858f73-2fe7-422c-a74e-b17448f8afea",
+        "8a5b2854-9987-4cbd-b1c8-902721af0862",
+        "d869d29c-a24c-419e-b8c5-284a42116c49",
+        "b1f093ca-98ee-4acc-ad6c-191e4436baba",
+        "c546da03-beec-4855-af89-0fadf7b31b86",
+        "df21cf1b-61c4-4e46-b57b-e9315b3efd38"
+      ],
+      "date": 1604755203681
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Safe Learning Environment]]\n1. [[fsad]]"
+      },
+      "date": 1604755224001
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Shared Vision]]"
+      },
+      "date": 1604755248566
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following best mothods]]"
+      },
+      "date": 1604755266367
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]"
+      },
+      "date": 1604755277659
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]"
+      },
+      "date": 1604755299394
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement?]]"
+      },
+      "date": 1604755331412
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement?]]\n1. [[Sharing learning]]"
+      },
+      "date": 1604755363251
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing learning]]"
+      },
+      "date": 1604755373683
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]"
+      },
+      "date": 1604755380558
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]"
+      },
+      "date": 1604755393113
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Learning Environment]]\n1. [[Shared Vision]]\n1. [[Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]"
+      },
+      "date": 1604755399190
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a3ac2111882c25b"
+      },
+      "id": "2a3ac2111882c25b",
+      "type": "add",
+      "after": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
+      "date": 1604755429189
+    },
+    {
+      "type": "edit",
+      "id": "8e3f31cd93a1c802",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Learning Environment]]\n1. [[Shared Vision]]\n1. [[Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]\n"
+      },
+      "date": 1604755574840
+    },
+    {
+      "type": "add",
+      "id": "ba94b30289d46f92",
+      "item": {
+        "type": "markdown",
+        "id": "ba94b30289d46f92",
+        "text": "[[About Radar Plugin]]"
+      },
+      "after": "8e3f31cd93a1c802",
+      "date": 1604755586540
+    },
+    {
+      "id": "d4041124d849e461",
+      "type": "add",
+      "item": {
+        "type": "radar",
+        "id": "d4041124d849e461"
+      },
+      "after": "8e3f31cd93a1c802",
+      "date": 1604755622138
+    },
+    {
+      "id": "e7a0d5250ad3e09e",
+      "type": "add",
+      "item": {
+        "type": "method",
+        "id": "e7a0d5250ad3e09e",
+        "text": "518475 Canada\n8240958 China\n762543 Germany\n2069738 India\n574667 Iran\n1138432 Japan\n1688688 Russia\n493158 United Kingdom\n5492170 United States"
+      },
+      "after": "8e3f31cd93a1c802",
+      "date": 1604755642443
+    },
+    {
+      "type": "edit",
+      "id": "e7a0d5250ad3e09e",
+      "item": {
+        "type": "method",
+        "id": "e7a0d5250ad3e09e",
+        "text": "6 Learning Environment\n3 Shared Vision\n1 Best Methods\n9 Self Managed Teams\n2 Continual Improvement\n4 Sharing Learning"
+      },
+      "date": 1604755746750
+    },
+    {
+      "id": "8e3f31cd93a1c802",
+      "type": "move",
+      "order": [
+        "3485b1bc-e94d-4d38-a3b8-46c43b3eb28f",
+        "dccb34e0-e619-4ed5-bba9-996293c1d016",
+        "73210725-23d2-41f5-a1ce-f198824bbdd6",
+        "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
+        "e7a0d5250ad3e09e",
+        "d4041124d849e461",
+        "8e3f31cd93a1c802",
+        "ba94b30289d46f92",
+        "e6aac7d1-639d-44d4-acd1-871c6630917d",
+        "d5858f73-2fe7-422c-a74e-b17448f8afea",
+        "8a5b2854-9987-4cbd-b1c8-902721af0862",
+        "d869d29c-a24c-419e-b8c5-284a42116c49",
+        "b1f093ca-98ee-4acc-ad6c-191e4436baba",
+        "c546da03-beec-4855-af89-0fadf7b31b86",
+        "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
+        "2a3ac2111882c25b"
+      ],
+      "date": 1604755789450
+    },
+    {
+      "type": "edit",
+      "id": "d4041124d849e461",
+      "item": {
+        "type": "radar",
+        "id": "d4041124d849e461",
+        "text": " "
+      },
+      "date": 1604755958882
+    },
+    {
+      "type": "edit",
+      "id": "d4041124d849e461",
+      "item": {
+        "type": "radar",
+        "id": "d4041124d849e461",
+        "text": "10.0"
+      },
+      "date": 1604756023711
+    },
+    {
+      "id": "e7a0d5250ad3e09e",
+      "type": "remove",
+      "date": 1604756071858
+    },
+    {
+      "id": "d4041124d849e461",
+      "type": "remove",
+      "date": 1604756074865
+    },
+    {
+      "id": "8e3f31cd93a1c802",
+      "type": "remove",
+      "date": 1604756080069
+    },
+    {
+      "id": "ba94b30289d46f92",
+      "type": "remove",
+      "date": 1604756128991
+    },
+    {
+      "type": "edit",
+      "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+      "item": {
+        "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Organisation.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Organisation.png'>\n</a>\n<p class=caption>\n[[Core principles of the [[Learning Radar]] - [http://outlandish.academy/assets/Learning_Organisation.png outlandish.academy]\n</p></div>"
+      },
+      "date": 1604756501567
+    },
+    {
+      "type": "edit",
+      "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+      "item": {
+        "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Organisation.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Organisation.png'>\n</a>\n<p class=caption>\nCore principles of the [[Learning Radar]] - [http://outlandish.academy/assets/Learning_Organisation.png outlandish.academy]\n</p></div>"
+      },
+      "date": 1604756511080
     }
   ],
   "story": [
@@ -34,12 +339,17 @@
     {
       "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
       "type": "html",
-      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Organisation.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Organisation.png'>\n</a>\n<p class=caption>\nThis is an image - [http://outlandish.academy/assets/Learning_Organisation.png outlandish.academy]\n</p></div>"
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Organisation.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Organisation.png'>\n</a>\n<p class=caption>\nCore principles of the [[Learning Radar]] - [http://outlandish.academy/assets/Learning_Organisation.png outlandish.academy]\n</p></div>"
     },
     {
       "id": "73210725-23d2-41f5-a1ce-f198824bbdd6",
       "type": "markdown",
       "text": "Learning organizations develop as a result of the pressures facing modern organizations; this enables them to remain [[competitive]] in the business environment."
+    },
+    {
+      "id": "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
+      "type": "html",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Radar.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Radar.png'>\n</a>\n<p class=caption>\n[[Learning Radar]] - [http://outlandish.academy/assets/Learning_Radar.png outlandish.academy]\n</p></div>"
     },
     {
       "id": "e6aac7d1-639d-44d4-acd1-871c6630917d",
@@ -75,6 +385,10 @@
       "id": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
       "type": "markdown",
       "text": "- [[Community of practice]]\n- [[Knowledge capture]]\n- [[Knowledge management]]\n- [[Knowledge organization]]\n- [[Learning agenda]]\n- [[Organizational learning]]\n- [[Professional learning community]]\n- [[Reflective practice]]\n- [[The Learning Organization]]"
+    },
+    {
+      "type": "factory",
+      "id": "2a3ac2111882c25b"
     }
   ]
 }

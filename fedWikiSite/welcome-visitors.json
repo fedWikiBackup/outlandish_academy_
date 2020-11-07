@@ -292,6 +292,25 @@
         "type": "markdown"
       },
       "date": 1603497671627
+    },
+    {
+      "type": "remove",
+      "id": "b7042d14424aafe0",
+      "date": 1604754937966,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1604754959487
+    },
+    {
+      "type": "remove",
+      "id": "8e721f0df3ae5d1f",
+      "date": 1604754967376
     }
   ],
   "title": "Welcome Visitors",
@@ -300,19 +319,6 @@
       "type": "paragraph",
       "id": "26bf9f9b663585b3",
       "text": "The [[Outlandish Academy]] is a P2P framework for creating online and offline learning experiences."
-    },
-    {
-      "id": "b7042d14424aafe0",
-      "type": "reference",
-      "site": "orientation.outlandish.academy",
-      "slug": "start-here",
-      "title": "Start Here",
-      "text": "orientation.outlandish.academy\n"
-    },
-    {
-      "text": "# Drop in\n\n- To our chat - [https://vector.im/beta/#/room/#fedwiki:matrix.org vector.im]",
-      "id": "8e721f0df3ae5d1f",
-      "type": "markdown"
     },
     {
       "text": "# Learning Objectives",

@@ -1,0 +1,319 @@
+{
+  "title": "Learning Radar",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "d33ed17f1e171968",
+      "text": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:\n1. Safety of the [[Learning Environment]]\n1. [[Shared Vision]] and goals\n1. Following the [[Best Practice]]?\n1. [[Self Managed Teams]]?\n1. Is there [[Continual Improvement]]?\n1. How do we [[Share Learning]]?\n"
+    },
+    {
+      "type": "markdown",
+      "id": "a32ba10eda04a8c7",
+      "text": "# Data\nWe can visualise the overall quality of the [[learning model]] as practiced in an institution according to the following data points:\n"
+    },
+    {
+      "type": "method",
+      "id": "e7a0d5250ad3e09e",
+      "text": "6 Learning Environment\n4 Shared Vision\n8 Best Practice\n9 Self Managed Teams\n7 Continual Improvement\n4 Share Learning"
+    },
+    {
+      "type": "markdown",
+      "id": "4cb552caec073f9a",
+      "text": "# Radar chart"
+    },
+    {
+      "type": "radar",
+      "id": "d4041124d849e461",
+      "text": "10.0"
+    },
+    {
+      "type": "markdown",
+      "id": "ba94b30289d46f92",
+      "text": "# See also\n- [[About Radar Plugin]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Learning Radar",
+        "story": []
+      },
+      "date": 1604756063254
+    },
+    {
+      "id": "e7a0d5250ad3e09e",
+      "type": "add",
+      "item": {
+        "type": "method",
+        "id": "e7a0d5250ad3e09e",
+        "text": "6 Learning Environment\n3 Shared Vision\n1 Best Methods\n9 Self Managed Teams\n2 Continual Improvement\n4 Sharing Learning"
+      },
+      "date": 1604756071859
+    },
+    {
+      "id": "d4041124d849e461",
+      "type": "add",
+      "item": {
+        "type": "radar",
+        "id": "d4041124d849e461",
+        "text": "10.0"
+      },
+      "after": "e7a0d5250ad3e09e",
+      "date": 1604756074866
+    },
+    {
+      "id": "8e3f31cd93a1c802",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "8e3f31cd93a1c802",
+        "text": "1. [[Learning Environment]]\n1. [[Shared Vision]]\n1. [[Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]\n"
+      },
+      "date": 1604756080069
+    },
+    {
+      "type": "add",
+      "id": "a32ba10eda04a8c7",
+      "item": {
+        "type": "markdown",
+        "id": "a32ba10eda04a8c7",
+        "text": "# Data"
+      },
+      "after": "8e3f31cd93a1c802",
+      "date": 1604756091268
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d33ed17f1e171968"
+      },
+      "id": "d33ed17f1e171968",
+      "type": "add",
+      "after": "d4041124d849e461",
+      "date": 1604756095689
+    },
+    {
+      "id": "d33ed17f1e171968",
+      "type": "move",
+      "order": [
+        "d33ed17f1e171968",
+        "8e3f31cd93a1c802",
+        "a32ba10eda04a8c7",
+        "e7a0d5250ad3e09e",
+        "d4041124d849e461"
+      ],
+      "date": 1604756097798
+    },
+    {
+      "id": "ba94b30289d46f92",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "ba94b30289d46f92",
+        "text": "[[About Radar Plugin]]"
+      },
+      "after": "d4041124d849e461",
+      "date": 1604756128991
+    },
+    {
+      "type": "edit",
+      "id": "ba94b30289d46f92",
+      "item": {
+        "type": "markdown",
+        "id": "ba94b30289d46f92",
+        "text": "# See also\n- [[About Radar Plugin]]"
+      },
+      "date": 1604756136849
+    },
+    {
+      "type": "edit",
+      "id": "e7a0d5250ad3e09e",
+      "item": {
+        "type": "method",
+        "id": "e7a0d5250ad3e09e",
+        "text": "6 Learning Environment\n3 Shared Vision\n8 Best Methods\n9 Self Managed Teams\n2 Continual Improvement\n4 Sharing Learning"
+      },
+      "date": 1604756196683
+    },
+    {
+      "type": "edit",
+      "id": "e7a0d5250ad3e09e",
+      "item": {
+        "type": "method",
+        "id": "e7a0d5250ad3e09e",
+        "text": "6 Learning Environment\n4 Shared Vision\n8 Best Methods\n9 Self Managed Teams\n7 Continual Improvement\n4 Sharing Learning"
+      },
+      "date": 1604756219989
+    },
+    {
+      "type": "edit",
+      "id": "d33ed17f1e171968",
+      "item": {
+        "type": "markdown",
+        "id": "d33ed17f1e171968",
+        "text": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]"
+      },
+      "date": 1604756350484
+    },
+    {
+      "type": "edit",
+      "id": "d33ed17f1e171968",
+      "item": {
+        "type": "markdown",
+        "id": "d33ed17f1e171968",
+        "text": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:"
+      },
+      "date": 1604756371331
+    },
+    {
+      "type": "remove",
+      "id": "8e3f31cd93a1c802",
+      "date": 1604756372299
+    },
+    {
+      "type": "edit",
+      "id": "d33ed17f1e171968",
+      "item": {
+        "type": "markdown",
+        "id": "d33ed17f1e171968",
+        "text": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:\n1. [[Learning Environment]]\n1. [[Shared Vision]]\n1. [[Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]\n"
+      },
+      "date": 1604756373494
+    },
+    {
+      "type": "edit",
+      "id": "d33ed17f1e171968",
+      "item": {
+        "type": "markdown",
+        "id": "d33ed17f1e171968",
+        "text": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:\n1. Safety of the [[Learning Environment]]\n1. [[Shared Vision]] and purpose\n1. [[Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]\n"
+      },
+      "date": 1604756398642
+    },
+    {
+      "type": "edit",
+      "id": "d33ed17f1e171968",
+      "item": {
+        "type": "markdown",
+        "id": "d33ed17f1e171968",
+        "text": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:\n1. Safety of the [[Learning Environment]]\n1. [[Shared Vision]] and goals\n1. [[Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]\n"
+      },
+      "date": 1604756424667
+    },
+    {
+      "type": "edit",
+      "id": "d33ed17f1e171968",
+      "item": {
+        "type": "markdown",
+        "id": "d33ed17f1e171968",
+        "text": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:\n1. Safety of the [[Learning Environment]]\n1. [[Shared Vision]] and goals\n1. Following the [[Best Methods]]?\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]\n"
+      },
+      "date": 1604756444288
+    },
+    {
+      "type": "edit",
+      "id": "d33ed17f1e171968",
+      "item": {
+        "type": "markdown",
+        "id": "d33ed17f1e171968",
+        "text": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:\n1. Safety of the [[Learning Environment]]\n1. [[Shared Vision]] and goals\n1. Following the [[Best Methods]]?\n1. [[Self Managed Teams]]?\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]\n"
+      },
+      "date": 1604756462810
+    },
+    {
+      "type": "edit",
+      "id": "d33ed17f1e171968",
+      "item": {
+        "type": "markdown",
+        "id": "d33ed17f1e171968",
+        "text": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:\n1. Safety of the [[Learning Environment]]\n1. [[Shared Vision]] and goals\n1. Following the [[Best Methods]]?\n1. [[Self Managed Teams]]?\n1. Is there [[Continual Improvement]]?\n1. [[Sharing Learning]]\n"
+      },
+      "date": 1604756540157
+    },
+    {
+      "type": "edit",
+      "id": "d33ed17f1e171968",
+      "item": {
+        "type": "markdown",
+        "id": "d33ed17f1e171968",
+        "text": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:\n1. Safety of the [[Learning Environment]]\n1. [[Shared Vision]] and goals\n1. Following the [[Best Methods]]?\n1. [[Self Managed Teams]]?\n1. Is there [[Continual Improvement]]?\n1. How do we [[Share Learning]]?\n"
+      },
+      "date": 1604756555774
+    },
+    {
+      "type": "edit",
+      "id": "e7a0d5250ad3e09e",
+      "item": {
+        "type": "method",
+        "id": "e7a0d5250ad3e09e",
+        "text": "6 Learning Environment\n4 Shared Vision\n8 Best Methods\n9 Self Managed Teams\n7 Continual Improvement\n4 Share Learning"
+      },
+      "date": 1604756560853
+    },
+    {
+      "type": "edit",
+      "id": "d33ed17f1e171968",
+      "item": {
+        "type": "markdown",
+        "id": "d33ed17f1e171968",
+        "text": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:\n1. Safety of the [[Learning Environment]]\n1. [[Shared Vision]] and goals\n1. Following the [[Best Practice]]?\n1. [[Self Managed Teams]]?\n1. Is there [[Continual Improvement]]?\n1. How do we [[Share Learning]]?\n"
+      },
+      "date": 1604756584234
+    },
+    {
+      "type": "edit",
+      "id": "e7a0d5250ad3e09e",
+      "item": {
+        "type": "method",
+        "id": "e7a0d5250ad3e09e",
+        "text": "6 Learning Environment\n4 Shared Vision\n8 Best Practice\n9 Self Managed Teams\n7 Continual Improvement\n4 Share Learning"
+      },
+      "date": 1604756587903
+    },
+    {
+      "type": "edit",
+      "id": "a32ba10eda04a8c7",
+      "item": {
+        "type": "markdown",
+        "id": "a32ba10eda04a8c7",
+        "text": "# Data\nWe can visualise the overall quality of the [[learning model]] as practiced in an institution according to the following data points:"
+      },
+      "date": 1604756662273
+    },
+    {
+      "type": "edit",
+      "id": "a32ba10eda04a8c7",
+      "item": {
+        "type": "markdown",
+        "id": "a32ba10eda04a8c7",
+        "text": "# Data\nWe can visualise the overall quality of the [[learning model]] as practiced in an institution according to the following data points:\n"
+      },
+      "date": 1604756684804
+    },
+    {
+      "type": "add",
+      "id": "4cb552caec073f9a",
+      "item": {
+        "type": "markdown",
+        "id": "4cb552caec073f9a",
+        "text": "# Radar chart"
+      },
+      "after": "a32ba10eda04a8c7",
+      "date": 1604756688909
+    },
+    {
+      "id": "4cb552caec073f9a",
+      "type": "move",
+      "order": [
+        "d33ed17f1e171968",
+        "a32ba10eda04a8c7",
+        "e7a0d5250ad3e09e",
+        "4cb552caec073f9a",
+        "d4041124d849e461",
+        "ba94b30289d46f92"
+      ],
+      "date": 1604756690734
+    }
+  ]
+}
