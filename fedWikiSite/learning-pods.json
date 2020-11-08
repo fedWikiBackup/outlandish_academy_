@@ -637,6 +637,16 @@
         "text": "# Topics\n\n- [[Learning Pod]]\n- [[Wiki Dojo]]\n- [[Proto Institute]]\n- [[Outlandish Researchers]]"
       },
       "date": 1603703762026
+    },
+    {
+      "type": "edit",
+      "id": "a8935c058cd051e5",
+      "item": {
+        "text": "# Context\nLearning pods are [[Research Group]]s, or 'classes' organises as [[Pods]]. They form a core part of the [[Outlandish Academy]] and [[Academy Methodology]]. Learning Pods are situated with a [[Learning Garden]].\n",
+        "id": "a8935c058cd051e5",
+        "type": "markdown"
+      },
+      "date": 1604843345657
     }
   ],
   "title": "Learning Pods",
@@ -662,7 +672,7 @@
       "text": "# Topics\n\n- [[Learning Pod]]\n- [[Wiki Dojo]]\n- [[Proto Institute]]\n- [[Outlandish Researchers]]"
     },
     {
-      "text": "# Context\nLearning pods are [[Research Group]]s, or 'classes' organises as [[Pods]]. They form a core part of the [[Outlandish Academy]] and [[Academy Methodology]]\n",
+      "text": "# Context\nLearning pods are [[Research Group]]s, or 'classes' organises as [[Pods]]. They form a core part of the [[Outlandish Academy]] and [[Academy Methodology]]. Learning Pods are situated with a [[Learning Garden]].\n",
       "id": "a8935c058cd051e5",
       "type": "markdown"
     },
