@@ -2,7 +2,7 @@
   {
     "slug": "academy-methodology",
     "title": "Academy Methodology",
-    "date": 1603707336818,
+    "date": 1604843287463,
     "synopsis": "The [[Outlandish Academy]] is a P2P framework for creating online and offline learning experiences. Students are encouraged to pass on their learning by the built in [[Learning TimeBank]], which enables us to offer all courses for free to anyone in the world."
   },
   {
@@ -428,8 +428,8 @@
   {
     "slug": "learning-garden",
     "title": "Learning Garden",
-    "date": 1604670009360,
-    "synopsis": "YOUTUBE 9xaYmssE9Zk"
+    "date": 1604843651662,
+    "synopsis": "A __learning garden__ is a mental picture of an idealised space for deep learning that incorporates the best ideas from the history of [[pedagogy]], into the modern world through the appropriate use of technology. It uses the metaphor of a garden as its base image."
   },
   {
     "slug": "learning-organisation",
@@ -458,7 +458,7 @@
   {
     "slug": "learning-pods",
     "title": "Learning Pods",
-    "date": 1603703762026,
+    "date": 1604843345657,
     "synopsis": "A [[Learning Pod]] is self-directed community working together to research or learn something."
   },
   {
@@ -987,5 +987,11 @@
     "title": "Learning Radar",
     "date": 1604756690734,
     "synopsis": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:"
+  },
+  {
+    "slug": "learning-gardens",
+    "title": "Learning Gardens",
+    "date": 1603382384179,
+    "synopsis": "In order to keep this on a personal note, as to be as authentic as possible in my personal learning journey, I will share how I ended up \"here\"."
   }
 ]
