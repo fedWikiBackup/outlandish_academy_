@@ -432,6 +432,12 @@
     "synopsis": "A __learning garden__ is a mental picture of an idealised space for deep learning that incorporates the best ideas from the history of [[pedagogy]], into the modern world through the appropriate use of technology. It uses the metaphor of a garden as its base image."
   },
   {
+    "slug": "learning-gardens",
+    "title": "Learning Gardens",
+    "date": 1603382384179,
+    "synopsis": "In order to keep this on a personal note, as to be as authentic as possible in my personal learning journey, I will share how I ended up \"here\"."
+  },
+  {
     "slug": "learning-organisation",
     "title": "Learning Organisation",
     "date": 1604672947038,
@@ -460,6 +466,12 @@
     "title": "Learning Pods",
     "date": 1604843345657,
     "synopsis": "A [[Learning Pod]] is self-directed community working together to research or learn something."
+  },
+  {
+    "slug": "learning-radar",
+    "title": "Learning Radar",
+    "date": 1604756690734,
+    "synopsis": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:"
   },
   {
     "slug": "learning-roles",
@@ -981,17 +993,5 @@
     "title": "Writing with Strangers",
     "date": 1429804097374,
     "synopsis": "Writing in the presence of rampant forking calls into question [[What it Means to Write]] and how to do it well."
-  },
-  {
-    "slug": "learning-radar",
-    "title": "Learning Radar",
-    "date": 1604756690734,
-    "synopsis": "Here we look at the core criteria for evaluating a [[Learning Organisation]] from the [[Institute of Learning Organisations]]. These criteria can be summarised as:"
-  },
-  {
-    "slug": "learning-gardens",
-    "title": "Learning Gardens",
-    "date": 1603382384179,
-    "synopsis": "In order to keep this on a personal note, as to be as authentic as possible in my personal learning journey, I will share how I ended up \"here\"."
   }
 ]
