@@ -955,7 +955,7 @@
   {
     "slug": "welcome-visitors",
     "title": "Welcome Visitors",
-    "date": 1604754967376,
+    "date": 1608124619468,
     "synopsis": "The [[Outlandish Academy]] is a P2P framework for creating online and offline learning experiences."
   },
   {
@@ -993,5 +993,11 @@
     "title": "Writing with Strangers",
     "date": 1429804097374,
     "synopsis": "Writing in the presence of rampant forking calls into question [[What it Means to Write]] and how to do it well."
+  },
+  {
+    "slug": "teaching-space",
+    "title": "Teaching Space",
+    "date": 1608124760388,
+    "synopsis": "A __teaching space__ that we are especially interested"
   }
 ]

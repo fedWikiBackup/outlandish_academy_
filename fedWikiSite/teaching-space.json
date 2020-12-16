@@ -1,0 +1,64 @@
+{
+  "title": "Teaching Space",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "ac2bf9e63aeb7efc",
+      "text": "A __teaching space__ that we are especially interested "
+    },
+    {
+      "type": "audio",
+      "id": "fc2af98726ae1455",
+      "text": "https://www.listennotes.com/e/p/83b972f3ddb94ffba15a5901a0bd308a#t=19:44,20:59\n[[Dan Linna]], discusses [[Teaching Space]]s  related to [[future law]] - [https://www.listennotes.com/e/83b972f3ddb94ffba15a5901a0bd308a/ listen]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Teaching Space",
+        "story": []
+      },
+      "date": 1608124632258
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ac2bf9e63aeb7efc"
+      },
+      "id": "ac2bf9e63aeb7efc",
+      "type": "add",
+      "date": 1608124633574
+    },
+    {
+      "type": "edit",
+      "id": "ac2bf9e63aeb7efc",
+      "item": {
+        "type": "markdown",
+        "id": "ac2bf9e63aeb7efc",
+        "text": "A __teaching space__ that we are especially interested "
+      },
+      "date": 1608124668047
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fc2af98726ae1455"
+      },
+      "id": "fc2af98726ae1455",
+      "type": "add",
+      "after": "ac2bf9e63aeb7efc",
+      "date": 1608124757705
+    },
+    {
+      "type": "edit",
+      "id": "fc2af98726ae1455",
+      "item": {
+        "type": "audio",
+        "id": "fc2af98726ae1455",
+        "text": "https://www.listennotes.com/e/p/83b972f3ddb94ffba15a5901a0bd308a#t=19:44,20:59\n[[Dan Linna]], discusses [[Teaching Space]]s  related to [[future law]] - [https://www.listennotes.com/e/83b972f3ddb94ffba15a5901a0bd308a/ listen]"
+      },
+      "date": 1608124760388
+    }
+  ]
+}
