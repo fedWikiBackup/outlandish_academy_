@@ -311,6 +311,16 @@
       "type": "remove",
       "id": "8e721f0df3ae5d1f",
       "date": 1604754967376
+    },
+    {
+      "type": "edit",
+      "id": "ea90a7040f620632",
+      "item": {
+        "text": "We have started a group that meets [[Every Wednesday]], where we have decided to research the following subjects or perhaps we should call them projects:\n\n- [[Teaching Space]]\n- [[Outlandish Methodology]]\n- [[Writing with Strangers]]",
+        "id": "ea90a7040f620632",
+        "type": "markdown"
+      },
+      "date": 1608124619468
     }
   ],
   "title": "Welcome Visitors",
@@ -326,7 +336,7 @@
       "type": "markdown"
     },
     {
-      "text": "We have started a group that meets [[Every Wednesday]], where we have decided to research the following subjects or perhaps we should call them projects:\n\n- [[Outlandish Methodology]]\n- [[Writing with Strangers]]",
+      "text": "We have started a group that meets [[Every Wednesday]], where we have decided to research the following subjects or perhaps we should call them projects:\n\n- [[Teaching Space]]\n- [[Outlandish Methodology]]\n- [[Writing with Strangers]]",
       "id": "ea90a7040f620632",
       "type": "markdown"
     },
