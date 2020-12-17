@@ -870,6 +870,12 @@
     "synopsis": "Teachers is a misnomer in the Viral Academy - we don;t really distinguish between teachers and students. Any student can, and is encouraged to lead a class, and for us leading, or facilitating a class is teaching."
   },
   {
+    "slug": "teaching-space",
+    "title": "Teaching Space",
+    "date": 1608124760388,
+    "synopsis": "A __teaching space__ that we are especially interested"
+  },
+  {
     "slug": "team-roles",
     "title": "Team Roles",
     "date": 1570549795689,
@@ -993,11 +999,5 @@
     "title": "Writing with Strangers",
     "date": 1429804097374,
     "synopsis": "Writing in the presence of rampant forking calls into question [[What it Means to Write]] and how to do it well."
-  },
-  {
-    "slug": "teaching-space",
-    "title": "Teaching Space",
-    "date": 1608124760388,
-    "synopsis": "A __teaching space__ that we are especially interested"
   }
 ]
