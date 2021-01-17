@@ -2166,12 +2166,14 @@
   {
     "slug": "welcome-visitors",
     "title": "Welcome Visitors",
-    "date": 1608124619468,
+    "date": 1610881764144,
     "synopsis": "The [[Outlandish Academy]] is a P2P framework for creating online and offline learning experiences.",
     "links": {
       "outlandish-academy": "26bf9f9b663585b3",
       "every-wednesday": "ea90a7040f620632",
       "teaching-space": "ea90a7040f620632",
+      "future-law": "ea90a7040f620632",
+      "experience-api": "ea90a7040f620632",
       "outlandish-methodology": "ea90a7040f620632",
       "writing-with-strangers": "ea90a7040f620632",
       "academy-methodology": "cb931681174bedc9",
@@ -2180,6 +2182,7 @@
       "agile-teaching": "cb931681174bedc9",
       "nomadic-teaching": "cb931681174bedc9",
       "sustainable-learning-model": "cb931681174bedc9",
+      "tools": "2a4e58e69ac96383",
       "activity": "2a4e58e69ac96383",
       "changes-to-this-site": "2a4e58e69ac96383",
       "drop-in": "2a4e58e69ac96383"
@@ -2261,6 +2264,23 @@
       "citation-is-automatic": "a9d9f27ef5a2adeb",
       "what-a-scholar-should-think": "35dddffdd5e768c3",
       "reputation-at-risk": "35dddffdd5e768c3"
+    }
+  },
+  {
+    "slug": "experience-api",
+    "title": "Experience API",
+    "date": 1610881835945,
+    "synopsis": "The Experience API (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 WikiPedia]",
+    "links": {
+      "advanced-distributed-learning": "5fecfad7b67a4a27",
+      "scorm": "bbf9dcfc78d30586",
+      "restful-web-service": "d47db21b6c8366fb",
+      "json": "d47db21b6c8366fb",
+      "learning-outside-the-browser": "7656e089d86ca3e2",
+      "group-learning": "26d03d09cd267891",
+      "learning-games-and-simulations": "701acc8917068e7c",
+      "control-over-learning-content": "34197480bb3411eb",
+      "oauth": "b7a7e12e205f24cf"
     }
   }
 ]
