@@ -321,6 +321,41 @@
         "type": "markdown"
       },
       "date": 1608124619468
+    },
+    {
+      "type": "edit",
+      "id": "ea90a7040f620632",
+      "item": {
+        "text": "We have started a group that meets [[Every Wednesday]], where we have decided to research the following subjects or perhaps we should call them projects:\n\n- [[Teaching Space]]s for [[Future Law]]\n- [[Experience API]]\n- [[Outlandish Methodology]]\n- [[Writing with Strangers]]",
+        "id": "ea90a7040f620632",
+        "type": "markdown"
+      },
+      "date": 1610881587619
+    },
+    {
+      "type": "edit",
+      "id": "2a4e58e69ac96383",
+      "item": {
+        "text": "# Activity\n  \n- [[Tools]] and [[Activity]]\n- [[Changes to this Site]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]",
+        "id": "2a4e58e69ac96383",
+        "type": "markdown"
+      },
+      "date": 1610881662304
+    },
+    {
+      "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+      "type": "add",
+      "item": {
+        "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "type": "markdown",
+        "text": "- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=xapi&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193211&hsa_kw=xapi&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-299715094495&hsa_cam=6921640309&hsa_grp=79445993666&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVIzCJRMpUadkTEr4oVq6-aMc76oNHDsb5zpEeFXm_XanqWkoNqjashoCXigQAvD_BwE learningpool.com]\n- xapicohort/MakeyMakey: Repo... - [https://github.com/xapicohort/MakeyMakey github.com]\n- Rustici LRS \"digitalocean\" -... - [https://www.google.com/search?sa=X&rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk01ocg-wqs2ThSEZ5-8aj6kcYCwwTw:1610841142304&q=Rustici+LRS+%22digitalocean%22&ved=2ahUKEwiD6s3w0qHuAhWjQkEAHTQqAg8Q5t4CMAB6BAgBEAk&biw=1910&bih=926 google.com]\n- Deep Dive: Verbs - [https://xapi.com/blog/deep-dive-verb/?utm_source=google&utm_medium=natural_search xapi.com]\n- SCORM Cloud: Test, Play and... - [https://rusticisoftware.com/products/scorm-cloud/ rusticisoftware.com]\n- xAPI.com Homepage: What is... - [https://xapi.com/ xapi.com]\n- Adobe Captivate Prime LMS -... - [https://www.adobe.com/de/products/captivateprime.html?sdid=HCS3XMBY&mv=display adobe.com]\n- Blank page after... - [https://www.opigno.org/forum/support/blank-page-after-installation opigno.org]\n- vtc-lrs - npm - [https://www.npmjs.com/package/vtc-lrs npmjs.com]\n- Installing LearningLocker... - [https://gist.github.com/davidpesce/7d6e1b81594ecbc72311 github.com]\n- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- \"LRS\" \"DigitalOcean\" -... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk037ij7k0rO8Db97ZkqtkUlnYug0rg:1610841734099&q=%22LRS%22+%22DigitalOcean%22&sa=X&ved=2ahUKEwivpeaK1aHuAhXDlFwKHUdRAHwQ5t4CMAB6BAgEEAo&biw=1910&bih=926 google.com]\n- ADL Tools - [https://adlnet.github.io/xAPI-SCORM-Profile/dev/adl-tools.html github.io]\n- SCORM Cloud - [https://cloud.scorm.com/sc/guest/SignUpForm?_ga=2.96125084.1465476087.1610835085-387981836.1610835085 scorm.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n- Learning Record Store -... - [https://learningpool.com/solutions/learning-record-store-learning-locker/learning-locker-community-overview/ learningpool.com]\n- Experience API (xAPI)... - [https://adlnet.gov/projects/xapi/# adlnet.gov]\n- adlnet.github.io - [https://adlnet.github.io/ github.io]\n- xAPI Statements: The anatomy... - [https://xapi.com/statements-101/?utm_source=google&utm_medium=natural_search xapi.com]\n- Adobe Captivate (Release... - [https://www.adobe.com/de/products/captivate.html?sdid=T32PLZ4K&mv=search&promoid=70114000002XDiFAAW&ef_id=CjwKCAiAuoqABhAsEiwAdSkVVPKH5Ql9doBIYRcImjGawcxg79X6byahDcjd9Y9jEwlyGDbTzZQ9VRoCBw8QAvD_BwE:G:s&s_kwcid=AL!3085!3!289582537375!b!!g!!%2Badobe%20%2Bcaptivate adobe.com]\n- xapi language map - Google... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk00w_6MZv3uaLed662zC5btaw3m2wA%3A1610837147604&lei=m2wDYKeqJM6tgQb7iYHYBA&q=xapi%20language%20map&ved=2ahUKEwjn4-T_w6HuAhXOVsAKHftEAEsQsKwBKAR6BAgdEAU&biw=1910&bih=926 google.com]\n- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n- Github Desktop doesn't open... - [https://github.com/desktop/desktop/issues/11300 github.com]\n- LRS.io - [https://lrs.io/home/solutions/#free-lrs lrs.io]\n- xAPI-Spec/xAPI-Data.md at... - [https://github.com/adlnet/xAPI-Spec/blob/master/xAPI-Data.md github.com]\n- LRS.io | NPM - [https://lrs.io/npm/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/ github.io]\n- Learning Management Systems... - [https://www.capterra.co.uk/sem/compare/directory/30020/learning-management-system/software?account_campaign_id=11071442529&account_adgroup_id=107353109654&target=software%20for%20e-learning&ad_id=462850663141&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=CjwKCAiAuoqABhAsEiwAdSkVVDeVeUN8SpdP22CFPqgch5g4HjpigzSZOsQvLRGu5UwWtlYPdPJlEBoCf7EQAvD_BwE co.uk]\n- LRS.io - [https://lrs.io/home/elearning-authoring-tool-content-demos lrs.io]\n- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=lrs&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193217&hsa_kw=lrs&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-329503955724&hsa_cam=6921640309&hsa_grp=79445993706&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVCbk54KqknurKZxnqE7Dv9Hn8WzwLldFokJtfiJoFP4iC0W8Tno1txoCWckQAvD_BwE learningpool.com]\n- What is cmi5: the Experience... - [https://xapi.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- Veracity LRS | Learner Portal - [https://elb-content-demo.dev.lrs.io/portal/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/samples/ github.io]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n- xAPI Vocabulary & Profile... - [http://xapi.vocab.pub/verbs/index.html vocab.pub]\n- xAPI Vocabulary Companion... - [https://adlnet.gov/news/2016/03/02/xapi-vocabulary-companion-specification-announced/ adlnet.gov]\n- GitHub -... - [https://github.com/LearningLocker/learninglocker github.com]\n- Get a Learning Record Store... - [https://xapi.com/get-lrs/?utm_source=google&utm_medium=natural_search xapi.com]\n- GitHub - adlnet/ADL_LRS:... - [https://github.com/adlnet/ADL_LRS github.com]\n- cmi5 Resources | ADL... - [https://adlnet.gov/resources/cmi5-resources/ adlnet.gov]\n- Storyline vs Captivate: The... - [https://omniplex.co/blog/storyline-vs-captivate-the-ultimate-review-of-all-reviews/ omniplex.co]\n- GitHub - adlnet/jxapi - [https://github.com/adlnet/jxapi github.com]"
+      },
+      "date": 1610881690597
+    },
+    {
+      "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+      "type": "remove",
+      "date": 1610881764144
     }
   ],
   "title": "Welcome Visitors",
@@ -336,7 +371,7 @@
       "type": "markdown"
     },
     {
-      "text": "We have started a group that meets [[Every Wednesday]], where we have decided to research the following subjects or perhaps we should call them projects:\n\n- [[Teaching Space]]\n- [[Outlandish Methodology]]\n- [[Writing with Strangers]]",
+      "text": "We have started a group that meets [[Every Wednesday]], where we have decided to research the following subjects or perhaps we should call them projects:\n\n- [[Teaching Space]]s for [[Future Law]]\n- [[Experience API]]\n- [[Outlandish Methodology]]\n- [[Writing with Strangers]]",
       "id": "ea90a7040f620632",
       "type": "markdown"
     },
@@ -346,7 +381,7 @@
       "type": "markdown"
     },
     {
-      "text": "# Activity\n  \n- [[Activity]]\n- [[Changes to this Site]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]",
+      "text": "# Activity\n  \n- [[Tools]] and [[Activity]]\n- [[Changes to this Site]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]",
       "id": "2a4e58e69ac96383",
       "type": "markdown"
     },
