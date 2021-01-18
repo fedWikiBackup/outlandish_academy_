@@ -2269,7 +2269,7 @@
   {
     "slug": "experience-api",
     "title": "Experience API",
-    "date": 1610881835945,
+    "date": 1610995032729,
     "synopsis": "The Experience API (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 WikiPedia]",
     "links": {
       "advanced-distributed-learning": "5fecfad7b67a4a27",
