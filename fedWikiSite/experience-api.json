@@ -1091,6 +1091,47 @@
         "text": "# Research\nBelow we list online references and links we gathered from early group discussions - [https://www.one-tab.com/page/fpFwCKgtQfGfdWpicRVxSA one-tab.com]:"
       },
       "date": 1610881835945
+    },
+    {
+      "type": "add",
+      "id": "a01ffb43ef5cd920",
+      "item": {
+        "type": "paragraph",
+        "id": "a01ffb43ef5cd920",
+        "text": "- https://www.devlinpeck.com/xapi-lrs"
+      },
+      "after": "271e3210e9a73700",
+      "date": 1610994965926
+    },
+    {
+      "type": "edit",
+      "id": "a01ffb43ef5cd920",
+      "item": {
+        "type": "paragraph",
+        "id": "a01ffb43ef5cd920",
+        "text": "- xAPI: Everything You Need to Know in 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]"
+      },
+      "date": 1610995019391
+    },
+    {
+      "type": "edit",
+      "id": "a01ffb43ef5cd920",
+      "item": {
+        "type": "markdown",
+        "id": "a01ffb43ef5cd920",
+        "text": "- xAPI: Everything You Need to Know in 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]"
+      },
+      "date": 1610995020591
+    },
+    {
+      "type": "edit",
+      "id": "a01ffb43ef5cd920",
+      "item": {
+        "type": "markdown",
+        "id": "a01ffb43ef5cd920",
+        "text": "- Review 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]"
+      },
+      "date": 1610995032729
     }
   ],
   "story": [
@@ -1098,6 +1139,11 @@
       "id": "271e3210e9a73700",
       "text": "The Experience API (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 WikiPedia]",
       "type": "paragraph"
+    },
+    {
+      "type": "markdown",
+      "id": "a01ffb43ef5cd920",
+      "text": "- Review 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]"
     },
     {
       "id": "2c8b1e1e74281f71",
