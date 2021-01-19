@@ -2269,9 +2269,13 @@
   {
     "slug": "experience-api",
     "title": "Experience API",
-    "date": 1610995032729,
-    "synopsis": "The Experience API (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 WikiPedia]",
+    "date": 1611048730762,
+    "synopsis": "The Experience API ([[xAPI]]), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]",
     "links": {
+      "xapi": "271e3210e9a73700",
+      "restful": "6530df07a7e530a2",
+      "json-rpc": "6530df07a7e530a2",
+      "growth-of-xapi": "1fb49b43111ec96a",
       "advanced-distributed-learning": "5fecfad7b67a4a27",
       "scorm": "bbf9dcfc78d30586",
       "restful-web-service": "d47db21b6c8366fb",
@@ -2280,7 +2284,114 @@
       "group-learning": "26d03d09cd267891",
       "learning-games-and-simulations": "701acc8917068e7c",
       "control-over-learning-content": "34197480bb3411eb",
+      "livecode-xapi": "d7fe9473dc6196e7",
+      "xapi-learning-cohort": "772758af3a09bcdf",
       "oauth": "b7a7e12e205f24cf"
+    }
+  },
+  {
+    "slug": "xapi",
+    "title": "xAPI",
+    "date": 1611047960248,
+    "synopsis": "The [[Experience API]] (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]",
+    "links": {
+      "experience-api": "59bf4f95b5db8483",
+      "xapi": "83a08f98157049da",
+      "restful": "83a08f98157049da",
+      "json-rpc": "83a08f98157049da",
+      "growth-of-xapi": "ae0122fd4616a260",
+      "outpost": "6e25442c6d0d6f8f",
+      "the-federation": "6e25442c6d0d6f8f"
+    }
+  },
+  {
+    "slug": "growth-of-xapi",
+    "title": "Growth of xAPI",
+    "date": 1611047476399,
+    "synopsis": "Adoption of [[xAPI]] may be slow, but it is growing continuous linear fashion, in a conservative market.",
+    "links": {
+      "xapi": "183a20ded9d54eaf"
+    }
+  },
+  {
+    "slug": "outpost",
+    "title": "Outpost",
+    "date": 1611047463077,
+    "synopsis": "An outpost is an applications that deviate substantially from the routine behavior of wiki while still cooperating in the federation. Typically these are situated in order to access unique features in their environment or possibly to explore emerging technology expected to become the new norm once proven.",
+    "links": {
+      "outpost-thinking": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09",
+      "commons-outpost": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09",
+      "local-search-outpost": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09",
+      "seran-outpost": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09"
+    }
+  },
+  {
+    "slug": "outpost-thinking",
+    "title": "Outpost Thinking",
+    "date": 1610746985487,
+    "synopsis": "We built the federation based on the promiscuous sharing of simple things with the hope that this would lead the community to save indefinitely things worth saving. Within a year we had moved from ruby to node without leaving ruby sites behind. Now, in the federation's ninth year, we consider how this process might be further distributed.",
+    "links": {
+      "federation-friendly-outposts": "758c33e5e69b47ed",
+      "nodes-mistakes": "8e807989f2a9052c",
+      "meta-sites-and-pages": "dfb78275c34d747d",
+      "modular-client": "67d7c83674c9549b",
+      "serving-executables": "266a3788ee885765",
+      "smallest-wiki-revisited": "759915e69faf9ed8"
+    }
+  },
+  {
+    "slug": "commons-outpost",
+    "title": "Commons Outpost",
+    "date": 1591610547111,
+    "synopsis": "The [[Commons Outpost]] will start life as a [[revIgnitor server]] running most probably under Apache, and look to migrate that to run either as a native Livecode server (listening on a local private port), or under a [[Caddy server]] (preferred).",
+    "links": {
+      "commons-outpost": "8083aef57072cad1",
+      "revignitor-server": "8083aef57072cad1",
+      "caddy-server": "8083aef57072cad1",
+      "the-commons": "0ea65f446d6d1752",
+      "deno": "38c8611bdbd836e7"
+    }
+  },
+  {
+    "slug": "local-search-outpost",
+    "title": "Local Search Outpost",
+    "date": 1604508183272,
+    "synopsis": "Create repeatable way to update an index of local sites."
+  },
+  {
+    "slug": "seran-outpost",
+    "title": "Seran Outpost",
+    "date": 1607257106271,
+    "synopsis": "The __Seran Outpost__ is a [[deno]] server for fedwiki that is written to provide a number of programmatic services to the federation, most notably scraping the federation - [https://github.com/WardCunningham/seran-wiki/blob/master/.github/workflows/dockerimage.yml github]",
+    "links": {
+      "deno": "d536e5dc64315ce7",
+      "one-wiki-hosting-guide": "53d09c975172480a"
+    }
+  },
+  {
+    "slug": "livecode-xapi",
+    "title": "Livecode xAPI",
+    "date": 1611049744669,
+    "synopsis": "We are proposing running a [[Livecode Dojo]] from February till April 2021. We will work around a series of small Livecode applications created for mobile, tablet and desktop that interface with each other using the [[experience api]] ([[xAPI]]).",
+    "links": {
+      "livecode-dojo": "9562e756b75c02b7",
+      "experience-api": "9562e756b75c02b7",
+      "xapi": "9562e756b75c02b7"
+    }
+  },
+  {
+    "slug": "xapi-cohort",
+    "title": "xAPI Cohort",
+    "date": 1611048736204,
+    "synopsis": "A page with 0 items."
+  },
+  {
+    "slug": "xapi-learning-cohort",
+    "title": "xAPI Learning Cohort",
+    "date": 1611049297174,
+    "synopsis": "The xAPI Learning Cohort is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the [[Experience API]]. It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself - [https://xapicohort.com/ xapicohort.com]",
+    "links": {
+      "experience-api": "15f2a6d90d9b36eb"
     }
   }
 ]
