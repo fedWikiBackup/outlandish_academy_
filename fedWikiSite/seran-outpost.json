@@ -1,0 +1,143 @@
+{
+  "title": "Seran Outpost",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "d536e5dc64315ce7",
+      "text": "The __Seran Outpost__ is a [[deno]] server for fedwiki that is written to provide a number of programmatic services to the federation, most notably scraping the federation - [https://github.com/WardCunningham/seran-wiki/blob/master/.github/workflows/dockerimage.yml github]"
+    },
+    {
+      "type": "reference",
+      "id": "e5241a498b55bbf2",
+      "site": "fedwiki.org",
+      "slug": "seran-launcher",
+      "title": "Seran Launcher",
+      "text": "A launcher for seran-wiki"
+    },
+    {
+      "type": "paragraph",
+      "id": "ae1905acda9e0f81",
+      "text": "We've explored new module technology building mostly on the deno javascript runtime."
+    },
+    {
+      "type": "paragraph",
+      "id": "53d09c975172480a",
+      "text": "See [[One Wiki Hosting Guide]]"
+    },
+    {
+      "type": "assets",
+      "id": "7484c94774143a47",
+      "text": "pages/diagrams-as-base-model/data/seran-outpost"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Seran Outpost",
+        "story": []
+      },
+      "date": 1597843794799
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae1905acda9e0f81"
+      },
+      "id": "ae1905acda9e0f81",
+      "type": "add",
+      "date": 1597843796910
+    },
+    {
+      "type": "edit",
+      "id": "ae1905acda9e0f81",
+      "item": {
+        "type": "paragraph",
+        "id": "ae1905acda9e0f81",
+        "text": "We've explored new module technology building mostly on the deno javascript runtime."
+      },
+      "date": 1597843861180
+    },
+    {
+      "id": "7484c94774143a47",
+      "type": "add",
+      "item": {
+        "type": "assets",
+        "id": "7484c94774143a47",
+        "text": "pages/diagrams-as-base-model/data/seran-outpost"
+      },
+      "after": "ae1905acda9e0f81",
+      "date": 1597843886468
+    },
+    {
+      "type": "add",
+      "id": "53d09c975172480a",
+      "item": {
+        "type": "paragraph",
+        "id": "53d09c975172480a",
+        "text": "See [[One Wiki Hosting Guide]]"
+      },
+      "after": "ae1905acda9e0f81",
+      "date": 1598062107502
+    },
+    {
+      "type": "fork",
+      "site": "simnet.ward.asia.wiki.org",
+      "date": 1607257069464
+    },
+    {
+      "id": "d536e5dc64315ce7",
+      "type": "remove",
+      "date": 1607257074052
+    },
+    {
+      "id": "e5241a498b55bbf2",
+      "type": "remove",
+      "date": 1607257077522
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f4aa991a15650dd1"
+      },
+      "id": "f4aa991a15650dd1",
+      "type": "add",
+      "after": "7484c94774143a47",
+      "date": 1607257083215
+    },
+    {
+      "id": "d536e5dc64315ce7",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "d536e5dc64315ce7",
+        "text": "The __Seran Outpost__ is a [[deno]] server for fedwiki that is written to provide a number of programmatic services to the federation, most notably scraping the federation - [https://github.com/WardCunningham/seran-wiki/blob/master/.github/workflows/dockerimage.yml github]"
+      },
+      "date": 1607257088197
+    },
+    {
+      "id": "e5241a498b55bbf2",
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "id": "e5241a498b55bbf2",
+        "site": "fedwiki.org",
+        "slug": "seran-launcher",
+        "title": "Seran Launcher",
+        "text": "A launcher for seran-wiki"
+      },
+      "after": "d536e5dc64315ce7",
+      "date": 1607257091074
+    },
+    {
+      "id": "f4aa991a15650dd1",
+      "type": "remove",
+      "date": 1607257106271
+    },
+    {
+      "type": "fork",
+      "site": "david.dojo.fed.wiki",
+      "date": 1611047748154
+    }
+  ]
+}
