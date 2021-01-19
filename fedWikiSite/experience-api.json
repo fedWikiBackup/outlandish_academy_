@@ -2521,6 +2521,16 @@
         "text": "- [[xAPI Learning Cohort]]"
       },
       "date": 1611048730762
+    },
+    {
+      "type": "edit",
+      "id": "a01ffb43ef5cd920",
+      "item": {
+        "type": "markdown",
+        "id": "a01ffb43ef5cd920",
+        "text": "- Review 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]\n- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n- Benfits of xAPI - [https://elearningindustry.com/xapi-benefits-manifold elearningindustry.com]\n\n"
+      },
+      "date": 1611065777689
     }
   ],
   "story": [
@@ -2532,7 +2542,7 @@
     {
       "type": "markdown",
       "id": "a01ffb43ef5cd920",
-      "text": "- Review 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]\n- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n\n"
+      "text": "- Review 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]\n- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n- Benfits of xAPI - [https://elearningindustry.com/xapi-benefits-manifold elearningindustry.com]\n\n"
     },
     {
       "id": "2c8b1e1e74281f71",
