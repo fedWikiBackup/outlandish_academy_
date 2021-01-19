@@ -14,7 +14,7 @@
     {
       "type": "markdown",
       "id": "70e0c67a396ffc94",
-      "text": "- https://www.earthday.org/earth-day-2021/?utm_medium=website&utm_source=nav"
+      "text": "This year the event take place on a Thursday. This also happens to be the last day of the [[Learning Cohort]] - [https://www.earthday.org/earth-day-2021/?utm_medium=website&utm_source=nav earthday.org]"
     },
     {
       "type": "markdown",
@@ -523,6 +523,16 @@
         "text": "# Theme for 2021\nThe [[Earth Day Network]] (EDN) announced the theme for Earth Day 2021 as:\n> Restore our Earth - [https://www.earthday.org/press-release/building-on-the-growth-and-resilience-of-the-environmental-movement-worldwide-earth-day-network-launches-restore-our-earth-as-2021-theme/ press release]\n"
       },
       "date": 1611053985053
+    },
+    {
+      "type": "edit",
+      "id": "70e0c67a396ffc94",
+      "item": {
+        "type": "markdown",
+        "id": "70e0c67a396ffc94",
+        "text": "This year the event take place on a Thursday. This also happens to be the last day of the [[Learning Cohort]] - [https://www.earthday.org/earth-day-2021/?utm_medium=website&utm_source=nav earthday.org]"
+      },
+      "date": 1611054272290
     }
   ]
 }
