@@ -1,0 +1,350 @@
+{
+  "title": "Learning Cohort",
+  "journal": [
+    {
+      "item": {
+        "title": "Learning Cohort",
+        "story": ""
+      },
+      "date": 1611048733875,
+      "type": "create"
+    },
+    {
+      "id": "15f2a6d90d9b36eb",
+      "type": "add",
+      "item": {
+        "text": "The xAPI Learning Cohort is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the Experience API. (Yep, you read that right – free!) It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself.\n\nParticipants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!). Past projects have included an onboarding checklist that leverages the Internet of Things (IoT), a game that tracks user clicks as a way to identify UX gaps, and exploration of LMS-LRS interoperability.\n\nxAPI Learning Cohorts run twice a year in spring and fall “semesters” with weekly all-group web meetings on Thursdays 2pm US Eastern Time chock-full of introductory information, practical how-tos, and high-level discussions of the implications for our industry. Teams work on real-life projects that interest them and set their own meeting and working schedules. Oh, and it’s ok to just hang out on the sidelines and observe the action if taking on a team project is too much right now. It’s also ok to participate on more than one project team during a Cohort session.",
+        "id": "15f2a6d90d9b36eb",
+        "type": "markdown"
+      },
+      "date": 1611048736206
+    },
+    {
+      "id": "15f2a6d90d9b36eb",
+      "type": "edit",
+      "item": {
+        "text": "The xAPI Learning Cohort is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the Experience API. (Yep, you read that right – free!) It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself.\n",
+        "id": "15f2a6d90d9b36eb",
+        "type": "markdown"
+      },
+      "date": 1611048750428
+    },
+    {
+      "id": "c1c386831c996da2",
+      "type": "add",
+      "item": {
+        "text": "\nParticipants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!). Past projects have included an onboarding checklist that leverages the Internet of Things (IoT), a game that tracks user clicks as a way to identify UX gaps, and exploration of LMS-LRS interoperability.\n\nxAPI Learning Cohorts run twice a year in spring and fall “semesters” with weekly all-group web meetings on Thursdays 2pm US Eastern Time chock-full of introductory information, practical how-tos, and high-level discussions of the implications for our industry. Teams work on real-life projects that interest them and set their own meeting and working schedules. Oh, and it’s ok to just hang out on the sidelines and observe the action if taking on a team project is too much right now. It’s also ok to participate on more than one project team during a Cohort session.",
+        "id": "c1c386831c996da2",
+        "type": "markdown"
+      },
+      "after": "15f2a6d90d9b36eb",
+      "date": 1611048751498
+    },
+    {
+      "id": "15f2a6d90d9b36eb",
+      "type": "edit",
+      "item": {
+        "text": "The xAPI Learning Cohort is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the [[Experience API]]. It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself.\n",
+        "id": "15f2a6d90d9b36eb",
+        "type": "markdown"
+      },
+      "date": 1611048772836
+    },
+    {
+      "id": "c1c386831c996da2",
+      "type": "edit",
+      "item": {
+        "text": "Participants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!). \n",
+        "id": "c1c386831c996da2",
+        "type": "markdown"
+      },
+      "date": 1611048782506
+    },
+    {
+      "id": "47b21aac5d3b7992",
+      "type": "add",
+      "item": {
+        "text": "Past projects have included an onboarding checklist that leverages the Internet of Things (IoT), a game that tracks user clicks as a way to identify UX gaps, and exploration of LMS-LRS interoperability.\n",
+        "id": "47b21aac5d3b7992",
+        "type": "markdown"
+      },
+      "after": "c1c386831c996da2",
+      "date": 1611048792462
+    },
+    {
+      "id": "5264aa1d2bda503f",
+      "type": "add",
+      "item": {
+        "text": "xAPI Learning Cohorts run twice a year in spring and fall “semesters” with weekly all-group web meetings on Thursdays 2pm US Eastern Time chock-full of introductory information, practical how-tos, and high-level discussions of the implications for our industry. \n",
+        "id": "5264aa1d2bda503f",
+        "type": "markdown"
+      },
+      "after": "47b21aac5d3b7992",
+      "date": 1611048801915
+    },
+    {
+      "id": "f9efdd93b237a43d",
+      "type": "add",
+      "item": {
+        "text": "Teams work on real-life projects that interest them and set their own meeting and working schedules. Oh, and it’s ok to just hang out on the sidelines and observe the action if taking on a team project is too much right now. It’s also ok to participate on more than one project team during a Cohort session.",
+        "id": "f9efdd93b237a43d",
+        "type": "markdown"
+      },
+      "after": "5264aa1d2bda503f",
+      "date": 1611048822084
+    },
+    {
+      "id": "fcb1f5f0e502adce",
+      "type": "add",
+      "item": {
+        "id": "fcb1f5f0e502adce",
+        "type": "factory"
+      },
+      "after": "f9efdd93b237a43d",
+      "date": 1611048837954
+    },
+    {
+      "id": "fcb1f5f0e502adce",
+      "type": "edit",
+      "item": {
+        "text": "xAPI Learning Meet\nDATE thursday\nTIME 14:00\nFOR 60 minutes\nIN US/Pacific\n\nHERE",
+        "id": "fcb1f5f0e502adce",
+        "type": "zones"
+      },
+      "date": 1611048878959
+    },
+    {
+      "id": "fcb1f5f0e502adce",
+      "type": "edit",
+      "item": {
+        "text": "xAPI Learning Meet\nDATE Thursday\nTIME 14:00\nFOR 60 minutes\nIN US/Pacific\n\nHERE",
+        "id": "fcb1f5f0e502adce",
+        "type": "zones"
+      },
+      "date": 1611048888399
+    },
+    {
+      "id": "fcb1f5f0e502adce",
+      "type": "edit",
+      "item": {
+        "text": "xAPI Learning Meet\nDATE Thursday\nTIME 14:00\nFOR 60 minutes\nIN EST\n\nHERE",
+        "id": "fcb1f5f0e502adce",
+        "type": "zones"
+      },
+      "date": 1611048945059
+    },
+    {
+      "id": "fcb1f5f0e502adce",
+      "order": [
+        "15f2a6d90d9b36eb",
+        "c1c386831c996da2",
+        "47b21aac5d3b7992",
+        "5264aa1d2bda503f",
+        "fcb1f5f0e502adce",
+        "f9efdd93b237a43d"
+      ],
+      "type": "move",
+      "date": 1611048961787
+    },
+    {
+      "id": "5264aa1d2bda503f",
+      "order": [
+        "15f2a6d90d9b36eb",
+        "5264aa1d2bda503f",
+        "c1c386831c996da2",
+        "47b21aac5d3b7992",
+        "fcb1f5f0e502adce",
+        "f9efdd93b237a43d"
+      ],
+      "type": "move",
+      "date": 1611048967524
+    },
+    {
+      "id": "fcb1f5f0e502adce",
+      "order": [
+        "15f2a6d90d9b36eb",
+        "fcb1f5f0e502adce",
+        "5264aa1d2bda503f",
+        "c1c386831c996da2",
+        "47b21aac5d3b7992",
+        "f9efdd93b237a43d"
+      ],
+      "type": "move",
+      "date": 1611048970066
+    },
+    {
+      "id": "c1c386831c996da2",
+      "type": "edit",
+      "item": {
+        "text": "# Teams\nParticipants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!). \n",
+        "id": "c1c386831c996da2",
+        "type": "markdown"
+      },
+      "date": 1611048978126
+    },
+    {
+      "id": "15f2a6d90d9b36eb",
+      "type": "edit",
+      "item": {
+        "text": "The xAPI Learning Cohort is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the [[Experience API]]. It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself - [https://xapicohort.com/ xapicohort.com]\n",
+        "id": "15f2a6d90d9b36eb",
+        "type": "markdown"
+      },
+      "date": 1611049297174
+    },
+    {
+      "id": "c1c386831c996da2",
+      "type": "edit",
+      "item": {
+        "text": "# Teams\nParticipants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!).\n",
+        "id": "c1c386831c996da2",
+        "type": "markdown"
+      },
+      "date": 1611053490902
+    },
+    {
+      "id": "2da1b4fe6f7c2c35",
+      "type": "add",
+      "item": {
+        "text": "- https://xapicohort.com/teams/",
+        "id": "2da1b4fe6f7c2c35",
+        "type": "markdown"
+      },
+      "after": "c1c386831c996da2",
+      "date": 1611053492922
+    },
+    {
+      "id": "5264aa1d2bda503f",
+      "type": "edit",
+      "item": {
+        "text": "xAPI Learning Cohorts run twice a year in spring and fall “semesters” with weekly all-group web meetings on Thursdays 2pm US Eastern Time chock-full of introductory information, practical how-tos, and high-level discussions of the implications for our industry.\n",
+        "id": "5264aa1d2bda503f",
+        "type": "markdown"
+      },
+      "date": 1611053525421
+    },
+    {
+      "id": "a3a8ca5be16b1d8f",
+      "type": "add",
+      "item": {
+        "text": "- [[Learning Cohort Teams]]",
+        "id": "a3a8ca5be16b1d8f",
+        "type": "markdown"
+      },
+      "after": "5264aa1d2bda503f",
+      "date": 1611053532561
+    },
+    {
+      "date": 1611053538506,
+      "type": "remove",
+      "id": "c1c386831c996da2"
+    },
+    {
+      "date": 1611053544911,
+      "type": "remove",
+      "id": "2da1b4fe6f7c2c35"
+    },
+    {
+      "date": 1611053547815,
+      "type": "remove",
+      "id": "47b21aac5d3b7992"
+    },
+    {
+      "date": 1611053550269,
+      "type": "remove",
+      "id": "f9efdd93b237a43d"
+    },
+    {
+      "type": "fork",
+      "date": 1611054357461
+    },
+    {
+      "type": "edit",
+      "id": "fcb1f5f0e502adce",
+      "item": {
+        "text": "Learning Cohort Meet\nDATE Thursday\nTIME 14:00\nFOR 60 minutes\nIN EST\n\nHERE",
+        "type": "zones",
+        "id": "fcb1f5f0e502adce"
+      },
+      "date": 1611054366948
+    },
+    {
+      "type": "edit",
+      "id": "15f2a6d90d9b36eb",
+      "item": {
+        "text": "# xAPI Learning Cohort\nThe __xAPI Learning Cohort__ is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the [[Experience API]]. It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself - [https://xapicohort.com/ xapicohort.com]\n",
+        "type": "markdown",
+        "id": "15f2a6d90d9b36eb"
+      },
+      "date": 1611054397225
+    },
+    {
+      "type": "edit",
+      "id": "15f2a6d90d9b36eb",
+      "item": {
+        "text": "fsda\n",
+        "type": "markdown",
+        "id": "15f2a6d90d9b36eb"
+      },
+      "date": 1611054411136
+    },
+    {
+      "type": "add",
+      "id": "510decfe4625a37b",
+      "item": {
+        "type": "markdown",
+        "id": "510decfe4625a37b",
+        "text": "# xAPI Learning Cohort\nThe [[xAPI]] Learning Cohort is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the [[Experience API]]. It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself - [https://xapicohort.com/ xapicohort.com]\n"
+      },
+      "after": "15f2a6d90d9b36eb",
+      "date": 1611054411603
+    },
+    {
+      "type": "edit",
+      "id": "15f2a6d90d9b36eb",
+      "item": {
+        "text": "The __Learning Cohort__ is an informal group of makers interested in education that have agreed to come together for a 12 week hack between Thursday 4th February and [[Earth Day 2021]] which is on Thursday 22nd April, 2021.\n",
+        "type": "markdown",
+        "id": "15f2a6d90d9b36eb"
+      },
+      "date": 1611054762854
+    },
+    {
+      "type": "edit",
+      "id": "15f2a6d90d9b36eb",
+      "item": {
+        "text": "The __Learning Cohort__ is an informal group of [[Makers]] interested in education that have agreed to come together for a 12 week hack between Thursday 4th February and [[Earth Day 2021]] which is on Thursday 22nd April, 2021.\n",
+        "type": "markdown",
+        "id": "15f2a6d90d9b36eb"
+      },
+      "date": 1611054783042
+    }
+  ],
+  "story": [
+    {
+      "text": "The __Learning Cohort__ is an informal group of [[Makers]] interested in education that have agreed to come together for a 12 week hack between Thursday 4th February and [[Earth Day 2021]] which is on Thursday 22nd April, 2021.\n",
+      "type": "markdown",
+      "id": "15f2a6d90d9b36eb"
+    },
+    {
+      "type": "markdown",
+      "id": "510decfe4625a37b",
+      "text": "# xAPI Learning Cohort\nThe [[xAPI]] Learning Cohort is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the [[Experience API]]. It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself - [https://xapicohort.com/ xapicohort.com]\n"
+    },
+    {
+      "text": "Learning Cohort Meet\nDATE Thursday\nTIME 14:00\nFOR 60 minutes\nIN EST\n\nHERE",
+      "type": "zones",
+      "id": "fcb1f5f0e502adce"
+    },
+    {
+      "text": "xAPI Learning Cohorts run twice a year in spring and fall “semesters” with weekly all-group web meetings on Thursdays 2pm US Eastern Time chock-full of introductory information, practical how-tos, and high-level discussions of the implications for our industry.\n",
+      "type": "markdown",
+      "id": "5264aa1d2bda503f"
+    },
+    {
+      "text": "- [[Learning Cohort Teams]]",
+      "type": "markdown",
+      "id": "a3a8ca5be16b1d8f"
+    }
+  ]
+}
