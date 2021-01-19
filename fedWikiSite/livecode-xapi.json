@@ -4,12 +4,22 @@
     {
       "type": "markdown",
       "id": "9562e756b75c02b7",
-      "text": "We are proposing running a [[Livecode Dojo]] from February till April 2021. We will work around a series of small Livecode applications created for mobile, tablet and desktop that interface with each other using the [[experience api]] ([[xAPI]]).\n"
+      "text": "We are proposing running a [[Livecode Dojo]] from February till Thursday 22nd April 2021. We will work around a series of small Livecode applications created for mobile, tablet and desktop that interface with each other using the [[experience api]] ([[xAPI]]).\n"
+    },
+    {
+      "type": "markdown",
+      "id": "98eb5eb499d627cc",
+      "text": "- [[xAPI Learning Cohort]]"
     },
     {
       "type": "markdown",
       "id": "d01da133d5294ab0",
-      "text": "# Live sessions"
+      "text": "# Live sessions\n"
+    },
+    {
+      "type": "markdown",
+      "id": "79686675c2a919fd",
+      "text": "There will be once a week live video conferencing with recordings made for those that can't make it."
     },
     {
       "type": "zones",
@@ -19,7 +29,12 @@
     {
       "type": "markdown",
       "id": "815aea103cbc564b",
-      "text": "# MakeyMakey\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      "text": "# Teams\nWe form teams around project ideas that we work on. A team need not involve only coders. We can alos develop course content, or research elements that the project needs to develop.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "cfcd43a5fcafae1a",
+      "text": "- [[Learning Cohort Teams]]\n\n"
     }
   ],
   "journal": [
@@ -139,6 +154,249 @@
         "text": "# MakeyMakey\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
       },
       "date": 1611049744669
+    },
+    {
+      "type": "edit",
+      "id": "d01da133d5294ab0",
+      "item": {
+        "type": "markdown",
+        "id": "d01da133d5294ab0",
+        "text": "# Live sessions\n"
+      },
+      "date": 1611053099666
+    },
+    {
+      "type": "add",
+      "id": "79686675c2a919fd",
+      "item": {
+        "type": "markdown",
+        "id": "79686675c2a919fd",
+        "text": "There will be once a week live video conferencing with recordings made for those that can't make it."
+      },
+      "after": "d01da133d5294ab0",
+      "date": 1611053141626
+    },
+    {
+      "type": "edit",
+      "id": "815aea103cbc564b",
+      "item": {
+        "type": "markdown",
+        "id": "815aea103cbc564b",
+        "text": "# Team MakeyMakey\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      },
+      "date": 1611053159290
+    },
+    {
+      "type": "edit",
+      "id": "815aea103cbc564b",
+      "item": {
+        "type": "markdown",
+        "id": "815aea103cbc564b",
+        "text": "# Teams\nWe form teams around project ideas that we work on. A team need not involve only coders. We can alos develop course content, or research elements that the project needs to develop.\n"
+      },
+      "date": 1611053229172
+    },
+    {
+      "type": "add",
+      "id": "6b1640436703c9de",
+      "item": {
+        "type": "markdown",
+        "id": "6b1640436703c9de",
+        "text": "- https://xapicohort.com/teams/\n"
+      },
+      "after": "815aea103cbc564b",
+      "date": 1611053231212
+    },
+    {
+      "type": "add",
+      "id": "d05aa70ca02cc27c",
+      "item": {
+        "type": "markdown",
+        "id": "d05aa70ca02cc27c",
+        "text": "# Team MakeyMakey\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      },
+      "after": "6b1640436703c9de",
+      "date": 1611053233846
+    },
+    {
+      "type": "edit",
+      "id": "d05aa70ca02cc27c",
+      "item": {
+        "type": "markdown",
+        "id": "d05aa70ca02cc27c",
+        "text": "# Team MakeyMakey\nThis [[Livecode]] team is based on a 2020 cohort:\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      },
+      "date": 1611053268482
+    },
+    {
+      "type": "edit",
+      "id": "9562e756b75c02b7",
+      "item": {
+        "type": "markdown",
+        "id": "9562e756b75c02b7",
+        "text": "We are proposing running a [[Livecode Dojo]] from February till Thursday 22nd April 2021. We will work around a series of small Livecode applications created for mobile, tablet and desktop that interface with each other using the [[experience api]] ([[xAPI]]).\n"
+      },
+      "date": 1611053359444
+    },
+    {
+      "type": "add",
+      "id": "cfcd43a5fcafae1a",
+      "item": {
+        "type": "markdown",
+        "id": "cfcd43a5fcafae1a",
+        "text": "# Earth Day Live Team\n"
+      },
+      "after": "6b1640436703c9de",
+      "date": 1611053380536
+    },
+    {
+      "type": "add",
+      "id": "bb14a60492f837c0",
+      "item": {
+        "type": "markdown",
+        "id": "bb14a60492f837c0",
+        "text": "We are proposing creating"
+      },
+      "after": "cfcd43a5fcafae1a",
+      "date": 1611053392047
+    },
+    {
+      "type": "edit",
+      "id": "cfcd43a5fcafae1a",
+      "item": {
+        "type": "markdown",
+        "id": "cfcd43a5fcafae1a",
+        "text": "# Earth Day Team\n"
+      },
+      "date": 1611053396405
+    },
+    {
+      "type": "edit",
+      "id": "bb14a60492f837c0",
+      "item": {
+        "type": "markdown",
+        "id": "bb14a60492f837c0",
+        "text": "We are proposing creating a series of integrated [[Livecode]] apps used for environmental education and showcasing these on [[Earth Day 2021]]."
+      },
+      "date": 1611053458302
+    },
+    {
+      "type": "add",
+      "id": "98eb5eb499d627cc",
+      "item": {
+        "type": "markdown",
+        "id": "98eb5eb499d627cc",
+        "text": "- [[xAPI Learning Cohort]]"
+      },
+      "after": "9562e756b75c02b7",
+      "date": 1611053474574
+    },
+    {
+      "type": "edit",
+      "id": "d05aa70ca02cc27c",
+      "item": {
+        "type": "markdown",
+        "id": "d05aa70ca02cc27c",
+        "text": "- [[MakeyMakey Team]]\nThis [[Livecode]] team is based on a 2020 cohort:\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      },
+      "date": 1611053578200
+    },
+    {
+      "type": "edit",
+      "id": "cfcd43a5fcafae1a",
+      "item": {
+        "type": "markdown",
+        "id": "cfcd43a5fcafae1a",
+        "text": "- [[Earth Day Team]]\n"
+      },
+      "date": 1611053587751
+    },
+    {
+      "type": "edit",
+      "id": "cfcd43a5fcafae1a",
+      "item": {
+        "type": "markdown",
+        "id": "cfcd43a5fcafae1a",
+        "text": "- [[Learning Cohort Teams]]\n- [[Earth Day Team]]\n"
+      },
+      "date": 1611053600248
+    },
+    {
+      "type": "remove",
+      "id": "6b1640436703c9de",
+      "date": 1611053607500
+    },
+    {
+      "id": "bb14a60492f837c0",
+      "type": "remove",
+      "date": 1611053622666
+    },
+    {
+      "type": "remove",
+      "id": "d05aa70ca02cc27c",
+      "date": 1611053627311
+    },
+    {
+      "type": "edit",
+      "id": "cfcd43a5fcafae1a",
+      "item": {
+        "type": "markdown",
+        "id": "cfcd43a5fcafae1a",
+        "text": "- [[Learning Cohort Teams]]\n- [[Earth Day Team]]\n- [[MakeyMakey Team]]\nThis [[Livecode]] team is based on a 2020 cohort:\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      },
+      "date": 1611053630002
+    },
+    {
+      "type": "edit",
+      "id": "cfcd43a5fcafae1a",
+      "item": {
+        "type": "markdown",
+        "id": "cfcd43a5fcafae1a",
+        "text": "- [[Learning Cohort Teams]]\n- [[Earth Day Team]]\n- [[MakeyMakey Team]]\n"
+      },
+      "date": 1611053633452
+    },
+    {
+      "type": "add",
+      "id": "9c4dca114251caaa",
+      "item": {
+        "type": "markdown",
+        "id": "9c4dca114251caaa",
+        "text": "This [[Livecode]] team is based on a 2020 cohort:\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      },
+      "after": "cfcd43a5fcafae1a",
+      "date": 1611053634289
+    },
+    {
+      "id": "9c4dca114251caaa",
+      "type": "remove",
+      "date": 1611053641170
+    },
+    {
+      "type": "edit",
+      "id": "cfcd43a5fcafae1a",
+      "item": {
+        "type": "markdown",
+        "id": "cfcd43a5fcafae1a",
+        "text": "- [[Learning Cohort Teams]]\n\n"
+      },
+      "date": 1611053675991
+    },
+    {
+      "type": "add",
+      "id": "ed7c89a9214e0a39",
+      "item": {
+        "type": "markdown",
+        "id": "ed7c89a9214e0a39",
+        "text": "- [[Earth Day Team]]\n- [[MakeyMakey Team]]\n"
+      },
+      "after": "cfcd43a5fcafae1a",
+      "date": 1611053676811
+    },
+    {
+      "id": "ed7c89a9214e0a39",
+      "type": "remove",
+      "date": 1611053687191
     }
   ]
 }

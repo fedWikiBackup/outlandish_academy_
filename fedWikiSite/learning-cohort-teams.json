@@ -1,0 +1,104 @@
+{
+  "title": "Learning Cohort Teams",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "c1c386831c996da2",
+      "text": "Participants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!).\n"
+    },
+    {
+      "type": "markdown",
+      "id": "2da1b4fe6f7c2c35",
+      "text": "- https://xapicohort.com/teams/"
+    },
+    {
+      "type": "markdown",
+      "id": "47b21aac5d3b7992",
+      "text": "Past projects have included an onboarding checklist that leverages the Internet of Things (IoT), a game that tracks user clicks as a way to identify UX gaps, and exploration of LMS-LRS interoperability.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "ed7c89a9214e0a39",
+      "text": "- [[Earth Day Team]]\n- [[MakeyMakey Team]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "f9efdd93b237a43d",
+      "text": "Teams work on real-life projects that interest them and set their own meeting and working schedules. Oh, and it’s ok to just hang out on the sidelines and observe the action if taking on a team project is too much right now. It’s also ok to participate on more than one project team during a Cohort session."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Learning Cohort Teams",
+        "story": []
+      },
+      "date": 1611053535019
+    },
+    {
+      "id": "c1c386831c996da2",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "c1c386831c996da2",
+        "text": "# Teams\nParticipants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!).\n"
+      },
+      "date": 1611053538507
+    },
+    {
+      "type": "edit",
+      "id": "c1c386831c996da2",
+      "item": {
+        "type": "markdown",
+        "id": "c1c386831c996da2",
+        "text": "Participants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!).\n"
+      },
+      "date": 1611053542465
+    },
+    {
+      "id": "2da1b4fe6f7c2c35",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "2da1b4fe6f7c2c35",
+        "text": "- https://xapicohort.com/teams/"
+      },
+      "after": "c1c386831c996da2",
+      "date": 1611053544912
+    },
+    {
+      "id": "47b21aac5d3b7992",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "47b21aac5d3b7992",
+        "text": "Past projects have included an onboarding checklist that leverages the Internet of Things (IoT), a game that tracks user clicks as a way to identify UX gaps, and exploration of LMS-LRS interoperability.\n"
+      },
+      "after": "2da1b4fe6f7c2c35",
+      "date": 1611053547816
+    },
+    {
+      "id": "f9efdd93b237a43d",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "f9efdd93b237a43d",
+        "text": "Teams work on real-life projects that interest them and set their own meeting and working schedules. Oh, and it’s ok to just hang out on the sidelines and observe the action if taking on a team project is too much right now. It’s also ok to participate on more than one project team during a Cohort session."
+      },
+      "after": "47b21aac5d3b7992",
+      "date": 1611053550270
+    },
+    {
+      "id": "ed7c89a9214e0a39",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "ed7c89a9214e0a39",
+        "text": "- [[Earth Day Team]]\n- [[MakeyMakey Team]]\n"
+      },
+      "after": "47b21aac5d3b7992",
+      "date": 1611053687192
+    }
+  ]
+}

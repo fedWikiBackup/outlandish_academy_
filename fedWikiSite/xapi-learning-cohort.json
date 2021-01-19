@@ -14,22 +14,12 @@
     {
       "type": "markdown",
       "id": "5264aa1d2bda503f",
-      "text": "xAPI Learning Cohorts run twice a year in spring and fall “semesters” with weekly all-group web meetings on Thursdays 2pm US Eastern Time chock-full of introductory information, practical how-tos, and high-level discussions of the implications for our industry. \n"
+      "text": "xAPI Learning Cohorts run twice a year in spring and fall “semesters” with weekly all-group web meetings on Thursdays 2pm US Eastern Time chock-full of introductory information, practical how-tos, and high-level discussions of the implications for our industry.\n"
     },
     {
       "type": "markdown",
-      "id": "c1c386831c996da2",
-      "text": "# Teams\nParticipants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!). \n"
-    },
-    {
-      "type": "markdown",
-      "id": "47b21aac5d3b7992",
-      "text": "Past projects have included an onboarding checklist that leverages the Internet of Things (IoT), a game that tracks user clicks as a way to identify UX gaps, and exploration of LMS-LRS interoperability.\n"
-    },
-    {
-      "type": "markdown",
-      "id": "f9efdd93b237a43d",
-      "text": "Teams work on real-life projects that interest them and set their own meeting and working schedules. Oh, and it’s ok to just hang out on the sidelines and observe the action if taking on a team project is too much right now. It’s also ok to participate on more than one project team during a Cohort session."
+      "id": "a3a8ca5be16b1d8f",
+      "text": "- [[Learning Cohort Teams]]"
     }
   ],
   "journal": [
@@ -223,6 +213,68 @@
         "text": "The xAPI Learning Cohort is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the [[Experience API]]. It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself - [https://xapicohort.com/ xapicohort.com]\n"
       },
       "date": 1611049297174
+    },
+    {
+      "type": "edit",
+      "id": "c1c386831c996da2",
+      "item": {
+        "type": "markdown",
+        "id": "c1c386831c996da2",
+        "text": "# Teams\nParticipants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!).\n"
+      },
+      "date": 1611053490902
+    },
+    {
+      "type": "add",
+      "id": "2da1b4fe6f7c2c35",
+      "item": {
+        "type": "markdown",
+        "id": "2da1b4fe6f7c2c35",
+        "text": "- https://xapicohort.com/teams/"
+      },
+      "after": "c1c386831c996da2",
+      "date": 1611053492922
+    },
+    {
+      "type": "edit",
+      "id": "5264aa1d2bda503f",
+      "item": {
+        "type": "markdown",
+        "id": "5264aa1d2bda503f",
+        "text": "xAPI Learning Cohorts run twice a year in spring and fall “semesters” with weekly all-group web meetings on Thursdays 2pm US Eastern Time chock-full of introductory information, practical how-tos, and high-level discussions of the implications for our industry.\n"
+      },
+      "date": 1611053525421
+    },
+    {
+      "type": "add",
+      "id": "a3a8ca5be16b1d8f",
+      "item": {
+        "type": "markdown",
+        "id": "a3a8ca5be16b1d8f",
+        "text": "- [[Learning Cohort Teams]]"
+      },
+      "after": "5264aa1d2bda503f",
+      "date": 1611053532561
+    },
+    {
+      "id": "c1c386831c996da2",
+      "type": "remove",
+      "date": 1611053538506
+    },
+    {
+      "id": "2da1b4fe6f7c2c35",
+      "type": "remove",
+      "date": 1611053544911
+    },
+    {
+      "id": "47b21aac5d3b7992",
+      "type": "remove",
+      "date": 1611053547815
+    },
+    {
+      "id": "f9efdd93b237a43d",
+      "type": "remove",
+      "date": 1611053550269
     }
   ]
 }

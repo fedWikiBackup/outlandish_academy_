@@ -2371,12 +2371,14 @@
   {
     "slug": "livecode-xapi",
     "title": "Livecode xAPI",
-    "date": 1611049744669,
-    "synopsis": "We are proposing running a [[Livecode Dojo]] from February till April 2021. We will work around a series of small Livecode applications created for mobile, tablet and desktop that interface with each other using the [[experience api]] ([[xAPI]]).",
+    "date": 1611053687191,
+    "synopsis": "We are proposing running a [[Livecode Dojo]] from February till Thursday 22nd April 2021. We will work around a series of small Livecode applications created for mobile, tablet and desktop that interface with each other using the [[experience api]] ([[xAPI]]).",
     "links": {
       "livecode-dojo": "9562e756b75c02b7",
       "experience-api": "9562e756b75c02b7",
-      "xapi": "9562e756b75c02b7"
+      "xapi": "9562e756b75c02b7",
+      "xapi-learning-cohort": "98eb5eb499d627cc",
+      "learning-cohort-teams": "cfcd43a5fcafae1a"
     }
   },
   {
@@ -2388,10 +2390,57 @@
   {
     "slug": "xapi-learning-cohort",
     "title": "xAPI Learning Cohort",
-    "date": 1611049297174,
+    "date": 1611053550269,
     "synopsis": "The xAPI Learning Cohort is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the [[Experience API]]. It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself - [https://xapicohort.com/ xapicohort.com]",
     "links": {
-      "experience-api": "15f2a6d90d9b36eb"
+      "experience-api": "15f2a6d90d9b36eb",
+      "learning-cohort-teams": "a3a8ca5be16b1d8f"
+    }
+  },
+  {
+    "slug": "learning-cohort-teams",
+    "title": "Learning Cohort Teams",
+    "date": 1611053687192,
+    "synopsis": "Participants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!).",
+    "links": {
+      "earth-day-team": "ed7c89a9214e0a39",
+      "makeymakey-team": "ed7c89a9214e0a39"
+    }
+  },
+  {
+    "slug": "earth-day-team",
+    "title": "Earth Day Team",
+    "date": 1611053622667,
+    "synopsis": "We are proposing creating a series of integrated [[Livecode]] apps used for environmental education and showcasing these on [[Earth Day 2021]].",
+    "links": {
+      "livecode": "bb14a60492f837c0",
+      "earth-day-2021": "bb14a60492f837c0"
+    }
+  },
+  {
+    "slug": "makeymakey-team",
+    "title": "MakeyMakey Team",
+    "date": 1611053641171,
+    "synopsis": "This [[Livecode]] team is based on a 2020 cohort:",
+    "links": {
+      "livecode": "9c4dca114251caaa"
+    }
+  },
+  {
+    "slug": "earth-day-2021",
+    "title": "Earth Day 2021",
+    "date": 1611053985053,
+    "synopsis": "[[Earth Day]] is an annual celebration that has taken place in April each year since 1970. It takes place each year on:",
+    "links": {
+      "earth-day": "b28b56f2be458a5b",
+      "earth-day-network": "8d445981ecab6529",
+      "wiki-and-the-environment": "e4498fede2652953",
+      "molde-learning-garden": "8bd6b54bbe6784e2",
+      "home-studio": "85072eeeea341f6b",
+      "community-obeya-room": "85072eeeea341f6b",
+      "sound-garden": "a5076bc2e7ca3f43",
+      "earth-sounds": "5bf790bd27b82bca",
+      "green-wiki": "3eb3947058d61959"
     }
   }
 ]
