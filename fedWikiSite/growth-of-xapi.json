@@ -1,0 +1,87 @@
+{
+  "title": "Growth of xAPI",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "183a20ded9d54eaf",
+      "text": "Adoption of [[xAPI]] may be slow, but it is growing continuous linear fashion, in a conservative market.\n"
+    },
+    {
+      "id": "0f7b224c-3f58-47bc-ba04-9cfebe1489fb",
+      "type": "html",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/xAPI-statements-in-SCORM-Cloud-min-1024x656.png'>\n</a>\n<p class=caption>\nGrowth of xAPI transactions - [https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search xapi.com]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "07e57816988df9e7",
+      "text": "However this still represents only a small partion of the overall market:"
+    },
+    {
+      "id": "ff96c1ea-d769-45c0-992f-70921fdbcc0e",
+      "type": "html",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/Packaged-content-in-SCORM-Cloud-2020-min-1024x633.png'>\n</a>\n<p class=caption>\n[[xAPI]] accounts for only 1.4% of learning package imports in 2010 - [https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search xapi.com]\n</p></div>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Growth of xAPI",
+        "story": []
+      },
+      "date": 1611047414617
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "183a20ded9d54eaf"
+      },
+      "id": "183a20ded9d54eaf",
+      "type": "add",
+      "date": 1611047427987
+    },
+    {
+      "type": "edit",
+      "id": "183a20ded9d54eaf",
+      "item": {
+        "type": "markdown",
+        "id": "183a20ded9d54eaf",
+        "text": "Adoption of [[xAPI]] may be slow, but it is growing continuous linear fashion, in a conservative market.\n"
+      },
+      "date": 1611047458362
+    },
+    {
+      "id": "0f7b224c-3f58-47bc-ba04-9cfebe1489fb",
+      "type": "add",
+      "item": {
+        "id": "0f7b224c-3f58-47bc-ba04-9cfebe1489fb",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/xAPI-statements-in-SCORM-Cloud-min-1024x656.png'>\n</a>\n<p class=caption>\nGrowth of xAPI transactions - [https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search xapi.com]\n</p></div>"
+      },
+      "after": "183a20ded9d54eaf",
+      "date": 1611047469255
+    },
+    {
+      "id": "07e57816988df9e7",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "07e57816988df9e7",
+        "text": "However this still represents only a small partion of the overall market:"
+      },
+      "after": "0f7b224c-3f58-47bc-ba04-9cfebe1489fb",
+      "date": 1611047473636
+    },
+    {
+      "id": "ff96c1ea-d769-45c0-992f-70921fdbcc0e",
+      "type": "add",
+      "item": {
+        "id": "ff96c1ea-d769-45c0-992f-70921fdbcc0e",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/Packaged-content-in-SCORM-Cloud-2020-min-1024x633.png'>\n</a>\n<p class=caption>\n[[xAPI]] accounts for only 1.4% of learning package imports in 2010 - [https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search xapi.com]\n</p></div>"
+      },
+      "after": "07e57816988df9e7",
+      "date": 1611047476399
+    }
+  ]
+}
