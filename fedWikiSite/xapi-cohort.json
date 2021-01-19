@@ -1,0 +1,43 @@
+{
+  "title": "xAPI Cohort",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "xAPI Cohort",
+        "story": []
+      },
+      "date": 1611048707415
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "15f2a6d90d9b36eb",
+        "text": "The xAPI Learning Cohort is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the Experience API. (Yep, you read that right – free!) It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself.\n\nParticipants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!). Past projects have included an onboarding checklist that leverages the Internet of Things (IoT), a game that tracks user clicks as a way to identify UX gaps, and exploration of LMS-LRS interoperability.\n\nxAPI Learning Cohorts run twice a year in spring and fall “semesters” with weekly all-group web meetings on Thursdays 2pm US Eastern Time chock-full of introductory information, practical how-tos, and high-level discussions of the implications for our industry. Teams work on real-life projects that interest them and set their own meeting and working schedules. Oh, and it’s ok to just hang out on the sidelines and observe the action if taking on a team project is too much right now. It’s also ok to participate on more than one project team during a Cohort session."
+      },
+      "id": "15f2a6d90d9b36eb",
+      "type": "add",
+      "date": 1611048708528
+    },
+    {
+      "type": "edit",
+      "id": "15f2a6d90d9b36eb",
+      "item": {
+        "type": "markdown",
+        "id": "15f2a6d90d9b36eb",
+        "text": "The xAPI Learning Cohort is a free, vendor-neutral, 12-week learning-by-doing project-based team learning experience about the Experience API. (Yep, you read that right – free!) It’s an opportunity for those who are brand new to xAPI and those who are looking to experiment with it to learn from each other and from the work itself.\n\nParticipants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!). Past projects have included an onboarding checklist that leverages the Internet of Things (IoT), a game that tracks user clicks as a way to identify UX gaps, and exploration of LMS-LRS interoperability.\n\nxAPI Learning Cohorts run twice a year in spring and fall “semesters” with weekly all-group web meetings on Thursdays 2pm US Eastern Time chock-full of introductory information, practical how-tos, and high-level discussions of the implications for our industry. Teams work on real-life projects that interest them and set their own meeting and working schedules. Oh, and it’s ok to just hang out on the sidelines and observe the action if taking on a team project is too much right now. It’s also ok to participate on more than one project team during a Cohort session."
+      },
+      "date": 1611048724652
+    },
+    {
+      "id": "15f2a6d90d9b36eb",
+      "type": "remove",
+      "date": 1611048736204
+    },
+    {
+      "type": "fork",
+      "date": 1611048739391
+    }
+  ]
+}

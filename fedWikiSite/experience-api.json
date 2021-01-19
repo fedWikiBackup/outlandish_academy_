@@ -1,1062 +1,158 @@
 {
   "journal": [
     {
-      "date": 1424002004950,
-      "item": {
-        "story": "",
-        "title": "Experience API"
-      },
-      "type": "create"
-    },
-    {
-      "date": 1424002007204,
+      "type": "edit",
       "id": "271e3210e9a73700",
       "item": {
         "id": "271e3210e9a73700",
-        "type": "factory"
-      },
-      "type": "add"
-    },
-    {
-      "date": 1424002022996,
-      "id": "271e3210e9a73700",
-      "item": {
-        "id": "271e3210e9a73700",
-        "text": "[https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 WikiPedia]",
+        "text": "The Experience API ([[xAPI]]), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]",
         "type": "paragraph"
       },
-      "type": "edit"
-    },
-    {
-      "date": 1424002088417,
-      "id": "271e3210e9a73700",
-      "item": {
-        "id": "271e3210e9a73700",
-        "text": "The Experience API (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 WikiPedia]",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "after": "271e3210e9a73700",
-      "date": 1424002096426,
-      "id": "2c8b1e1e74281f71",
-      "item": {
-        "id": "2c8b1e1e74281f71",
-        "text": "Learning experiences are recorded in a Learning Record Store (LRS). LRSs can exist within traditional Learning Management Systems (LMSs) or on their own",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "date": 1424002163434,
-      "id": "2c8b1e1e74281f71",
-      "item": {
-        "id": "2c8b1e1e74281f71",
-        "text": "Learning experiences are recorded in a Learning Record Store (LRS). LRSs can exist within traditional Learning Management Systems (LMSs) or on their own.",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "after": "2c8b1e1e74281f71",
-      "date": 1424002176433,
-      "id": "bbf9dcfc78d30586",
-      "item": {
-        "id": "bbf9dcfc78d30586",
-        "text": "The Experience API (Tin Can API) is commonly considered the successor to SCORM. SCORM (Sharable Content Object Reference Model) has been the de facto e-learning standard for packaging e-learning content to be delivered to LMSs.[citation needed] However, there are several drawbacks to SCORM.",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "after": "bbf9dcfc78d30586",
-      "date": 1424002192969,
-      "id": "47625c4f2008ece7",
-      "item": {
-        "id": "47625c4f2008ece7",
-        "text": "The Experience API allows for several new capabilities that SCORM didn't, such as:\n\n    Taking e-learning outside of the web browser[5]\n    E-learning in native mobile applications[1]\n    More control over learning content[4]\n    Solid security using Oauth\n    Platform transition; e.g. start e-learning on a mobile device, finish it on a computer[5]\n    The ability to track games and simulations[2]\n    The ability to track real-world performance[6]\n    Team-based e-learning[2]\n    Tracking learning plans and goals[7]\n\nThe Experience API (Tin Can API) is an open source API. It is a Representational state transfer web service that uses JavaScript Object Notation for its data format. The web service allows software clients to read and write experiential data in the form of ‚Äústatement‚Äù objects. In their simplest form, statements are in the form of ‚ÄúI did this‚Äù, or more generally ‚Äúactor verb object‚Äù.[4] More complex statement forms can be used. There is also a built in query API to help filter recorded statements, and a state API that allows for a sort of ‚Äúscratch space‚Äù for consuming applications.",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "date": 1424002220577,
-      "id": "bbf9dcfc78d30586",
-      "item": {
-        "id": "bbf9dcfc78d30586",
-        "text": "The Experience API (Tin Can API) is commonly considered the successor to [[SCORM]].",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424002315442,
-      "id": "47625c4f2008ece7",
-      "item": {
-        "id": "47625c4f2008ece7",
-        "text": "    Taking e-learning outside of the web browser\n    E-learning in native mobile applications\n    More control over learning content\n    Solid security using Oauth\n    Platform transition; e.g. start e-learning on a mobile device, finish it on a computer\n    The ability to track games and simulations\n    The ability to track real-world performance\n    Team-based e-learning\n    Tracking learning plans and goals\n\nThe Experience API (Tin Can API) is an open source API. It is a Representational state transfer web service that uses JavaScript Object Notation for its data format. The web service allows software clients to read and write experiential data in the form of ‚Äústatement‚Äù objects. In their simplest form, statements are in the form of ‚ÄúI did this‚Äù, or more generally ‚Äúactor verb object‚Äù.[4] More complex statement forms can be used. There is also a built in query API to help filter recorded statements, and a state API that allows for a sort of ‚Äúscratch space‚Äù for consuming applications.",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424002321607,
-      "id": "bbf9dcfc78d30586",
-      "item": {
-        "id": "bbf9dcfc78d30586",
-        "text": "The Experience API (Tin Can API) is commonly considered the successor to [[SCORM]]. The Experience API allows for several new capabilities that SCORM didn't, such as:",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424002374695,
-      "id": "47625c4f2008ece7",
-      "item": {
-        "id": "47625c4f2008ece7",
-        "text": "    Taking e-learning outside of the web browser\n    E-learning in native mobile applications\n    More control over learning content\n    Solid security using Oauth\n    Platform transition; e.g. start e-learning on a mobile device, finish it on a computer\n    The ability to track games and simulations\n    The ability to track real-world performance\n    Team-based e-learning\n    Tracking learning plans and goals\n\n",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "after": "47625c4f2008ece7",
-      "date": 1424002426586,
-      "id": "d47db21b6c8366fb",
-      "item": {
-        "id": "d47db21b6c8366fb",
-        "text": "The Experience API is an open source API. It is a [[RESTful Web Service]] that uses [[JSON]] for its data format. The web service allows software clients to read and write experiential data in the form of ‚Äústatement‚Äù objects. ",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "after": "d47db21b6c8366fb",
-      "date": 1424002449992,
-      "id": "631d8aedc1929bc1",
-      "item": {
-        "id": "631d8aedc1929bc1",
-        "text": "In their simplest form, statements are in the form of ‚ÄúI did this‚Äù, or more generally ‚Äúactor verb object‚Äù. More complex statement forms can be used. There is also a built in query API to help filter recorded statements, and a state API that allows for a sort of ‚Äúscratch space‚Äù for consuming applications.",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "date": 1424002492840,
-      "id": "47625c4f2008ece7",
-      "item": {
-        "id": "47625c4f2008ece7",
-        "text": "Taking e-learning outside of the web browser",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "after": "47625c4f2008ece7",
-      "date": 1424002497935,
-      "id": "06596e18d2d34190",
-      "item": {
-        "id": "06596e18d2d34190",
-        "text": "E-learning in native mobile applications",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "after": "06596e18d2d34190",
-      "date": 1424002502479,
-      "id": "34197480bb3411eb",
-      "item": {
-        "id": "34197480bb3411eb",
-        "text": "More control over learning content",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "after": "34197480bb3411eb",
-      "date": 1424002508911,
-      "id": "b7a7e12e205f24cf",
-      "item": {
-        "id": "b7a7e12e205f24cf",
-        "text": "Solid security using Oauth",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "after": "b7a7e12e205f24cf",
-      "date": 1424002514287,
-      "id": "b4167f07aecdcdca",
-      "item": {
-        "id": "b4167f07aecdcdca",
-        "text": "Platform transition; e.g. start e-learning on a mobile device, finish it on a computer",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "after": "b4167f07aecdcdca",
-      "date": 1424002520939,
-      "id": "701acc8917068e7c",
-      "item": {
-        "id": "701acc8917068e7c",
-        "text": "The ability to track games and simulations",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "after": "701acc8917068e7c",
-      "date": 1424002524547,
-      "id": "b1aabd0533f36a87",
-      "item": {
-        "id": "b1aabd0533f36a87",
-        "text": "The ability to track real-world performance",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "after": "b1aabd0533f36a87",
-      "date": 1424002528512,
-      "id": "03c71634f7494978",
-      "item": {
-        "id": "03c71634f7494978",
-        "text": "Team-based e-learning",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "after": "03c71634f7494978",
-      "date": 1424002532895,
-      "id": "37218b0c6a6e422e",
-      "item": {
-        "id": "37218b0c6a6e422e",
-        "text": "Tracking learning plans and goals",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "after": "37218b0c6a6e422e",
-      "date": 1424002539337,
-      "id": "d09f363dca66e6bc",
-      "item": {
-        "id": "d09f363dca66e6bc",
-        "text": "\n",
-        "type": "paragraph"
-      },
-      "type": "add"
-    },
-    {
-      "date": 1424002564696,
-      "id": "47625c4f2008ece7",
-      "item": {
-        "id": "47625c4f2008ece7",
-        "text": "[[Learning Outside the Browser]]",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424002584491,
-      "id": "06596e18d2d34190",
-      "item": {
-        "id": "06596e18d2d34190",
-        "text": "[[Native mobile applications]]",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424002608841,
-      "id": "34197480bb3411eb",
-      "item": {
-        "id": "34197480bb3411eb",
-        "text": "[[Control Over Learning Content]]",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424002621289,
-      "id": "b7a7e12e205f24cf",
-      "item": {
-        "id": "b7a7e12e205f24cf",
-        "text": "[[Oauth]]",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424002640210,
-      "id": "b4167f07aecdcdca",
-      "item": {
-        "id": "b4167f07aecdcdca",
-        "text": "[[Platform Transition]]",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "after": "631d8aedc1929bc1",
-      "date": 1424002666905,
-      "id": "737b27e95b43d36d",
-      "item": {
-        "id": "737b27e95b43d36d",
-        "type": "factory"
-      },
-      "type": "add"
-    },
-    {
-      "date": 1424002669799,
-      "id": "737b27e95b43d36d",
-      "item": {
-        "id": "737b27e95b43d36d",
-        "site": "david.viral.academy",
-        "slug": "platform-transition",
-        "text": "Start learning on a mobile device, finish it on a computer.",
-        "title": "Platform Transition",
-        "type": "reference"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424002673116,
-      "id": "737b27e95b43d36d",
-      "order": [
-        "271e3210e9a73700",
-        "2c8b1e1e74281f71",
-        "bbf9dcfc78d30586",
-        "47625c4f2008ece7",
-        "06596e18d2d34190",
-        "34197480bb3411eb",
-        "b7a7e12e205f24cf",
-        "b4167f07aecdcdca",
-        "737b27e95b43d36d",
-        "701acc8917068e7c",
-        "b1aabd0533f36a87",
-        "03c71634f7494978",
-        "37218b0c6a6e422e",
-        "d09f363dca66e6bc",
-        "d47db21b6c8366fb",
-        "631d8aedc1929bc1"
-      ],
-      "type": "move"
-    },
-    {
-      "date": 1424002677845,
-      "id": "b4167f07aecdcdca",
-      "type": "remove"
-    },
-    {
-      "date": 1424003176857,
-      "id": "06596e18d2d34190",
-      "type": "remove"
-    },
-    {
-      "date": 1424003192620,
-      "id": "737b27e95b43d36d",
-      "type": "remove"
-    },
-    {
-      "date": 1424003237263,
-      "id": "701acc8917068e7c",
-      "item": {
-        "id": "701acc8917068e7c",
-        "text": "[[Learning Games and Simulations]]",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424003322634,
-      "id": "701acc8917068e7c",
-      "order": [
-        "271e3210e9a73700",
-        "2c8b1e1e74281f71",
-        "bbf9dcfc78d30586",
-        "47625c4f2008ece7",
-        "701acc8917068e7c",
-        "34197480bb3411eb",
-        "b7a7e12e205f24cf",
-        "b1aabd0533f36a87",
-        "03c71634f7494978",
-        "37218b0c6a6e422e",
-        "d09f363dca66e6bc",
-        "d47db21b6c8366fb",
-        "631d8aedc1929bc1"
-      ],
-      "type": "move"
-    },
-    {
-      "date": 1424003347839,
-      "id": "b1aabd0533f36a87",
-      "item": {
-        "id": "b1aabd0533f36a87",
-        "text": "[[Real-world Performance]]",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424003356401,
-      "id": "b1aabd0533f36a87",
-      "type": "remove"
-    },
-    {
-      "date": 1424003498883,
-      "id": "03c71634f7494978",
-      "item": {
-        "id": "03c71634f7494978",
-        "text": "[[Group Learning]]",
-        "type": "paragraph"
-      },
-      "type": "edit"
-    },
-    {
-      "after": "631d8aedc1929bc1",
-      "date": 1424003588432,
-      "id": "a063ec52453d18c4",
-      "item": {
-        "id": "a063ec52453d18c4",
-        "type": "factory"
-      },
-      "type": "add"
-    },
-    {
-      "date": 1424003590536,
-      "id": "a063ec52453d18c4",
-      "item": {
-        "id": "a063ec52453d18c4",
-        "site": "david.viral.academy",
-        "slug": "group-learning",
-        "text": "Group or team-based learning is a core part of [[Viral Academy Methodology]] and is supported by the [[Experience API]].",
-        "title": "Group Learning",
-        "type": "reference"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424003594761,
-      "id": "a063ec52453d18c4",
-      "order": [
-        "271e3210e9a73700",
-        "2c8b1e1e74281f71",
-        "bbf9dcfc78d30586",
-        "47625c4f2008ece7",
-        "a063ec52453d18c4",
-        "701acc8917068e7c",
-        "34197480bb3411eb",
-        "b7a7e12e205f24cf",
-        "03c71634f7494978",
-        "37218b0c6a6e422e",
-        "d09f363dca66e6bc",
-        "d47db21b6c8366fb",
-        "631d8aedc1929bc1"
-      ],
-      "type": "move"
-    },
-    {
-      "after": "631d8aedc1929bc1",
-      "date": 1424003598017,
-      "id": "4abb54712bc0de57",
-      "item": {
-        "id": "4abb54712bc0de57",
-        "type": "factory"
-      },
-      "type": "add"
-    },
-    {
-      "date": 1424003600140,
-      "id": "4abb54712bc0de57",
-      "order": [
-        "4abb54712bc0de57",
-        "271e3210e9a73700",
-        "2c8b1e1e74281f71",
-        "bbf9dcfc78d30586",
-        "47625c4f2008ece7",
-        "a063ec52453d18c4",
-        "701acc8917068e7c",
-        "34197480bb3411eb",
-        "b7a7e12e205f24cf",
-        "03c71634f7494978",
-        "37218b0c6a6e422e",
-        "d09f363dca66e6bc",
-        "d47db21b6c8366fb",
-        "631d8aedc1929bc1"
-      ],
-      "type": "move"
-    },
-    {
-      "date": 1424003603346,
-      "id": "4abb54712bc0de57",
-      "order": [
-        "271e3210e9a73700",
-        "2c8b1e1e74281f71",
-        "bbf9dcfc78d30586",
-        "47625c4f2008ece7",
-        "4abb54712bc0de57",
-        "a063ec52453d18c4",
-        "701acc8917068e7c",
-        "34197480bb3411eb",
-        "b7a7e12e205f24cf",
-        "03c71634f7494978",
-        "37218b0c6a6e422e",
-        "d09f363dca66e6bc",
-        "d47db21b6c8366fb",
-        "631d8aedc1929bc1"
-      ],
-      "type": "move"
-    },
-    {
-      "date": 1424003607449,
-      "id": "4abb54712bc0de57",
-      "item": {
-        "id": "4abb54712bc0de57",
-        "site": "david.viral.academy",
-        "slug": "learning-outside-the-browser",
-        "text": "Most learning occurs outside of the browser. Pervasive or [[Ubiquitous Learning]] requires these learning experiences to be integrated into the overall framework.",
-        "title": "Learning Outside the Browser",
-        "type": "reference"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424003611740,
-      "id": "47625c4f2008ece7",
-      "type": "remove"
-    },
-    {
-      "after": "631d8aedc1929bc1",
-      "date": 1424003639178,
-      "id": "12b35942f0312488",
-      "item": {
-        "id": "12b35942f0312488",
-        "type": "factory"
-      },
-      "type": "add"
-    },
-    {
-      "date": 1424003641708,
-      "id": "12b35942f0312488",
-      "item": {
-        "id": "12b35942f0312488",
-        "site": "david.viral.academy",
-        "slug": "learning-games-and-simulations",
-        "text": "The ability to track games and simulations is becoming ever more important in [[EdTech]].",
-        "title": "Learning Games and Simulations",
-        "type": "reference"
-      },
-      "type": "edit"
-    },
-    {
-      "date": 1424003644531,
-      "id": "12b35942f0312488",
-      "order": [
-        "271e3210e9a73700",
-        "2c8b1e1e74281f71",
-        "bbf9dcfc78d30586",
-        "4abb54712bc0de57",
-        "a063ec52453d18c4",
-        "701acc8917068e7c",
-        "34197480bb3411eb",
-        "12b35942f0312488",
-        "b7a7e12e205f24cf",
-        "03c71634f7494978",
-        "37218b0c6a6e422e",
-        "d09f363dca66e6bc",
-        "d47db21b6c8366fb",
-        "631d8aedc1929bc1"
-      ],
-      "type": "move"
-    },
-    {
-      "date": 1424003653359,
-      "id": "03c71634f7494978",
-      "type": "remove"
-    },
-    {
-      "type": "fork",
-      "site": "david.viral.academy",
-      "date": 1432813337384
-    },
-    {
-      "type": "move",
-      "order": [
-        "271e3210e9a73700",
-        "2c8b1e1e74281f71",
-        "bbf9dcfc78d30586",
-        "d47db21b6c8366fb",
-        "4abb54712bc0de57",
-        "a063ec52453d18c4",
-        "701acc8917068e7c",
-        "34197480bb3411eb",
-        "12b35942f0312488",
-        "b7a7e12e205f24cf",
-        "37218b0c6a6e422e",
-        "d09f363dca66e6bc",
-        "631d8aedc1929bc1"
-      ],
-      "id": "d47db21b6c8366fb",
-      "date": 1432813369923
+      "date": 1611046891509
     },
     {
       "type": "edit",
-      "id": "631d8aedc1929bc1",
+      "id": "0f7b224c-3f58-47bc-ba04-9cfebe1489fb",
       "item": {
-        "id": "631d8aedc1929bc1",
-        "text": "In their simplest form, statements are in the form of \"I did this\", or more generally \"actor verb object\".",
-        "type": "paragraph"
+        "id": "0f7b224c-3f58-47bc-ba04-9cfebe1489fb",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/xAPI-statements-in-SCORM-Cloud-min-1024x656.png'>\n</a>\n<p class=caption>\nGrowth of xAPI transactions - [https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search xapi.com]\n</p></div>"
       },
-      "date": 1432813536263
+      "date": 1611046876349
     },
     {
+      "id": "0f7b224c-3f58-47bc-ba04-9cfebe1489fb",
       "type": "add",
-      "id": "1c41a7941bb04b4b",
       "item": {
-        "type": "paragraph",
-        "id": "1c41a7941bb04b4b",
-        "text": " More complex statement forms can be used. There is also a built in query API to help filter recorded statements, and a state API that allows for a sort of \"scratch space\" for consuming applications."
-      },
-      "after": "631d8aedc1929bc1",
-      "date": 1432813554022
-    },
-    {
-      "type": "move",
-      "order": [
-        "271e3210e9a73700",
-        "2c8b1e1e74281f71",
-        "bbf9dcfc78d30586",
-        "d47db21b6c8366fb",
-        "631d8aedc1929bc1",
-        "4abb54712bc0de57",
-        "a063ec52453d18c4",
-        "701acc8917068e7c",
-        "34197480bb3411eb",
-        "12b35942f0312488",
-        "b7a7e12e205f24cf",
-        "37218b0c6a6e422e",
-        "d09f363dca66e6bc",
-        "1c41a7941bb04b4b"
-      ],
-      "id": "631d8aedc1929bc1",
-      "date": 1432813557737
-    },
-    {
-      "type": "move",
-      "order": [
-        "271e3210e9a73700",
-        "2c8b1e1e74281f71",
-        "bbf9dcfc78d30586",
-        "d47db21b6c8366fb",
-        "631d8aedc1929bc1",
-        "1c41a7941bb04b4b",
-        "4abb54712bc0de57",
-        "a063ec52453d18c4",
-        "701acc8917068e7c",
-        "34197480bb3411eb",
-        "12b35942f0312488",
-        "b7a7e12e205f24cf",
-        "37218b0c6a6e422e",
-        "d09f363dca66e6bc"
-      ],
-      "id": "1c41a7941bb04b4b",
-      "date": 1432813560354
-    },
-    {
-      "type": "edit",
-      "id": "d47db21b6c8366fb",
-      "item": {
-        "id": "d47db21b6c8366fb",
-        "text": "The Experience API is an open source API. It is a [[RESTful Web Service]] that uses [[JSON]] for its data format. The web service allows software clients to read and write experiential data in the form of \"statement\" objects. ",
-        "type": "paragraph"
-      },
-      "date": 1432813582164
-    },
-    {
-      "type": "add",
-      "id": "8a2379d4d7cbeca1",
-      "item": {
-        "type": "paragraph",
-        "id": "8a2379d4d7cbeca1",
-        "text": "1oixhT7JjyNzevfY3iTwKlrORUoJ5ygoh1g5qDNECNHo"
+        "id": "0f7b224c-3f58-47bc-ba04-9cfebe1489fb",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/xAPI-statements-in-SCORM-Cloud-min-1024x656.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/xAPI-statements-in-SCORM-Cloud-min-1024x656.png'>\n</a>\n<p class=caption>\nThis is an image - [https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/xAPI-statements-in-SCORM-Cloud-min-1024x656.png netdna-ssl.com]\n</p></div>"
       },
       "after": "2c8b1e1e74281f71",
-      "date": 1432831946795,
-      "error": {
-        "type": "error",
-        "msg": "Forbidden",
-        "response": "Forbidden"
-      }
-    },
-    {
-      "type": "fork",
-      "date": 1432831970477
+      "date": 1611046752657
     },
     {
       "type": "edit",
-      "id": "8a2379d4d7cbeca1",
-      "item": {
-        "type": "paragraph",
-        "id": "8a2379d4d7cbeca1",
-        "text": "xAPI = [https://docs.google.com/document/d/1oixhT7JjyNzevfY3iTwKlrORUoJ5ygoh1g5qDNECNHo/edit docs.google.com]"
-      },
-      "date": 1432832002381
-    },
-    {
-      "type": "add",
-      "id": "9b4b3bd63388641c",
-      "item": {
-        "type": "paragraph",
-        "id": "9b4b3bd63388641c",
-        "text": "xAPI Verbs - [https://docs.google.com/spreadsheets/d/10HpDd3wSmhkHCnxYvqj0uzrBatca_JDMc7BXca7Vcyw/edit#gid=0 docs.google.com]"
-      },
-      "after": "8a2379d4d7cbeca1",
-      "date": 1432832044202
-    },
-    {
-      "type": "add",
-      "id": "cae48cb8d354d703",
-      "item": {
-        "type": "paragraph",
-        "id": "cae48cb8d354d703",
-        "text": "[[Advanced Distributed Learning]]"
-      },
-      "after": "2c8b1e1e74281f71",
-      "date": 1432832114551
-    },
-    {
-      "type": "remove",
-      "id": "8a2379d4d7cbeca1",
-      "date": 1432832126309
-    },
-    {
-      "type": "remove",
-      "id": "9b4b3bd63388641c",
-      "date": 1432832131263
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "1d7e66ca25ff1073"
-      },
-      "id": "1d7e66ca25ff1073",
-      "type": "add",
-      "after": "d09f363dca66e6bc",
-      "date": 1432832158301
-    },
-    {
-      "type": "edit",
-      "id": "1d7e66ca25ff1073",
-      "item": {
-        "type": "reference",
-        "id": "1d7e66ca25ff1073",
-        "site": "wiki.viral.academy",
-        "slug": "advanced-distributed-learning",
-        "title": "Advanced Distributed Learning",
-        "text": "The vision of the ADL Initiative is to provide access to the highest quality learning and performance aiding that can be tailored to individual needs, and delivered cost effectively at the right time and at the right place."
-      },
-      "date": 1432832161033
-    },
-    {
-      "type": "move",
-      "order": [
-        "271e3210e9a73700",
-        "2c8b1e1e74281f71",
-        "cae48cb8d354d703",
-        "1d7e66ca25ff1073",
-        "bbf9dcfc78d30586",
-        "d47db21b6c8366fb",
-        "631d8aedc1929bc1",
-        "1c41a7941bb04b4b",
-        "4abb54712bc0de57",
-        "a063ec52453d18c4",
-        "701acc8917068e7c",
-        "34197480bb3411eb",
-        "12b35942f0312488",
-        "b7a7e12e205f24cf",
-        "37218b0c6a6e422e",
-        "d09f363dca66e6bc"
-      ],
-      "id": "1d7e66ca25ff1073",
-      "date": 1432832167009
-    },
-    {
-      "type": "remove",
-      "id": "cae48cb8d354d703",
-      "date": 1432832170186
-    },
-    {
-      "type": "fork",
-      "site": "wiki.outlandish.academy",
-      "date": 1610367272013
-    },
-    {
-      "type": "add",
-      "id": "5fecfad7b67a4a27",
-      "item": {
-        "type": "paragraph",
-        "id": "5fecfad7b67a4a27",
-        "text": "- [[Advanced Distributed Learning]]"
-      },
-      "after": "2c8b1e1e74281f71",
-      "date": 1610367301457
-    },
-    {
-      "type": "edit",
-      "id": "5fecfad7b67a4a27",
-      "item": {
-        "type": "markdown",
-        "id": "5fecfad7b67a4a27",
-        "text": "- [[Advanced Distributed Learning]]"
-      },
-      "date": 1610367302622
-    },
-    {
-      "type": "remove",
-      "id": "1d7e66ca25ff1073",
-      "date": 1610367305245
-    },
-    {
-      "type": "add",
-      "id": "7656e089d86ca3e2",
-      "item": {
-        "type": "paragraph",
-        "id": "7656e089d86ca3e2",
-        "text": "- [[Learning Outside the Browser]]"
-      },
-      "after": "1c41a7941bb04b4b",
-      "date": 1610367348642
-    },
-    {
-      "type": "edit",
-      "id": "7656e089d86ca3e2",
-      "item": {
-        "type": "markdown",
-        "id": "7656e089d86ca3e2",
-        "text": "- [[Learning Outside the Browser]]"
-      },
-      "date": 1610367350230
-    },
-    {
-      "type": "remove",
-      "id": "4abb54712bc0de57",
-      "date": 1610367352620
-    },
-    {
-      "type": "edit",
-      "id": "7656e089d86ca3e2",
-      "item": {
-        "type": "markdown",
-        "id": "7656e089d86ca3e2",
-        "text": "- [[Learning Outside the Browser]]\n"
-      },
-      "date": 1610367364945
-    },
-    {
-      "type": "add",
-      "id": "26d03d09cd267891",
-      "item": {
-        "type": "markdown",
-        "id": "26d03d09cd267891",
-        "text": "- [[Group Learning]]"
-      },
-      "after": "7656e089d86ca3e2",
-      "date": 1610367367477
-    },
-    {
-      "type": "remove",
-      "id": "a063ec52453d18c4",
-      "date": 1610367369420
-    },
-    {
-      "type": "edit",
-      "id": "701acc8917068e7c",
-      "item": {
-        "id": "701acc8917068e7c",
-        "text": "- [[Learning Games and Simulations]]",
-        "type": "paragraph"
-      },
-      "date": 1610367374805
-    },
-    {
-      "type": "edit",
-      "id": "701acc8917068e7c",
-      "item": {
-        "id": "701acc8917068e7c",
-        "text": "- [[Learning Games and Simulations]]",
-        "type": "markdown"
-      },
-      "date": 1610367376391
-    },
-    {
-      "type": "edit",
-      "id": "34197480bb3411eb",
-      "item": {
-        "id": "34197480bb3411eb",
-        "text": "- [[Control Over Learning Content]]",
-        "type": "paragraph"
-      },
-      "date": 1610367382623
-    },
-    {
-      "type": "edit",
-      "id": "34197480bb3411eb",
-      "item": {
-        "id": "34197480bb3411eb",
-        "text": "- [[Control Over Learning Content]]",
-        "type": "markdown"
-      },
-      "date": 1610367384355
-    },
-    {
-      "type": "edit",
-      "id": "34197480bb3411eb",
-      "item": {
-        "id": "34197480bb3411eb",
-        "text": "- [[Control Over Learning Content]]\n",
-        "type": "markdown"
-      },
-      "date": 1610367412631
-    },
-    {
-      "type": "add",
-      "id": "69d7e2b83cff9293",
-      "item": {
-        "type": "markdown",
-        "id": "69d7e2b83cff9293",
-        "text": "- [[Learning Games and Simulations]]"
-      },
-      "after": "34197480bb3411eb",
-      "date": 1610367414781
-    },
-    {
-      "type": "remove",
-      "id": "12b35942f0312488",
-      "date": 1610367418339
-    },
-    {
-      "type": "edit",
-      "id": "b7a7e12e205f24cf",
-      "item": {
-        "id": "b7a7e12e205f24cf",
-        "text": "# See also [[Oauth]]",
-        "type": "paragraph"
-      },
-      "date": 1610367430201
-    },
-    {
-      "type": "edit",
-      "id": "b7a7e12e205f24cf",
-      "item": {
-        "id": "b7a7e12e205f24cf",
-        "text": "# See also [[Oauth]]",
-        "type": "markdown"
-      },
-      "date": 1610367431426
-    },
-    {
-      "type": "edit",
-      "id": "b7a7e12e205f24cf",
-      "item": {
-        "id": "b7a7e12e205f24cf",
-        "text": "# See also\n- [[Oauth]]",
-        "type": "markdown"
-      },
-      "date": 1610367438116
-    },
-    {
-      "id": "37218b0c6a6e422e",
-      "type": "move",
-      "order": [
-        "271e3210e9a73700",
-        "2c8b1e1e74281f71",
-        "5fecfad7b67a4a27",
-        "bbf9dcfc78d30586",
-        "d47db21b6c8366fb",
-        "631d8aedc1929bc1",
-        "1c41a7941bb04b4b",
-        "7656e089d86ca3e2",
-        "26d03d09cd267891",
-        "701acc8917068e7c",
-        "34197480bb3411eb",
-        "69d7e2b83cff9293",
-        "37218b0c6a6e422e",
-        "b7a7e12e205f24cf",
-        "d09f363dca66e6bc"
-      ],
-      "date": 1610367440548
-    },
-    {
-      "type": "fork",
-      "site": "mediagarden.org",
-      "date": 1610881618575
-    },
-    {
-      "type": "edit",
-      "id": "37218b0c6a6e422e",
-      "item": {
-        "id": "37218b0c6a6e422e",
-        "text": "- Tracking learning plans and goals",
-        "type": "paragraph"
-      },
-      "date": 1610881644041
-    },
-    {
-      "type": "edit",
-      "id": "37218b0c6a6e422e",
-      "item": {
-        "id": "37218b0c6a6e422e",
-        "text": "- Tracking learning plans and goals",
-        "type": "markdown"
-      },
-      "date": 1610881645848
-    },
-    {
-      "type": "edit",
-      "id": "37218b0c6a6e422e",
-      "item": {
-        "id": "37218b0c6a6e422e",
-        "text": "- Tracking learning plans and goals\n",
-        "type": "markdown"
-      },
-      "date": 1610881700632
-    },
-    {
-      "type": "add",
       "id": "7606f3e29fcfe5d6",
       "item": {
         "type": "markdown",
         "id": "7606f3e29fcfe5d6",
-        "text": "# Research\nBelow we list online references and links we gathered from early group discussions:"
+        "text": "# Research\nHere we list our recent reading and exploration of xAPI which needs to be sorted and organised - [https://www.one-tab.com/page/fpFwCKgtQfGfdWpicRVxSA one-tab.com]:"
       },
-      "after": "37218b0c6a6e422e",
-      "date": 1610881756011
-    },
-    {
-      "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
-      "type": "add",
-      "item": {
-        "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
-        "type": "markdown",
-        "text": "- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=xapi&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193211&hsa_kw=xapi&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-299715094495&hsa_cam=6921640309&hsa_grp=79445993666&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVIzCJRMpUadkTEr4oVq6-aMc76oNHDsb5zpEeFXm_XanqWkoNqjashoCXigQAvD_BwE learningpool.com]\n- xapicohort/MakeyMakey: Repo... - [https://github.com/xapicohort/MakeyMakey github.com]\n- Rustici LRS \"digitalocean\" -... - [https://www.google.com/search?sa=X&rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk01ocg-wqs2ThSEZ5-8aj6kcYCwwTw:1610841142304&q=Rustici+LRS+%22digitalocean%22&ved=2ahUKEwiD6s3w0qHuAhWjQkEAHTQqAg8Q5t4CMAB6BAgBEAk&biw=1910&bih=926 google.com]\n- Deep Dive: Verbs - [https://xapi.com/blog/deep-dive-verb/?utm_source=google&utm_medium=natural_search xapi.com]\n- SCORM Cloud: Test, Play and... - [https://rusticisoftware.com/products/scorm-cloud/ rusticisoftware.com]\n- xAPI.com Homepage: What is... - [https://xapi.com/ xapi.com]\n- Adobe Captivate Prime LMS -... - [https://www.adobe.com/de/products/captivateprime.html?sdid=HCS3XMBY&mv=display adobe.com]\n- Blank page after... - [https://www.opigno.org/forum/support/blank-page-after-installation opigno.org]\n- vtc-lrs - npm - [https://www.npmjs.com/package/vtc-lrs npmjs.com]\n- Installing LearningLocker... - [https://gist.github.com/davidpesce/7d6e1b81594ecbc72311 github.com]\n- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- \"LRS\" \"DigitalOcean\" -... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk037ij7k0rO8Db97ZkqtkUlnYug0rg:1610841734099&q=%22LRS%22+%22DigitalOcean%22&sa=X&ved=2ahUKEwivpeaK1aHuAhXDlFwKHUdRAHwQ5t4CMAB6BAgEEAo&biw=1910&bih=926 google.com]\n- ADL Tools - [https://adlnet.github.io/xAPI-SCORM-Profile/dev/adl-tools.html github.io]\n- SCORM Cloud - [https://cloud.scorm.com/sc/guest/SignUpForm?_ga=2.96125084.1465476087.1610835085-387981836.1610835085 scorm.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n- Learning Record Store -... - [https://learningpool.com/solutions/learning-record-store-learning-locker/learning-locker-community-overview/ learningpool.com]\n- Experience API (xAPI)... - [https://adlnet.gov/projects/xapi/# adlnet.gov]\n- adlnet.github.io - [https://adlnet.github.io/ github.io]\n- xAPI Statements: The anatomy... - [https://xapi.com/statements-101/?utm_source=google&utm_medium=natural_search xapi.com]\n- Adobe Captivate (Release... - [https://www.adobe.com/de/products/captivate.html?sdid=T32PLZ4K&mv=search&promoid=70114000002XDiFAAW&ef_id=CjwKCAiAuoqABhAsEiwAdSkVVPKH5Ql9doBIYRcImjGawcxg79X6byahDcjd9Y9jEwlyGDbTzZQ9VRoCBw8QAvD_BwE:G:s&s_kwcid=AL!3085!3!289582537375!b!!g!!%2Badobe%20%2Bcaptivate adobe.com]\n- xapi language map - Google... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk00w_6MZv3uaLed662zC5btaw3m2wA%3A1610837147604&lei=m2wDYKeqJM6tgQb7iYHYBA&q=xapi%20language%20map&ved=2ahUKEwjn4-T_w6HuAhXOVsAKHftEAEsQsKwBKAR6BAgdEAU&biw=1910&bih=926 google.com]\n- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n- Github Desktop doesn't open... - [https://github.com/desktop/desktop/issues/11300 github.com]\n- LRS.io - [https://lrs.io/home/solutions/#free-lrs lrs.io]\n- xAPI-Spec/xAPI-Data.md at... - [https://github.com/adlnet/xAPI-Spec/blob/master/xAPI-Data.md github.com]\n- LRS.io | NPM - [https://lrs.io/npm/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/ github.io]\n- Learning Management Systems... - [https://www.capterra.co.uk/sem/compare/directory/30020/learning-management-system/software?account_campaign_id=11071442529&account_adgroup_id=107353109654&target=software%20for%20e-learning&ad_id=462850663141&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=CjwKCAiAuoqABhAsEiwAdSkVVDeVeUN8SpdP22CFPqgch5g4HjpigzSZOsQvLRGu5UwWtlYPdPJlEBoCf7EQAvD_BwE co.uk]\n- LRS.io - [https://lrs.io/home/elearning-authoring-tool-content-demos lrs.io]\n- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=lrs&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193217&hsa_kw=lrs&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-329503955724&hsa_cam=6921640309&hsa_grp=79445993706&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVCbk54KqknurKZxnqE7Dv9Hn8WzwLldFokJtfiJoFP4iC0W8Tno1txoCWckQAvD_BwE learningpool.com]\n- What is cmi5: the Experience... - [https://xapi.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- Veracity LRS | Learner Portal - [https://elb-content-demo.dev.lrs.io/portal/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/samples/ github.io]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n- xAPI Vocabulary & Profile... - [http://xapi.vocab.pub/verbs/index.html vocab.pub]\n- xAPI Vocabulary Companion... - [https://adlnet.gov/news/2016/03/02/xapi-vocabulary-companion-specification-announced/ adlnet.gov]\n- GitHub -... - [https://github.com/LearningLocker/learninglocker github.com]\n- Get a Learning Record Store... - [https://xapi.com/get-lrs/?utm_source=google&utm_medium=natural_search xapi.com]\n- GitHub - adlnet/ADL_LRS:... - [https://github.com/adlnet/ADL_LRS github.com]\n- cmi5 Resources | ADL... - [https://adlnet.gov/resources/cmi5-resources/ adlnet.gov]\n- Storyline vs Captivate: The... - [https://omniplex.co/blog/storyline-vs-captivate-the-ultimate-review-of-all-reviews/ omniplex.co]\n- GitHub - adlnet/jxapi - [https://github.com/adlnet/jxapi github.com]"
-      },
-      "after": "1c41a7941bb04b4b",
-      "date": 1610881764145
+      "date": 1611046670098
     },
     {
       "type": "edit",
-      "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+      "id": "2c8b1e1e74281f71",
       "item": {
-        "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
-        "type": "markdown",
-        "text": "- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=xapi&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193211&hsa_kw=xapi&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-299715094495&hsa_cam=6921640309&hsa_grp=79445993666&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVIzCJRMpUadkTEr4oVq6-aMc76oNHDsb5zpEeFXm_XanqWkoNqjashoCXigQAvD_BwE learningpool.com]\n- xapicohort/MakeyMakey: Repo... - [https://github.com/xapicohort/MakeyMakey github.com]\n- Rustici LRS \"digitalocean\" -... - [https://www.google.com/search?sa=X&rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk01ocg-wqs2ThSEZ5-8aj6kcYCwwTw:1610841142304&q=Rustici+LRS+%22digitalocean%22&ved=2ahUKEwiD6s3w0qHuAhWjQkEAHTQqAg8Q5t4CMAB6BAgBEAk&biw=1910&bih=926 google.com]\n- Deep Dive: Verbs - [https://xapi.com/blog/deep-dive-verb/?utm_source=google&utm_medium=natural_search xapi.com]\n- SCORM Cloud: Test, Play... - [https://rusticisoftware.com/products/scorm-cloud/ rusticisoftware.com]\n- xAPI.com Homepage: What is... - [https://xapi.com/ xapi.com]\n- Adobe Captivate Prime LMS -... - [https://www.adobe.com/de/products/captivateprime.html?sdid=HCS3XMBY&mv=display adobe.com]\n- Blank page after... - [https://www.opigno.org/forum/support/blank-page-after-installation opigno.org]\n- vtc-lrs - npm - [https://www.npmjs.com/package/vtc-lrs npmjs.com]\n- Installing LearningLocker... - [https://gist.github.com/davidpesce/7d6e1b81594ecbc72311 github.com]\n- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- \"LRS\" \"DigitalOcean\" -... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk037ij7k0rO8Db97ZkqtkUlnYug0rg:1610841734099&q=%22LRS%22+%22DigitalOcean%22&sa=X&ved=2ahUKEwivpeaK1aHuAhXDlFwKHUdRAHwQ5t4CMAB6BAgEEAo&biw=1910&bih=926 google.com]\n- ADL Tools - [https://adlnet.github.io/xAPI-SCORM-Profile/dev/adl-tools.html github.io]\n- SCORM Cloud - [https://cloud.scorm.com/sc/guest/SignUpForm?_ga=2.96125084.1465476087.1610835085-387981836.1610835085 scorm.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n- Learning Record Store -... - [https://learningpool.com/solutions/learning-record-store-learning-locker/learning-locker-community-overview/ learningpool.com]\n- Experience API (xAPI)... - [https://adlnet.gov/projects/xapi/# adlnet.gov]\n- adlnet.github.io - [https://adlnet.github.io/ github.io]\n- xAPI Statements: The anatomy... - [https://xapi.com/statements-101/?utm_source=google&utm_medium=natural_search xapi.com]\n- Adobe Captivate (Release... - [https://www.adobe.com/de/products/captivate.html?sdid=T32PLZ4K&mv=search&promoid=70114000002XDiFAAW&ef_id=CjwKCAiAuoqABhAsEiwAdSkVVPKH5Ql9doBIYRcImjGawcxg79X6byahDcjd9Y9jEwlyGDbTzZQ9VRoCBw8QAvD_BwE:G:s&s_kwcid=AL!3085!3!289582537375!b!!g!!%2Badobe%20%2Bcaptivate adobe.com]\n- xapi language map - Google... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk00w_6MZv3uaLed662zC5btaw3m2wA%3A1610837147604&lei=m2wDYKeqJM6tgQb7iYHYBA&q=xapi%20language%20map&ved=2ahUKEwjn4-T_w6HuAhXOVsAKHftEAEsQsKwBKAR6BAgdEAU&biw=1910&bih=926 google.com]\n- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n- Github Desktop doesn't open... - [https://github.com/desktop/desktop/issues/11300 github.com]\n- LRS.io - [https://lrs.io/home/solutions/#free-lrs lrs.io]\n- xAPI-Spec/xAPI-Data.md at... - [https://github.com/adlnet/xAPI-Spec/blob/master/xAPI-Data.md github.com]\n- LRS.io | NPM - [https://lrs.io/npm/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/ github.io]\n- Learning Management Systems... - [https://www.capterra.co.uk/sem/compare/directory/30020/learning-management-system/software?account_campaign_id=11071442529&account_adgroup_id=107353109654&target=software%20for%20e-learning&ad_id=462850663141&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=CjwKCAiAuoqABhAsEiwAdSkVVDeVeUN8SpdP22CFPqgch5g4HjpigzSZOsQvLRGu5UwWtlYPdPJlEBoCf7EQAvD_BwE co.uk]\n- LRS.io - [https://lrs.io/home/elearning-authoring-tool-content-demos lrs.io]\n- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=lrs&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193217&hsa_kw=lrs&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-329503955724&hsa_cam=6921640309&hsa_grp=79445993706&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVCbk54KqknurKZxnqE7Dv9Hn8WzwLldFokJtfiJoFP4iC0W8Tno1txoCWckQAvD_BwE learningpool.com]\n- What is cmi5: the Experience... - [https://xapi.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- Veracity LRS | Learner Portal - [https://elb-content-demo.dev.lrs.io/portal/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/samples/ github.io]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n- xAPI Vocabulary & Profile... - [http://xapi.vocab.pub/verbs/index.html vocab.pub]\n- xAPI Vocabulary Companion... - [https://adlnet.gov/news/2016/03/02/xapi-vocabulary-companion-specification-announced/ adlnet.gov]\n- GitHub -... - [https://github.com/LearningLocker/learninglocker github.com]\n- Get a Learning Record Store... - [https://xapi.com/get-lrs/?utm_source=google&utm_medium=natural_search xapi.com]\n- GitHub - adlnet/ADL_LRS:... - [https://github.com/adlnet/ADL_LRS github.com]\n- cmi5 Resources | ADL... - [https://adlnet.gov/resources/cmi5-resources/ adlnet.gov]\n- Storyline vs Captivate: The... - [https://omniplex.co/blog/storyline-vs-captivate-the-ultimate-review-of-all-reviews/ omniplex.co]\n- GitHub - adlnet/jxapi - [https://github.com/adlnet/jxapi github.com]"
+        "id": "2c8b1e1e74281f71",
+        "text": "# Use\nThe Experience API is growing steadily each year.",
+        "type": "markdown"
       },
-      "date": 1610881778362
+      "date": 1611046589578
+    },
+    {
+      "type": "add",
+      "id": "8eb0b13c0c0b58c3",
+      "item": {
+        "type": "paragraph",
+        "id": "8eb0b13c0c0b58c3",
+        "text": "Learning experiences are recorded in a Learning Record Store (LRS). LRSs can exist within traditional Learning Management Systems (LMSs) or on their own."
+      },
+      "after": "43e3307a3e20b30f",
+      "date": 1611046548710
+    },
+    {
+      "type": "edit",
+      "id": "2c8b1e1e74281f71",
+      "item": {
+        "id": "2c8b1e1e74281f71",
+        "text": "# Use",
+        "type": "markdown"
+      },
+      "date": 1611046547690
+    },
+    {
+      "type": "edit",
+      "id": "43e3307a3e20b30f",
+      "item": {
+        "type": "markdown",
+        "id": "43e3307a3e20b30f",
+        "text": "# How it works"
+      },
+      "date": 1611046546554
+    },
+    {
+      "type": "add",
+      "id": "43e3307a3e20b30f",
+      "item": {
+        "type": "paragraph",
+        "id": "43e3307a3e20b30f",
+        "text": "# How it works"
+      },
+      "after": "2c8b1e1e74281f71",
+      "date": 1611046544380
+    },
+    {
+      "type": "edit",
+      "id": "2c8b1e1e74281f71",
+      "item": {
+        "id": "2c8b1e1e74281f71",
+        "text": "# Use",
+        "type": "paragraph"
+      },
+      "date": 1611046519671
+    },
+    {
+      "type": "edit",
+      "id": "a01ffb43ef5cd920",
+      "item": {
+        "type": "markdown",
+        "id": "a01ffb43ef5cd920",
+        "text": "- Review 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]"
+      },
+      "date": 1610995032729
+    },
+    {
+      "type": "edit",
+      "id": "a01ffb43ef5cd920",
+      "item": {
+        "type": "markdown",
+        "id": "a01ffb43ef5cd920",
+        "text": "- xAPI: Everything You Need to Know in 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]"
+      },
+      "date": 1610995020591
+    },
+    {
+      "type": "edit",
+      "id": "a01ffb43ef5cd920",
+      "item": {
+        "type": "paragraph",
+        "id": "a01ffb43ef5cd920",
+        "text": "- xAPI: Everything You Need to Know in 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]"
+      },
+      "date": 1610995019391
+    },
+    {
+      "type": "add",
+      "id": "a01ffb43ef5cd920",
+      "item": {
+        "type": "paragraph",
+        "id": "a01ffb43ef5cd920",
+        "text": "- https://www.devlinpeck.com/xapi-lrs"
+      },
+      "after": "271e3210e9a73700",
+      "date": 1610994965926
+    },
+    {
+      "type": "edit",
+      "id": "7606f3e29fcfe5d6",
+      "item": {
+        "type": "markdown",
+        "id": "7606f3e29fcfe5d6",
+        "text": "# Research\nBelow we list online references and links we gathered from early group discussions - [https://www.one-tab.com/page/fpFwCKgtQfGfdWpicRVxSA one-tab.com]:"
+      },
+      "date": 1610881835945
     },
     {
       "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
@@ -1084,34 +180,2100 @@
     },
     {
       "type": "edit",
+      "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+      "item": {
+        "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "type": "markdown",
+        "text": "- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=xapi&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193211&hsa_kw=xapi&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-299715094495&hsa_cam=6921640309&hsa_grp=79445993666&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVIzCJRMpUadkTEr4oVq6-aMc76oNHDsb5zpEeFXm_XanqWkoNqjashoCXigQAvD_BwE learningpool.com]\n- xapicohort/MakeyMakey: Repo... - [https://github.com/xapicohort/MakeyMakey github.com]\n- Rustici LRS \"digitalocean\" -... - [https://www.google.com/search?sa=X&rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk01ocg-wqs2ThSEZ5-8aj6kcYCwwTw:1610841142304&q=Rustici+LRS+%22digitalocean%22&ved=2ahUKEwiD6s3w0qHuAhWjQkEAHTQqAg8Q5t4CMAB6BAgBEAk&biw=1910&bih=926 google.com]\n- Deep Dive: Verbs - [https://xapi.com/blog/deep-dive-verb/?utm_source=google&utm_medium=natural_search xapi.com]\n- SCORM Cloud: Test, Play... - [https://rusticisoftware.com/products/scorm-cloud/ rusticisoftware.com]\n- xAPI.com Homepage: What is... - [https://xapi.com/ xapi.com]\n- Adobe Captivate Prime LMS -... - [https://www.adobe.com/de/products/captivateprime.html?sdid=HCS3XMBY&mv=display adobe.com]\n- Blank page after... - [https://www.opigno.org/forum/support/blank-page-after-installation opigno.org]\n- vtc-lrs - npm - [https://www.npmjs.com/package/vtc-lrs npmjs.com]\n- Installing LearningLocker... - [https://gist.github.com/davidpesce/7d6e1b81594ecbc72311 github.com]\n- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- \"LRS\" \"DigitalOcean\" -... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk037ij7k0rO8Db97ZkqtkUlnYug0rg:1610841734099&q=%22LRS%22+%22DigitalOcean%22&sa=X&ved=2ahUKEwivpeaK1aHuAhXDlFwKHUdRAHwQ5t4CMAB6BAgEEAo&biw=1910&bih=926 google.com]\n- ADL Tools - [https://adlnet.github.io/xAPI-SCORM-Profile/dev/adl-tools.html github.io]\n- SCORM Cloud - [https://cloud.scorm.com/sc/guest/SignUpForm?_ga=2.96125084.1465476087.1610835085-387981836.1610835085 scorm.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n- Learning Record Store -... - [https://learningpool.com/solutions/learning-record-store-learning-locker/learning-locker-community-overview/ learningpool.com]\n- Experience API (xAPI)... - [https://adlnet.gov/projects/xapi/# adlnet.gov]\n- adlnet.github.io - [https://adlnet.github.io/ github.io]\n- xAPI Statements: The anatomy... - [https://xapi.com/statements-101/?utm_source=google&utm_medium=natural_search xapi.com]\n- Adobe Captivate (Release... - [https://www.adobe.com/de/products/captivate.html?sdid=T32PLZ4K&mv=search&promoid=70114000002XDiFAAW&ef_id=CjwKCAiAuoqABhAsEiwAdSkVVPKH5Ql9doBIYRcImjGawcxg79X6byahDcjd9Y9jEwlyGDbTzZQ9VRoCBw8QAvD_BwE:G:s&s_kwcid=AL!3085!3!289582537375!b!!g!!%2Badobe%20%2Bcaptivate adobe.com]\n- xapi language map - Google... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk00w_6MZv3uaLed662zC5btaw3m2wA%3A1610837147604&lei=m2wDYKeqJM6tgQb7iYHYBA&q=xapi%20language%20map&ved=2ahUKEwjn4-T_w6HuAhXOVsAKHftEAEsQsKwBKAR6BAgdEAU&biw=1910&bih=926 google.com]\n- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n- Github Desktop doesn't open... - [https://github.com/desktop/desktop/issues/11300 github.com]\n- LRS.io - [https://lrs.io/home/solutions/#free-lrs lrs.io]\n- xAPI-Spec/xAPI-Data.md at... - [https://github.com/adlnet/xAPI-Spec/blob/master/xAPI-Data.md github.com]\n- LRS.io | NPM - [https://lrs.io/npm/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/ github.io]\n- Learning Management Systems... - [https://www.capterra.co.uk/sem/compare/directory/30020/learning-management-system/software?account_campaign_id=11071442529&account_adgroup_id=107353109654&target=software%20for%20e-learning&ad_id=462850663141&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=CjwKCAiAuoqABhAsEiwAdSkVVDeVeUN8SpdP22CFPqgch5g4HjpigzSZOsQvLRGu5UwWtlYPdPJlEBoCf7EQAvD_BwE co.uk]\n- LRS.io - [https://lrs.io/home/elearning-authoring-tool-content-demos lrs.io]\n- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=lrs&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193217&hsa_kw=lrs&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-329503955724&hsa_cam=6921640309&hsa_grp=79445993706&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVCbk54KqknurKZxnqE7Dv9Hn8WzwLldFokJtfiJoFP4iC0W8Tno1txoCWckQAvD_BwE learningpool.com]\n- What is cmi5: the Experience... - [https://xapi.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- Veracity LRS | Learner Portal - [https://elb-content-demo.dev.lrs.io/portal/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/samples/ github.io]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n- xAPI Vocabulary & Profile... - [http://xapi.vocab.pub/verbs/index.html vocab.pub]\n- xAPI Vocabulary Companion... - [https://adlnet.gov/news/2016/03/02/xapi-vocabulary-companion-specification-announced/ adlnet.gov]\n- GitHub -... - [https://github.com/LearningLocker/learninglocker github.com]\n- Get a Learning Record Store... - [https://xapi.com/get-lrs/?utm_source=google&utm_medium=natural_search xapi.com]\n- GitHub - adlnet/ADL_LRS:... - [https://github.com/adlnet/ADL_LRS github.com]\n- cmi5 Resources | ADL... - [https://adlnet.gov/resources/cmi5-resources/ adlnet.gov]\n- Storyline vs Captivate: The... - [https://omniplex.co/blog/storyline-vs-captivate-the-ultimate-review-of-all-reviews/ omniplex.co]\n- GitHub - adlnet/jxapi - [https://github.com/adlnet/jxapi github.com]"
+      },
+      "date": 1610881778362
+    },
+    {
+      "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+      "type": "add",
+      "item": {
+        "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "type": "markdown",
+        "text": "- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=xapi&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193211&hsa_kw=xapi&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-299715094495&hsa_cam=6921640309&hsa_grp=79445993666&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVIzCJRMpUadkTEr4oVq6-aMc76oNHDsb5zpEeFXm_XanqWkoNqjashoCXigQAvD_BwE learningpool.com]\n- xapicohort/MakeyMakey: Repo... - [https://github.com/xapicohort/MakeyMakey github.com]\n- Rustici LRS \"digitalocean\" -... - [https://www.google.com/search?sa=X&rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk01ocg-wqs2ThSEZ5-8aj6kcYCwwTw:1610841142304&q=Rustici+LRS+%22digitalocean%22&ved=2ahUKEwiD6s3w0qHuAhWjQkEAHTQqAg8Q5t4CMAB6BAgBEAk&biw=1910&bih=926 google.com]\n- Deep Dive: Verbs - [https://xapi.com/blog/deep-dive-verb/?utm_source=google&utm_medium=natural_search xapi.com]\n- SCORM Cloud: Test, Play and... - [https://rusticisoftware.com/products/scorm-cloud/ rusticisoftware.com]\n- xAPI.com Homepage: What is... - [https://xapi.com/ xapi.com]\n- Adobe Captivate Prime LMS -... - [https://www.adobe.com/de/products/captivateprime.html?sdid=HCS3XMBY&mv=display adobe.com]\n- Blank page after... - [https://www.opigno.org/forum/support/blank-page-after-installation opigno.org]\n- vtc-lrs - npm - [https://www.npmjs.com/package/vtc-lrs npmjs.com]\n- Installing LearningLocker... - [https://gist.github.com/davidpesce/7d6e1b81594ecbc72311 github.com]\n- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- \"LRS\" \"DigitalOcean\" -... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk037ij7k0rO8Db97ZkqtkUlnYug0rg:1610841734099&q=%22LRS%22+%22DigitalOcean%22&sa=X&ved=2ahUKEwivpeaK1aHuAhXDlFwKHUdRAHwQ5t4CMAB6BAgEEAo&biw=1910&bih=926 google.com]\n- ADL Tools - [https://adlnet.github.io/xAPI-SCORM-Profile/dev/adl-tools.html github.io]\n- SCORM Cloud - [https://cloud.scorm.com/sc/guest/SignUpForm?_ga=2.96125084.1465476087.1610835085-387981836.1610835085 scorm.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n- Learning Record Store -... - [https://learningpool.com/solutions/learning-record-store-learning-locker/learning-locker-community-overview/ learningpool.com]\n- Experience API (xAPI)... - [https://adlnet.gov/projects/xapi/# adlnet.gov]\n- adlnet.github.io - [https://adlnet.github.io/ github.io]\n- xAPI Statements: The anatomy... - [https://xapi.com/statements-101/?utm_source=google&utm_medium=natural_search xapi.com]\n- Adobe Captivate (Release... - [https://www.adobe.com/de/products/captivate.html?sdid=T32PLZ4K&mv=search&promoid=70114000002XDiFAAW&ef_id=CjwKCAiAuoqABhAsEiwAdSkVVPKH5Ql9doBIYRcImjGawcxg79X6byahDcjd9Y9jEwlyGDbTzZQ9VRoCBw8QAvD_BwE:G:s&s_kwcid=AL!3085!3!289582537375!b!!g!!%2Badobe%20%2Bcaptivate adobe.com]\n- xapi language map - Google... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk00w_6MZv3uaLed662zC5btaw3m2wA%3A1610837147604&lei=m2wDYKeqJM6tgQb7iYHYBA&q=xapi%20language%20map&ved=2ahUKEwjn4-T_w6HuAhXOVsAKHftEAEsQsKwBKAR6BAgdEAU&biw=1910&bih=926 google.com]\n- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n- Github Desktop doesn't open... - [https://github.com/desktop/desktop/issues/11300 github.com]\n- LRS.io - [https://lrs.io/home/solutions/#free-lrs lrs.io]\n- xAPI-Spec/xAPI-Data.md at... - [https://github.com/adlnet/xAPI-Spec/blob/master/xAPI-Data.md github.com]\n- LRS.io | NPM - [https://lrs.io/npm/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/ github.io]\n- Learning Management Systems... - [https://www.capterra.co.uk/sem/compare/directory/30020/learning-management-system/software?account_campaign_id=11071442529&account_adgroup_id=107353109654&target=software%20for%20e-learning&ad_id=462850663141&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=CjwKCAiAuoqABhAsEiwAdSkVVDeVeUN8SpdP22CFPqgch5g4HjpigzSZOsQvLRGu5UwWtlYPdPJlEBoCf7EQAvD_BwE co.uk]\n- LRS.io - [https://lrs.io/home/elearning-authoring-tool-content-demos lrs.io]\n- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=lrs&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193217&hsa_kw=lrs&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-329503955724&hsa_cam=6921640309&hsa_grp=79445993706&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVCbk54KqknurKZxnqE7Dv9Hn8WzwLldFokJtfiJoFP4iC0W8Tno1txoCWckQAvD_BwE learningpool.com]\n- What is cmi5: the Experience... - [https://xapi.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- Veracity LRS | Learner Portal - [https://elb-content-demo.dev.lrs.io/portal/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/samples/ github.io]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n- xAPI Vocabulary & Profile... - [http://xapi.vocab.pub/verbs/index.html vocab.pub]\n- xAPI Vocabulary Companion... - [https://adlnet.gov/news/2016/03/02/xapi-vocabulary-companion-specification-announced/ adlnet.gov]\n- GitHub -... - [https://github.com/LearningLocker/learninglocker github.com]\n- Get a Learning Record Store... - [https://xapi.com/get-lrs/?utm_source=google&utm_medium=natural_search xapi.com]\n- GitHub - adlnet/ADL_LRS:... - [https://github.com/adlnet/ADL_LRS github.com]\n- cmi5 Resources | ADL... - [https://adlnet.gov/resources/cmi5-resources/ adlnet.gov]\n- Storyline vs Captivate: The... - [https://omniplex.co/blog/storyline-vs-captivate-the-ultimate-review-of-all-reviews/ omniplex.co]\n- GitHub - adlnet/jxapi - [https://github.com/adlnet/jxapi github.com]"
+      },
+      "after": "1c41a7941bb04b4b",
+      "date": 1610881764145
+    },
+    {
+      "type": "add",
       "id": "7606f3e29fcfe5d6",
       "item": {
         "type": "markdown",
         "id": "7606f3e29fcfe5d6",
-        "text": "# Research\nBelow we list online references and links we gathered from early group discussions - [https://www.one-tab.com/page/fpFwCKgtQfGfdWpicRVxSA one-tab.com]:"
+        "text": "# Research\nBelow we list online references and links we gathered from early group discussions:"
       },
-      "date": 1610881835945
+      "after": "37218b0c6a6e422e",
+      "date": 1610881756011
+    },
+    {
+      "type": "edit",
+      "id": "37218b0c6a6e422e",
+      "item": {
+        "id": "37218b0c6a6e422e",
+        "text": "- Tracking learning plans and goals\n",
+        "type": "markdown"
+      },
+      "date": 1610881700632
+    },
+    {
+      "type": "edit",
+      "id": "37218b0c6a6e422e",
+      "item": {
+        "id": "37218b0c6a6e422e",
+        "text": "- Tracking learning plans and goals",
+        "type": "markdown"
+      },
+      "date": 1610881645848
+    },
+    {
+      "type": "edit",
+      "id": "37218b0c6a6e422e",
+      "item": {
+        "id": "37218b0c6a6e422e",
+        "text": "- Tracking learning plans and goals",
+        "type": "paragraph"
+      },
+      "date": 1610881644041
+    },
+    {
+      "type": "fork",
+      "site": "mediagarden.org",
+      "date": 1610881618575
+    },
+    {
+      "id": "37218b0c6a6e422e",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "2c8b1e1e74281f71",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1610367440548
+    },
+    {
+      "type": "edit",
+      "id": "b7a7e12e205f24cf",
+      "item": {
+        "id": "b7a7e12e205f24cf",
+        "text": "# See also\n- [[Oauth]]",
+        "type": "markdown"
+      },
+      "date": 1610367438116
+    },
+    {
+      "type": "edit",
+      "id": "b7a7e12e205f24cf",
+      "item": {
+        "id": "b7a7e12e205f24cf",
+        "text": "# See also [[Oauth]]",
+        "type": "markdown"
+      },
+      "date": 1610367431426
+    },
+    {
+      "type": "edit",
+      "id": "b7a7e12e205f24cf",
+      "item": {
+        "id": "b7a7e12e205f24cf",
+        "text": "# See also [[Oauth]]",
+        "type": "paragraph"
+      },
+      "date": 1610367430201
+    },
+    {
+      "type": "remove",
+      "id": "12b35942f0312488",
+      "date": 1610367418339
     },
     {
       "type": "add",
-      "id": "a01ffb43ef5cd920",
+      "id": "69d7e2b83cff9293",
+      "item": {
+        "type": "markdown",
+        "id": "69d7e2b83cff9293",
+        "text": "- [[Learning Games and Simulations]]"
+      },
+      "after": "34197480bb3411eb",
+      "date": 1610367414781
+    },
+    {
+      "type": "edit",
+      "id": "34197480bb3411eb",
+      "item": {
+        "id": "34197480bb3411eb",
+        "text": "- [[Control Over Learning Content]]\n",
+        "type": "markdown"
+      },
+      "date": 1610367412631
+    },
+    {
+      "type": "edit",
+      "id": "34197480bb3411eb",
+      "item": {
+        "id": "34197480bb3411eb",
+        "text": "- [[Control Over Learning Content]]",
+        "type": "markdown"
+      },
+      "date": 1610367384355
+    },
+    {
+      "type": "edit",
+      "id": "34197480bb3411eb",
+      "item": {
+        "id": "34197480bb3411eb",
+        "text": "- [[Control Over Learning Content]]",
+        "type": "paragraph"
+      },
+      "date": 1610367382623
+    },
+    {
+      "type": "edit",
+      "id": "701acc8917068e7c",
+      "item": {
+        "id": "701acc8917068e7c",
+        "text": "- [[Learning Games and Simulations]]",
+        "type": "markdown"
+      },
+      "date": 1610367376391
+    },
+    {
+      "type": "edit",
+      "id": "701acc8917068e7c",
+      "item": {
+        "id": "701acc8917068e7c",
+        "text": "- [[Learning Games and Simulations]]",
+        "type": "paragraph"
+      },
+      "date": 1610367374805
+    },
+    {
+      "type": "remove",
+      "id": "a063ec52453d18c4",
+      "date": 1610367369420
+    },
+    {
+      "type": "add",
+      "id": "26d03d09cd267891",
+      "item": {
+        "type": "markdown",
+        "id": "26d03d09cd267891",
+        "text": "- [[Group Learning]]"
+      },
+      "after": "7656e089d86ca3e2",
+      "date": 1610367367477
+    },
+    {
+      "type": "edit",
+      "id": "7656e089d86ca3e2",
+      "item": {
+        "type": "markdown",
+        "id": "7656e089d86ca3e2",
+        "text": "- [[Learning Outside the Browser]]\n"
+      },
+      "date": 1610367364945
+    },
+    {
+      "type": "remove",
+      "id": "4abb54712bc0de57",
+      "date": 1610367352620
+    },
+    {
+      "type": "edit",
+      "id": "7656e089d86ca3e2",
+      "item": {
+        "type": "markdown",
+        "id": "7656e089d86ca3e2",
+        "text": "- [[Learning Outside the Browser]]"
+      },
+      "date": 1610367350230
+    },
+    {
+      "type": "add",
+      "id": "7656e089d86ca3e2",
       "item": {
         "type": "paragraph",
-        "id": "a01ffb43ef5cd920",
-        "text": "- https://www.devlinpeck.com/xapi-lrs"
+        "id": "7656e089d86ca3e2",
+        "text": "- [[Learning Outside the Browser]]"
       },
+      "after": "1c41a7941bb04b4b",
+      "date": 1610367348642
+    },
+    {
+      "type": "remove",
+      "id": "1d7e66ca25ff1073",
+      "date": 1610367305245
+    },
+    {
+      "type": "edit",
+      "id": "5fecfad7b67a4a27",
+      "item": {
+        "type": "markdown",
+        "id": "5fecfad7b67a4a27",
+        "text": "- [[Advanced Distributed Learning]]"
+      },
+      "date": 1610367302622
+    },
+    {
+      "type": "add",
+      "id": "5fecfad7b67a4a27",
+      "item": {
+        "type": "paragraph",
+        "id": "5fecfad7b67a4a27",
+        "text": "- [[Advanced Distributed Learning]]"
+      },
+      "after": "2c8b1e1e74281f71",
+      "date": 1610367301457
+    },
+    {
+      "type": "fork",
+      "site": "wiki.outlandish.academy",
+      "date": 1610367272013
+    },
+    {
+      "type": "remove",
+      "id": "cae48cb8d354d703",
+      "date": 1432832170186
+    },
+    {
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "2c8b1e1e74281f71",
+        "cae48cb8d354d703",
+        "1d7e66ca25ff1073",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "4abb54712bc0de57",
+        "a063ec52453d18c4",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "12b35942f0312488",
+        "b7a7e12e205f24cf",
+        "37218b0c6a6e422e",
+        "d09f363dca66e6bc"
+      ],
+      "id": "1d7e66ca25ff1073",
+      "date": 1432832167009
+    },
+    {
+      "type": "edit",
+      "id": "1d7e66ca25ff1073",
+      "item": {
+        "type": "reference",
+        "id": "1d7e66ca25ff1073",
+        "site": "wiki.viral.academy",
+        "slug": "advanced-distributed-learning",
+        "title": "Advanced Distributed Learning",
+        "text": "The vision of the ADL Initiative is to provide access to the highest quality learning and performance aiding that can be tailored to individual needs, and delivered cost effectively at the right time and at the right place."
+      },
+      "date": 1432832161033
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d7e66ca25ff1073"
+      },
+      "id": "1d7e66ca25ff1073",
+      "type": "add",
+      "after": "d09f363dca66e6bc",
+      "date": 1432832158301
+    },
+    {
+      "type": "remove",
+      "id": "9b4b3bd63388641c",
+      "date": 1432832131263
+    },
+    {
+      "type": "remove",
+      "id": "8a2379d4d7cbeca1",
+      "date": 1432832126309
+    },
+    {
+      "type": "add",
+      "id": "cae48cb8d354d703",
+      "item": {
+        "type": "paragraph",
+        "id": "cae48cb8d354d703",
+        "text": "[[Advanced Distributed Learning]]"
+      },
+      "after": "2c8b1e1e74281f71",
+      "date": 1432832114551
+    },
+    {
+      "type": "add",
+      "id": "9b4b3bd63388641c",
+      "item": {
+        "type": "paragraph",
+        "id": "9b4b3bd63388641c",
+        "text": "xAPI Verbs - [https://docs.google.com/spreadsheets/d/10HpDd3wSmhkHCnxYvqj0uzrBatca_JDMc7BXca7Vcyw/edit#gid=0 docs.google.com]"
+      },
+      "after": "8a2379d4d7cbeca1",
+      "date": 1432832044202
+    },
+    {
+      "type": "edit",
+      "id": "8a2379d4d7cbeca1",
+      "item": {
+        "type": "paragraph",
+        "id": "8a2379d4d7cbeca1",
+        "text": "xAPI = [https://docs.google.com/document/d/1oixhT7JjyNzevfY3iTwKlrORUoJ5ygoh1g5qDNECNHo/edit docs.google.com]"
+      },
+      "date": 1432832002381
+    },
+    {
+      "type": "fork",
+      "date": 1432831970477
+    },
+    {
+      "type": "add",
+      "id": "8a2379d4d7cbeca1",
+      "item": {
+        "type": "paragraph",
+        "id": "8a2379d4d7cbeca1",
+        "text": "1oixhT7JjyNzevfY3iTwKlrORUoJ5ygoh1g5qDNECNHo"
+      },
+      "after": "2c8b1e1e74281f71",
+      "date": 1432831946795,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "d47db21b6c8366fb",
+      "item": {
+        "id": "d47db21b6c8366fb",
+        "text": "The Experience API is an open source API. It is a [[RESTful Web Service]] that uses [[JSON]] for its data format. The web service allows software clients to read and write experiential data in the form of \"statement\" objects. ",
+        "type": "paragraph"
+      },
+      "date": 1432813582164
+    },
+    {
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "2c8b1e1e74281f71",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "4abb54712bc0de57",
+        "a063ec52453d18c4",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "12b35942f0312488",
+        "b7a7e12e205f24cf",
+        "37218b0c6a6e422e",
+        "d09f363dca66e6bc"
+      ],
+      "id": "1c41a7941bb04b4b",
+      "date": 1432813560354
+    },
+    {
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "2c8b1e1e74281f71",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "4abb54712bc0de57",
+        "a063ec52453d18c4",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "12b35942f0312488",
+        "b7a7e12e205f24cf",
+        "37218b0c6a6e422e",
+        "d09f363dca66e6bc",
+        "1c41a7941bb04b4b"
+      ],
+      "id": "631d8aedc1929bc1",
+      "date": 1432813557737
+    },
+    {
+      "type": "add",
+      "id": "1c41a7941bb04b4b",
+      "item": {
+        "type": "paragraph",
+        "id": "1c41a7941bb04b4b",
+        "text": " More complex statement forms can be used. There is also a built in query API to help filter recorded statements, and a state API that allows for a sort of \"scratch space\" for consuming applications."
+      },
+      "after": "631d8aedc1929bc1",
+      "date": 1432813554022
+    },
+    {
+      "type": "edit",
+      "id": "631d8aedc1929bc1",
+      "item": {
+        "id": "631d8aedc1929bc1",
+        "text": "In their simplest form, statements are in the form of \"I did this\", or more generally \"actor verb object\".",
+        "type": "paragraph"
+      },
+      "date": 1432813536263
+    },
+    {
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "2c8b1e1e74281f71",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "4abb54712bc0de57",
+        "a063ec52453d18c4",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "12b35942f0312488",
+        "b7a7e12e205f24cf",
+        "37218b0c6a6e422e",
+        "d09f363dca66e6bc",
+        "631d8aedc1929bc1"
+      ],
+      "id": "d47db21b6c8366fb",
+      "date": 1432813369923
+    },
+    {
+      "type": "fork",
+      "site": "david.viral.academy",
+      "date": 1432813337384
+    },
+    {
+      "date": 1424003653359,
+      "id": "03c71634f7494978",
+      "type": "remove"
+    },
+    {
+      "date": 1424003644531,
+      "id": "12b35942f0312488",
+      "order": [
+        "271e3210e9a73700",
+        "2c8b1e1e74281f71",
+        "bbf9dcfc78d30586",
+        "4abb54712bc0de57",
+        "a063ec52453d18c4",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "12b35942f0312488",
+        "b7a7e12e205f24cf",
+        "03c71634f7494978",
+        "37218b0c6a6e422e",
+        "d09f363dca66e6bc",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1"
+      ],
+      "type": "move"
+    },
+    {
+      "date": 1424003641708,
+      "id": "12b35942f0312488",
+      "item": {
+        "id": "12b35942f0312488",
+        "site": "david.viral.academy",
+        "slug": "learning-games-and-simulations",
+        "text": "The ability to track games and simulations is becoming ever more important in [[EdTech]].",
+        "title": "Learning Games and Simulations",
+        "type": "reference"
+      },
+      "type": "edit"
+    },
+    {
+      "after": "631d8aedc1929bc1",
+      "date": 1424003639178,
+      "id": "12b35942f0312488",
+      "item": {
+        "id": "12b35942f0312488",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424003611740,
+      "id": "47625c4f2008ece7",
+      "type": "remove"
+    },
+    {
+      "date": 1424003607449,
+      "id": "4abb54712bc0de57",
+      "item": {
+        "id": "4abb54712bc0de57",
+        "site": "david.viral.academy",
+        "slug": "learning-outside-the-browser",
+        "text": "Most learning occurs outside of the browser. Pervasive or [[Ubiquitous Learning]] requires these learning experiences to be integrated into the overall framework.",
+        "title": "Learning Outside the Browser",
+        "type": "reference"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424003603346,
+      "id": "4abb54712bc0de57",
+      "order": [
+        "271e3210e9a73700",
+        "2c8b1e1e74281f71",
+        "bbf9dcfc78d30586",
+        "47625c4f2008ece7",
+        "4abb54712bc0de57",
+        "a063ec52453d18c4",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "b7a7e12e205f24cf",
+        "03c71634f7494978",
+        "37218b0c6a6e422e",
+        "d09f363dca66e6bc",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1"
+      ],
+      "type": "move"
+    },
+    {
+      "date": 1424003600140,
+      "id": "4abb54712bc0de57",
+      "order": [
+        "4abb54712bc0de57",
+        "271e3210e9a73700",
+        "2c8b1e1e74281f71",
+        "bbf9dcfc78d30586",
+        "47625c4f2008ece7",
+        "a063ec52453d18c4",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "b7a7e12e205f24cf",
+        "03c71634f7494978",
+        "37218b0c6a6e422e",
+        "d09f363dca66e6bc",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1"
+      ],
+      "type": "move"
+    },
+    {
+      "after": "631d8aedc1929bc1",
+      "date": 1424003598017,
+      "id": "4abb54712bc0de57",
+      "item": {
+        "id": "4abb54712bc0de57",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424003594761,
+      "id": "a063ec52453d18c4",
+      "order": [
+        "271e3210e9a73700",
+        "2c8b1e1e74281f71",
+        "bbf9dcfc78d30586",
+        "47625c4f2008ece7",
+        "a063ec52453d18c4",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "b7a7e12e205f24cf",
+        "03c71634f7494978",
+        "37218b0c6a6e422e",
+        "d09f363dca66e6bc",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1"
+      ],
+      "type": "move"
+    },
+    {
+      "date": 1424003590536,
+      "id": "a063ec52453d18c4",
+      "item": {
+        "id": "a063ec52453d18c4",
+        "site": "david.viral.academy",
+        "slug": "group-learning",
+        "text": "Group or team-based learning is a core part of [[Viral Academy Methodology]] and is supported by the [[Experience API]].",
+        "title": "Group Learning",
+        "type": "reference"
+      },
+      "type": "edit"
+    },
+    {
+      "after": "631d8aedc1929bc1",
+      "date": 1424003588432,
+      "id": "a063ec52453d18c4",
+      "item": {
+        "id": "a063ec52453d18c4",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424003498883,
+      "id": "03c71634f7494978",
+      "item": {
+        "id": "03c71634f7494978",
+        "text": "[[Group Learning]]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424003356401,
+      "id": "b1aabd0533f36a87",
+      "type": "remove"
+    },
+    {
+      "date": 1424003347839,
+      "id": "b1aabd0533f36a87",
+      "item": {
+        "id": "b1aabd0533f36a87",
+        "text": "[[Real-world Performance]]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424003322634,
+      "id": "701acc8917068e7c",
+      "order": [
+        "271e3210e9a73700",
+        "2c8b1e1e74281f71",
+        "bbf9dcfc78d30586",
+        "47625c4f2008ece7",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "b7a7e12e205f24cf",
+        "b1aabd0533f36a87",
+        "03c71634f7494978",
+        "37218b0c6a6e422e",
+        "d09f363dca66e6bc",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1"
+      ],
+      "type": "move"
+    },
+    {
+      "date": 1424003237263,
+      "id": "701acc8917068e7c",
+      "item": {
+        "id": "701acc8917068e7c",
+        "text": "[[Learning Games and Simulations]]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424003192620,
+      "id": "737b27e95b43d36d",
+      "type": "remove"
+    },
+    {
+      "date": 1424003176857,
+      "id": "06596e18d2d34190",
+      "type": "remove"
+    },
+    {
+      "date": 1424002677845,
+      "id": "b4167f07aecdcdca",
+      "type": "remove"
+    },
+    {
+      "date": 1424002673116,
+      "id": "737b27e95b43d36d",
+      "order": [
+        "271e3210e9a73700",
+        "2c8b1e1e74281f71",
+        "bbf9dcfc78d30586",
+        "47625c4f2008ece7",
+        "06596e18d2d34190",
+        "34197480bb3411eb",
+        "b7a7e12e205f24cf",
+        "b4167f07aecdcdca",
+        "737b27e95b43d36d",
+        "701acc8917068e7c",
+        "b1aabd0533f36a87",
+        "03c71634f7494978",
+        "37218b0c6a6e422e",
+        "d09f363dca66e6bc",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1"
+      ],
+      "type": "move"
+    },
+    {
+      "date": 1424002669799,
+      "id": "737b27e95b43d36d",
+      "item": {
+        "id": "737b27e95b43d36d",
+        "site": "david.viral.academy",
+        "slug": "platform-transition",
+        "text": "Start learning on a mobile device, finish it on a computer.",
+        "title": "Platform Transition",
+        "type": "reference"
+      },
+      "type": "edit"
+    },
+    {
+      "after": "631d8aedc1929bc1",
+      "date": 1424002666905,
+      "id": "737b27e95b43d36d",
+      "item": {
+        "id": "737b27e95b43d36d",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424002640210,
+      "id": "b4167f07aecdcdca",
+      "item": {
+        "id": "b4167f07aecdcdca",
+        "text": "[[Platform Transition]]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424002621289,
+      "id": "b7a7e12e205f24cf",
+      "item": {
+        "id": "b7a7e12e205f24cf",
+        "text": "[[Oauth]]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424002608841,
+      "id": "34197480bb3411eb",
+      "item": {
+        "id": "34197480bb3411eb",
+        "text": "[[Control Over Learning Content]]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424002584491,
+      "id": "06596e18d2d34190",
+      "item": {
+        "id": "06596e18d2d34190",
+        "text": "[[Native mobile applications]]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424002564696,
+      "id": "47625c4f2008ece7",
+      "item": {
+        "id": "47625c4f2008ece7",
+        "text": "[[Learning Outside the Browser]]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "after": "37218b0c6a6e422e",
+      "date": 1424002539337,
+      "id": "d09f363dca66e6bc",
+      "item": {
+        "id": "d09f363dca66e6bc",
+        "text": "\n",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "after": "03c71634f7494978",
+      "date": 1424002532895,
+      "id": "37218b0c6a6e422e",
+      "item": {
+        "id": "37218b0c6a6e422e",
+        "text": "Tracking learning plans and goals",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "after": "b1aabd0533f36a87",
+      "date": 1424002528512,
+      "id": "03c71634f7494978",
+      "item": {
+        "id": "03c71634f7494978",
+        "text": "Team-based e-learning",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "after": "701acc8917068e7c",
+      "date": 1424002524547,
+      "id": "b1aabd0533f36a87",
+      "item": {
+        "id": "b1aabd0533f36a87",
+        "text": "The ability to track real-world performance",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "after": "b4167f07aecdcdca",
+      "date": 1424002520939,
+      "id": "701acc8917068e7c",
+      "item": {
+        "id": "701acc8917068e7c",
+        "text": "The ability to track games and simulations",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "after": "b7a7e12e205f24cf",
+      "date": 1424002514287,
+      "id": "b4167f07aecdcdca",
+      "item": {
+        "id": "b4167f07aecdcdca",
+        "text": "Platform transition; e.g. start e-learning on a mobile device, finish it on a computer",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "after": "34197480bb3411eb",
+      "date": 1424002508911,
+      "id": "b7a7e12e205f24cf",
+      "item": {
+        "id": "b7a7e12e205f24cf",
+        "text": "Solid security using Oauth",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "after": "06596e18d2d34190",
+      "date": 1424002502479,
+      "id": "34197480bb3411eb",
+      "item": {
+        "id": "34197480bb3411eb",
+        "text": "More control over learning content",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "after": "47625c4f2008ece7",
+      "date": 1424002497935,
+      "id": "06596e18d2d34190",
+      "item": {
+        "id": "06596e18d2d34190",
+        "text": "E-learning in native mobile applications",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424002492840,
+      "id": "47625c4f2008ece7",
+      "item": {
+        "id": "47625c4f2008ece7",
+        "text": "Taking e-learning outside of the web browser",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "after": "d47db21b6c8366fb",
+      "date": 1424002449992,
+      "id": "631d8aedc1929bc1",
+      "item": {
+        "id": "631d8aedc1929bc1",
+        "text": "In their simplest form, statements are in the form of ‚ÄúI did this‚Äù, or more generally ‚Äúactor verb object‚Äù. More complex statement forms can be used. There is also a built in query API to help filter recorded statements, and a state API that allows for a sort of ‚Äúscratch space‚Äù for consuming applications.",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "after": "47625c4f2008ece7",
+      "date": 1424002426586,
+      "id": "d47db21b6c8366fb",
+      "item": {
+        "id": "d47db21b6c8366fb",
+        "text": "The Experience API is an open source API. It is a [[RESTful Web Service]] that uses [[JSON]] for its data format. The web service allows software clients to read and write experiential data in the form of ‚Äústatement‚Äù objects. ",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424002374695,
+      "id": "47625c4f2008ece7",
+      "item": {
+        "id": "47625c4f2008ece7",
+        "text": "    Taking e-learning outside of the web browser\n    E-learning in native mobile applications\n    More control over learning content\n    Solid security using Oauth\n    Platform transition; e.g. start e-learning on a mobile device, finish it on a computer\n    The ability to track games and simulations\n    The ability to track real-world performance\n    Team-based e-learning\n    Tracking learning plans and goals\n\n",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424002321607,
+      "id": "bbf9dcfc78d30586",
+      "item": {
+        "id": "bbf9dcfc78d30586",
+        "text": "The Experience API (Tin Can API) is commonly considered the successor to [[SCORM]]. The Experience API allows for several new capabilities that SCORM didn't, such as:",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424002315442,
+      "id": "47625c4f2008ece7",
+      "item": {
+        "id": "47625c4f2008ece7",
+        "text": "    Taking e-learning outside of the web browser\n    E-learning in native mobile applications\n    More control over learning content\n    Solid security using Oauth\n    Platform transition; e.g. start e-learning on a mobile device, finish it on a computer\n    The ability to track games and simulations\n    The ability to track real-world performance\n    Team-based e-learning\n    Tracking learning plans and goals\n\nThe Experience API (Tin Can API) is an open source API. It is a Representational state transfer web service that uses JavaScript Object Notation for its data format. The web service allows software clients to read and write experiential data in the form of ‚Äústatement‚Äù objects. In their simplest form, statements are in the form of ‚ÄúI did this‚Äù, or more generally ‚Äúactor verb object‚Äù.[4] More complex statement forms can be used. There is also a built in query API to help filter recorded statements, and a state API that allows for a sort of ‚Äúscratch space‚Äù for consuming applications.",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424002220577,
+      "id": "bbf9dcfc78d30586",
+      "item": {
+        "id": "bbf9dcfc78d30586",
+        "text": "The Experience API (Tin Can API) is commonly considered the successor to [[SCORM]].",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "after": "bbf9dcfc78d30586",
+      "date": 1424002192969,
+      "id": "47625c4f2008ece7",
+      "item": {
+        "id": "47625c4f2008ece7",
+        "text": "The Experience API allows for several new capabilities that SCORM didn't, such as:\n\n    Taking e-learning outside of the web browser[5]\n    E-learning in native mobile applications[1]\n    More control over learning content[4]\n    Solid security using Oauth\n    Platform transition; e.g. start e-learning on a mobile device, finish it on a computer[5]\n    The ability to track games and simulations[2]\n    The ability to track real-world performance[6]\n    Team-based e-learning[2]\n    Tracking learning plans and goals[7]\n\nThe Experience API (Tin Can API) is an open source API. It is a Representational state transfer web service that uses JavaScript Object Notation for its data format. The web service allows software clients to read and write experiential data in the form of ‚Äústatement‚Äù objects. In their simplest form, statements are in the form of ‚ÄúI did this‚Äù, or more generally ‚Äúactor verb object‚Äù.[4] More complex statement forms can be used. There is also a built in query API to help filter recorded statements, and a state API that allows for a sort of ‚Äúscratch space‚Äù for consuming applications.",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "after": "2c8b1e1e74281f71",
+      "date": 1424002176433,
+      "id": "bbf9dcfc78d30586",
+      "item": {
+        "id": "bbf9dcfc78d30586",
+        "text": "The Experience API (Tin Can API) is commonly considered the successor to SCORM. SCORM (Sharable Content Object Reference Model) has been the de facto e-learning standard for packaging e-learning content to be delivered to LMSs.[citation needed] However, there are several drawbacks to SCORM.",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424002163434,
+      "id": "2c8b1e1e74281f71",
+      "item": {
+        "id": "2c8b1e1e74281f71",
+        "text": "Learning experiences are recorded in a Learning Record Store (LRS). LRSs can exist within traditional Learning Management Systems (LMSs) or on their own.",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
       "after": "271e3210e9a73700",
-      "date": 1610994965926
+      "date": 1424002096426,
+      "id": "2c8b1e1e74281f71",
+      "item": {
+        "id": "2c8b1e1e74281f71",
+        "text": "Learning experiences are recorded in a Learning Record Store (LRS). LRSs can exist within traditional Learning Management Systems (LMSs) or on their own",
+        "type": "paragraph"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424002088417,
+      "id": "271e3210e9a73700",
+      "item": {
+        "id": "271e3210e9a73700",
+        "text": "The Experience API (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 WikiPedia]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424002022996,
+      "id": "271e3210e9a73700",
+      "item": {
+        "id": "271e3210e9a73700",
+        "text": "[https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 WikiPedia]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424002007204,
+      "id": "271e3210e9a73700",
+      "item": {
+        "id": "271e3210e9a73700",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424002004950,
+      "item": {
+        "story": "",
+        "title": "Experience API"
+      },
+      "type": "create"
     },
     {
       "type": "edit",
-      "id": "a01ffb43ef5cd920",
+      "id": "271e3210e9a73700",
       "item": {
-        "type": "paragraph",
-        "id": "a01ffb43ef5cd920",
-        "text": "- xAPI: Everything You Need to Know in 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]"
+        "id": "271e3210e9a73700",
+        "text": "The Experience API ([[xAPI]]), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]",
+        "type": "paragraph"
       },
-      "date": 1610995019391
+      "date": 1611046950797
+    },
+    {
+      "type": "edit",
+      "id": "2c8b1e1e74281f71",
+      "item": {
+        "id": "2c8b1e1e74281f71",
+        "text": "# Use\n\n",
+        "type": "markdown"
+      },
+      "date": 1611046964469
+    },
+    {
+      "type": "add",
+      "id": "07e57816988df9e7",
+      "item": {
+        "type": "markdown",
+        "id": "07e57816988df9e7",
+        "text": "However this still represents only a small partion of the overall market:"
+      },
+      "after": "2c8b1e1e74281f71",
+      "date": 1611046982448
+    },
+    {
+      "id": "07e57816988df9e7",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2c8b1e1e74281f71",
+        "0f7b224c-3f58-47bc-ba04-9cfebe1489fb",
+        "07e57816988df9e7",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611046985533
+    },
+    {
+      "id": "ff96c1ea-d769-45c0-992f-70921fdbcc0e",
+      "type": "add",
+      "item": {
+        "id": "ff96c1ea-d769-45c0-992f-70921fdbcc0e",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/Packaged-content-in-SCORM-Cloud-2020-min-1024x633.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/Packaged-content-in-SCORM-Cloud-2020-min-1024x633.png'>\n</a>\n<p class=caption>\nThis is an image - [https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/Packaged-content-in-SCORM-Cloud-2020-min-1024x633.png netdna-ssl.com]\n</p></div>"
+      },
+      "after": "07e57816988df9e7",
+      "date": 1611047011778
+    },
+    {
+      "type": "edit",
+      "id": "ff96c1ea-d769-45c0-992f-70921fdbcc0e",
+      "item": {
+        "id": "ff96c1ea-d769-45c0-992f-70921fdbcc0e",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/Packaged-content-in-SCORM-Cloud-2020-min-1024x633.png'>\n</a>\n<p class=caption>\n[[xAPI]] accounts for only 1.4% of learning package imports in 2010 - [https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search xapi.com]\n</p></div>"
+      },
+      "date": 1611047095440
+    },
+    {
+      "type": "edit",
+      "id": "ff96c1ea-d769-45c0-992f-70921fdbcc0e",
+      "item": {
+        "id": "ff96c1ea-d769-45c0-992f-70921fdbcc0e",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2020/12/Packaged-content-in-SCORM-Cloud-2020-min-1024x633.png'>\n</a>\n<p class=caption>\n[[xAPI]] accounts for only 1.4% of learning package imports in 2010 - [https://xapi.com/blog/an-exciting-time-to-watch-xapi-and-cmi5-adoption-numbers/?utm_source=google&utm_medium=natural_search xapi.com]\n</p></div>"
+      },
+      "date": 1611047143693
+    },
+    {
+      "type": "edit",
+      "id": "2c8b1e1e74281f71",
+      "item": {
+        "id": "2c8b1e1e74281f71",
+        "text": "# Use\n\n",
+        "type": "markdown"
+      },
+      "date": 1611047207070
+    },
+    {
+      "type": "add",
+      "id": "1fb49b43111ec96a",
+      "item": {
+        "type": "markdown",
+        "id": "1fb49b43111ec96a",
+        "text": "The Experience API is growing steadily each year:\n- [[Growth of xAPI]]\n"
+      },
+      "after": "2c8b1e1e74281f71",
+      "date": 1611047209774
+    },
+    {
+      "type": "edit",
+      "id": "2c8b1e1e74281f71",
+      "item": {
+        "id": "2c8b1e1e74281f71",
+        "text": "# Use\n\n",
+        "type": "markdown"
+      },
+      "date": 1611047308726
+    },
+    {
+      "type": "edit",
+      "id": "2c8b1e1e74281f71",
+      "item": {
+        "id": "2c8b1e1e74281f71",
+        "text": "# Use\n\n",
+        "type": "markdown"
+      },
+      "date": 1611047338636
+    },
+    {
+      "type": "add",
+      "id": "6530df07a7e530a2",
+      "item": {
+        "type": "markdown",
+        "id": "6530df07a7e530a2",
+        "text": "[[xAPI]] looks a good candidate to establish an open global standard for independent learning data. It lives in the [[restful]], [[json-rpc]] centric world, and is fully on the standards track. Adoption may be slow, but it is growing continuously in a conservative market.\n"
+      },
+      "after": "2c8b1e1e74281f71",
+      "date": 1611047340691
+    },
+    {
+      "id": "0f7b224c-3f58-47bc-ba04-9cfebe1489fb",
+      "type": "remove",
+      "date": 1611047469254
+    },
+    {
+      "id": "07e57816988df9e7",
+      "type": "remove",
+      "date": 1611047473636
+    },
+    {
+      "id": "ff96c1ea-d769-45c0-992f-70921fdbcc0e",
+      "type": "remove",
+      "date": 1611047476398
+    },
+    {
+      "type": "edit",
+      "id": "1fb49b43111ec96a",
+      "item": {
+        "type": "markdown",
+        "id": "1fb49b43111ec96a",
+        "text": "The Experience API is growing steadily each year:\n- [[Growth of xAPI]]\n"
+      },
+      "date": 1611047502781
+    },
+    {
+      "type": "edit",
+      "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+      "item": {
+        "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "type": "markdown",
+        "text": "- Learning Locker - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=xapi&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193211&hsa_kw=xapi&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-299715094495&hsa_cam=6921640309&hsa_grp=79445993666&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVIzCJRMpUadkTEr4oVq6-aMc76oNHDsb5zpEeFXm_XanqWkoNqjashoCXigQAvD_BwE learningpool.com]\n"
+      },
+      "date": 1611048173118
+    },
+    {
+      "type": "add",
+      "id": "d7fe9473dc6196e7",
+      "item": {
+        "type": "markdown",
+        "id": "d7fe9473dc6196e7",
+        "text": "- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n\n"
+      },
+      "after": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+      "date": 1611048199652
+    },
+    {
+      "type": "add",
+      "id": "53b825477a1c0fee",
+      "item": {
+        "type": "markdown",
+        "id": "53b825477a1c0fee",
+        "text": "- Deep Dive: Verbs - [https://xapi.com/blog/deep-dive-verb/?utm_source=google&utm_medium=natural_search xapi.com]\n- SCORM Cloud: Test, Play... - [https://rusticisoftware.com/products/scorm-cloud/ rusticisoftware.com]\n- xAPI.com Homepage: What is... - [https://xapi.com/ xapi.com]\n- Adobe Captivate Prime LMS -... - [https://www.adobe.com/de/products/captivateprime.html?sdid=HCS3XMBY&mv=display adobe.com]\n- Blank page after... - [https://www.opigno.org/forum/support/blank-page-after-installation opigno.org]\n- vtc-lrs - npm - [https://www.npmjs.com/package/vtc-lrs npmjs.com]\n- Installing LearningLocker... - [https://gist.github.com/davidpesce/7d6e1b81594ecbc72311 github.com]\n\n"
+      },
+      "after": "d7fe9473dc6196e7",
+      "date": 1611048224492
+    },
+    {
+      "type": "add",
+      "id": "8d5d3ef1de3930f6",
+      "item": {
+        "type": "markdown",
+        "id": "8d5d3ef1de3930f6",
+        "text": "# Cmi5\n"
+      },
+      "after": "53b825477a1c0fee",
+      "date": 1611048239081
+    },
+    {
+      "type": "add",
+      "id": "555f00763433332f",
+      "item": {
+        "type": "markdown",
+        "id": "555f00763433332f",
+        "text": "- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n"
+      },
+      "after": "8d5d3ef1de3930f6",
+      "date": 1611048253516
+    },
+    {
+      "type": "add",
+      "id": "c5e522f73d44717b",
+      "item": {
+        "type": "markdown",
+        "id": "c5e522f73d44717b",
+        "text": "- ADL Tools - [https://adlnet.github.io/xAPI-SCORM-Profile/dev/adl-tools.html github.io]\n- SCORM Cloud - [https://cloud.scorm.com/sc/guest/SignUpForm?_ga=2.96125084.1465476087.1610835085-387981836.1610835085 scorm.com]\n\n"
+      },
+      "after": "555f00763433332f",
+      "date": 1611048259093
+    },
+    {
+      "type": "add",
+      "id": "9813b8466f063569",
+      "item": {
+        "type": "markdown",
+        "id": "9813b8466f063569",
+        "text": ""
+      },
+      "after": "c5e522f73d44717b",
+      "date": 1611048263266
+    },
+    {
+      "id": "9813b8466f063569",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "d7fe9473dc6196e7",
+        "53b825477a1c0fee",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "9813b8466f063569",
+        "c5e522f73d44717b",
+        "16d6155d939303b0",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048266303,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1611048269616
+    },
+    {
+      "type": "add",
+      "id": "16d6155d939303b0",
+      "item": {
+        "type": "markdown",
+        "id": "16d6155d939303b0",
+        "text": "- Learning Record Store -... - [https://learningpool.com/solutions/learning-record-store-learning-locker/learning-locker-community-overview/ learningpool.com]\n- Experience API (xAPI)... - [https://adlnet.gov/projects/xapi/# adlnet.gov]\n- adlnet.github.io - [https://adlnet.github.io/ github.io]\n- xAPI Statements: The anatomy... - [https://xapi.com/statements-101/?utm_source=google&utm_medium=natural_search xapi.com]\n- Adobe Captivate (Release... - [https://www.adobe.com/de/products/captivate.html?sdid=T32PLZ4K&mv=search&promoid=70114000002XDiFAAW&ef_id=CjwKCAiAuoqABhAsEiwAdSkVVPKH5Ql9doBIYRcImjGawcxg79X6byahDcjd9Y9jEwlyGDbTzZQ9VRoCBw8QAvD_BwE:G:s&s_kwcid=AL!3085!3!289582537375!b!!g!!%2Badobe%20%2Bcaptivate adobe.com]\n- xapi language map - Google... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk00w_6MZv3uaLed662zC5btaw3m2wA%3A1610837147604&lei=m2wDYKeqJM6tgQb7iYHYBA&q=xapi%20language%20map&ved=2ahUKEwjn4-T_w6HuAhXOVsAKHftEAEsQsKwBKAR6BAgdEAU&biw=1910&bih=926 google.com]\n\n"
+      },
+      "after": "9813b8466f063569",
+      "date": 1611048270025
+    },
+    {
+      "type": "remove",
+      "id": "9813b8466f063569",
+      "date": 1611048276361
+    },
+    {
+      "type": "edit",
+      "id": "555f00763433332f",
+      "item": {
+        "type": "markdown",
+        "id": "555f00763433332f",
+        "text": "- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n"
+      },
+      "date": 1611048278893
+    },
+    {
+      "id": "c5e522f73d44717b",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "d7fe9473dc6196e7",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "16d6155d939303b0",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048281590
+    },
+    {
+      "id": "d7fe9473dc6196e7",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "16d6155d939303b0",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048287331
+    },
+    {
+      "type": "edit",
+      "id": "16d6155d939303b0",
+      "item": {
+        "type": "markdown",
+        "id": "16d6155d939303b0",
+        "text": "- Learning Record Store -... - [https://learningpool.com/solutions/learning-record-store-learning-locker/learning-locker-community-overview/ learningpool.com]\n- Experience API (xAPI)... - [https://adlnet.gov/projects/xapi/# adlnet.gov]\n- adlnet.github.io - [https://adlnet.github.io/ github.io]\n- xAPI Statements: The anatomy... - [https://xapi.com/statements-101/?utm_source=google&utm_medium=natural_search xapi.com]\n- Adobe Captivate (Release... - [https://www.adobe.com/de/products/captivate.html?sdid=T32PLZ4K&mv=search&promoid=70114000002XDiFAAW&ef_id=CjwKCAiAuoqABhAsEiwAdSkVVPKH5Ql9doBIYRcImjGawcxg79X6byahDcjd9Y9jEwlyGDbTzZQ9VRoCBw8QAvD_BwE:G:s&s_kwcid=AL!3085!3!289582537375!b!!g!!%2Badobe%20%2Bcaptivate adobe.com]\n- xapi language map - Google... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk00w_6MZv3uaLed662zC5btaw3m2wA%3A1610837147604&lei=m2wDYKeqJM6tgQb7iYHYBA&q=xapi%20language%20map&ved=2ahUKEwjn4-T_w6HuAhXOVsAKHftEAEsQsKwBKAR6BAgdEAU&biw=1910&bih=926 google.com]\n\n"
+      },
+      "date": 1611048306709
+    },
+    {
+      "type": "add",
+      "id": "2bc78fdfa42ba90e",
+      "item": {
+        "type": "markdown",
+        "id": "2bc78fdfa42ba90e",
+        "text": "- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n\n"
+      },
+      "after": "16d6155d939303b0",
+      "date": 1611048315145
+    },
+    {
+      "type": "add",
+      "id": "89a28e562082af86",
+      "item": {
+        "type": "markdown",
+        "id": "89a28e562082af86",
+        "text": "- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      },
+      "after": "2bc78fdfa42ba90e",
+      "date": 1611048319389
+    },
+    {
+      "type": "add",
+      "id": "35240a59de6dde16",
+      "item": {
+        "type": "markdown",
+        "id": "35240a59de6dde16",
+        "text": "- LRS.io - [https://lrs.io/home/solutions/#free-lrs lrs.io]\n- xAPI-Spec/xAPI-Data.md at... - [https://github.com/adlnet/xAPI-Spec/blob/master/xAPI-Data.md github.com]\n- LRS.io | NPM - [https://lrs.io/npm/ lrs.io]\n\n"
+      },
+      "after": "89a28e562082af86",
+      "date": 1611048332032
+    },
+    {
+      "type": "add",
+      "id": "6dbbf145a29dc919",
+      "item": {
+        "type": "markdown",
+        "id": "6dbbf145a29dc919",
+        "text": "- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/ github.io]\n\n"
+      },
+      "after": "35240a59de6dde16",
+      "date": 1611048336047
+    },
+    {
+      "id": "6dbbf145a29dc919",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "16d6155d939303b0",
+        "2bc78fdfa42ba90e",
+        "89a28e562082af86",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048338771,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1611048342719
+    },
+    {
+      "type": "add",
+      "id": "07dde1ea8e37ad3e",
+      "item": {
+        "type": "markdown",
+        "id": "07dde1ea8e37ad3e",
+        "text": "- Learning Management Systems... - [https://www.capterra.co.uk/sem/compare/directory/30020/learning-management-system/software?account_campaign_id=11071442529&account_adgroup_id=107353109654&target=software%20for%20e-learning&ad_id=462850663141&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=CjwKCAiAuoqABhAsEiwAdSkVVDeVeUN8SpdP22CFPqgch5g4HjpigzSZOsQvLRGu5UwWtlYPdPJlEBoCf7EQAvD_BwE co.uk]\n- LRS.io - [https://lrs.io/home/elearning-authoring-tool-content-demos lrs.io]\n- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=lrs&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193217&hsa_kw=lrs&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-329503955724&hsa_cam=6921640309&hsa_grp=79445993706&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVCbk54KqknurKZxnqE7Dv9Hn8WzwLldFokJtfiJoFP4iC0W8Tno1txoCWckQAvD_BwE learningpool.com]\n- What is cmi5: the Experience... - [https://xapi.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- Veracity LRS | Learner Portal - [https://elb-content-demo.dev.lrs.io/portal/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/samples/ github.io]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n- xAPI Vocabulary & Profile... - [http://xapi.vocab.pub/verbs/index.html vocab.pub]\n- xAPI Vocabulary Companion... - [https://adlnet.gov/news/2016/03/02/xapi-vocabulary-companion-specification-announced/ adlnet.gov]\n- GitHub -... - [https://github.com/LearningLocker/learninglocker github.com]\n- Get a Learning Record Store... - [https://xapi.com/get-lrs/?utm_source=google&utm_medium=natural_search xapi.com]\n- GitHub - adlnet/ADL_LRS:... - [https://github.com/adlnet/ADL_LRS github.com]\n- cmi5 Resources | ADL... - [https://adlnet.gov/resources/cmi5-resources/ adlnet.gov]\n- Storyline vs Captivate: The... - [https://omniplex.co/blog/storyline-vs-captivate-the-ultimate-review-of-all-reviews/ omniplex.co]\n- GitHub - adlnet/jxapi - [https://github.com/adlnet/jxapi github.com]"
+      },
+      "after": "6dbbf145a29dc919",
+      "date": 1611048343127
+    },
+    {
+      "type": "edit",
+      "id": "07dde1ea8e37ad3e",
+      "item": {
+        "type": "markdown",
+        "id": "07dde1ea8e37ad3e",
+        "text": "- Learning Management Systems... - [https://www.capterra.co.uk/sem/compare/directory/30020/learning-management-system/software?account_campaign_id=11071442529&account_adgroup_id=107353109654&target=software%20for%20e-learning&ad_id=462850663141&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=CjwKCAiAuoqABhAsEiwAdSkVVDeVeUN8SpdP22CFPqgch5g4HjpigzSZOsQvLRGu5UwWtlYPdPJlEBoCf7EQAvD_BwE co.uk]\n- LRS.io - [https://lrs.io/home/elearning-authoring-tool-content-demos lrs.io]\n\n"
+      },
+      "date": 1611048358471
+    },
+    {
+      "type": "add",
+      "id": "1c5c1b10e0c60b28",
+      "item": {
+        "type": "markdown",
+        "id": "1c5c1b10e0c60b28",
+        "text": "- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=lrs&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193217&hsa_kw=lrs&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-329503955724&hsa_cam=6921640309&hsa_grp=79445993706&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVCbk54KqknurKZxnqE7Dv9Hn8WzwLldFokJtfiJoFP4iC0W8Tno1txoCWckQAvD_BwE learningpool.com]\n\n"
+      },
+      "after": "07dde1ea8e37ad3e",
+      "date": 1611048365766
+    },
+    {
+      "type": "add",
+      "id": "8a7254757e7eb0d7",
+      "item": {
+        "type": "markdown",
+        "id": "8a7254757e7eb0d7",
+        "text": "- What is cmi5: the Experience... - [https://xapi.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n\n"
+      },
+      "after": "1c5c1b10e0c60b28",
+      "date": 1611048369971
+    },
+    {
+      "type": "add",
+      "id": "787b5bbcf5a63286",
+      "item": {
+        "type": "markdown",
+        "id": "787b5bbcf5a63286",
+        "text": "- Veracity LRS | Learner Portal - [https://elb-content-demo.dev.lrs.io/portal/ lrs.io]\n\n"
+      },
+      "after": "8a7254757e7eb0d7",
+      "date": 1611048372980
+    },
+    {
+      "type": "add",
+      "id": "f5f81ab75b0e175b",
+      "item": {
+        "type": "markdown",
+        "id": "f5f81ab75b0e175b",
+        "text": "- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/samples/ github.io]\n\n"
+      },
+      "after": "787b5bbcf5a63286",
+      "date": 1611048378828
+    },
+    {
+      "type": "add",
+      "id": "66360c879f42f7da",
+      "item": {
+        "type": "markdown",
+        "id": "66360c879f42f7da",
+        "text": "- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n\n"
+      },
+      "after": "f5f81ab75b0e175b",
+      "date": 1611048382831
+    },
+    {
+      "type": "add",
+      "id": "3b1615240b78a84c",
+      "item": {
+        "type": "markdown",
+        "id": "3b1615240b78a84c",
+        "text": "- xAPI Vocabulary & Profile... - [http://xapi.vocab.pub/verbs/index.html vocab.pub]\n- xAPI Vocabulary Companion... - [https://adlnet.gov/news/2016/03/02/xapi-vocabulary-companion-specification-announced/ adlnet.gov]\n- LearningLocker - [https://github.com/LearningLocker/learninglocker github.com]\n- Get a Learning Record Store... - [https://xapi.com/get-lrs/?utm_source=google&utm_medium=natural_search xapi.com]\n- ADL_LRS - [https://github.com/adlnet/ADL_LRS github.com]\n\n"
+      },
+      "after": "66360c879f42f7da",
+      "date": 1611048421873
+    },
+    {
+      "type": "add",
+      "id": "90b397f40ed8cac6",
+      "item": {
+        "type": "markdown",
+        "id": "90b397f40ed8cac6",
+        "text": "- cmi5 Resources | ADL... - [https://adlnet.gov/resources/cmi5-resources/ adlnet.gov]\n"
+      },
+      "after": "3b1615240b78a84c",
+      "date": 1611048425457
+    },
+    {
+      "type": "add",
+      "id": "b95d5a693697573c",
+      "item": {
+        "type": "markdown",
+        "id": "b95d5a693697573c",
+        "text": "- Storyline vs Captivate: The... - [https://omniplex.co/blog/storyline-vs-captivate-the-ultimate-review-of-all-reviews/ omniplex.co]\n- JxAPI - adlnet/jxapi - [https://github.com/adlnet/jxapi github.com]"
+      },
+      "after": "90b397f40ed8cac6",
+      "date": 1611048439085
+    },
+    {
+      "id": "90b397f40ed8cac6",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "90b397f40ed8cac6",
+        "16d6155d939303b0",
+        "2bc78fdfa42ba90e",
+        "89a28e562082af86",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "1c5c1b10e0c60b28",
+        "8a7254757e7eb0d7",
+        "787b5bbcf5a63286",
+        "f5f81ab75b0e175b",
+        "66360c879f42f7da",
+        "3b1615240b78a84c",
+        "b95d5a693697573c",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048444862
+    },
+    {
+      "id": "89a28e562082af86",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "89a28e562082af86",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "90b397f40ed8cac6",
+        "16d6155d939303b0",
+        "2bc78fdfa42ba90e",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "1c5c1b10e0c60b28",
+        "8a7254757e7eb0d7",
+        "787b5bbcf5a63286",
+        "f5f81ab75b0e175b",
+        "66360c879f42f7da",
+        "3b1615240b78a84c",
+        "b95d5a693697573c",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048455322
+    },
+    {
+      "id": "16d6155d939303b0",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "89a28e562082af86",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "16d6155d939303b0",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "90b397f40ed8cac6",
+        "2bc78fdfa42ba90e",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "1c5c1b10e0c60b28",
+        "8a7254757e7eb0d7",
+        "787b5bbcf5a63286",
+        "f5f81ab75b0e175b",
+        "66360c879f42f7da",
+        "3b1615240b78a84c",
+        "b95d5a693697573c",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048461508
+    },
+    {
+      "id": "2bc78fdfa42ba90e",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2bc78fdfa42ba90e",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "89a28e562082af86",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "16d6155d939303b0",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "90b397f40ed8cac6",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "1c5c1b10e0c60b28",
+        "8a7254757e7eb0d7",
+        "787b5bbcf5a63286",
+        "f5f81ab75b0e175b",
+        "66360c879f42f7da",
+        "3b1615240b78a84c",
+        "b95d5a693697573c",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048471686
+    },
+    {
+      "id": "35240a59de6dde16",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2bc78fdfa42ba90e",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "89a28e562082af86",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "16d6155d939303b0",
+        "35240a59de6dde16",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "90b397f40ed8cac6",
+        "07dde1ea8e37ad3e",
+        "1c5c1b10e0c60b28",
+        "8a7254757e7eb0d7",
+        "787b5bbcf5a63286",
+        "f5f81ab75b0e175b",
+        "66360c879f42f7da",
+        "3b1615240b78a84c",
+        "b95d5a693697573c",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048477316
+    },
+    {
+      "id": "07dde1ea8e37ad3e",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2bc78fdfa42ba90e",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "89a28e562082af86",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "16d6155d939303b0",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "90b397f40ed8cac6",
+        "1c5c1b10e0c60b28",
+        "8a7254757e7eb0d7",
+        "787b5bbcf5a63286",
+        "f5f81ab75b0e175b",
+        "66360c879f42f7da",
+        "3b1615240b78a84c",
+        "b95d5a693697573c",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048480285
+    },
+    {
+      "id": "1c5c1b10e0c60b28",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2bc78fdfa42ba90e",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "89a28e562082af86",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "16d6155d939303b0",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "1c5c1b10e0c60b28",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "90b397f40ed8cac6",
+        "8a7254757e7eb0d7",
+        "787b5bbcf5a63286",
+        "f5f81ab75b0e175b",
+        "66360c879f42f7da",
+        "3b1615240b78a84c",
+        "b95d5a693697573c",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048484304
+    },
+    {
+      "id": "787b5bbcf5a63286",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2bc78fdfa42ba90e",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "89a28e562082af86",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "16d6155d939303b0",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "1c5c1b10e0c60b28",
+        "787b5bbcf5a63286",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "90b397f40ed8cac6",
+        "8a7254757e7eb0d7",
+        "f5f81ab75b0e175b",
+        "66360c879f42f7da",
+        "3b1615240b78a84c",
+        "b95d5a693697573c",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048492457
+    },
+    {
+      "id": "66360c879f42f7da",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2bc78fdfa42ba90e",
+        "66360c879f42f7da",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "89a28e562082af86",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "16d6155d939303b0",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "1c5c1b10e0c60b28",
+        "787b5bbcf5a63286",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "90b397f40ed8cac6",
+        "8a7254757e7eb0d7",
+        "f5f81ab75b0e175b",
+        "3b1615240b78a84c",
+        "b95d5a693697573c",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048506150
+    },
+    {
+      "type": "remove",
+      "id": "66360c879f42f7da",
+      "date": 1611048508340
+    },
+    {
+      "type": "remove",
+      "id": "2bc78fdfa42ba90e",
+      "date": 1611048512038
     },
     {
       "type": "edit",
@@ -1119,36 +2281,283 @@
       "item": {
         "type": "markdown",
         "id": "a01ffb43ef5cd920",
-        "text": "- xAPI: Everything You Need to Know in 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]"
+        "text": "- Review 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]\n- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n\n"
       },
-      "date": 1610995020591
+      "date": 1611048514514
     },
     {
       "type": "edit",
-      "id": "a01ffb43ef5cd920",
+      "id": "d7fe9473dc6196e7",
       "item": {
         "type": "markdown",
-        "id": "a01ffb43ef5cd920",
-        "text": "- Review 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]"
+        "id": "d7fe9473dc6196e7",
+        "text": "- [[Livecode xAPI]]\n"
       },
-      "date": 1610995032729
+      "date": 1611048544870
+    },
+    {
+      "type": "add",
+      "id": "815aea103cbc564b",
+      "item": {
+        "type": "markdown",
+        "id": "815aea103cbc564b",
+        "text": "- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n\n"
+      },
+      "after": "d7fe9473dc6196e7",
+      "date": 1611048545510
+    },
+    {
+      "id": "815aea103cbc564b",
+      "type": "remove",
+      "date": 1611048563308
+    },
+    {
+      "id": "89a28e562082af86",
+      "type": "remove",
+      "date": 1611048565560
+    },
+    {
+      "id": "3b1615240b78a84c",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "16d6155d939303b0",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "1c5c1b10e0c60b28",
+        "787b5bbcf5a63286",
+        "3b1615240b78a84c",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "90b397f40ed8cac6",
+        "8a7254757e7eb0d7",
+        "f5f81ab75b0e175b",
+        "b95d5a693697573c",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048584902
+    },
+    {
+      "id": "b95d5a693697573c",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "16d6155d939303b0",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "1c5c1b10e0c60b28",
+        "787b5bbcf5a63286",
+        "3b1615240b78a84c",
+        "b95d5a693697573c",
+        "8d5d3ef1de3930f6",
+        "555f00763433332f",
+        "6dbbf145a29dc919",
+        "90b397f40ed8cac6",
+        "8a7254757e7eb0d7",
+        "f5f81ab75b0e175b",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048587466
+    },
+    {
+      "type": "remove",
+      "id": "6dbbf145a29dc919",
+      "date": 1611048594165
+    },
+    {
+      "type": "edit",
+      "id": "555f00763433332f",
+      "item": {
+        "type": "markdown",
+        "id": "555f00763433332f",
+        "text": "- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/ github.io]\n\n"
+      },
+      "date": 1611048596705
+    },
+    {
+      "type": "remove",
+      "id": "f5f81ab75b0e175b",
+      "date": 1611048599165
+    },
+    {
+      "type": "remove",
+      "id": "8a7254757e7eb0d7",
+      "date": 1611048602607
+    },
+    {
+      "type": "remove",
+      "id": "90b397f40ed8cac6",
+      "date": 1611048605482
+    },
+    {
+      "type": "edit",
+      "id": "555f00763433332f",
+      "item": {
+        "type": "markdown",
+        "id": "555f00763433332f",
+        "text": "- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/ github.io]\n- cmi5 Resources | ADL... - [https://adlnet.gov/resources/cmi5-resources/ adlnet.gov]\n- What is cmi5: the Experience... - [https://xapi.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/samples/ github.io]\n\n"
+      },
+      "date": 1611048607567
+    },
+    {
+      "type": "remove",
+      "id": "555f00763433332f",
+      "date": 1611048619978
+    },
+    {
+      "type": "edit",
+      "id": "8d5d3ef1de3930f6",
+      "item": {
+        "type": "markdown",
+        "id": "8d5d3ef1de3930f6",
+        "text": "# Cmi5\n- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/ github.io]\n- cmi5 Resources | ADL... - [https://adlnet.gov/resources/cmi5-resources/ adlnet.gov]\n- What is cmi5: the Experience... - [https://xapi.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/samples/ github.io]\n\n"
+      },
+      "date": 1611048621774
+    },
+    {
+      "id": "8d5d3ef1de3930f6",
+      "type": "move",
+      "order": [
+        "271e3210e9a73700",
+        "a01ffb43ef5cd920",
+        "2c8b1e1e74281f71",
+        "6530df07a7e530a2",
+        "1fb49b43111ec96a",
+        "43e3307a3e20b30f",
+        "8eb0b13c0c0b58c3",
+        "5fecfad7b67a4a27",
+        "bbf9dcfc78d30586",
+        "d47db21b6c8366fb",
+        "631d8aedc1929bc1",
+        "1c41a7941bb04b4b",
+        "7656e089d86ca3e2",
+        "26d03d09cd267891",
+        "701acc8917068e7c",
+        "34197480bb3411eb",
+        "69d7e2b83cff9293",
+        "37218b0c6a6e422e",
+        "d7fe9473dc6196e7",
+        "8d5d3ef1de3930f6",
+        "7606f3e29fcfe5d6",
+        "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
+        "53b825477a1c0fee",
+        "c5e522f73d44717b",
+        "16d6155d939303b0",
+        "35240a59de6dde16",
+        "07dde1ea8e37ad3e",
+        "1c5c1b10e0c60b28",
+        "787b5bbcf5a63286",
+        "3b1615240b78a84c",
+        "b95d5a693697573c",
+        "b7a7e12e205f24cf",
+        "d09f363dca66e6bc"
+      ],
+      "date": 1611048627206
+    },
+    {
+      "type": "add",
+      "id": "772758af3a09bcdf",
+      "item": {
+        "type": "markdown",
+        "id": "772758af3a09bcdf",
+        "text": "- [[xAPI Cohort]]"
+      },
+      "after": "d7fe9473dc6196e7",
+      "date": 1611048703687
+    },
+    {
+      "type": "edit",
+      "id": "772758af3a09bcdf",
+      "item": {
+        "type": "markdown",
+        "id": "772758af3a09bcdf",
+        "text": "- [[xAPI Learning Cohort]]"
+      },
+      "date": 1611048730762
     }
   ],
   "story": [
     {
       "id": "271e3210e9a73700",
-      "text": "The Experience API (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 WikiPedia]",
+      "text": "The Experience API ([[xAPI]]), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]",
       "type": "paragraph"
     },
     {
       "type": "markdown",
       "id": "a01ffb43ef5cd920",
-      "text": "- Review 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]"
+      "text": "- Review 2021 - [https://www.devlinpeck.com/xapi-lrs devlinpeck.com]\n- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n\n"
     },
     {
       "id": "2c8b1e1e74281f71",
-      "text": "Learning experiences are recorded in a Learning Record Store (LRS). LRSs can exist within traditional Learning Management Systems (LMSs) or on their own.",
-      "type": "paragraph"
+      "text": "# Use\n\n",
+      "type": "markdown"
+    },
+    {
+      "type": "markdown",
+      "id": "6530df07a7e530a2",
+      "text": "[[xAPI]] looks a good candidate to establish an open global standard for independent learning data. It lives in the [[restful]], [[json-rpc]] centric world, and is fully on the standards track. Adoption may be slow, but it is growing continuously in a conservative market.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "1fb49b43111ec96a",
+      "text": "The Experience API is growing steadily each year:\n- [[Growth of xAPI]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "43e3307a3e20b30f",
+      "text": "# How it works"
+    },
+    {
+      "type": "paragraph",
+      "id": "8eb0b13c0c0b58c3",
+      "text": "Learning experiences are recorded in a Learning Record Store (LRS). LRSs can exist within traditional Learning Management Systems (LMSs) or on their own."
     },
     {
       "type": "markdown",
@@ -1207,13 +2616,73 @@
     },
     {
       "type": "markdown",
+      "id": "d7fe9473dc6196e7",
+      "text": "- [[Livecode xAPI]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "772758af3a09bcdf",
+      "text": "- [[xAPI Learning Cohort]]"
+    },
+    {
+      "type": "markdown",
+      "id": "8d5d3ef1de3930f6",
+      "text": "# Cmi5\n- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/ github.io]\n- cmi5 Resources | ADL... - [https://adlnet.gov/resources/cmi5-resources/ adlnet.gov]\n- What is cmi5: the Experience... - [https://xapi.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/samples/ github.io]\n\n"
+    },
+    {
+      "type": "markdown",
       "id": "7606f3e29fcfe5d6",
-      "text": "# Research\nBelow we list online references and links we gathered from early group discussions - [https://www.one-tab.com/page/fpFwCKgtQfGfdWpicRVxSA one-tab.com]:"
+      "text": "# Research\nHere we list our recent reading and exploration of xAPI which needs to be sorted and organised - [https://www.one-tab.com/page/fpFwCKgtQfGfdWpicRVxSA one-tab.com]:"
     },
     {
       "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
       "type": "markdown",
-      "text": "- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=xapi&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193211&hsa_kw=xapi&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-299715094495&hsa_cam=6921640309&hsa_grp=79445993666&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVIzCJRMpUadkTEr4oVq6-aMc76oNHDsb5zpEeFXm_XanqWkoNqjashoCXigQAvD_BwE learningpool.com]\n- xapicohort/MakeyMakey: Repo... - [https://github.com/xapicohort/MakeyMakey github.com]\n- Rustici LRS \"digitalocean\" -... - [https://www.google.com/search?sa=X&rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk01ocg-wqs2ThSEZ5-8aj6kcYCwwTw:1610841142304&q=Rustici+LRS+%22digitalocean%22&ved=2ahUKEwiD6s3w0qHuAhWjQkEAHTQqAg8Q5t4CMAB6BAgBEAk&biw=1910&bih=926 google.com]\n- Deep Dive: Verbs - [https://xapi.com/blog/deep-dive-verb/?utm_source=google&utm_medium=natural_search xapi.com]\n- SCORM Cloud: Test, Play... - [https://rusticisoftware.com/products/scorm-cloud/ rusticisoftware.com]\n- xAPI.com Homepage: What is... - [https://xapi.com/ xapi.com]\n- Adobe Captivate Prime LMS -... - [https://www.adobe.com/de/products/captivateprime.html?sdid=HCS3XMBY&mv=display adobe.com]\n- Blank page after... - [https://www.opigno.org/forum/support/blank-page-after-installation opigno.org]\n- vtc-lrs - npm - [https://www.npmjs.com/package/vtc-lrs npmjs.com]\n- Installing LearningLocker... - [https://gist.github.com/davidpesce/7d6e1b81594ecbc72311 github.com]\n- How we support the cmi5... - [https://rusticisoftware.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 rusticisoftware.com]\n- Why cmi5? - [https://xapi.com/blog/why-use-cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- \"LRS\" \"DigitalOcean\" -... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk037ij7k0rO8Db97ZkqtkUlnYug0rg:1610841734099&q=%22LRS%22+%22DigitalOcean%22&sa=X&ved=2ahUKEwivpeaK1aHuAhXDlFwKHUdRAHwQ5t4CMAB6BAgEEAo&biw=1910&bih=926 google.com]\n- ADL Tools - [https://adlnet.github.io/xAPI-SCORM-Profile/dev/adl-tools.html github.io]\n- SCORM Cloud - [https://cloud.scorm.com/sc/guest/SignUpForm?_ga=2.96125084.1465476087.1610835085-387981836.1610835085 scorm.com]\n- From SCORM to CMI5: the... - [https://softwarecountry.com/articles/from-scorm-to-cmi5/ softwarecountry.com]\n- Learning Record Store -... - [https://learningpool.com/solutions/learning-record-store-learning-locker/learning-locker-community-overview/ learningpool.com]\n- Experience API (xAPI)... - [https://adlnet.gov/projects/xapi/# adlnet.gov]\n- adlnet.github.io - [https://adlnet.github.io/ github.io]\n- xAPI Statements: The anatomy... - [https://xapi.com/statements-101/?utm_source=google&utm_medium=natural_search xapi.com]\n- Adobe Captivate (Release... - [https://www.adobe.com/de/products/captivate.html?sdid=T32PLZ4K&mv=search&promoid=70114000002XDiFAAW&ef_id=CjwKCAiAuoqABhAsEiwAdSkVVPKH5Ql9doBIYRcImjGawcxg79X6byahDcjd9Y9jEwlyGDbTzZQ9VRoCBw8QAvD_BwE:G:s&s_kwcid=AL!3085!3!289582537375!b!!g!!%2Badobe%20%2Bcaptivate adobe.com]\n- xapi language map - Google... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk00w_6MZv3uaLed662zC5btaw3m2wA%3A1610837147604&lei=m2wDYKeqJM6tgQb7iYHYBA&q=xapi%20language%20map&ved=2ahUKEwjn4-T_w6HuAhXOVsAKHftEAEsQsKwBKAR6BAgdEAU&biw=1910&bih=926 google.com]\n- Tutorials | Devlin Peck -... - [https://www.devlinpeck.com/tutorials devlinpeck.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n- Github Desktop doesn't open... - [https://github.com/desktop/desktop/issues/11300 github.com]\n- LRS.io - [https://lrs.io/home/solutions/#free-lrs lrs.io]\n- xAPI-Spec/xAPI-Data.md at... - [https://github.com/adlnet/xAPI-Spec/blob/master/xAPI-Data.md github.com]\n- LRS.io | NPM - [https://lrs.io/npm/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/ github.io]\n- Learning Management Systems... - [https://www.capterra.co.uk/sem/compare/directory/30020/learning-management-system/software?account_campaign_id=11071442529&account_adgroup_id=107353109654&target=software%20for%20e-learning&ad_id=462850663141&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=CjwKCAiAuoqABhAsEiwAdSkVVDeVeUN8SpdP22CFPqgch5g4HjpigzSZOsQvLRGu5UwWtlYPdPJlEBoCf7EQAvD_BwE co.uk]\n- LRS.io - [https://lrs.io/home/elearning-authoring-tool-content-demos lrs.io]\n- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=lrs&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193217&hsa_kw=lrs&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-329503955724&hsa_cam=6921640309&hsa_grp=79445993706&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVCbk54KqknurKZxnqE7Dv9Hn8WzwLldFokJtfiJoFP4iC0W8Tno1txoCWckQAvD_BwE learningpool.com]\n- What is cmi5: the Experience... - [https://xapi.com/cmi5/?_ga=2.212615764.1564183226.1610834250-52949845.1610834250 xapi.com]\n- Veracity LRS | Learner Portal - [https://elb-content-demo.dev.lrs.io/portal/ lrs.io]\n- The cmi5 Project - [https://aicc.github.io/CMI-5_Spec_Current/samples/ github.io]\n- The xAPI Challenges App - [https://www.devlinpeck.com/projects/xapi-challenges-app devlinpeck.com]\n- xAPI Vocabulary & Profile... - [http://xapi.vocab.pub/verbs/index.html vocab.pub]\n- xAPI Vocabulary Companion... - [https://adlnet.gov/news/2016/03/02/xapi-vocabulary-companion-specification-announced/ adlnet.gov]\n- GitHub -... - [https://github.com/LearningLocker/learninglocker github.com]\n- Get a Learning Record Store... - [https://xapi.com/get-lrs/?utm_source=google&utm_medium=natural_search xapi.com]\n- GitHub - adlnet/ADL_LRS:... - [https://github.com/adlnet/ADL_LRS github.com]\n- cmi5 Resources | ADL... - [https://adlnet.gov/resources/cmi5-resources/ adlnet.gov]\n- Storyline vs Captivate: The... - [https://omniplex.co/blog/storyline-vs-captivate-the-ultimate-review-of-all-reviews/ omniplex.co]\n- GitHub - adlnet/jxapi - [https://github.com/adlnet/jxapi github.com]"
+      "text": "- Learning Locker - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=xapi&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193211&hsa_kw=xapi&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-299715094495&hsa_cam=6921640309&hsa_grp=79445993666&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVIzCJRMpUadkTEr4oVq6-aMc76oNHDsb5zpEeFXm_XanqWkoNqjashoCXigQAvD_BwE learningpool.com]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "53b825477a1c0fee",
+      "text": "- Deep Dive: Verbs - [https://xapi.com/blog/deep-dive-verb/?utm_source=google&utm_medium=natural_search xapi.com]\n- SCORM Cloud: Test, Play... - [https://rusticisoftware.com/products/scorm-cloud/ rusticisoftware.com]\n- xAPI.com Homepage: What is... - [https://xapi.com/ xapi.com]\n- Adobe Captivate Prime LMS -... - [https://www.adobe.com/de/products/captivateprime.html?sdid=HCS3XMBY&mv=display adobe.com]\n- Blank page after... - [https://www.opigno.org/forum/support/blank-page-after-installation opigno.org]\n- vtc-lrs - npm - [https://www.npmjs.com/package/vtc-lrs npmjs.com]\n- Installing LearningLocker... - [https://gist.github.com/davidpesce/7d6e1b81594ecbc72311 github.com]\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "c5e522f73d44717b",
+      "text": "- ADL Tools - [https://adlnet.github.io/xAPI-SCORM-Profile/dev/adl-tools.html github.io]\n- SCORM Cloud - [https://cloud.scorm.com/sc/guest/SignUpForm?_ga=2.96125084.1465476087.1610835085-387981836.1610835085 scorm.com]\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "16d6155d939303b0",
+      "text": "- Learning Record Store -... - [https://learningpool.com/solutions/learning-record-store-learning-locker/learning-locker-community-overview/ learningpool.com]\n- Experience API (xAPI)... - [https://adlnet.gov/projects/xapi/# adlnet.gov]\n- adlnet.github.io - [https://adlnet.github.io/ github.io]\n- xAPI Statements: The anatomy... - [https://xapi.com/statements-101/?utm_source=google&utm_medium=natural_search xapi.com]\n- Adobe Captivate (Release... - [https://www.adobe.com/de/products/captivate.html?sdid=T32PLZ4K&mv=search&promoid=70114000002XDiFAAW&ef_id=CjwKCAiAuoqABhAsEiwAdSkVVPKH5Ql9doBIYRcImjGawcxg79X6byahDcjd9Y9jEwlyGDbTzZQ9VRoCBw8QAvD_BwE:G:s&s_kwcid=AL!3085!3!289582537375!b!!g!!%2Badobe%20%2Bcaptivate adobe.com]\n- xapi language map - Google... - [https://www.google.com/search?rlz=1C5CHFA_enGB856GB856&sxsrf=ALeKk00w_6MZv3uaLed662zC5btaw3m2wA%3A1610837147604&lei=m2wDYKeqJM6tgQb7iYHYBA&q=xapi%20language%20map&ved=2ahUKEwjn4-T_w6HuAhXOVsAKHftEAEsQsKwBKAR6BAgdEAU&biw=1910&bih=926 google.com]\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "35240a59de6dde16",
+      "text": "- LRS.io - [https://lrs.io/home/solutions/#free-lrs lrs.io]\n- xAPI-Spec/xAPI-Data.md at... - [https://github.com/adlnet/xAPI-Spec/blob/master/xAPI-Data.md github.com]\n- LRS.io | NPM - [https://lrs.io/npm/ lrs.io]\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "07dde1ea8e37ad3e",
+      "text": "- Learning Management Systems... - [https://www.capterra.co.uk/sem/compare/directory/30020/learning-management-system/software?account_campaign_id=11071442529&account_adgroup_id=107353109654&target=software%20for%20e-learning&ad_id=462850663141&matchtype=b&gclsrc=aw.ds&&utm_source=ps-google&gclid=CjwKCAiAuoqABhAsEiwAdSkVVDeVeUN8SpdP22CFPqgch5g4HjpigzSZOsQvLRGu5UwWtlYPdPJlEBoCf7EQAvD_BwE co.uk]\n- LRS.io - [https://lrs.io/home/elearning-authoring-tool-content-demos lrs.io]\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "1c5c1b10e0c60b28",
+      "text": "- The World's Most Installed... - [https://learningpool.com/learning-analytics-solution-learning-locker/?utm_source=adwords&utm_term=lrs&utm_medium=ppc&utm_campaign=H+-+Learning+Locker&hsa_ad=404233193217&hsa_kw=lrs&hsa_mt=p&hsa_src=g&hsa_tgt=kwd-329503955724&hsa_cam=6921640309&hsa_grp=79445993706&hsa_ver=3&hsa_net=adwords&hsa_acc=2710275150&gclid=CjwKCAiAuoqABhAsEiwAdSkVVCbk54KqknurKZxnqE7Dv9Hn8WzwLldFokJtfiJoFP4iC0W8Tno1txoCWckQAvD_BwE learningpool.com]\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "787b5bbcf5a63286",
+      "text": "- Veracity LRS | Learner Portal - [https://elb-content-demo.dev.lrs.io/portal/ lrs.io]\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "3b1615240b78a84c",
+      "text": "- xAPI Vocabulary & Profile... - [http://xapi.vocab.pub/verbs/index.html vocab.pub]\n- xAPI Vocabulary Companion... - [https://adlnet.gov/news/2016/03/02/xapi-vocabulary-companion-specification-announced/ adlnet.gov]\n- LearningLocker - [https://github.com/LearningLocker/learninglocker github.com]\n- Get a Learning Record Store... - [https://xapi.com/get-lrs/?utm_source=google&utm_medium=natural_search xapi.com]\n- ADL_LRS - [https://github.com/adlnet/ADL_LRS github.com]\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b95d5a693697573c",
+      "text": "- Storyline vs Captivate: The... - [https://omniplex.co/blog/storyline-vs-captivate-the-ultimate-review-of-all-reviews/ omniplex.co]\n- JxAPI - adlnet/jxapi - [https://github.com/adlnet/jxapi github.com]"
     },
     {
       "id": "b7a7e12e205f24cf",
