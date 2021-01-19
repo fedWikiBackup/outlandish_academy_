@@ -1,0 +1,201 @@
+{
+  "title": "xAPI",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "59bf4f95b5db8483",
+      "text": "The [[Experience API]] (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "820c893ebacd00fd",
+      "text": "# Integration with wiki\n"
+    },
+    {
+      "type": "markdown",
+      "id": "83a08f98157049da",
+      "text": "[[xAPI]] looks a good candidate to establish an open global standard for independent learning data. It lives in the [[restful]], [[json-rpc]] centric world, and is fully on the standards track. Adoption may be slow, but it is growing continuously in a conservative market.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "ae0122fd4616a260",
+      "text": "- [[Growth of xAPI]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "6e25442c6d0d6f8f",
+      "text": "We can imagine creating a federation [[outpost]] that uses the [[experience api]] as a backend, and reveals reports and insights regarding the sort of independent learning that is going on within [[the federation]].\n"
+    },
+    {
+      "type": "markdown",
+      "id": "7c8f32786dd2f35e",
+      "text": "# World Climate School\n"
+    },
+    {
+      "type": "markdown",
+      "id": "ad6330b339e41eac",
+      "text": "We are proposing recruiting developers to wiki around the use of federated wiki in a distributed p2p learning environment around climate change.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "8ea85e5ea18cf8f8",
+      "text": "The plan is in early stages but has the following components:\n\n- Feb-April 2021 xAPI Cohort Hack"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "xAPI",
+        "story": []
+      },
+      "date": 1611046902644
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59bf4f95b5db8483"
+      },
+      "id": "59bf4f95b5db8483",
+      "type": "add",
+      "date": 1611046907844
+    },
+    {
+      "type": "edit",
+      "id": "59bf4f95b5db8483",
+      "item": {
+        "type": "markdown",
+        "id": "59bf4f95b5db8483",
+        "text": "The [[Experience API]] (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 WikiPedia]"
+      },
+      "date": 1611046923237
+    },
+    {
+      "type": "edit",
+      "id": "59bf4f95b5db8483",
+      "item": {
+        "type": "markdown",
+        "id": "59bf4f95b5db8483",
+        "text": "The [[Experience API]] (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]"
+      },
+      "date": 1611046941216
+    },
+    {
+      "type": "edit",
+      "id": "59bf4f95b5db8483",
+      "item": {
+        "type": "markdown",
+        "id": "59bf4f95b5db8483",
+        "text": "The [[Experience API]] (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]\n"
+      },
+      "date": 1611047327283
+    },
+    {
+      "type": "add",
+      "id": "820c893ebacd00fd",
+      "item": {
+        "type": "markdown",
+        "id": "820c893ebacd00fd",
+        "text": "# Integration with wiki"
+      },
+      "after": "59bf4f95b5db8483",
+      "date": 1611047332857
+    },
+    {
+      "type": "edit",
+      "id": "820c893ebacd00fd",
+      "item": {
+        "type": "markdown",
+        "id": "820c893ebacd00fd",
+        "text": "# Integration with wiki\n"
+      },
+      "date": 1611047344165
+    },
+    {
+      "type": "add",
+      "id": "83a08f98157049da",
+      "item": {
+        "type": "markdown",
+        "id": "83a08f98157049da",
+        "text": "[[xAPI]] looks a good candidate to establish an open global standard for independent learning data. It lives in the [[restful]], [[json-rpc]] centric world, and is fully on the standards track. Adoption may be slow, but it is growing continuously in a conservative market.\n"
+      },
+      "after": "820c893ebacd00fd",
+      "date": 1611047348612
+    },
+    {
+      "type": "add",
+      "id": "ae0122fd4616a260",
+      "item": {
+        "type": "markdown",
+        "id": "ae0122fd4616a260",
+        "text": "- [[Growth of xAPI]]"
+      },
+      "after": "83a08f98157049da",
+      "date": 1611047411301
+    },
+    {
+      "type": "edit",
+      "id": "ae0122fd4616a260",
+      "item": {
+        "type": "markdown",
+        "id": "ae0122fd4616a260",
+        "text": "- [[Growth of xAPI]]\n"
+      },
+      "date": 1611047514484
+    },
+    {
+      "type": "add",
+      "id": "6e25442c6d0d6f8f",
+      "item": {
+        "type": "markdown",
+        "id": "6e25442c6d0d6f8f",
+        "text": "We can imagine creating a federation [[outpost]] that uses the [[experience api]] as a backend, and reveals reports and insights regarding the sort of independent learning that is going on within [[the federation]]."
+      },
+      "after": "ae0122fd4616a260",
+      "date": 1611047593688
+    },
+    {
+      "type": "edit",
+      "id": "6e25442c6d0d6f8f",
+      "item": {
+        "type": "markdown",
+        "id": "6e25442c6d0d6f8f",
+        "text": "We can imagine creating a federation [[outpost]] that uses the [[experience api]] as a backend, and reveals reports and insights regarding the sort of independent learning that is going on within [[the federation]].\n"
+      },
+      "date": 1611047806332
+    },
+    {
+      "type": "add",
+      "id": "7c8f32786dd2f35e",
+      "item": {
+        "type": "markdown",
+        "id": "7c8f32786dd2f35e",
+        "text": "# World Climate School\n"
+      },
+      "after": "6e25442c6d0d6f8f",
+      "date": 1611047817704
+    },
+    {
+      "type": "add",
+      "id": "ad6330b339e41eac",
+      "item": {
+        "type": "markdown",
+        "id": "ad6330b339e41eac",
+        "text": "We are proposing recruiting developers to wiki around the use of federated wiki in a distributed p2p learning environment around climate change.\n"
+      },
+      "after": "7c8f32786dd2f35e",
+      "date": 1611047890817
+    },
+    {
+      "type": "add",
+      "id": "8ea85e5ea18cf8f8",
+      "item": {
+        "type": "markdown",
+        "id": "8ea85e5ea18cf8f8",
+        "text": "The plan is in early stages but has the following components:\n\n- Feb-April 2021 xAPI Cohort Hack"
+      },
+      "after": "ad6330b339e41eac",
+      "date": 1611047960248
+    }
+  ]
+}
