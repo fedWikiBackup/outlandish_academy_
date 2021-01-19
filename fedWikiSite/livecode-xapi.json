@@ -1,0 +1,144 @@
+{
+  "title": "Livecode xAPI",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "9562e756b75c02b7",
+      "text": "We are proposing running a [[Livecode Dojo]] from February till April 2021. We will work around a series of small Livecode applications created for mobile, tablet and desktop that interface with each other using the [[experience api]] ([[xAPI]]).\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d01da133d5294ab0",
+      "text": "# Live sessions"
+    },
+    {
+      "type": "zones",
+      "id": "f005cc5804335ba0",
+      "text": "xAPI Learning Meet\nDATE Thursday\nTIME 14:00\nFOR 60 minutes\nIN EST\n\nHERE"
+    },
+    {
+      "type": "markdown",
+      "id": "815aea103cbc564b",
+      "text": "# MakeyMakey\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Livecode xAPI",
+        "story": []
+      },
+      "date": 1611048559493
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9562e756b75c02b7"
+      },
+      "id": "9562e756b75c02b7",
+      "type": "add",
+      "date": 1611048560867
+    },
+    {
+      "id": "815aea103cbc564b",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "815aea103cbc564b",
+        "text": "- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n\n"
+      },
+      "after": "9562e756b75c02b7",
+      "date": 1611048563309
+    },
+    {
+      "id": "89a28e562082af86",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "89a28e562082af86",
+        "text": "- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      },
+      "after": "815aea103cbc564b",
+      "date": 1611048565561
+    },
+    {
+      "type": "edit",
+      "id": "9562e756b75c02b7",
+      "item": {
+        "type": "markdown",
+        "id": "9562e756b75c02b7",
+        "text": "We are proposing running a [[Livecode Dojo]] from February till April 2021. We will work around a series of small Livecode applications created for mobile, tablet and desktop that interface with each other using the [[experience api]] ([[xAPI]]).\n"
+      },
+      "date": 1611049702932
+    },
+    {
+      "type": "add",
+      "id": "d01da133d5294ab0",
+      "item": {
+        "type": "markdown",
+        "id": "d01da133d5294ab0",
+        "text": "# Live sessions"
+      },
+      "after": "9562e756b75c02b7",
+      "date": 1611049716344
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f005cc5804335ba0"
+      },
+      "id": "f005cc5804335ba0",
+      "type": "add",
+      "after": "89a28e562082af86",
+      "date": 1611049720746
+    },
+    {
+      "type": "edit",
+      "id": "f005cc5804335ba0",
+      "item": {
+        "type": "zones",
+        "id": "f005cc5804335ba0",
+        "text": "xAPI Learning Meet\nDATE Thursday\nTIME 14:00\nFOR 60 minutes\nIN EST\n\nHERE"
+      },
+      "date": 1611049723076
+    },
+    {
+      "id": "f005cc5804335ba0",
+      "type": "move",
+      "order": [
+        "9562e756b75c02b7",
+        "d01da133d5294ab0",
+        "f005cc5804335ba0",
+        "815aea103cbc564b",
+        "89a28e562082af86"
+      ],
+      "date": 1611049725419
+    },
+    {
+      "type": "remove",
+      "id": "89a28e562082af86",
+      "date": 1611049731694
+    },
+    {
+      "type": "edit",
+      "id": "815aea103cbc564b",
+      "item": {
+        "type": "markdown",
+        "id": "815aea103cbc564b",
+        "text": "- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      },
+      "date": 1611049734257
+    },
+    {
+      "type": "edit",
+      "id": "815aea103cbc564b",
+      "item": {
+        "type": "markdown",
+        "id": "815aea103cbc564b",
+        "text": "# MakeyMakey\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      },
+      "date": 1611049744669
+    }
+  ]
+}
