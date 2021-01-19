@@ -1,0 +1,43 @@
+{
+  "title": "Earth Day Team",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "bb14a60492f837c0",
+      "text": "We are proposing creating a series of integrated [[Livecode]] apps used for environmental education and showcasing these on [[Earth Day 2021]]."
+    },
+    {
+      "type": "factory",
+      "id": "81e8e98043fe1e5e"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Earth Day Team",
+        "story": []
+      },
+      "date": 1611053615941
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "81e8e98043fe1e5e"
+      },
+      "id": "81e8e98043fe1e5e",
+      "type": "add",
+      "date": 1611053616908
+    },
+    {
+      "id": "bb14a60492f837c0",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "bb14a60492f837c0",
+        "text": "We are proposing creating a series of integrated [[Livecode]] apps used for environmental education and showcasing these on [[Earth Day 2021]]."
+      },
+      "date": 1611053622667
+    }
+  ]
+}
