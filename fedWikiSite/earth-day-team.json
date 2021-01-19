@@ -7,8 +7,14 @@
       "text": "We are proposing creating a series of integrated [[Livecode]] apps used for environmental education and showcasing these on [[Earth Day 2021]]."
     },
     {
-      "type": "factory",
-      "id": "81e8e98043fe1e5e"
+      "type": "markdown",
+      "id": "81e8e98043fe1e5e",
+      "text": "# lib_Xapi\n"
+    },
+    {
+      "type": "markdown",
+      "id": "a8764a93eb14348b",
+      "text": "One component would be to create a Livecode library for interfacing with the [[expereince api]]. At the moment the focus is on experimenting with the following services:\n\n- [[dsaf]]\n- [[Scorm Cloud]]"
     }
   ],
   "journal": [
@@ -38,6 +44,27 @@
         "text": "We are proposing creating a series of integrated [[Livecode]] apps used for environmental education and showcasing these on [[Earth Day 2021]]."
       },
       "date": 1611053622667
+    },
+    {
+      "type": "edit",
+      "id": "81e8e98043fe1e5e",
+      "item": {
+        "type": "markdown",
+        "id": "81e8e98043fe1e5e",
+        "text": "# lib_Xapi\n"
+      },
+      "date": 1611065543086
+    },
+    {
+      "type": "add",
+      "id": "a8764a93eb14348b",
+      "item": {
+        "type": "markdown",
+        "id": "a8764a93eb14348b",
+        "text": "One component would be to create a Livecode library for interfacing with the [[expereince api]]. At the moment the focus is on experimenting with the following services:\n\n- [[dsaf]]\n- [[Scorm Cloud]]"
+      },
+      "after": "81e8e98043fe1e5e",
+      "date": 1611065625519
     }
   ]
 }

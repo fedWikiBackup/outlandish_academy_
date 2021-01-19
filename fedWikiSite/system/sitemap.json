@@ -2269,7 +2269,7 @@
   {
     "slug": "experience-api",
     "title": "Experience API",
-    "date": 1611048730762,
+    "date": 1611065777689,
     "synopsis": "The Experience API ([[xAPI]]), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]",
     "links": {
       "xapi": "271e3210e9a73700",
@@ -2292,7 +2292,7 @@
   {
     "slug": "xapi",
     "title": "xAPI",
-    "date": 1611047960248,
+    "date": 1611066820528,
     "synopsis": "The [[Experience API]] (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]",
     "links": {
       "experience-api": "59bf4f95b5db8483",
@@ -2301,7 +2301,13 @@
       "json-rpc": "83a08f98157049da",
       "growth-of-xapi": "ae0122fd4616a260",
       "outpost": "6e25442c6d0d6f8f",
-      "the-federation": "6e25442c6d0d6f8f"
+      "the-federation": "6e25442c6d0d6f8f",
+      "scorm": "db900e783a8a55dd",
+      "lrs": "db900e783a8a55dd",
+      "wordpress": "db900e783a8a55dd",
+      "moodle": "fb8cdd3ff93f86ad",
+      "lrsio": "a92f9cfb28e6a66c",
+      "lifter-lms": "a92f9cfb28e6a66c"
     }
   },
   {
@@ -2410,11 +2416,14 @@
   {
     "slug": "earth-day-team",
     "title": "Earth Day Team",
-    "date": 1611053622667,
+    "date": 1611065625519,
     "synopsis": "We are proposing creating a series of integrated [[Livecode]] apps used for environmental education and showcasing these on [[Earth Day 2021]].",
     "links": {
       "livecode": "bb14a60492f837c0",
-      "earth-day-2021": "bb14a60492f837c0"
+      "earth-day-2021": "bb14a60492f837c0",
+      "expereince-api": "a8764a93eb14348b",
+      "dsaf": "a8764a93eb14348b",
+      "scorm-cloud": "a8764a93eb14348b"
     }
   },
   {
@@ -2456,5 +2465,26 @@
       "experience-api": "510decfe4625a37b",
       "learning-cohort-teams": "a3a8ca5be16b1d8f"
     }
+  },
+  {
+    "slug": "lifter-lms",
+    "title": "Lifter LMS",
+    "date": 1611066383835,
+    "synopsis": "Combine [[Lifter LMS]] (WordPress LMS plugin) with [[GrassBlade]] to deliver SCORM and [[XAPI]] interactive elearning content.",
+    "links": {
+      "lifter-lms": "090f349ccead9b72",
+      "grassblade": "090f349ccead9b72",
+      "xapi": "090f349ccead9b72",
+      "scorm": "7e266ec3f2bccb81",
+      "lrs": "7e266ec3f2bccb81",
+      "wordpress": "7e266ec3f2bccb81",
+      "experience-api": "cfe65aa95cc299a0"
+    }
+  },
+  {
+    "slug": "lrsio",
+    "title": "LRS.io",
+    "date": 1611067661889,
+    "synopsis": "Welcome to the Veracity Learning LRS Users Manual. This page should give you everything you need to get started using the tool. We're working hard to document all the features and functions of the LRS, plus add tips and tricks, explanations, and caveats to help you get the most our of the software."
   }
 ]
