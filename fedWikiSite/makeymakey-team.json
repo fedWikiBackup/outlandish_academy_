@@ -1,0 +1,30 @@
+{
+  "title": "MakeyMakey Team",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "9c4dca114251caaa",
+      "text": "This [[Livecode]] team is based on a 2020 cohort:\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "MakeyMakey Team",
+        "story": []
+      },
+      "date": 1611053637648
+    },
+    {
+      "id": "9c4dca114251caaa",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "9c4dca114251caaa",
+        "text": "This [[Livecode]] team is based on a 2020 cohort:\n- MakeyMakey Repo - [https://github.com/xapicohort/MakeyMakey github.com]\n- xAPI Makey Makey - JSON... - [http://duckworks.biz/duckworks/xAPI/MakeyMakey/visual/index.html? duckworks.biz]\n"
+      },
+      "date": 1611053641171
+    }
+  ]
+}
