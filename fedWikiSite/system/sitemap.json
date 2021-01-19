@@ -2429,11 +2429,12 @@
   {
     "slug": "earth-day-2021",
     "title": "Earth Day 2021",
-    "date": 1611053985053,
+    "date": 1611054272290,
     "synopsis": "[[Earth Day]] is an annual celebration that has taken place in April each year since 1970. It takes place each year on:",
     "links": {
       "earth-day": "b28b56f2be458a5b",
       "earth-day-network": "8d445981ecab6529",
+      "learning-cohort": "70e0c67a396ffc94",
       "wiki-and-the-environment": "e4498fede2652953",
       "molde-learning-garden": "8bd6b54bbe6784e2",
       "home-studio": "85072eeeea341f6b",
@@ -2441,6 +2442,19 @@
       "sound-garden": "a5076bc2e7ca3f43",
       "earth-sounds": "5bf790bd27b82bca",
       "green-wiki": "3eb3947058d61959"
+    }
+  },
+  {
+    "slug": "learning-cohort",
+    "title": "Learning Cohort",
+    "date": 1611054783042,
+    "synopsis": "The __Learning Cohort__ is an informal group of [[Makers]] interested in education that have agreed to come together for a 12 week hack between Thursday 4th February and [[Earth Day 2021]] which is on Thursday 22nd April, 2021.",
+    "links": {
+      "makers": "15f2a6d90d9b36eb",
+      "earth-day-2021": "15f2a6d90d9b36eb",
+      "xapi": "510decfe4625a37b",
+      "experience-api": "510decfe4625a37b",
+      "learning-cohort-teams": "a3a8ca5be16b1d8f"
     }
   }
 ]
