@@ -1,0 +1,563 @@
+{
+  "title": "LRS.io",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "23477f97027933b4",
+      "text": "Welcome to the Veracity Learning LRS Users Manual. This page should give you everything you need to get started using the tool. We're working hard to document all the features and functions of the LRS, plus add tips and tricks, explanations, and caveats to help you get the most our of the software.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "94018660bde3504d",
+      "text": "# Tutorial\n"
+    },
+    {
+      "type": "markdown",
+      "id": "32cb1d1a649990fa",
+      "text": "- Getting Started - [https://lrs.io/ui/lrs/sample-lrs-budhujk/getStarted/ lrs.io]\n- Use xAPI Launch in your content - [https://lrs.io/ui/lrs/supportingXAPILaunch/ lrs.io]\n- Tutorial - Integrating xAPI in Web Content - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xAPIinWebContent/ lrs.io]"
+    },
+    {
+      "type": "markdown",
+      "id": "1d2fdca279cf57fb",
+      "text": "# LRS API\n"
+    },
+    {
+      "type": "markdown",
+      "id": "9369931c2d0359cc",
+      "text": "Veracity Learning has many tools, features, and functions that users can exercise. While many of these features are available through the user interface, you may wish to automate some of the functionality of your LRS. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "eed3658c91ef8a0c",
+      "text": "- LRS API - [https://lrs.io/docs/manual/api/ lrs.io]\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "1bcebad05940f000",
+      "text": "You can accomplish this via the LRS API. Don't confuse this with the xAPI - the LRS API is not for collection learner performance data. Instead, you can use the LRS API to create and remove learners, lessons, and other data objects in the system, or to launch content."
+    },
+    {
+      "type": "markdown",
+      "id": "d2931ad0303b333d",
+      "text": "# xAPI\n"
+    },
+    {
+      "type": "markdown",
+      "id": "45da6a6382284e87",
+      "text": "- xApiLab - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xapilab/6005dbfa31388e22f4c47f56/page/ lrs.io]"
+    },
+    {
+      "type": "markdown",
+      "id": "15f9ff5d12f45f97",
+      "text": "# xAPI Access Keys\n"
+    },
+    {
+      "type": "markdown",
+      "id": "3f9639b1073df5b2",
+      "text": "xAPI requires you to use HTTP Basic Authentication when sending data or querying the LRS. Don't use your LRS.IO name and password - these credentials will not connect to an LRS. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "9bb1f54bf4e96696",
+      "text": "You'll need to allocate \"Access Keys\" to create a username/password pair to connect to the LRS. You can create multiple keys - don't feel like you must have just one. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "8dfbe47a75ebbf1a",
+      "text": "A common pattern is to create keys for each different learning record provider that might send data to your LRS. You can also allocate keys for each learner, or organization.... it's really up to you how you use them. Still, you must have at least one.\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "LRS.io",
+        "story": []
+      },
+      "date": 1611066826090
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "23477f97027933b4"
+      },
+      "id": "23477f97027933b4",
+      "type": "add",
+      "date": 1611066827344
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94018660bde3504d"
+      },
+      "id": "94018660bde3504d",
+      "type": "add",
+      "after": "23477f97027933b4",
+      "date": 1611066830213
+    },
+    {
+      "type": "edit",
+      "id": "94018660bde3504d",
+      "item": {
+        "type": "markdown",
+        "id": "94018660bde3504d",
+        "text": "- https://lrs.io/ui/lrs/sample-lrs-budhujk/xapilab/6005dbfa31388e22f4c47f56/page/"
+      },
+      "date": 1611066832938
+    },
+    {
+      "type": "edit",
+      "id": "94018660bde3504d",
+      "item": {
+        "type": "markdown",
+        "id": "94018660bde3504d",
+        "text": "- Getting Started - [https://lrs.io/ui/lrs/sample-lrs-budhujk/getStarted/ lrs.io]\n- https://lrs.io/ui/lrs/sample-lrs-budhujk/xapilab/6005dbfa31388e22f4c47f56/page/"
+      },
+      "date": 1611066877680
+    },
+    {
+      "type": "edit",
+      "id": "94018660bde3504d",
+      "item": {
+        "type": "markdown",
+        "id": "94018660bde3504d",
+        "text": "- Getting Started - [https://lrs.io/ui/lrs/sample-lrs-budhujk/getStarted/ lrs.io]\n- xApiLab - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xapilab/6005dbfa31388e22f4c47f56/page/ lrs.io]"
+      },
+      "date": 1611066921690
+    },
+    {
+      "type": "edit",
+      "id": "94018660bde3504d",
+      "item": {
+        "type": "markdown",
+        "id": "94018660bde3504d",
+        "text": "- Getting Started - [https://lrs.io/ui/lrs/sample-lrs-budhujk/getStarted/ lrs.io]\n- Tutorial - Integrating xAPI in Web Content\n- xApiLab - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xapilab/6005dbfa31388e22f4c47f56/page/ lrs.io]"
+      },
+      "date": 1611066947748
+    },
+    {
+      "type": "edit",
+      "id": "94018660bde3504d",
+      "item": {
+        "type": "markdown",
+        "id": "94018660bde3504d",
+        "text": "- Getting Started - [https://lrs.io/ui/lrs/sample-lrs-budhujk/getStarted/ lrs.io]\n- Tutorial - Integrating xAPI in Web Content - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xAPIinWebContent/ lrs.io]\n- xApiLab - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xapilab/6005dbfa31388e22f4c47f56/page/ lrs.io]"
+      },
+      "date": 1611066968098
+    },
+    {
+      "type": "edit",
+      "id": "94018660bde3504d",
+      "item": {
+        "type": "markdown",
+        "id": "94018660bde3504d",
+        "text": "- Getting Started - [https://lrs.io/ui/lrs/sample-lrs-budhujk/getStarted/ lrs.io]\n- Tutorial - Integrating xAPI in Web Content - [https://lrs.io/ui/lrs/sample-lrs-\n"
+      },
+      "date": 1611066995518
+    },
+    {
+      "type": "edit",
+      "id": "94018660bde3504d",
+      "item": {
+        "type": "markdown",
+        "id": "94018660bde3504d",
+        "text": "- Getting Started - [https://lrs.io/ui/lrs/sample-lrs-budhujk/getStarted/ lrs.io]\n- Tutorial - Integrating xAPI in Web Content - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xAPIinWebContent/ lrs.io]\n"
+      },
+      "date": 1611067012325
+    },
+    {
+      "type": "add",
+      "id": "1d2fdca279cf57fb",
+      "item": {
+        "type": "markdown",
+        "id": "1d2fdca279cf57fb",
+        "text": "- LRS API - [https://lrs.io/docs/manual/api/ lrs.io]\n- xApiLab - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xapilab/6005dbfa31388e22f4c47f56/page/ lrs.io]"
+      },
+      "after": "94018660bde3504d",
+      "date": 1611067026434
+    },
+    {
+      "id": "1d2fdca279cf57fb",
+      "type": "move",
+      "order": [
+        "23477f97027933b4",
+        "1d2fdca279cf57fb",
+        "94018660bde3504d"
+      ],
+      "date": 1611067028603
+    },
+    {
+      "type": "edit",
+      "id": "94018660bde3504d",
+      "item": {
+        "type": "markdown",
+        "id": "94018660bde3504d",
+        "text": "# Tutorial\n"
+      },
+      "date": 1611067036050
+    },
+    {
+      "type": "add",
+      "id": "d7d96768fbc2188c",
+      "item": {
+        "type": "markdown",
+        "id": "d7d96768fbc2188c",
+        "text": "- Getting Started - [https://lrs.io/ui/lrs/sample-lrs-budhujk/getStarted/ lrs.io]\n- Tutorial - Integrating xAPI in Web Content - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xAPIinWebContent/ lrs.io]\n"
+      },
+      "after": "94018660bde3504d",
+      "date": 1611067036989
+    },
+    {
+      "type": "edit",
+      "id": "1d2fdca279cf57fb",
+      "item": {
+        "type": "markdown",
+        "id": "1d2fdca279cf57fb",
+        "text": "# API\n"
+      },
+      "date": 1611067041814
+    },
+    {
+      "type": "add",
+      "id": "eed3658c91ef8a0c",
+      "item": {
+        "type": "markdown",
+        "id": "eed3658c91ef8a0c",
+        "text": "- LRS API - [https://lrs.io/docs/manual/api/ lrs.io]\n- xApiLab - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xapilab/6005dbfa31388e22f4c47f56/page/ lrs.io]"
+      },
+      "after": "1d2fdca279cf57fb",
+      "date": 1611067042276
+    },
+    {
+      "id": "94018660bde3504d",
+      "type": "move",
+      "order": [
+        "23477f97027933b4",
+        "94018660bde3504d",
+        "1d2fdca279cf57fb",
+        "eed3658c91ef8a0c",
+        "d7d96768fbc2188c"
+      ],
+      "date": 1611067045319
+    },
+    {
+      "id": "d7d96768fbc2188c",
+      "type": "move",
+      "order": [
+        "23477f97027933b4",
+        "94018660bde3504d",
+        "d7d96768fbc2188c",
+        "1d2fdca279cf57fb",
+        "eed3658c91ef8a0c"
+      ],
+      "date": 1611067046933
+    },
+    {
+      "type": "edit",
+      "id": "23477f97027933b4",
+      "item": {
+        "type": "markdown",
+        "id": "23477f97027933b4",
+        "text": "Welcome to the Veracity Learning LRS Users Manual. This page should give you everything you need to get started using the tool. We're working hard to document all the features and functions of the LRS, plus add tips and tricks, explanations, and caveats to help you get the most our of the software.\n\nIn addition to this documentation, you can learn through our interactive tutorials. Check them out!\n\nGetting Started - A quick overview to setting up an LRS.\nSupporting xAPI Launch - Use xAPI Launch in your content.\nUsing xAPI in Web Content - Learn how to integrate xAPI into a web app."
+      },
+      "date": 1611067120784
+    },
+    {
+      "type": "edit",
+      "id": "23477f97027933b4",
+      "item": {
+        "type": "markdown",
+        "id": "23477f97027933b4",
+        "text": "Welcome to the Veracity Learning LRS Users Manual. This page should give you everything you need to get started using the tool. We're working hard to document all the features and functions of the LRS, plus add tips and tricks, explanations, and caveats to help you get the most our of the software.\n"
+      },
+      "date": 1611067135914
+    },
+    {
+      "type": "add",
+      "id": "32cb1d1a649990fa",
+      "item": {
+        "type": "markdown",
+        "id": "32cb1d1a649990fa",
+        "text": "- Getting Started - A quick overview to setting up an LRS.\n- Supporting xAPI Launch - Use xAPI Launch in your content.\n- Using xAPI in Web Content - Learn how to integrate xAPI into a web app."
+      },
+      "after": "23477f97027933b4",
+      "date": 1611067148367
+    },
+    {
+      "id": "32cb1d1a649990fa",
+      "type": "move",
+      "order": [
+        "23477f97027933b4",
+        "94018660bde3504d",
+        "32cb1d1a649990fa",
+        "d7d96768fbc2188c",
+        "1d2fdca279cf57fb",
+        "eed3658c91ef8a0c"
+      ],
+      "date": 1611067150775
+    },
+    {
+      "type": "remove",
+      "id": "d7d96768fbc2188c",
+      "date": 1611067157744
+    },
+    {
+      "type": "edit",
+      "id": "32cb1d1a649990fa",
+      "item": {
+        "type": "markdown",
+        "id": "32cb1d1a649990fa",
+        "text": "- Getting Started - [https://lrs.io/ui/lrs/sample-lrs-budhujk/getStarted/ lrs.io]\n- Supporting xAPI Launch - Use xAPI Launch in your content\n- Tutorial - Integrating xAPI in Web Content - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xAPIinWebContent/ lrs.io]"
+      },
+      "date": 1611067181546
+    },
+    {
+      "type": "edit",
+      "id": "32cb1d1a649990fa",
+      "item": {
+        "type": "markdown",
+        "id": "32cb1d1a649990fa",
+        "text": "- Getting Started - [https://lrs.io/ui/lrs/sample-lrs-budhujk/getStarted/ lrs.io]\n- Use xAPI Launch in your content\n- Tutorial - Integrating xAPI in Web Content - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xAPIinWebContent/ lrs.io]"
+      },
+      "date": 1611067189235
+    },
+    {
+      "type": "edit",
+      "id": "32cb1d1a649990fa",
+      "item": {
+        "type": "markdown",
+        "id": "32cb1d1a649990fa",
+        "text": "- Getting Started - [https://lrs.io/ui/lrs/sample-lrs-budhujk/getStarted/ lrs.io]\n- Use xAPI Launch in your content - [https://lrs.io/ui/lrs/supportingXAPILaunch/ lrs.io]\n- Tutorial - Integrating xAPI in Web Content - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xAPIinWebContent/ lrs.io]"
+      },
+      "date": 1611067221401
+    },
+    {
+      "type": "add",
+      "id": "9369931c2d0359cc",
+      "item": {
+        "type": "markdown",
+        "id": "9369931c2d0359cc",
+        "text": "Veracity Learning has many tools, features, and functions that users can exercise. While many of these features are available through the user interface, you may wish to automate some of the functionality of your LRS. You can accomplish this via the LRS API. Don't confuse this with the xAPI - the LRS API is not for collection learner performance data. Instead, you can use the LRS API to create and remove learners, lessons, and other data objects in the system, or to launch content."
+      },
+      "after": "1d2fdca279cf57fb",
+      "date": 1611067253442
+    },
+    {
+      "type": "edit",
+      "id": "9369931c2d0359cc",
+      "item": {
+        "type": "markdown",
+        "id": "9369931c2d0359cc",
+        "text": "Veracity Learning has many tools, features, and functions that users can exercise. While many of these features are available through the user interface, you may wish to automate some of the functionality of your LRS. \n"
+      },
+      "date": 1611067259663
+    },
+    {
+      "type": "add",
+      "id": "1bcebad05940f000",
+      "item": {
+        "type": "markdown",
+        "id": "1bcebad05940f000",
+        "text": "You can accomplish this via the LRS API. Don't confuse this with the xAPI - the LRS API is not for collection learner performance data. Instead, you can use the LRS API to create and remove learners, lessons, and other data objects in the system, or to launch content."
+      },
+      "after": "9369931c2d0359cc",
+      "date": 1611067260015
+    },
+    {
+      "id": "1bcebad05940f000",
+      "type": "move",
+      "order": [
+        "23477f97027933b4",
+        "94018660bde3504d",
+        "32cb1d1a649990fa",
+        "1d2fdca279cf57fb",
+        "9369931c2d0359cc",
+        "eed3658c91ef8a0c",
+        "1bcebad05940f000"
+      ],
+      "date": 1611067262166
+    },
+    {
+      "type": "edit",
+      "id": "1d2fdca279cf57fb",
+      "item": {
+        "type": "markdown",
+        "id": "1d2fdca279cf57fb",
+        "text": "# LRS.io API\n"
+      },
+      "date": 1611067312887
+    },
+    {
+      "id": "1bcebad05940f000",
+      "type": "move",
+      "order": [
+        "23477f97027933b4",
+        "94018660bde3504d",
+        "32cb1d1a649990fa",
+        "1d2fdca279cf57fb",
+        "9369931c2d0359cc",
+        "1bcebad05940f000",
+        "eed3658c91ef8a0c"
+      ],
+      "date": 1611067331037
+    },
+    {
+      "type": "edit",
+      "id": "1d2fdca279cf57fb",
+      "item": {
+        "type": "markdown",
+        "id": "1d2fdca279cf57fb",
+        "text": "# LRS API\n"
+      },
+      "date": 1611067357284
+    },
+    {
+      "type": "edit",
+      "id": "eed3658c91ef8a0c",
+      "item": {
+        "type": "markdown",
+        "id": "eed3658c91ef8a0c",
+        "text": "- LRS API - [https://lrs.io/docs/manual/api/ lrs.io]\n\n"
+      },
+      "date": 1611067360323
+    },
+    {
+      "type": "add",
+      "id": "d2931ad0303b333d",
+      "item": {
+        "type": "markdown",
+        "id": "d2931ad0303b333d",
+        "text": "# xAPI\n- xApiLab - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xapilab/6005dbfa31388e22f4c47f56/page/ lrs.io]"
+      },
+      "after": "eed3658c91ef8a0c",
+      "date": 1611067381374
+    },
+    {
+      "type": "add",
+      "id": "16b6013bd3286858",
+      "item": {
+        "type": "markdown",
+        "id": "16b6013bd3286858",
+        "text": "- https://lrs.io/docs/manual/api/"
+      },
+      "after": "9369931c2d0359cc",
+      "date": 1611067556706
+    },
+    {
+      "id": "eed3658c91ef8a0c",
+      "type": "move",
+      "order": [
+        "23477f97027933b4",
+        "94018660bde3504d",
+        "32cb1d1a649990fa",
+        "1d2fdca279cf57fb",
+        "9369931c2d0359cc",
+        "16b6013bd3286858",
+        "eed3658c91ef8a0c",
+        "1bcebad05940f000",
+        "d2931ad0303b333d"
+      ],
+      "date": 1611067565308
+    },
+    {
+      "type": "remove",
+      "id": "16b6013bd3286858",
+      "date": 1611067576619
+    },
+    {
+      "type": "edit",
+      "id": "d2931ad0303b333d",
+      "item": {
+        "type": "markdown",
+        "id": "d2931ad0303b333d",
+        "text": "# xAPI\n"
+      },
+      "date": 1611067626899
+    },
+    {
+      "type": "add",
+      "id": "15f9ff5d12f45f97",
+      "item": {
+        "type": "markdown",
+        "id": "15f9ff5d12f45f97",
+        "text": "XAPI ACCESS KEYS\nxAPI requires you to use HTTP Basic Authentication when sending data or querying the LRS. Don't use your LRS.IO name and password - these credentials will not connect to an LRS. You'll need to allocate \"Access Keys\" to create a username/password pair to connect to the LRS. You can create multiple keys - don't feel like you must have just one. A common pattern is to create keys for each different learning record provider that might send data to your LRS. You can also allocate keys for each learner, or organization.... it's really up to you how you use them. Still, you must have at least one.\n"
+      },
+      "after": "d2931ad0303b333d",
+      "date": 1611067628757
+    },
+    {
+      "type": "add",
+      "id": "45da6a6382284e87",
+      "item": {
+        "type": "markdown",
+        "id": "45da6a6382284e87",
+        "text": "- xApiLab - [https://lrs.io/ui/lrs/sample-lrs-budhujk/xapilab/6005dbfa31388e22f4c47f56/page/ lrs.io]"
+      },
+      "after": "15f9ff5d12f45f97",
+      "date": 1611067630272
+    },
+    {
+      "type": "edit",
+      "id": "15f9ff5d12f45f97",
+      "item": {
+        "type": "markdown",
+        "id": "15f9ff5d12f45f97",
+        "text": "# xAPI Access Keys\n"
+      },
+      "date": 1611067645238
+    },
+    {
+      "type": "add",
+      "id": "3f9639b1073df5b2",
+      "item": {
+        "type": "markdown",
+        "id": "3f9639b1073df5b2",
+        "text": "xAPI requires you to use HTTP Basic Authentication when sending data or querying the LRS. Don't use your LRS.IO name and password - these credentials will not connect to an LRS. \n"
+      },
+      "after": "15f9ff5d12f45f97",
+      "date": 1611067648816
+    },
+    {
+      "type": "add",
+      "id": "9bb1f54bf4e96696",
+      "item": {
+        "type": "markdown",
+        "id": "9bb1f54bf4e96696",
+        "text": "You'll need to allocate \"Access Keys\" to create a username/password pair to connect to the LRS. You can create multiple keys - don't feel like you must have just one. \n"
+      },
+      "after": "3f9639b1073df5b2",
+      "date": 1611067652830
+    },
+    {
+      "type": "add",
+      "id": "8dfbe47a75ebbf1a",
+      "item": {
+        "type": "markdown",
+        "id": "8dfbe47a75ebbf1a",
+        "text": "A common pattern is to create keys for each different learning record provider that might send data to your LRS. You can also allocate keys for each learner, or organization.... it's really up to you how you use them. Still, you must have at least one.\n"
+      },
+      "after": "9bb1f54bf4e96696",
+      "date": 1611067655692
+    },
+    {
+      "id": "45da6a6382284e87",
+      "type": "move",
+      "order": [
+        "23477f97027933b4",
+        "94018660bde3504d",
+        "32cb1d1a649990fa",
+        "1d2fdca279cf57fb",
+        "9369931c2d0359cc",
+        "eed3658c91ef8a0c",
+        "1bcebad05940f000",
+        "d2931ad0303b333d",
+        "45da6a6382284e87",
+        "15f9ff5d12f45f97",
+        "3f9639b1073df5b2",
+        "9bb1f54bf4e96696",
+        "8dfbe47a75ebbf1a"
+      ],
+      "date": 1611067661889
+    }
+  ]
+}
