@@ -40,6 +40,26 @@
       "type": "markdown",
       "id": "8ea85e5ea18cf8f8",
       "text": "The plan is in early stages but has the following components:\n\n- Feb-April 2021 xAPI Cohort Hack"
+    },
+    {
+      "type": "video",
+      "id": "db900e783a8a55dd",
+      "text": "YOUTUBE lsYOzbOofd8\nHow to add [[SCORM]], [[xAPI]], and [[LRS]] Support to your [[WordPress]] LMS Website to deliver interactive content.\n"
+    },
+    {
+      "type": "video",
+      "id": "fb8cdd3ff93f86ad",
+      "text": "YOUTUBE TgZPJWpY79g\n[[xAPI]] Content on [[Moodle]] LMS - Upload and Track"
+    },
+    {
+      "type": "markdown",
+      "id": "3b67ccf54e373e99",
+      "text": "# See also\n"
+    },
+    {
+      "type": "markdown",
+      "id": "a92f9cfb28e6a66c",
+      "text": "- [[LRS.io]]\n- [[Lifter LMS]]\n- Moodle Xapi Plugin - [https://moodle.org/plugins/mod_tincanlaunch moodle.org]\n- Glassblade xAPI Companion - [https://www.nextsoftwaresolutions.com/cart/ nextsoftwaresolutions.com]\n- Glassblade LRS - [https://www.nextsoftwaresolutions.com/grassblade-lrs-experience-api/ nextsoftwaresolutions.com]"
     }
   ],
   "journal": [
@@ -196,6 +216,147 @@
       },
       "after": "ad6330b339e41eac",
       "date": 1611047960248
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "db900e783a8a55dd"
+      },
+      "id": "db900e783a8a55dd",
+      "type": "add",
+      "after": "8ea85e5ea18cf8f8",
+      "date": 1611066051741
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fb8cdd3ff93f86ad"
+      },
+      "id": "fb8cdd3ff93f86ad",
+      "type": "add",
+      "after": "db900e783a8a55dd",
+      "date": 1611066053077
+    },
+    {
+      "type": "edit",
+      "id": "db900e783a8a55dd",
+      "item": {
+        "type": "video",
+        "id": "db900e783a8a55dd",
+        "text": "YOUTUBE lsYOzbOofd8\n(double-click to edit caption)\n"
+      },
+      "date": 1611066059419
+    },
+    {
+      "type": "edit",
+      "id": "db900e783a8a55dd",
+      "item": {
+        "type": "video",
+        "id": "db900e783a8a55dd",
+        "text": "YOUTUBE lsYOzbOofd8\nHow to add [[SCORM]], [[xAPI]], and [[LRS]] Support to your [[WordPress]] LMS Website to deliver interactive content.\n"
+      },
+      "date": 1611066118217
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3b67ccf54e373e99"
+      },
+      "id": "3b67ccf54e373e99",
+      "type": "add",
+      "after": "fb8cdd3ff93f86ad",
+      "date": 1611066163648
+    },
+    {
+      "type": "edit",
+      "id": "3b67ccf54e373e99",
+      "item": {
+        "type": "markdown",
+        "id": "3b67ccf54e373e99",
+        "text": "# See also\n"
+      },
+      "date": 1611066169844
+    },
+    {
+      "type": "add",
+      "id": "a92f9cfb28e6a66c",
+      "item": {
+        "type": "markdown",
+        "id": "a92f9cfb28e6a66c",
+        "text": "- [[Lifter LMS]]"
+      },
+      "after": "3b67ccf54e373e99",
+      "date": 1611066175083
+    },
+    {
+      "type": "edit",
+      "id": "fb8cdd3ff93f86ad",
+      "item": {
+        "type": "video",
+        "id": "fb8cdd3ff93f86ad",
+        "text": "YOUTUBE TgZPJWpY79g\n(double-click to edit caption)\n"
+      },
+      "date": 1611066402714
+    },
+    {
+      "type": "edit",
+      "id": "fb8cdd3ff93f86ad",
+      "item": {
+        "type": "video",
+        "id": "fb8cdd3ff93f86ad",
+        "text": "YOUTUBE TgZPJWpY79g\nxAPI Content on [[Moodle]] LMS - Upload and Track"
+      },
+      "date": 1611066422027
+    },
+    {
+      "type": "edit",
+      "id": "fb8cdd3ff93f86ad",
+      "item": {
+        "type": "video",
+        "id": "fb8cdd3ff93f86ad",
+        "text": "YOUTUBE TgZPJWpY79g\n[[xAPI]] Content on [[Moodle]] LMS - Upload and Track"
+      },
+      "date": 1611066430600
+    },
+    {
+      "type": "edit",
+      "id": "a92f9cfb28e6a66c",
+      "item": {
+        "type": "markdown",
+        "id": "a92f9cfb28e6a66c",
+        "text": "- [[Lifter LMS]]\n- Moodle Xapi Plugin - [https://moodle.org/plugins/mod_tincanlaunch moodle.org]"
+      },
+      "date": 1611066576375
+    },
+    {
+      "type": "edit",
+      "id": "a92f9cfb28e6a66c",
+      "item": {
+        "type": "markdown",
+        "id": "a92f9cfb28e6a66c",
+        "text": "- [[Lifter LMS]]\n- Moodle Xapi Plugin - [https://moodle.org/plugins/mod_tincanlaunch moodle.org]\n- Glassblade LRS - [https://www.nextsoftwaresolutions.com/grassblade-lrs-experience-api/ nextsoftwaresolutions.com]"
+      },
+      "date": 1611066749061
+    },
+    {
+      "type": "edit",
+      "id": "a92f9cfb28e6a66c",
+      "item": {
+        "type": "markdown",
+        "id": "a92f9cfb28e6a66c",
+        "text": "- [[Lifter LMS]]\n- Moodle Xapi Plugin - [https://moodle.org/plugins/mod_tincanlaunch moodle.org]\n- Glassblade xAPI Companion - [https://www.nextsoftwaresolutions.com/cart/ nextsoftwaresolutions.com]\n- Glassblade LRS - [https://www.nextsoftwaresolutions.com/grassblade-lrs-experience-api/ nextsoftwaresolutions.com]"
+      },
+      "date": 1611066783184
+    },
+    {
+      "type": "edit",
+      "id": "a92f9cfb28e6a66c",
+      "item": {
+        "type": "markdown",
+        "id": "a92f9cfb28e6a66c",
+        "text": "- [[LRS.io]]\n- [[Lifter LMS]]\n- Moodle Xapi Plugin - [https://moodle.org/plugins/mod_tincanlaunch moodle.org]\n- Glassblade xAPI Companion - [https://www.nextsoftwaresolutions.com/cart/ nextsoftwaresolutions.com]\n- Glassblade LRS - [https://www.nextsoftwaresolutions.com/grassblade-lrs-experience-api/ nextsoftwaresolutions.com]"
+      },
+      "date": 1611066820528
     }
   ]
 }
