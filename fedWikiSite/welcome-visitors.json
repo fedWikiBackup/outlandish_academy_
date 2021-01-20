@@ -356,6 +356,48 @@
       "id": "6ab8ad95-9fa2-4524-8ade-0b2b292746fc",
       "type": "remove",
       "date": 1610881764144
+    },
+    {
+      "type": "edit",
+      "id": "ea90a7040f620632",
+      "item": {
+        "text": "We have started a group that meets [[Every Wednesday]], where we have decided to research the following subjects or perhaps we should call them projects:\n\n- [[Teaching Space]]s for [[Future Law]]\n- [[World Climate School Platform]]\n- [[Experience API]]\n- [[Outlandish Methodology]]\n- [[Writing with Strangers]]",
+        "id": "ea90a7040f620632",
+        "type": "markdown"
+      },
+      "date": 1611137128160
+    },
+    {
+      "type": "edit",
+      "id": "2a4e58e69ac96383",
+      "item": {
+        "text": "# Activity\n",
+        "id": "2a4e58e69ac96383",
+        "type": "markdown"
+      },
+      "date": 1611138110967
+    },
+    {
+      "type": "add",
+      "id": "65994ec54d754da8",
+      "item": {
+        "type": "markdown",
+        "id": "65994ec54d754da8",
+        "text": "- [[Inger-Mette Stenseth Activity]]\n"
+      },
+      "after": "2a4e58e69ac96383",
+      "date": 1611138114330
+    },
+    {
+      "type": "add",
+      "id": "9542f4bd9b6af4c1",
+      "item": {
+        "type": "markdown",
+        "id": "9542f4bd9b6af4c1",
+        "text": "  \n- [[Tools]] and [[Activity]]\n- [[Changes to this Site]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
+      },
+      "after": "65994ec54d754da8",
+      "date": 1611138114855
     }
   ],
   "title": "Welcome Visitors",
@@ -371,7 +413,7 @@
       "type": "markdown"
     },
     {
-      "text": "We have started a group that meets [[Every Wednesday]], where we have decided to research the following subjects or perhaps we should call them projects:\n\n- [[Teaching Space]]s for [[Future Law]]\n- [[Experience API]]\n- [[Outlandish Methodology]]\n- [[Writing with Strangers]]",
+      "text": "We have started a group that meets [[Every Wednesday]], where we have decided to research the following subjects or perhaps we should call them projects:\n\n- [[Teaching Space]]s for [[Future Law]]\n- [[World Climate School Platform]]\n- [[Experience API]]\n- [[Outlandish Methodology]]\n- [[Writing with Strangers]]",
       "id": "ea90a7040f620632",
       "type": "markdown"
     },
@@ -381,9 +423,19 @@
       "type": "markdown"
     },
     {
-      "text": "# Activity\n  \n- [[Tools]] and [[Activity]]\n- [[Changes to this Site]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]",
+      "text": "# Activity\n",
       "id": "2a4e58e69ac96383",
       "type": "markdown"
+    },
+    {
+      "type": "markdown",
+      "id": "65994ec54d754da8",
+      "text": "- [[Inger-Mette Stenseth Activity]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "9542f4bd9b6af4c1",
+      "text": "  \n- [[Tools]] and [[Activity]]\n- [[Changes to this Site]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
     },
     {
       "text": "NEIGHBORHOOD no\nNARRATIVE\nSINCE 5 days",
