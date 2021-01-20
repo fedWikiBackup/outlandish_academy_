@@ -18,6 +18,11 @@
     },
     {
       "type": "markdown",
+      "id": "d5b37d41164dbf0a",
+      "text": "- https://wordpress.org/plugins/grassblade-xapi-lifterlms/"
+    },
+    {
+      "type": "markdown",
       "id": "cfe65aa95cc299a0",
       "text": " This plugin enables the [[Experience API]] (xAPI / Tin Can) , SCORM 1.2 and SCORM 2004 support on the Lifter LMS by integrating with GrassBlade xAPI Companion plugin.\n"
     },
@@ -267,6 +272,17 @@
         "62a91c391a6d9270"
       ],
       "date": 1611066383835
+    },
+    {
+      "type": "add",
+      "id": "d5b37d41164dbf0a",
+      "item": {
+        "type": "markdown",
+        "id": "d5b37d41164dbf0a",
+        "text": "- https://wordpress.org/plugins/grassblade-xapi-lifterlms/"
+      },
+      "after": "d8707cbf97445513",
+      "date": 1611136335594
     }
   ]
 }
