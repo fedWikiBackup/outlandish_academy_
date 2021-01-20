@@ -2469,7 +2469,7 @@
   {
     "slug": "lifter-lms",
     "title": "Lifter LMS",
-    "date": 1611066383835,
+    "date": 1611136335594,
     "synopsis": "Combine [[Lifter LMS]] (WordPress LMS plugin) with [[GrassBlade]] to deliver SCORM and [[XAPI]] interactive elearning content.",
     "links": {
       "lifter-lms": "090f349ccead9b72",
@@ -2486,5 +2486,16 @@
     "title": "LRS.io",
     "date": 1611067661889,
     "synopsis": "Welcome to the Veracity Learning LRS Users Manual. This page should give you everything you need to get started using the tool. We're working hard to document all the features and functions of the LRS, plus add tips and tricks, explanations, and caveats to help you get the most our of the software."
+  },
+  {
+    "slug": "grassblade",
+    "title": "GrassBlade",
+    "date": 1611136961516,
+    "synopsis": "Glassblade provides an easy a suite of tools that make integrating various elements of a modern learning management solution (LMS) interoperate around modern standards like the experience api ([[xAPI]]).",
+    "links": {
+      "xapi": "550de57eab512f55",
+      "glassblade": "8ec1badd5520e8d0",
+      "lrs": "8ec1badd5520e8d0"
+    }
   }
 ]
