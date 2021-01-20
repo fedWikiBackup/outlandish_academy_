@@ -1,0 +1,272 @@
+{
+  "title": "GrassBlade",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "550de57eab512f55",
+      "text": "Glassblade provides an easy a suite of tools that make integrating various elements of a modern learning management solution (LMS) interoperate around modern standards like the experience api ([[xAPI]]).\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b7a127735ae7b0f8",
+      "text": "- https://wordpress.org/plugins/grassblade-xapi-lifterlms/"
+    },
+    {
+      "type": "markdown",
+      "id": "d075bc9412323c33",
+      "text": "# xAPI & SCORM Solution for WordPress\n"
+    },
+    {
+      "type": "markdown",
+      "id": "24aecce1df418dc6",
+      "text": "A powerful WordPress plugin, lets you upload and host xAPI and SCORM Content on a WordPress website in multiple ways. Connect it with GrassBlade Cloud LRS or any other LRS to get tracking data instantly.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d7b702396b824b55",
+      "text": "The robust Grassblade xAPI Companion plugin is known for integrating seamlessly with a variety of learning technology and popular tools in your business and eLearning ecosystem keeping in mind the future potential.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d077140fb63b559e",
+      "text": "# GrassBlade Cloud LRS\n"
+    },
+    {
+      "type": "markdown",
+      "id": "8ec1badd5520e8d0",
+      "text": "[[Glassblade]] offers a good looking [[LRS]] with one instance starting from $12/mo. They do not offer a free tier or starter - [https://www.nextsoftwaresolutions.com/grassblade-lrs-experience-api/#pricing nextsoftwaresolutions.com]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b3d32e6e50497bd5",
+      "text": "the most interesting aspect is the focus on Wordpress and modern LRS and xAPI integration."
+    },
+    {
+      "type": "markdown",
+      "id": "83b054db40c53502",
+      "text": "- 5000 Statements/mo\n- Hosted & Managed\n- Zapier App Integration\n- LearnDash Integration\n- Rich Quiz Reporting\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "GrassBlade",
+        "story": []
+      },
+      "date": 1611136175651
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "550de57eab512f55"
+      },
+      "id": "550de57eab512f55",
+      "type": "add",
+      "date": 1611136176897
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d075bc9412323c33"
+      },
+      "id": "d075bc9412323c33",
+      "type": "add",
+      "after": "550de57eab512f55",
+      "date": 1611136376363
+    },
+    {
+      "type": "edit",
+      "id": "d075bc9412323c33",
+      "item": {
+        "type": "markdown",
+        "id": "d075bc9412323c33",
+        "text": "# xAPI & SCORM Solution for WordPress\n"
+      },
+      "date": 1611136384050
+    },
+    {
+      "type": "add",
+      "id": "24aecce1df418dc6",
+      "item": {
+        "type": "markdown",
+        "id": "24aecce1df418dc6",
+        "text": "A powerful WordPress plugin, lets you upload and host xAPI and SCORM Content on a WordPress website in multiple ways. Connect it with GrassBlade Cloud LRS or any other LRS to get tracking data instantly.\n"
+      },
+      "after": "d075bc9412323c33",
+      "date": 1611136386747
+    },
+    {
+      "type": "add",
+      "id": "d7b702396b824b55",
+      "item": {
+        "type": "markdown",
+        "id": "d7b702396b824b55",
+        "text": "The robust Grassblade xAPI Companion plugin is known for integrating seamlessly with a variety of learning technology and popular tools in your business and eLearning ecosystem keeping in mind the future potential."
+      },
+      "after": "24aecce1df418dc6",
+      "date": 1611136390403
+    },
+    {
+      "type": "edit",
+      "id": "550de57eab512f55",
+      "item": {
+        "type": "markdown",
+        "id": "550de57eab512f55",
+        "text": "Glassblade provides an easy a suite of tools that make integrating various elements of a modern learning management solution (LMS) interoperate around modern standards like the experience api )[[xAPI]]).\n"
+      },
+      "date": 1611136500006
+    },
+    {
+      "type": "edit",
+      "id": "550de57eab512f55",
+      "item": {
+        "type": "markdown",
+        "id": "550de57eab512f55",
+        "text": "Glassblade provides an easy a suite of tools that make integrating various elements of a modern learning management solution (LMS) interoperate around modern standards like the experience api ([[xAPI]]).\n"
+      },
+      "date": 1611136508057
+    },
+    {
+      "type": "edit",
+      "id": "d7b702396b824b55",
+      "item": {
+        "type": "markdown",
+        "id": "d7b702396b824b55",
+        "text": "The robust Grassblade xAPI Companion plugin is known for integrating seamlessly with a variety of learning technology and popular tools in your business and eLearning ecosystem keeping in mind the future potential.\n"
+      },
+      "date": 1611136570130
+    },
+    {
+      "type": "add",
+      "id": "d077140fb63b559e",
+      "item": {
+        "type": "markdown",
+        "id": "d077140fb63b559e",
+        "text": "# GrassBlade Cloud LRS\nfrom$144"
+      },
+      "after": "d7b702396b824b55",
+      "date": 1611136574952
+    },
+    {
+      "type": "edit",
+      "id": "d077140fb63b559e",
+      "item": {
+        "type": "markdown",
+        "id": "d077140fb63b559e",
+        "text": "# GrassBlade Cloud LRS\n\n"
+      },
+      "date": 1611136630786
+    },
+    {
+      "type": "add",
+      "id": "8b2ddf613a3cedf3",
+      "item": {
+        "type": "markdown",
+        "id": "8b2ddf613a3cedf3",
+        "text": "- Starting from $12/mo"
+      },
+      "after": "d077140fb63b559e",
+      "date": 1611136631625
+    },
+    {
+      "type": "edit",
+      "id": "8b2ddf613a3cedf3",
+      "item": {
+        "type": "markdown",
+        "id": "8b2ddf613a3cedf3",
+        "text": "- 1 Instance starting from $12/mo\n- 5000 Statements/mo\n- Hosted & Managed\n- Zapier App Integration\n- LearnDash Integration\n- Rich Quiz Reporting\n"
+      },
+      "date": 1611136675893
+    },
+    {
+      "type": "add",
+      "id": "b7a127735ae7b0f8",
+      "item": {
+        "type": "markdown",
+        "id": "b7a127735ae7b0f8",
+        "text": "- https://wordpress.org/plugins/grassblade-xapi-lifterlms/"
+      },
+      "after": "550de57eab512f55",
+      "date": 1611136819518
+    },
+    {
+      "type": "edit",
+      "id": "8b2ddf613a3cedf3",
+      "item": {
+        "type": "markdown",
+        "id": "8b2ddf613a3cedf3",
+        "text": "- https://www.nextsoftwaresolutions.com/grassblade-lrs-experience-api/#pricing\n"
+      },
+      "date": 1611136832053
+    },
+    {
+      "type": "add",
+      "id": "83b054db40c53502",
+      "item": {
+        "type": "markdown",
+        "id": "83b054db40c53502",
+        "text": "- 1 Instance starting from $12/mo\n- 5000 Statements/mo\n- Hosted & Managed\n- Zapier App Integration\n- LearnDash Integration\n- Rich Quiz Reporting\n"
+      },
+      "after": "8b2ddf613a3cedf3",
+      "date": 1611136833304
+    },
+    {
+      "type": "edit",
+      "id": "83b054db40c53502",
+      "item": {
+        "type": "markdown",
+        "id": "83b054db40c53502",
+        "text": "- 5000 Statements/mo\n- Hosted & Managed\n- Zapier App Integration\n- LearnDash Integration\n- Rich Quiz Reporting\n"
+      },
+      "date": 1611136842545
+    },
+    {
+      "type": "edit",
+      "id": "d077140fb63b559e",
+      "item": {
+        "type": "markdown",
+        "id": "d077140fb63b559e",
+        "text": "# GrassBlade Cloud LRS\n"
+      },
+      "date": 1611136844730
+    },
+    {
+      "type": "add",
+      "id": "8ec1badd5520e8d0",
+      "item": {
+        "type": "markdown",
+        "id": "8ec1badd5520e8d0",
+        "text": "[[Glassblade]] offers a good looking [[LRS]] with one instance starting from $12/mo. They do not offer a free tier or starter.\n\n"
+      },
+      "after": "d077140fb63b559e",
+      "date": 1611136906168
+    },
+    {
+      "type": "remove",
+      "id": "8b2ddf613a3cedf3",
+      "date": 1611136908413
+    },
+    {
+      "type": "edit",
+      "id": "8ec1badd5520e8d0",
+      "item": {
+        "type": "markdown",
+        "id": "8ec1badd5520e8d0",
+        "text": "[[Glassblade]] offers a good looking [[LRS]] with one instance starting from $12/mo. They do not offer a free tier or starter - [https://www.nextsoftwaresolutions.com/grassblade-lrs-experience-api/#pricing nextsoftwaresolutions.com]\n"
+      },
+      "date": 1611136918977
+    },
+    {
+      "type": "add",
+      "id": "b3d32e6e50497bd5",
+      "item": {
+        "type": "markdown",
+        "id": "b3d32e6e50497bd5",
+        "text": "the most interesting aspect is the focus on Wordpress and modern LRS and xAPI integration."
+      },
+      "after": "8ec1badd5520e8d0",
+      "date": 1611136961516
+    }
+  ]
+}
