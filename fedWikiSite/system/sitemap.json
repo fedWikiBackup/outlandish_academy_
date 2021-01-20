@@ -2166,13 +2166,14 @@
   {
     "slug": "welcome-visitors",
     "title": "Welcome Visitors",
-    "date": 1610881764144,
+    "date": 1611138114855,
     "synopsis": "The [[Outlandish Academy]] is a P2P framework for creating online and offline learning experiences.",
     "links": {
       "outlandish-academy": "26bf9f9b663585b3",
       "every-wednesday": "ea90a7040f620632",
       "teaching-space": "ea90a7040f620632",
       "future-law": "ea90a7040f620632",
+      "world-climate-school-platform": "ea90a7040f620632",
       "experience-api": "ea90a7040f620632",
       "outlandish-methodology": "ea90a7040f620632",
       "writing-with-strangers": "ea90a7040f620632",
@@ -2182,10 +2183,11 @@
       "agile-teaching": "cb931681174bedc9",
       "nomadic-teaching": "cb931681174bedc9",
       "sustainable-learning-model": "cb931681174bedc9",
-      "tools": "2a4e58e69ac96383",
-      "activity": "2a4e58e69ac96383",
-      "changes-to-this-site": "2a4e58e69ac96383",
-      "drop-in": "2a4e58e69ac96383"
+      "inger-mette-stenseth-activity": "65994ec54d754da8",
+      "tools": "9542f4bd9b6af4c1",
+      "activity": "9542f4bd9b6af4c1",
+      "changes-to-this-site": "9542f4bd9b6af4c1",
+      "drop-in": "9542f4bd9b6af4c1"
     }
   },
   {
@@ -2469,7 +2471,7 @@
   {
     "slug": "lifter-lms",
     "title": "Lifter LMS",
-    "date": 1611136335594,
+    "date": 1611137140621,
     "synopsis": "Combine [[Lifter LMS]] (WordPress LMS plugin) with [[GrassBlade]] to deliver SCORM and [[XAPI]] interactive elearning content.",
     "links": {
       "lifter-lms": "090f349ccead9b72",
@@ -2477,8 +2479,7 @@
       "xapi": "090f349ccead9b72",
       "scorm": "7e266ec3f2bccb81",
       "lrs": "7e266ec3f2bccb81",
-      "wordpress": "7e266ec3f2bccb81",
-      "experience-api": "cfe65aa95cc299a0"
+      "wordpress": "7e266ec3f2bccb81"
     }
   },
   {
@@ -2490,12 +2491,39 @@
   {
     "slug": "grassblade",
     "title": "GrassBlade",
-    "date": 1611136961516,
+    "date": 1611137055460,
     "synopsis": "Glassblade provides an easy a suite of tools that make integrating various elements of a modern learning management solution (LMS) interoperate around modern standards like the experience api ([[xAPI]]).",
     "links": {
       "xapi": "550de57eab512f55",
+      "experience-api": "cfe65aa95cc299a0",
       "glassblade": "8ec1badd5520e8d0",
       "lrs": "8ec1badd5520e8d0"
+    }
+  },
+  {
+    "slug": "world-climate-school-platform",
+    "title": "World Climate School Platform",
+    "date": 1611137420773,
+    "synopsis": "We need a new platform for the [[World Climate school]].",
+    "links": {
+      "world-climate-school": "7aac5714939a5daf"
+    }
+  },
+  {
+    "slug": "inger-mette-stenseth-activity",
+    "title": "Inger-Mette Stenseth Activity",
+    "date": 1611138151798,
+    "synopsis": "Here we list all the sites we know of that concentrate on the technical and social aspects of writing in [[Federated Wiki]]. See [[Fedwiki Sites]] for a list of domains we use in the views below:",
+    "links": {
+      "federated-wiki": "2581edca1c3a105d",
+      "fedwiki-sites": "2581edca1c3a105d",
+      "inger-mette-stenseth-index": "f2e58789948ca8a6",
+      "inger-mette-stenseth-sites": "f2e58789948ca8a6",
+      "inger-mette-stenseth-recent-sites": "f2e58789948ca8a6",
+      "activity": "8ac5da9f5a523940",
+      "fedwiki-activity": "8ac5da9f5a523940",
+      "atopia-activity": "8ac5da9f5a523940",
+      "federation-activity": "8ac5da9f5a523940"
     }
   }
 ]
