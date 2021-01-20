@@ -1,0 +1,71 @@
+{
+  "title": "World Climate School Platform",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "7aac5714939a5daf",
+      "text": "We need a new platform for the [[World Climate school]]."
+    },
+    {
+      "type": "markdown",
+      "id": "8a7efc176d45bc96",
+      "text": "# What do you need?\n\n- LifterLMS plugin\n- GrassBlade xAPI Companion plugin\n- GrassBlade Cloud LRS (or GrassBlade LRS)\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "62a91c391a6d9270",
+      "text": "# What features do you get with this integration?\n\n- You can host content from several authoring tools.\n- Restrict progress till xAPI Content is completed\n- Completion based on xAPI Content\n- Use xAPI Content-based Quiz and its score in the reports.\n- Award Certificates based on completion of xAPI Content\n\n\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "World Climate School Platform",
+        "story": []
+      },
+      "date": 1611137131245
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7aac5714939a5daf"
+      },
+      "id": "7aac5714939a5daf",
+      "type": "add",
+      "date": 1611137132292
+    },
+    {
+      "id": "8a7efc176d45bc96",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "8a7efc176d45bc96",
+        "text": "# What do you need?\n\n- LifterLMS plugin\n- GrassBlade xAPI Companion plugin\n- GrassBlade Cloud LRS (or GrassBlade LRS)\n\n"
+      },
+      "after": "7aac5714939a5daf",
+      "date": 1611137135523
+    },
+    {
+      "id": "62a91c391a6d9270",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "62a91c391a6d9270",
+        "text": "# What features do you get with this integration?\n\n- You can host content from several authoring tools.\n- Restrict progress till xAPI Content is completed\n- Completion based on xAPI Content\n- Use xAPI Content-based Quiz and its score in the reports.\n- Award Certificates based on completion of xAPI Content\n\n\n"
+      },
+      "after": "8a7efc176d45bc96",
+      "date": 1611137140622
+    },
+    {
+      "type": "edit",
+      "id": "7aac5714939a5daf",
+      "item": {
+        "type": "markdown",
+        "id": "7aac5714939a5daf",
+        "text": "We need a new platform for the [[World Climate school]]."
+      },
+      "date": 1611137420773
+    }
+  ]
+}

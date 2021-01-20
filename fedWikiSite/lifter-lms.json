@@ -13,53 +13,8 @@
     },
     {
       "type": "markdown",
-      "id": "d8707cbf97445513",
-      "text": "The GrassBlade xAPI Companion allows you uploading and tracking of xAPI and SCORM Content from any authoring tool. Chris Badgett from LifterLMS and Pankaj Agrawal from GrassBlade discuss how to use their tools together.\n"
-    },
-    {
-      "type": "markdown",
-      "id": "d5b37d41164dbf0a",
-      "text": "- https://wordpress.org/plugins/grassblade-xapi-lifterlms/"
-    },
-    {
-      "type": "markdown",
-      "id": "cfe65aa95cc299a0",
-      "text": " This plugin enables the [[Experience API]] (xAPI / Tin Can) , SCORM 1.2 and SCORM 2004 support on the Lifter LMS by integrating with GrassBlade xAPI Companion plugin.\n"
-    },
-    {
-      "type": "markdown",
-      "id": "1a1dc70d77be3546",
-      "text": "# Tool support\nWhich authoring tools are supported:\n\n- H5P\n- Articulate Storyline\n- Articulate Rise\n- Articulate Studio\n- Articulate 360\n- Adobe Captivate\n- Lectora Inspire\n- Lectora Publisher\n- Lectora Online\n- iSpring Suite\n- Adapt Authoring Tool\n- iSpring Pro\n- DominKnow Claro\n\n"
-    },
-    {
-      "type": "markdown",
-      "id": "d65111ff28487340",
-      "text": "and more not listed here\n\n\n"
-    },
-    {
-      "type": "markdown",
-      "id": "c93515489fc95c08",
-      "text": "# Video\n"
-    },
-    {
-      "type": "markdown",
-      "id": "a44a3ade64947254",
-      "text": "Videos Supported with advanced video tracking:\n\n- YouTube\n- Vimeo\n- MP4 (self hosted or URL)\n- MP3 (self hosted or URL)\n\n\n"
-    },
-    {
-      "type": "markdown",
-      "id": "8a7efc176d45bc96",
-      "text": "# What do you need?\n\n- LifterLMS plugin\n- GrassBlade xAPI Companion plugin\n- GrassBlade Cloud LRS (or GrassBlade LRS)\n\n"
-    },
-    {
-      "type": "markdown",
       "id": "71c6fab167e4ffc5",
       "text": "The LRS, also known as the Learning Record Store, is optional if you are using content without any tracking.\n\n\n"
-    },
-    {
-      "type": "markdown",
-      "id": "62a91c391a6d9270",
-      "text": "# What features do you get with this integration?\n\n- You can host content from several authoring tools.\n- Restrict progress till xAPI Content is completed\n- Completion based on xAPI Content\n- Use xAPI Content-based Quiz and its score in the reports.\n- Award Certificates based on completion of xAPI Content\n\n\n"
     }
   ],
   "journal": [
@@ -283,6 +238,51 @@
       },
       "after": "d8707cbf97445513",
       "date": 1611136335594
+    },
+    {
+      "id": "d8707cbf97445513",
+      "type": "remove",
+      "date": 1611137019430
+    },
+    {
+      "id": "d5b37d41164dbf0a",
+      "type": "remove",
+      "date": 1611137024216
+    },
+    {
+      "id": "cfe65aa95cc299a0",
+      "type": "remove",
+      "date": 1611137027725
+    },
+    {
+      "id": "1a1dc70d77be3546",
+      "type": "remove",
+      "date": 1611137038998
+    },
+    {
+      "id": "c93515489fc95c08",
+      "type": "remove",
+      "date": 1611137045651
+    },
+    {
+      "id": "d65111ff28487340",
+      "type": "remove",
+      "date": 1611137048324
+    },
+    {
+      "id": "a44a3ade64947254",
+      "type": "remove",
+      "date": 1611137052102
+    },
+    {
+      "id": "8a7efc176d45bc96",
+      "type": "remove",
+      "date": 1611137135523
+    },
+    {
+      "id": "62a91c391a6d9270",
+      "type": "remove",
+      "date": 1611137140621
     }
   ]
 }

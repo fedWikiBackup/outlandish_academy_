@@ -23,8 +23,23 @@
     },
     {
       "type": "markdown",
+      "id": "d5b37d41164dbf0a",
+      "text": "- https://wordpress.org/plugins/grassblade-xapi-lifterlms/"
+    },
+    {
+      "type": "markdown",
       "id": "d7b702396b824b55",
       "text": "The robust Grassblade xAPI Companion plugin is known for integrating seamlessly with a variety of learning technology and popular tools in your business and eLearning ecosystem keeping in mind the future potential.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d8707cbf97445513",
+      "text": "The GrassBlade xAPI Companion allows you uploading and tracking of xAPI and SCORM Content from any authoring tool. Chris Badgett from LifterLMS and Pankaj Agrawal from GrassBlade discuss how to use their tools together.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "cfe65aa95cc299a0",
+      "text": " This plugin enables the [[Experience API]] (xAPI / Tin Can) , SCORM 1.2 and SCORM 2004 support on the Lifter LMS by integrating with GrassBlade xAPI Companion plugin.\n"
     },
     {
       "type": "markdown",
@@ -39,12 +54,27 @@
     {
       "type": "markdown",
       "id": "b3d32e6e50497bd5",
-      "text": "the most interesting aspect is the focus on Wordpress and modern LRS and xAPI integration."
+      "text": "The most interesting aspect of [[Glassblade]] services in general is the focus on Wordpress and modern LRS and xAPI integration."
     },
     {
       "type": "markdown",
       "id": "83b054db40c53502",
       "text": "- 5000 Statements/mo\n- Hosted & Managed\n- Zapier App Integration\n- LearnDash Integration\n- Rich Quiz Reporting\n"
+    },
+    {
+      "type": "markdown",
+      "id": "1a1dc70d77be3546",
+      "text": "# Tool support\nWhich authoring tools are supported:\n\n- H5P\n- Articulate Storyline\n- Articulate Rise\n- Articulate Studio\n- Articulate 360\n- Adobe Captivate\n- Lectora Inspire\n- Lectora Publisher\n- Lectora Online\n- iSpring Suite\n- Adapt Authoring Tool\n- iSpring Pro\n- DominKnow Claro\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d65111ff28487340",
+      "text": "and more not listed here\n\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "c93515489fc95c08",
+      "text": "# Video\nVideos Supported with advanced video tracking:\n\n- YouTube\n- Vimeo\n- MP4 (self hosted or URL)\n- MP3 (self hosted or URL)\n\n\n"
     }
   ],
   "journal": [
@@ -267,6 +297,108 @@
       },
       "after": "8ec1badd5520e8d0",
       "date": 1611136961516
+    },
+    {
+      "type": "edit",
+      "id": "b3d32e6e50497bd5",
+      "item": {
+        "type": "markdown",
+        "id": "b3d32e6e50497bd5",
+        "text": "The most interesting aspect of [[Glassblade]] services in general is the focus on Wordpress and modern LRS and xAPI integration."
+      },
+      "date": 1611136990845
+    },
+    {
+      "id": "d8707cbf97445513",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "d8707cbf97445513",
+        "text": "The GrassBlade xAPI Companion allows you uploading and tracking of xAPI and SCORM Content from any authoring tool. Chris Badgett from LifterLMS and Pankaj Agrawal from GrassBlade discuss how to use their tools together.\n"
+      },
+      "after": "d7b702396b824b55",
+      "date": 1611137019431
+    },
+    {
+      "id": "d5b37d41164dbf0a",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "d5b37d41164dbf0a",
+        "text": "- https://wordpress.org/plugins/grassblade-xapi-lifterlms/"
+      },
+      "after": "24aecce1df418dc6",
+      "date": 1611137024217
+    },
+    {
+      "id": "cfe65aa95cc299a0",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "cfe65aa95cc299a0",
+        "text": " This plugin enables the [[Experience API]] (xAPI / Tin Can) , SCORM 1.2 and SCORM 2004 support on the Lifter LMS by integrating with GrassBlade xAPI Companion plugin.\n"
+      },
+      "after": "d8707cbf97445513",
+      "date": 1611137027726
+    },
+    {
+      "id": "1a1dc70d77be3546",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "1a1dc70d77be3546",
+        "text": "# Tool support\nWhich authoring tools are supported:\n\n- H5P\n- Articulate Storyline\n- Articulate Rise\n- Articulate Studio\n- Articulate 360\n- Adobe Captivate\n- Lectora Inspire\n- Lectora Publisher\n- Lectora Online\n- iSpring Suite\n- Adapt Authoring Tool\n- iSpring Pro\n- DominKnow Claro\n\n"
+      },
+      "after": "83b054db40c53502",
+      "date": 1611137038999
+    },
+    {
+      "id": "c93515489fc95c08",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "c93515489fc95c08",
+        "text": "# Video\n"
+      },
+      "after": "1a1dc70d77be3546",
+      "date": 1611137045652
+    },
+    {
+      "id": "d65111ff28487340",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "d65111ff28487340",
+        "text": "and more not listed here\n\n\n"
+      },
+      "after": "1a1dc70d77be3546",
+      "date": 1611137048324
+    },
+    {
+      "id": "a44a3ade64947254",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "a44a3ade64947254",
+        "text": "Videos Supported with advanced video tracking:\n\n- YouTube\n- Vimeo\n- MP4 (self hosted or URL)\n- MP3 (self hosted or URL)\n\n\n"
+      },
+      "after": "c93515489fc95c08",
+      "date": 1611137052102
+    },
+    {
+      "type": "remove",
+      "id": "a44a3ade64947254",
+      "date": 1611137054056
+    },
+    {
+      "type": "edit",
+      "id": "c93515489fc95c08",
+      "item": {
+        "type": "markdown",
+        "id": "c93515489fc95c08",
+        "text": "# Video\nVideos Supported with advanced video tracking:\n\n- YouTube\n- Vimeo\n- MP4 (self hosted or URL)\n- MP3 (self hosted or URL)\n\n\n"
+      },
+      "date": 1611137055460
     }
   ]
 }

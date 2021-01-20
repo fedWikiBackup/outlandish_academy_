@@ -1,0 +1,131 @@
+{
+  "title": "Inger-Mette Stenseth Activity",
+  "story": [
+    {
+      "text": "Here we list all the sites we know of that concentrate on the technical and social aspects of writing in [[Federated Wiki]]. See [[Fedwiki Sites]] for a list of domains we use in the views below:",
+      "id": "2581edca1c3a105d",
+      "type": "paragraph"
+    },
+    {
+      "text": "- [[Inger-Mette Stenseth Index]]\n- [[Inger-Mette Stenseth (sites)]]\n- [[Inger-Mette Stenseth (recent sites)]]\n",
+      "id": "f2e58789948ca8a6",
+      "type": "markdown"
+    },
+    {
+      "type": "markdown",
+      "id": "18d6e4f68ffeb097",
+      "text": "# Roster"
+    },
+    {
+      "type": "roster",
+      "id": "1f033129150d6fd0",
+      "text": "ROSTER author.fedwiki.org/inger-mette-stenseth-sites"
+    },
+    {
+      "text": "ROSTER Inger-Mette Stenseth\nNEIGHBORHOOD no\n\nCONVERSATION",
+      "id": "e9e9f102158e1382",
+      "type": "activity"
+    },
+    {
+      "text": "# See also\n\n- [[Activity]]\n- [[Fedwiki Activity]]\n- [[Atopia Activity]]\n- [[Federation Activity]]",
+      "id": "8ac5da9f5a523940",
+      "type": "markdown"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Inger-Mette Stenseth Activity",
+        "story": [
+          {
+            "text": "Here we list all the sites we know of that concentrate on the technical and social aspects of writing in [[Federated Wiki]]. See [[Fedwiki Sites]] for a list of domains we use in the views below:",
+            "id": "2581edca1c3a105d",
+            "type": "paragraph"
+          },
+          {
+            "text": "- [[{{templateName}} Index]]\n- [[All {{templateName}} Activity]]\n- [[{{templateName}} Sites]]\n",
+            "id": "f2e58789948ca8a6",
+            "type": "markdown"
+          },
+          {
+            "type": "markdown",
+            "id": "18d6e4f68ffeb097",
+            "text": "# Roster"
+          },
+          {
+            "type": "roster",
+            "id": "1f033129150d6fd0",
+            "text": "{{templateName}}"
+          },
+          {
+            "text": "# Activity in the previous 4 weeks",
+            "id": "248583e6ef513c7d",
+            "type": "markdown"
+          },
+          {
+            "text": "ROSTER {{templateName}}\nNEIGHBORHOOD no\n\nCONVERSATION",
+            "id": "e9e9f102158e1382",
+            "type": "activity"
+          },
+          {
+            "text": "# See also\n\n- [[Activity]]\n- [[Fedwiki Activity]]\n- [[Atopia Activity]]\n- [[Federation Activity]]",
+            "id": "8ac5da9f5a523940",
+            "type": "markdown"
+          }
+        ]
+      },
+      "date": 1611137801797
+    },
+    {
+      "type": "edit",
+      "id": "f2e58789948ca8a6",
+      "item": {
+        "text": "- [[Inger-Mette Stenseth Index]]\n- [[Inger-Mette Stenseth (sites)]]\n- [[Inger-Mette Stenseth (recent sites)]]\n",
+        "id": "f2e58789948ca8a6",
+        "type": "markdown"
+      },
+      "date": 1611137865474
+    },
+    {
+      "type": "edit",
+      "id": "1f033129150d6fd0",
+      "item": {
+        "type": "roster",
+        "id": "1f033129150d6fd0",
+        "text": "ROSTER author.fedwiki.org/inger-mette-stenseth-sites"
+      },
+      "date": 1611137971653
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "text": "ROSTER Inger-Mette Stenseth\nNEIGHBORHOOD no\n\nCONVERSATION",
+        "id": "e9e9f102158e1382",
+        "type": "activity"
+      },
+      "date": 1611137985862
+    },
+    {
+      "type": "fork",
+      "site": "author.fedwiki.org",
+      "date": 1611138083379
+    },
+    {
+      "type": "edit",
+      "id": "248583e6ef513c7d",
+      "item": {
+        "text": "# Activity",
+        "id": "248583e6ef513c7d",
+        "type": "markdown"
+      },
+      "date": 1611138146713
+    },
+    {
+      "type": "remove",
+      "id": "248583e6ef513c7d",
+      "date": 1611138151798
+    }
+  ]
+}
