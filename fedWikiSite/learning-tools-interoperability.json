@@ -1,0 +1,207 @@
+{
+  "title": "Learning Tools Interoperability",
+  "journal": [
+    {
+      "date": 1611675259881,
+      "item": {
+        "title": "Learning Tools Interoperability",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1611675600152
+    },
+    {
+      "id": "f42a1ee1-59d8-4e6c-88ef-4f40cc841a36",
+      "type": "add",
+      "item": {
+        "id": "f42a1ee1-59d8-4e6c-88ef-4f40cc841a36",
+        "type": "markdown",
+        "text": "# Adoption"
+      },
+      "after": "3d94c3ee-d027-4786-8e76-1afaf82faba6",
+      "date": 1611675606759
+    },
+    {
+      "id": "9f3f18e4-0d30-4172-8f17-2b42f2db9acb",
+      "type": "add",
+      "item": {
+        "id": "9f3f18e4-0d30-4172-8f17-2b42f2db9acb",
+        "type": "markdown",
+        "text": "LTI has been adopted by many large educational content providers, including [[Pearson PLC]] and [[McGraw-Hill Education]] - [https://en.wikipedia.org/wiki/Learning_Tools_Interoperability#Adoption wikipedia]"
+      },
+      "after": "f42a1ee1-59d8-4e6c-88ef-4f40cc841a36",
+      "date": 1611675610840
+    },
+    {
+      "id": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "type": "add",
+      "item": {
+        "id": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+        "type": "markdown",
+        "text": "Popular Learning Management Systems, such as [[D2L]], [[Instructure]] Canvas, [[Blackboard Learn]], [[BenchPrep]], [[LAMS]], [[Sakai (software)]], [[Moodle]], and [[Open edX]] also support LTI."
+      },
+      "after": "9f3f18e4-0d30-4172-8f17-2b42f2db9acb",
+      "date": 1611675613592
+    },
+    {
+      "type": "edit",
+      "id": "3d94c3ee-d027-4786-8e76-1afaf82faba6",
+      "item": {
+        "id": "3d94c3ee-d027-4786-8e76-1afaf82faba6",
+        "type": "markdown",
+        "text": "__Learning Tools Interoperability__ (__LTI__) is an education technology specification developed by the [[IMS Global Learning Consortium]]. \n"
+      },
+      "date": 1611675619544
+    },
+    {
+      "type": "add",
+      "id": "ebc4445f9ff1cb86",
+      "item": {
+        "type": "markdown",
+        "id": "ebc4445f9ff1cb86",
+        "text": "It specifies a method for a learning system to invoke and to communicate with external systems. In the current version of the specification, v1.3, this is done using [[OAuth2]], [[OpenID Connect]], and [[JSON Web Token]]s. \n"
+      },
+      "after": "3d94c3ee-d027-4786-8e76-1afaf82faba6",
+      "date": 1611675626243
+    },
+    {
+      "type": "add",
+      "id": "ba7bf98c05b2447c",
+      "item": {
+        "type": "markdown",
+        "id": "ba7bf98c05b2447c",
+        "text": "For example, a [[Learning Management System]] (LMS) may use LTI to host course content and tools provided by external, third-party systems on a [[World Wide Web]] site, without requiring a learner to log in separately on the external systems, with information about the learner and the learning context shared by the LMS with the external systems - [https://en.wikipedia.org/wiki/Learning_Tools_Interoperability wikipedia]"
+      },
+      "after": "ebc4445f9ff1cb86",
+      "date": 1611675626652
+    },
+    {
+      "type": "remove",
+      "id": "886f267c-ede0-4420-838f-3636d0d59999",
+      "date": 1611675660294
+    },
+    {
+      "id": "cd969af8-22ac-4905-8e2b-35b63528a46d",
+      "type": "add",
+      "item": {
+        "id": "cd969af8-22ac-4905-8e2b-35b63528a46d",
+        "type": "markdown",
+        "text": "# History"
+      },
+      "after": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "date": 1611676005395
+    },
+    {
+      "id": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
+      "type": "add",
+      "item": {
+        "id": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
+        "type": "markdown",
+        "text": "- Learning Tools Interoperability, then called BasicLTI, originated in 2008 as a [[Google Summer of Code]] project developed by Jordi Piguillem under the mentorship of [[Charles Severance]] and Marc Alier.\n- In June 2010 LTI v1.0 was finalized.\n- In August 2012, LTI v1.1 added the ability for the external tool to pass grades back to the invoking system.\n- In January 2014, LTI v2.0 was released, providing [[Representational state transfer|REST]]-based two-way communication between the external tool and the invoking platform. At the same time, a subset of v2.0 was released as v1.2, as a stepping stone between v1.1 and v2.0.\n- Due to complexity, adoption of LTI v1.2 and v2.0 was slow, and IMS GLC subsequently declared them to be \"legacy\" specifications, not in the recommended upgrade path from LTI v1.1, citing security concerns.\n-  In May 2019, the IMS Security Framework and LTI v1.3 were published, based on [[OAuth2]], [[OpenID Connect]], and [[JSON Web Token|JWT]]. LTI v1.0, v1.0, v1.1, v1.2 and v2.0 were all deprecated - [https://en.wikipedia.org/wiki/Learning_Tools_Interoperability#History wikipedia]"
+      },
+      "after": "cd969af8-22ac-4905-8e2b-35b63528a46d",
+      "date": 1611676009494
+    },
+    {
+      "type": "remove",
+      "id": "78707bd4-bc8c-4691-a254-5f7b576ed915",
+      "date": 1611676014642
+    },
+    {
+      "type": "edit",
+      "id": "bc008eec-ed12-4396-a413-06e5dfc26ff8",
+      "item": {
+        "id": "bc008eec-ed12-4396-a413-06e5dfc26ff8",
+        "type": "markdown",
+        "text": "# See also\n"
+      },
+      "date": 1611676022668
+    },
+    {
+      "type": "add",
+      "id": "3908ac20c6bb43e0",
+      "item": {
+        "type": "markdown",
+        "id": "3908ac20c6bb43e0",
+        "text": "- [[xAPI]]"
+      },
+      "after": "bc008eec-ed12-4396-a413-06e5dfc26ff8",
+      "date": 1611676026809
+    },
+    {
+      "type": "edit",
+      "id": "3908ac20c6bb43e0",
+      "item": {
+        "type": "markdown",
+        "id": "3908ac20c6bb43e0",
+        "text": "- [[xAPI]]\n- [[Experience API]]\n- [[Learning Tools Interoperability]]"
+      },
+      "date": 1611676085617
+    },
+    {
+      "type": "edit",
+      "id": "3908ac20c6bb43e0",
+      "item": {
+        "type": "markdown",
+        "id": "3908ac20c6bb43e0",
+        "text": "- [[xAPI]]\n- [[Experience API]]\n- [[Learning Tools Interoperability]]\n- [[Growth of xAPI]]"
+      },
+      "date": 1611676188661
+    }
+  ],
+  "story": [
+    {
+      "id": "3d94c3ee-d027-4786-8e76-1afaf82faba6",
+      "type": "markdown",
+      "text": "__Learning Tools Interoperability__ (__LTI__) is an education technology specification developed by the [[IMS Global Learning Consortium]]. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "ebc4445f9ff1cb86",
+      "text": "It specifies a method for a learning system to invoke and to communicate with external systems. In the current version of the specification, v1.3, this is done using [[OAuth2]], [[OpenID Connect]], and [[JSON Web Token]]s. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "ba7bf98c05b2447c",
+      "text": "For example, a [[Learning Management System]] (LMS) may use LTI to host course content and tools provided by external, third-party systems on a [[World Wide Web]] site, without requiring a learner to log in separately on the external systems, with information about the learner and the learning context shared by the LMS with the external systems - [https://en.wikipedia.org/wiki/Learning_Tools_Interoperability wikipedia]"
+    },
+    {
+      "id": "f42a1ee1-59d8-4e6c-88ef-4f40cc841a36",
+      "type": "markdown",
+      "text": "# Adoption"
+    },
+    {
+      "id": "9f3f18e4-0d30-4172-8f17-2b42f2db9acb",
+      "type": "markdown",
+      "text": "LTI has been adopted by many large educational content providers, including [[Pearson PLC]] and [[McGraw-Hill Education]] - [https://en.wikipedia.org/wiki/Learning_Tools_Interoperability#Adoption wikipedia]"
+    },
+    {
+      "id": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "type": "markdown",
+      "text": "Popular Learning Management Systems, such as [[D2L]], [[Instructure]] Canvas, [[Blackboard Learn]], [[BenchPrep]], [[LAMS]], [[Sakai (software)]], [[Moodle]], and [[Open edX]] also support LTI."
+    },
+    {
+      "id": "cd969af8-22ac-4905-8e2b-35b63528a46d",
+      "type": "markdown",
+      "text": "# History"
+    },
+    {
+      "id": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
+      "type": "markdown",
+      "text": "- Learning Tools Interoperability, then called BasicLTI, originated in 2008 as a [[Google Summer of Code]] project developed by Jordi Piguillem under the mentorship of [[Charles Severance]] and Marc Alier.\n- In June 2010 LTI v1.0 was finalized.\n- In August 2012, LTI v1.1 added the ability for the external tool to pass grades back to the invoking system.\n- In January 2014, LTI v2.0 was released, providing [[Representational state transfer|REST]]-based two-way communication between the external tool and the invoking platform. At the same time, a subset of v2.0 was released as v1.2, as a stepping stone between v1.1 and v2.0.\n- Due to complexity, adoption of LTI v1.2 and v2.0 was slow, and IMS GLC subsequently declared them to be \"legacy\" specifications, not in the recommended upgrade path from LTI v1.1, citing security concerns.\n-  In May 2019, the IMS Security Framework and LTI v1.3 were published, based on [[OAuth2]], [[OpenID Connect]], and [[JSON Web Token|JWT]]. LTI v1.0, v1.0, v1.1, v1.2 and v2.0 were all deprecated - [https://en.wikipedia.org/wiki/Learning_Tools_Interoperability#History wikipedia]"
+    },
+    {
+      "id": "bc008eec-ed12-4396-a413-06e5dfc26ff8",
+      "type": "markdown",
+      "text": "# See also\n"
+    },
+    {
+      "type": "markdown",
+      "id": "3908ac20c6bb43e0",
+      "text": "- [[xAPI]]\n- [[Experience API]]\n- [[Learning Tools Interoperability]]\n- [[Growth of xAPI]]"
+    }
+  ]
+}

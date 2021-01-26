@@ -2294,7 +2294,7 @@
   {
     "slug": "xapi",
     "title": "xAPI",
-    "date": 1611066820528,
+    "date": 1611676135895,
     "synopsis": "The [[Experience API]] (xAPI), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]",
     "links": {
       "experience-api": "59bf4f95b5db8483",
@@ -2309,7 +2309,10 @@
       "wordpress": "db900e783a8a55dd",
       "moodle": "fb8cdd3ff93f86ad",
       "lrsio": "a92f9cfb28e6a66c",
-      "lifter-lms": "a92f9cfb28e6a66c"
+      "lifter-lms": "a92f9cfb28e6a66c",
+      "learning-tools-interoperability": "08ab490af0a507b0",
+      "learning-cohort": "08ab490af0a507b0",
+      "livecode-xapi": "08ab490af0a507b0"
     }
   },
   {
@@ -2524,6 +2527,38 @@
       "fedwiki-activity": "8ac5da9f5a523940",
       "atopia-activity": "8ac5da9f5a523940",
       "federation-activity": "8ac5da9f5a523940"
+    }
+  },
+  {
+    "slug": "learning-tools-interoperability",
+    "title": "Learning Tools Interoperability",
+    "date": 1611676188661,
+    "synopsis": "__Learning Tools Interoperability__ (__LTI__) is an education technology specification developed by the [[IMS Global Learning Consortium]].",
+    "links": {
+      "ims-global-learning-consortium": "3d94c3ee-d027-4786-8e76-1afaf82faba6",
+      "oauth2": "ebc4445f9ff1cb86",
+      "openid-connect": "ebc4445f9ff1cb86",
+      "json-web-token": "ebc4445f9ff1cb86",
+      "learning-management-system": "ba7bf98c05b2447c",
+      "world-wide-web": "ba7bf98c05b2447c",
+      "pearson-plc": "9f3f18e4-0d30-4172-8f17-2b42f2db9acb",
+      "mcgraw-hill-education": "9f3f18e4-0d30-4172-8f17-2b42f2db9acb",
+      "d2l": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "instructure": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "blackboard-learn": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "benchprep": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "lams": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "sakai-software": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "moodle": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "open-edx": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "google-summer-of-code": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
+      "charles-severance": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
+      "representational-state-transferrest": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
+      "json-web-tokenjwt": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
+      "xapi": "3908ac20c6bb43e0",
+      "experience-api": "3908ac20c6bb43e0",
+      "learning-tools-interoperability": "3908ac20c6bb43e0",
+      "growth-of-xapi": "3908ac20c6bb43e0"
     }
   }
 ]
