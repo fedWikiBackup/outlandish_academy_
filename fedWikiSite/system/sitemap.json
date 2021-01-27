@@ -2560,5 +2560,75 @@
       "learning-tools-interoperability": "3908ac20c6bb43e0",
       "growth-of-xapi": "3908ac20c6bb43e0"
     }
+  },
+  {
+    "slug": "transcription",
+    "title": "Transcription",
+    "date": 1611741714451,
+    "synopsis": "Here we research automatic captioning or transcription for audio or video files.",
+    "links": {
+      "transcription-software": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "transcription-api": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "audio-transcription": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "web-speech-api": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "google-cloud-speech-api": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "text-mining": "e962b124-2b6c-4bcc-8176-22c47353bf35"
+    }
+  },
+  {
+    "slug": "transcription-api",
+    "title": "Transcription API",
+    "date": 1611740812432,
+    "synopsis": "It seems like Amazon has the cheepest and most accurate service - [https://www.armedia.com/blog/transcription-services-aws-google-ibm-nuance/ review]",
+    "links": {
+      "text-mining": "1556007de08f301d",
+      "transcription-software": "1556007de08f301d",
+      "transcription-api": "1556007de08f301d",
+      "audio-transcription": "1556007de08f301d",
+      "web-speech-api": "1556007de08f301d",
+      "google-cloud-speech-api": "1556007de08f301d"
+    }
+  },
+  {
+    "slug": "audio-transcription",
+    "title": "Audio Transcription",
+    "date": 1611740857811,
+    "synopsis": "Here we look at technologies that we can use to integrate speech and audio into wiki.",
+    "links": {
+      "transcription-software": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "transcription-api": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "audio-transcription": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "web-speech-api": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "google-cloud-speech-api": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "text-mining": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860"
+    }
+  },
+  {
+    "slug": "web-speech-api",
+    "title": "Web Speech API",
+    "date": 1470320618178,
+    "synopsis": "The Web Speech API aims to provide an alternative input method for web applications (without using a keyboard). With this API, developers can give web apps the ability to transcribe voice to text, from the computer's microphone."
+  },
+  {
+    "slug": "google-cloud-speech-api",
+    "title": "Google Cloud Speech API",
+    "date": 1470319934135,
+    "synopsis": "Google Cloud Speech [[API]] enables developers to convert audio to text by applying powerful neural network models in an easy to use API - [https://cloud.google.com/speech/?gclid=CjwKEAjww_a8BRDB-O-OqZb_vRASJAA9yrc5NlS9bfBEKZ50vGer1z0igd3-gcqeI68K5RiLfoIzFxoCBuLw_wcB cloud.google.com]",
+    "links": {
+      "api": "39ca9e4cddfa7306"
+    }
+  },
+  {
+    "slug": "transcription-software",
+    "title": "Transcription (software)",
+    "date": 1611740804653,
+    "synopsis": "Transcription software assists in the conversion of human speech into a text transcript. The primary meaning of the term \"transcription software\" has changed over time, with the introduction of new technologies such as natural language speech recognition.",
+    "links": {
+      "transcription-software": "078517e0a275b5ac",
+      "transcription-api": "078517e0a275b5ac",
+      "audio-transcription": "078517e0a275b5ac",
+      "web-speech-api": "078517e0a275b5ac",
+      "google-cloud-speech-api": "078517e0a275b5ac"
+    }
   }
 ]

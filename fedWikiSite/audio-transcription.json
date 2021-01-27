@@ -1,0 +1,296 @@
+{
+  "title": "Audio Transcription",
+  "journal": [
+    {
+      "id": "4b72ea26eceb73b3",
+      "type": "add",
+      "item": {
+        "text": "Recognize audio uploaded in the request, and integrate with your audio storage on Google Cloud Storage, by using the same technology Google uses to power its own products.",
+        "id": "4b72ea26eceb73b3",
+        "type": "paragraph"
+      },
+      "after": "102e289ab70b32ea",
+      "date": 1470319833986
+    },
+    {
+      "id": "102e289ab70b32ea",
+      "type": "add",
+      "item": {
+        "text": "The API recognizes over 80 languages and variants, to support your global user base. You can transcribe the text of users dictating to an application’s microphone, enable command-and-control through voice, or transcribe audio files, among many other use cases. ",
+        "id": "102e289ab70b32ea",
+        "type": "paragraph"
+      },
+      "after": "39ca9e4cddfa7306",
+      "date": 1470319830658
+    },
+    {
+      "id": "39ca9e4cddfa7306",
+      "type": "edit",
+      "item": {
+        "text": "[[Google Cloud Speech API]] enables developers to convert audio to text by applying powerful neural network models in an easy to use API. ",
+        "id": "39ca9e4cddfa7306",
+        "type": "paragraph"
+      },
+      "date": 1470319816939
+    },
+    {
+      "id": "39ca9e4cddfa7306",
+      "type": "add",
+      "item": {
+        "id": "39ca9e4cddfa7306",
+        "type": "factory"
+      },
+      "date": 1470319370990
+    },
+    {
+      "item": {
+        "title": "Audio Transcription",
+        "story": ""
+      },
+      "date": 1470319369367,
+      "type": "create"
+    },
+    {
+      "type": "remove",
+      "id": "102e289ab70b32ea",
+      "fork": "future.fedwiki.org",
+      "date": 1470319859826
+    },
+    {
+      "date": 1470319862047,
+      "type": "remove",
+      "id": "4b72ea26eceb73b3"
+    },
+    {
+      "id": "ce0df04af9f0296d",
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "slug": "google-cloud-speech-api",
+        "site": "c0de.academy",
+        "text": "Google Cloud Speech [[API]] enables developers to convert audio to text by applying powerful neural network models in an easy to use API - [https://cloud.google.com/speech/?gclid=CjwKEAjww_a8BRDB-O-OqZb_vRASJAA9yrc5NlS9bfBEKZ50vGer1z0igd3-gcqeI68K5RiLfoIzFxoCBuLw_wcB cloud.google.com]",
+        "title": "Google Cloud Speech API",
+        "id": "ce0df04af9f0296d"
+      },
+      "date": 1470319984201
+    },
+    {
+      "id": "ce0df04af9f0296d",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "google-cloud-speech-api",
+        "site": "c0de.academy",
+        "text": "Google Cloud Speech [[API]] enables developers to convert audio to text by applying powerful neural network models in an easy to use API - [https://cloud.google.com/speech/?gclid=CjwKEAjww_a8BRDB-O-OqZb_vRASJAA9yrc5NlS9bfBEKZ50vGer1z0igd3-gcqeI68K5RiLfoIzFxoCBuLw_wcB cloud.google.com]",
+        "title": "Google Cloud Speech API",
+        "id": "ce0df04af9f0296d"
+      },
+      "date": 1470319987952
+    },
+    {
+      "id": "73dbe291c15ac725",
+      "type": "add",
+      "item": {
+        "id": "73dbe291c15ac725",
+        "type": "factory"
+      },
+      "after": "ce0df04af9f0296d",
+      "date": 1470319990974
+    },
+    {
+      "id": "73dbe291c15ac725",
+      "order": [
+        "73dbe291c15ac725",
+        "ce0df04af9f0296d"
+      ],
+      "type": "move",
+      "date": 1470319992678
+    },
+    {
+      "site": "future.fedwiki.org",
+      "date": 1470319994183,
+      "type": "fork"
+    },
+    {
+      "id": "7548719237cd859f",
+      "type": "add",
+      "item": {
+        "id": "7548719237cd859f",
+        "type": "factory"
+      },
+      "after": "39ca9e4cddfa7306",
+      "date": 1470320639268
+    },
+    {
+      "id": "7548719237cd859f",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "transcription-software",
+        "site": "c0de.academy",
+        "text": "Transcription software assists in the conversion of human speech into a text transcript. The primary meaning of the term \"transcription software\" has changed over time, with the introduction of new technologies such as natural language speech recognition. References also depend on the purpose for the transcript. The term \"transcription software\" can refer to a completely automated solution, or to software which helps a human transcriber manually convert spoken audio into text transcripts. In the latter case, the term digital dictation is sometimes used - [https://en.wikipedia.org/wiki/Transcription_(software) wikipedia]",
+        "title": "Transcription (software)",
+        "id": "7548719237cd859f"
+      },
+      "date": 1470320650704
+    },
+    {
+      "id": "7548719237cd859f",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "transcription-software",
+        "site": "c0de.academy",
+        "text": "Transcription software assists in the conversion of human speech into a text transcript.",
+        "title": "Transcription (software)",
+        "id": "7548719237cd859f"
+      },
+      "date": 1470320669645
+    },
+    {
+      "date": 1470320673980,
+      "type": "remove",
+      "id": "39ca9e4cddfa7306"
+    },
+    {
+      "id": "73dbe291c15ac725",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "web-speech-api",
+        "site": "c0de.academy",
+        "text": "The Web Speech API aims to provide an alternative input method for web applications (without using a keyboard). With this API, developers can give web apps the ability to transcribe voice to text, from the computer's microphone. ",
+        "title": "Web Speech API",
+        "id": "73dbe291c15ac725"
+      },
+      "date": 1470320690944
+    },
+    {
+      "id": "e9502c4697978654",
+      "type": "add",
+      "item": {
+        "id": "e9502c4697978654",
+        "type": "factory"
+      },
+      "after": "7548719237cd859f",
+      "date": 1470320693762
+    },
+    {
+      "id": "e9502c4697978654",
+      "order": [
+        "e9502c4697978654",
+        "73dbe291c15ac725",
+        "ce0df04af9f0296d",
+        "7548719237cd859f"
+      ],
+      "type": "move",
+      "date": 1470320695167
+    },
+    {
+      "id": "e9502c4697978654",
+      "type": "edit",
+      "item": {
+        "text": "Here we look at technologies that we can use to integrate speech and audio into wiki.",
+        "id": "e9502c4697978654",
+        "type": "paragraph"
+      },
+      "date": 1470320722895
+    },
+    {
+      "site": "c0de.academy",
+      "date": 1497796409866,
+      "type": "fork"
+    },
+    {
+      "site": "audio.permanent.wiki",
+      "date": 1611740355880,
+      "type": "fork"
+    },
+    {
+      "date": 1611740514719,
+      "type": "remove",
+      "id": "7548719237cd859f"
+    },
+    {
+      "date": 1611740514719,
+      "type": "remove",
+      "id": "ce0df04af9f0296d"
+    },
+    {
+      "date": 1611740514719,
+      "type": "remove",
+      "id": "73dbe291c15ac725"
+    },
+    {
+      "type": "add",
+      "id": "1a36d7d4-c084-449c-92f7-bf068a4d214a",
+      "item": {
+        "id": "1a36d7d4-c084-449c-92f7-bf068a4d214a",
+        "type": "factory"
+      },
+      "date": 1611740514720,
+      "after": "e9502c4697978654"
+    },
+    {
+      "id": "1a36d7d4-c084-449c-92f7-bf068a4d214a",
+      "type": "edit",
+      "item": {
+        "type": "markdown",
+        "id": "1a36d7d4-c084-449c-92f7-bf068a4d214a",
+        "text": "# See also"
+      },
+      "date": 1611740514720
+    },
+    {
+      "type": "add",
+      "id": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "item": {
+        "id": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+        "type": "factory"
+      },
+      "date": 1611740514720,
+      "after": "1a36d7d4-c084-449c-92f7-bf068a4d214a"
+    },
+    {
+      "id": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "type": "edit",
+      "item": {
+        "type": "markdown",
+        "id": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+        "text": "- [[Web Speech API]]\n- [[Google Cloud Speech API]]\n- [[Transcription (software)]]"
+      },
+      "date": 1611740514720
+    },
+    {
+      "type": "fork",
+      "date": 1611740846013
+    },
+    {
+      "type": "edit",
+      "id": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "item": {
+        "id": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+        "type": "markdown",
+        "text": "- [[Transcription (software)]]\n- [[Transcription API]]\n- [[Audio Transcription]]\n- [[Web Speech API]]\n- [[Google Cloud Speech API]]\n- [[Text Mining]]\n"
+      },
+      "date": 1611740857811
+    }
+  ],
+  "story": [
+    {
+      "text": "Here we look at technologies that we can use to integrate speech and audio into wiki.",
+      "type": "paragraph",
+      "id": "e9502c4697978654"
+    },
+    {
+      "id": "1a36d7d4-c084-449c-92f7-bf068a4d214a",
+      "type": "markdown",
+      "text": "# See also"
+    },
+    {
+      "id": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "type": "markdown",
+      "text": "- [[Transcription (software)]]\n- [[Transcription API]]\n- [[Audio Transcription]]\n- [[Web Speech API]]\n- [[Google Cloud Speech API]]\n- [[Text Mining]]\n"
+    }
+  ]
+}
