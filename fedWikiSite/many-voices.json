@@ -4,17 +4,32 @@
     {
       "type": "markdown",
       "id": "aff719761e223f4a",
-      "text": "I see the path to this through creating partnerships. I had a discussion with a language school based in the US yesterday - the explicitly mentioned Urdu as a focus. The \"WCS Translation project\" should involve our contact working with translation and Wikipedia, and other such interested parties.\n\nAs with everything - I am proposing taking the task of what we need to build and turning it into a WCS Study Group - that is applying the p2p methodology radically to our own internal practice.\n"
+      "text": "__Many Voices__ is a project to create an intoxicating platform for visual and non-written languages. We focus in particular (but not exclusively) on sign language, and indigenous languages, and together create an audiovisual landscape of diverse language modalities. All voices welcome.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "c2a9f0bc01bf8f1a",
+      "text": "> Note: my interest is in creating or helping to create a space which is governed and structured by others. I am interested myself in experimenting with non-verbal communication as an art practice, and in abstractions around the concept of diversity. I look to meet others with a similar passion."
+    },
+    {
+      "type": "markdown",
+      "id": "8fd87777f3b83e07",
+      "text": "# Translatathon\n"
+    },
+    {
+      "type": "markdown",
+      "id": "256063a47ec9e030",
+      "text": "One grounded path to build community is to work with the Wikipedia community around translation. This community effort needs strengthening, and we might be able to add an element of video using Wikimedia Commons.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "55426425a62a7077",
+      "text": "Note: I see the path to this through creating partnerships. Discussions with a language schools looks promising. I am proposing creating a WCS [[Study Circle]] for this project and organising a series of workshops.\n"
     },
     {
       "type": "markdown",
       "id": "49b2ee30d34d25b2",
-      "text": "In the case of translation it would be something like:\n\n1) Convene a group with energy around translation issues. In this case the \"Speaking in Tongues\" proto- group  described earlier with deaf community, software developers, and indigenous language\n\n2) Run a time limited set of workshops with the group. Explore software tools, build community, look for funding in the course / workshops\n\n3) Award a WCS Certificate in \"Translation / Diversity\" and require participants to pay back their learning by teaching what they have leraned or by other ways of supporting WCS.\n\n"
-    },
-    {
-      "type": "markdown",
-      "id": "154dc2a5394ad520",
-      "text": "So basically I hope to get the transcription and translation aspect tackled over the next 12 weeks by getting a group together looking at how we work with video and translation - I'm thinking of calling this at the moment the Many Voices course."
+      "text": "# Roadmap\nIn the case of translation it would be something like:\n\n1) Convene a group with energy around translation issues. In this case the \"Speaking in Tongues\" proto- group  described earlier with deaf community, software developers, and indigenous language\n\n2) Run a time limited set of workshops with the group. Explore software tools, build community, look for funding in the course / workshops\n\n3) Award a WCS Certificate in \"Translation / Diversity\" and require participants to pay back their learning by teaching what they have leraned or by other ways of supporting WCS.\n\n"
     }
   ],
   "journal": [
@@ -66,6 +81,115 @@
       },
       "after": "49b2ee30d34d25b2",
       "date": 1611742358474
+    },
+    {
+      "type": "edit",
+      "id": "aff719761e223f4a",
+      "item": {
+        "type": "markdown",
+        "id": "aff719761e223f4a",
+        "text": "__<amy Vpices__ is a project to create\n"
+      },
+      "date": 1611751593699
+    },
+    {
+      "type": "add",
+      "id": "8fd87777f3b83e07",
+      "item": {
+        "type": "markdown",
+        "id": "8fd87777f3b83e07",
+        "text": "I see the path to this through creating partnerships. I had a discussion with a language school based in the US yesterday - the explicitly mentioned Urdu as a focus. The \"WCS Translation project\" should involve our contact working with translation and Wikipedia, and other such interested parties.\n\nAs with everything - I am proposing taking the task of what we need to build and turning it into a WCS Study Group - that is applying the p2p methodology radically to our own internal practice.\n"
+      },
+      "after": "aff719761e223f4a",
+      "date": 1611751595192
+    },
+    {
+      "type": "edit",
+      "id": "aff719761e223f4a",
+      "item": {
+        "type": "markdown",
+        "id": "aff719761e223f4a",
+        "text": "__Many Voices__ is a project to create an intoxicating platform for visual and non-written languages. We focus in particular (but not exclusively) on sign language, and indigenous languages, and together create an audiovisual landscape of diverse language modalities. All voices welcome.\n"
+      },
+      "date": 1611751858723
+    },
+    {
+      "type": "add",
+      "id": "c2a9f0bc01bf8f1a",
+      "item": {
+        "type": "markdown",
+        "id": "c2a9f0bc01bf8f1a",
+        "text": "> Note: my interest is in creating or helping to create a space which is governed and structured by others. I am interested myself in experimenting with non-verbal communication as an art practice, and in abstractions around the concept of diversity. I look to meet others with a similar passion."
+      },
+      "after": "aff719761e223f4a",
+      "date": 1611752046289
+    },
+    {
+      "type": "edit",
+      "id": "8fd87777f3b83e07",
+      "item": {
+        "type": "markdown",
+        "id": "8fd87777f3b83e07",
+        "text": "# Translatathon\nOne grounded path to build community is to work with the Wikipedia community around translation. This community effort needs strengthening, and we might be able to add an element of video using Wikimedia Commons.\n"
+      },
+      "date": 1611752155112
+    },
+    {
+      "type": "add",
+      "id": "55426425a62a7077",
+      "item": {
+        "type": "markdown",
+        "id": "55426425a62a7077",
+        "text": "I see the path to this through creating partnerships. I had a discussion with a language school based in the US yesterday - the explicitly mentioned Urdu as a focus. The \"WCS Translation project\" should involve our contact working with translation and Wikipedia, and other such interested parties.\n\nAs with everything - I am proposing taking the task of what we need to build and turning it into a WCS Study Group - that is applying the p2p methodology radically to our own internal practice.\n"
+      },
+      "after": "8fd87777f3b83e07",
+      "date": 1611752158865
+    },
+    {
+      "type": "edit",
+      "id": "8fd87777f3b83e07",
+      "item": {
+        "type": "markdown",
+        "id": "8fd87777f3b83e07",
+        "text": "# Translatathon\n"
+      },
+      "date": 1611752165360
+    },
+    {
+      "type": "add",
+      "id": "256063a47ec9e030",
+      "item": {
+        "type": "markdown",
+        "id": "256063a47ec9e030",
+        "text": "One grounded path to build community is to work with the Wikipedia community around translation. This community effort needs strengthening, and we might be able to add an element of video using Wikimedia Commons.\n"
+      },
+      "after": "8fd87777f3b83e07",
+      "date": 1611752165815
+    },
+    {
+      "type": "edit",
+      "id": "55426425a62a7077",
+      "item": {
+        "type": "markdown",
+        "id": "55426425a62a7077",
+        "text": "Note: I see the path to this through creating partnerships. Discussions with a language schools looks promising. I am proposing creating a WCS [[Study Circle]] for this project and organising a series of workshops.\n"
+      },
+      "date": 1611752303691
+    },
+    {
+      "type": "edit",
+      "id": "49b2ee30d34d25b2",
+      "item": {
+        "type": "markdown",
+        "id": "49b2ee30d34d25b2",
+        "text": "# Roadmap\nIn the case of translation it would be something like:\n\n1) Convene a group with energy around translation issues. In this case the \"Speaking in Tongues\" proto- group  described earlier with deaf community, software developers, and indigenous language\n\n2) Run a time limited set of workshops with the group. Explore software tools, build community, look for funding in the course / workshops\n\n3) Award a WCS Certificate in \"Translation / Diversity\" and require participants to pay back their learning by teaching what they have leraned or by other ways of supporting WCS.\n\n"
+      },
+      "date": 1611752320295
+    },
+    {
+      "type": "remove",
+      "id": "154dc2a5394ad520",
+      "date": 1611752334373
     }
   ]
 }
