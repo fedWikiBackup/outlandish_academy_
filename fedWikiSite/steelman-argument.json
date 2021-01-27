@@ -1,0 +1,124 @@
+{
+  "title": "Steelman Argument",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "e186d0a891327d2e",
+      "text": "We abbreviate the phrase [[steel man]] here to the singular steelman to signify its importance as a concept."
+    },
+    {
+      "type": "markdown",
+      "id": "dd68efd8dff83f8c",
+      "text": "- Knocking Down a Steel Man:... - [https://themerelyreal.wordpress.com/2012/12/07/steelmanning/ wordpress.com]\n- The Best Way to Disagree Is... - [https://www.theatlantic.com/politics/archive/2017/06/the-highest-form-of-disagreement/531597/ theatlantic.com]\n- Utilize the \"Steel Man\"... - [https://lifehacker.com/utilize-the-steel-man-tactic-to-argue-more-effectivel-1632402742 lifehacker.com]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "459446c2a23a2a9a",
+      "text": "# See also\n\n- [[Straw man]]\n- [[Nut Picking]]\n- [[Principles of dialogue]]\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Steelman Argument",
+        "story": []
+      },
+      "date": 1606308317334
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e186d0a891327d2e"
+      },
+      "id": "e186d0a891327d2e",
+      "type": "add",
+      "date": 1606308318790
+    },
+    {
+      "type": "edit",
+      "id": "e186d0a891327d2e",
+      "item": {
+        "type": "markdown",
+        "id": "e186d0a891327d2e",
+        "text": "We abbreviate the phrase [[steel man]] here to the singular steelman to signify its importance as a concept."
+      },
+      "date": 1606308381512
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd68efd8dff83f8c"
+      },
+      "id": "dd68efd8dff83f8c",
+      "type": "add",
+      "after": "e186d0a891327d2e",
+      "date": 1606308677706
+    },
+    {
+      "type": "edit",
+      "id": "dd68efd8dff83f8c",
+      "item": {
+        "type": "markdown",
+        "id": "dd68efd8dff83f8c",
+        "text": "- [[Nut Picking]]"
+      },
+      "date": 1606308697877
+    },
+    {
+      "type": "edit",
+      "id": "dd68efd8dff83f8c",
+      "item": {
+        "type": "markdown",
+        "id": "dd68efd8dff83f8c",
+        "text": "# See also\n- [[Nut Picking]]"
+      },
+      "date": 1606308704826
+    },
+    {
+      "type": "edit",
+      "id": "dd68efd8dff83f8c",
+      "item": {
+        "type": "markdown",
+        "id": "dd68efd8dff83f8c",
+        "text": "# See also\n\n- [[Straw man]]\n- [[Nut Picking]]\n"
+      },
+      "date": 1606308962481
+    },
+    {
+      "type": "fork",
+      "site": "david.dojo.fed.wiki"
+    },
+    {
+      "type": "edit",
+      "id": "dd68efd8dff83f8c",
+      "item": {
+        "type": "markdown",
+        "id": "dd68efd8dff83f8c",
+        "text": "- Knocking Down a Steel Man:... - [https://themerelyreal.wordpress.com/2012/12/07/steelmanning/ wordpress.com]\n- The Best Way to Disagree Is... - [https://www.theatlantic.com/politics/archive/2017/06/the-highest-form-of-disagreement/531597/ theatlantic.com]\n- Utilize the \"Steel Man\"... - [https://lifehacker.com/utilize-the-steel-man-tactic-to-argue-more-effectivel-1632402742 lifehacker.com]\n"
+      },
+      "date": 1611755866163
+    },
+    {
+      "type": "add",
+      "id": "459446c2a23a2a9a",
+      "item": {
+        "type": "markdown",
+        "id": "459446c2a23a2a9a",
+        "text": "# See also\n\n- [[Straw man]]\n- [[Nut Picking]]\n"
+      },
+      "after": "dd68efd8dff83f8c",
+      "date": 1611755866672
+    },
+    {
+      "type": "edit",
+      "id": "459446c2a23a2a9a",
+      "item": {
+        "type": "markdown",
+        "id": "459446c2a23a2a9a",
+        "text": "# See also\n\n- [[Straw man]]\n- [[Nut Picking]]\n- [[Principles of dialogue]]\n"
+      },
+      "date": 1611755885340
+    }
+  ]
+}
