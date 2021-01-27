@@ -1,0 +1,84 @@
+{
+  "title": "Nut Picking",
+  "journal": [
+    {
+      "date": 1606308575860,
+      "item": {
+        "title": "Nut Picking",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1606308824682
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5d6fd35172ab6d16"
+      },
+      "id": "5d6fd35172ab6d16",
+      "type": "add",
+      "after": "55d602c0-e9c9-4224-8410-9219e67a3b57",
+      "date": 1606308898318
+    },
+    {
+      "type": "edit",
+      "id": "181fb2c3-d1d5-4404-b018-2cdb79dd2d4d",
+      "item": {
+        "id": "181fb2c3-d1d5-4404-b018-2cdb79dd2d4d",
+        "type": "markdown",
+        "text": "# References"
+      },
+      "date": 1606308899759
+    },
+    {
+      "type": "edit",
+      "id": "5d6fd35172ab6d16",
+      "item": {
+        "type": "markdown",
+        "id": "5d6fd35172ab6d16",
+        "text": "# References"
+      },
+      "date": 1606308901522
+    },
+    {
+      "type": "edit",
+      "id": "5d6fd35172ab6d16",
+      "item": {
+        "type": "markdown",
+        "id": "5d6fd35172ab6d16",
+        "text": "# See also\n\n- [[Straw man]]\n- [[Steelman argument]]"
+      },
+      "date": 1606308938781
+    },
+    {
+      "type": "fork",
+      "site": "david.dojo.fed.wiki",
+      "date": 1611755892555
+    }
+  ],
+  "story": [
+    {
+      "id": "aae3d68d-4bf8-4816-8d05-fdadfe3743e8",
+      "type": "markdown",
+      "text": "Below are a collection of links imported from [[OneTab]]. You can view these links here - [https://www.one-tab.com/page/l02dQnCRRPy00qZWLCretQ one-tab.com]:"
+    },
+    {
+      "id": "181fb2c3-d1d5-4404-b018-2cdb79dd2d4d",
+      "type": "markdown",
+      "text": "# References"
+    },
+    {
+      "id": "55d602c0-e9c9-4224-8410-9219e67a3b57",
+      "type": "markdown",
+      "text": "- Knocking Down a Steel Man:... - [https://themerelyreal.wordpress.com/2012/12/07/steelmanning/ wordpress.com]\n- The Best Way to Disagree Is... - [https://www.theatlantic.com/politics/archive/2017/06/the-highest-form-of-disagreement/531597/ theatlantic.com]\n- Utilize the \"Steel Man\"... - [https://lifehacker.com/utilize-the-steel-man-tactic-to-argue-more-effectivel-1632402742 lifehacker.com]"
+    },
+    {
+      "type": "markdown",
+      "id": "5d6fd35172ab6d16",
+      "text": "# See also\n\n- [[Straw man]]\n- [[Steelman argument]]"
+    }
+  ]
+}

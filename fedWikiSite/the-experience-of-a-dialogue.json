@@ -1,0 +1,74 @@
+{
+  "title": "The experience of a dialogue",
+  "journal": [
+    {
+      "date": 1606305244137,
+      "item": {
+        "title": "The experience of a dialogue",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1606305493659
+    },
+    {
+      "type": "remove",
+      "id": "7fd609ca-76de-4b03-aea4-aab8b105aa54",
+      "date": 1606305497795
+    },
+    {
+      "id": "24df4bd4-be38-499c-b915-086bb21f24f7",
+      "type": "remove",
+      "date": 1606305501524
+    },
+    {
+      "type": "fork",
+      "site": "david.dojo.fed.wiki",
+      "date": 1611755900457
+    },
+    {
+      "type": "remove",
+      "id": "9bbd0303-6463-4edc-a84b-2f794760b87a",
+      "date": 1611755903204
+    },
+    {
+      "type": "edit",
+      "id": "ab79a549-b904-458f-99c6-86d14231917b",
+      "item": {
+        "id": "ab79a549-b904-458f-99c6-86d14231917b",
+        "type": "html",
+        "text": "> In such a dialogue, when one person says something, the other person does not, in general, respond with exactly the same meaning as that seen by the first person. Rather, the meanings are only ''similar'' and not identical. Thus, when the 2nd person replies, the 1st person sees a ''Difference'' between what he meant to say and what the other person understood. \n\n> On considering this difference, he may then be able to see something new, which is relevant both to his own views and to those of the other person. And so it can go back and forth, with the continual emergence of a new content that is common to both participants. Thus, in a dialogue, each person does not attempt to ''make common'' certain ideas or items of information that are already known to him. Rather, it may be said that two people are making something ''in common'', i.e., creating something new together. ((Bohm, ''On Dialogue'', p.3.))</blockquote>"
+      },
+      "date": 1611755950648
+    },
+    {
+      "type": "edit",
+      "id": "ab79a549-b904-458f-99c6-86d14231917b",
+      "item": {
+        "id": "ab79a549-b904-458f-99c6-86d14231917b",
+        "type": "markdown",
+        "text": "> In such a dialogue, when one person says something, the other person does not, in general, respond with exactly the same meaning as that seen by the first person. Rather, the meanings are only ''similar'' and not identical. Thus, when the 2nd person replies, the 1st person sees a ''Difference'' between what he meant to say and what the other person understood. \n\n> On considering this difference, he may then be able to see something new, which is relevant both to his own views and to those of the other person. \n\n> And so it can go back and forth, with the continual emergence of a new content that is common to both participants. Thus, in a dialogue, each person does not attempt to ''make common'' certain ideas or items of information that are already known to him. Rather, it may be said that two people are making something ''in common'', i.e., creating something new together. (Bohm, ''On Dialogue'', p.3.)"
+      },
+      "date": 1611756020670
+    },
+    {
+      "id": "5cf9d7f7-15c4-4aba-8f30-2a98c9ca1074",
+      "type": "remove",
+      "date": 1611756032315
+    }
+  ],
+  "story": [
+    {
+      "id": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc",
+      "type": "markdown",
+      "text": "Participants \"suspend\" their [[belief]]s, [[opinion]]s, [[impulse (psychology)]], and [[judgment]]s while speaking together, in order to see the movement of the group's [[thought process]]es and what their effects may be."
+    },
+    {
+      "id": "ab79a549-b904-458f-99c6-86d14231917b",
+      "type": "markdown",
+      "text": "> In such a dialogue, when one person says something, the other person does not, in general, respond with exactly the same meaning as that seen by the first person. Rather, the meanings are only ''similar'' and not identical. Thus, when the 2nd person replies, the 1st person sees a ''Difference'' between what he meant to say and what the other person understood. \n\n> On considering this difference, he may then be able to see something new, which is relevant both to his own views and to those of the other person. \n\n> And so it can go back and forth, with the continual emergence of a new content that is common to both participants. Thus, in a dialogue, each person does not attempt to ''make common'' certain ideas or items of information that are already known to him. Rather, it may be said that two people are making something ''in common'', i.e., creating something new together. (Bohm, ''On Dialogue'', p.3.)"
+    }
+  ]
+}

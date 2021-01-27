@@ -1,0 +1,458 @@
+{
+  "title": "The theory of dialogue",
+  "journal": [
+    {
+      "date": 1606305193113,
+      "item": {
+        "title": "The theory of dialogue",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1606305450654
+    },
+    {
+      "id": "3c0bd99e-67f0-4817-a514-b89d10bc5fdf",
+      "type": "remove",
+      "date": 1606305453820
+    },
+    {
+      "type": "fork",
+      "site": "david.dojo.fed.wiki",
+      "date": 1611754351788
+    },
+    {
+      "type": "edit",
+      "id": "8dc6c455-9560-425f-948e-5593fd34cd87",
+      "item": {
+        "id": "8dc6c455-9560-425f-948e-5593fd34cd87",
+        "type": "markdown",
+        "text": "Bohm introduced a concept of dialogue, stating that:"
+      },
+      "date": 1611754372287
+    },
+    {
+      "type": "edit",
+      "id": "f1634843-aac3-4437-99e0-4a0c2f00ef16",
+      "item": {
+        "id": "f1634843-aac3-4437-99e0-4a0c2f00ef16",
+        "type": "factory",
+        "text": "> dialogue can be considered as a free flow of meaning between people in communication, in the sense of a stream that flows between banks."
+      },
+      "date": 1611754384162
+    },
+    {
+      "type": "remove",
+      "id": "f1634843-aac3-4437-99e0-4a0c2f00ef16",
+      "date": 1611754387305
+    },
+    {
+      "type": "edit",
+      "id": "8dc6c455-9560-425f-948e-5593fd34cd87",
+      "item": {
+        "id": "8dc6c455-9560-425f-948e-5593fd34cd87",
+        "type": "markdown",
+        "text": "Bohm introduced a concept of dialogue, stating that:\n> dialogue can be considered as a free flow of meaning between people in communication, in the sense of a stream that flows between banks."
+      },
+      "date": 1611754388864
+    },
+    {
+      "type": "edit",
+      "id": "767921a6-ad27-469d-bd22-aea7996a355a",
+      "item": {
+        "id": "767921a6-ad27-469d-bd22-aea7996a355a",
+        "type": "markdown",
+        "text": "These \"banks\" are understood as representing the various points of view of the participants - [https://en.wikipedia.org/wiki/Bohm_Dialogue#The_theory_of_dialogue wikipedia]"
+      },
+      "date": 1611754392760
+    },
+    {
+      "type": "edit",
+      "id": "09a4e34d-e414-45bb-8cc4-2c0377d9a378",
+      "item": {
+        "id": "09a4e34d-e414-45bb-8cc4-2c0377d9a378",
+        "type": "factory",
+        "text": "> ...it may turn out that such a form of free exchange of ideas and information is of fundamental relevance for transforming culture and freeing it of destructive [[misinformation]], so that creativity can be liberated – [[David Bohm]]"
+      },
+      "date": 1611754441853
+    },
+    {
+      "type": "edit",
+      "id": "d5cb98c2-30cc-49f8-a156-21c122d63c0e",
+      "item": {
+        "id": "d5cb98c2-30cc-49f8-a156-21c122d63c0e",
+        "type": "markdown",
+        "text": "A dialogue has no predefined purpose, no agenda, other than that of inquiring into the movement of thought, and exploring the process of \"thinking together\" collectively. This activity can allow group participants to examine their preconceptions and [[prejudice]]s, as well as to explore the more general movement of thought. \n"
+      },
+      "date": 1611754485760
+    },
+    {
+      "type": "add",
+      "id": "158b86cd66d59e2b",
+      "item": {
+        "type": "markdown",
+        "id": "158b86cd66d59e2b",
+        "text": "Bohm's intention regarding the suggested minimum number of participants was to replicate a social/cultural dynamic (rather than a family dynamic). This form of dialogue seeks to enable an awareness of why communicating in the verbal sphere is so much more difficult and conflict-ridden than in all other areas of [[human activity]] and endeavor."
+      },
+      "after": "d5cb98c2-30cc-49f8-a156-21c122d63c0e",
+      "date": 1611754487928
+    },
+    {
+      "type": "edit",
+      "id": "d5cb98c2-30cc-49f8-a156-21c122d63c0e",
+      "item": {
+        "id": "d5cb98c2-30cc-49f8-a156-21c122d63c0e",
+        "type": "markdown",
+        "text": "A dialogue has no predefined purpose, no agenda, other than that of inquiring into the movement of thought, and exploring the process of \"thinking together\" collectively. \n"
+      },
+      "date": 1611754534962
+    },
+    {
+      "type": "add",
+      "id": "932a94eeccea21d6",
+      "item": {
+        "type": "markdown",
+        "id": "932a94eeccea21d6",
+        "text": "This activity can allow group participants to examine their preconceptions and [[prejudice]]s, as well as to explore the more general movement of thought. \n"
+      },
+      "after": "d5cb98c2-30cc-49f8-a156-21c122d63c0e",
+      "date": 1611754537264
+    },
+    {
+      "type": "edit",
+      "id": "158b86cd66d59e2b",
+      "item": {
+        "type": "markdown",
+        "id": "158b86cd66d59e2b",
+        "text": "Bohm's intention regarding the suggested minimum number of participants was to replicate a social/cultural dynamic (rather than a family dynamic). \n"
+      },
+      "date": 1611754582829
+    },
+    {
+      "type": "add",
+      "id": "ea7c1462bce7ebac",
+      "item": {
+        "type": "markdown",
+        "id": "ea7c1462bce7ebac",
+        "text": "This form of dialogue seeks to enable an awareness of why communicating in the verbal sphere is so much more difficult and conflict-ridden than in all other areas of [[human activity]] and endeavor."
+      },
+      "after": "158b86cd66d59e2b",
+      "date": 1611754584625
+    },
+    {
+      "type": "edit",
+      "id": "f727bb59-0d65-42a5-b4c0-63b8dccb73a4",
+      "item": {
+        "id": "f727bb59-0d65-42a5-b4c0-63b8dccb73a4",
+        "type": "factory",
+        "text": "> Dialogue is really aimed at going into the whole thought process and changing the way the thought process occurs collectively. We haven't really paid much attention to thought as a process. We have ''engaged'' in thoughts, but we have only paid attention to the content, not to the process. Why does thought require attention? Everything requires attention, really. If we ran machines without paying attention to them, they would break down. Our thought, too, is a process, and it requires attention, otherwise it's going to go wrong. (Bohm, \"On Dialogue\", p.10.)</blockquote>"
+      },
+      "date": 1611754631490
+    },
+    {
+      "type": "edit",
+      "id": "f727bb59-0d65-42a5-b4c0-63b8dccb73a4",
+      "item": {
+        "id": "f727bb59-0d65-42a5-b4c0-63b8dccb73a4",
+        "type": "markdown",
+        "text": "> Dialogue is really aimed at going into the whole thought process and changing the way the thought process occurs collectively. We haven't really paid much attention to thought as a process. \n\n> We have \"engaged\" in thoughts, but we have only paid attention to the content, not to the process. "
+      },
+      "date": 1611754682092
+    },
+    {
+      "type": "edit",
+      "id": "f727bb59-0d65-42a5-b4c0-63b8dccb73a4",
+      "item": {
+        "id": "f727bb59-0d65-42a5-b4c0-63b8dccb73a4",
+        "type": "markdown",
+        "text": "> Dialogue is really aimed at going into the whole thought process and changing the way the thought process occurs collectively. We haven't really paid much attention to thought as a process. \n\n> We have \"engaged\" in thoughts, but we have only paid attention to the content, not to the process. \n\n> Why does thought require attention? Everything requires attention, really. If we ran machines without paying attention to them, they would break down. Our thought, too, is a process, and it requires attention, otherwise it's going to go wrong. (Bohm, \"On Dialogue\", p.10.)"
+      },
+      "date": 1611754707672
+    },
+    {
+      "type": "edit",
+      "id": "68fbf776-577b-43be-bca6-67c29812471b",
+      "item": {
+        "id": "68fbf776-577b-43be-bca6-67c29812471b",
+        "type": "markdown",
+        "text": "Taking reference to the work of Bohm and [[F. David Peat]]  [[Science, Order and Creativity]], Arleta Griffor – noted by [[Paavo Pylkkänen]] for her \"deep and extensive knowledge of Bohm's philosophy\" and member of the research group of Bohm's collaborator [[Basil Hiley]] – underlines the importance of the kind of [[active listening]] involved in the Bohm dialogue and points to Bohm's statement that"
+      },
+      "date": 1611754790774
+    },
+    {
+      "type": "edit",
+      "id": "68fbf776-577b-43be-bca6-67c29812471b",
+      "item": {
+        "id": "68fbf776-577b-43be-bca6-67c29812471b",
+        "type": "markdown",
+        "text": "Arleta Griffor (member of the research group of Bohm's collaborator) underlines the importance of the kind of [[active listening]] involved in the Bohm dialogue:"
+      },
+      "date": 1611754897851
+    },
+    {
+      "type": "edit",
+      "id": "28dc7185-42f0-4f7d-8668-8b105213358b",
+      "item": {
+        "id": "28dc7185-42f0-4f7d-8668-8b105213358b",
+        "type": "factory",
+        "text": "> thoroughgoing suspension of tacit individual and cultural infrastructures, in the context of full [[attention]] to their contents, frees the mind to move in new ways … The mind is then able to respond to creative new perceptions going beyond the particular points of view that have been suspended."
+      },
+      "date": 1611754907471
+    },
+    {
+      "type": "remove",
+      "id": "28dc7185-42f0-4f7d-8668-8b105213358b",
+      "date": 1611754909527
+    },
+    {
+      "type": "edit",
+      "id": "68fbf776-577b-43be-bca6-67c29812471b",
+      "item": {
+        "id": "68fbf776-577b-43be-bca6-67c29812471b",
+        "type": "markdown",
+        "text": "Arleta Griffor (member of the research group of Bohm's collaborator) underlines the importance of the kind of [[active listening]] involved in the Bohm dialogue:\n> thoroughgoing suspension of tacit individual and cultural infrastructures, in the context of full [[attention]] to their contents, frees the mind to move in new ways … The mind is then able to respond to creative new perceptions going beyond the particular points of view that have been suspended."
+      },
+      "date": 1611754910620
+    },
+    {
+      "type": "edit",
+      "id": "1d62e6e0-ac3c-4599-802b-4d8dd6b17dd3",
+      "item": {
+        "id": "1d62e6e0-ac3c-4599-802b-4d8dd6b17dd3",
+        "type": "factory",
+        "text": "> [T]he self-defensive activity of each participant's [[idiosyncrasy]] […] prevents listening\" and that, in contrast, giving full attention to what the other participants mean can free the mind from socio-cultural accumulation, allow a free flow of meaning between people in a dialogue and give rise to shared perception and the creation of shared meaning in the sense of shared significance, intention, purpose and value."
+      },
+      "date": 1611754930121
+    },
+    {
+      "type": "remove",
+      "id": "1d62e6e0-ac3c-4599-802b-4d8dd6b17dd3",
+      "date": 1611754932705
+    },
+    {
+      "type": "edit",
+      "id": "4dd18484-a3c7-44ee-9067-b0be859cb904",
+      "item": {
+        "id": "4dd18484-a3c7-44ee-9067-b0be859cb904",
+        "type": "markdown",
+        "text": "Griffor emphasizes that in conventional discussion:\n> [T]he self-defensive activity of each participant's [[idiosyncrasy]] […] prevents listening\" and that, in contrast, giving full attention to what the other participants mean can free the mind from socio-cultural accumulation, allow a free flow of meaning between people in a dialogue and give rise to shared perception and the creation of shared meaning in the sense of shared significance, intention, purpose and value."
+      },
+      "date": 1611754935474
+    },
+    {
+      "type": "edit",
+      "id": "7d600b7a-6b5d-47fe-ab7e-298e62d12619",
+      "item": {
+        "id": "7d600b7a-6b5d-47fe-ab7e-298e62d12619",
+        "type": "markdown",
+        "text": "It seems then that the main trouble is that the other person is the one who is prejudiced and not listening. After all, it is easy for each one of us to see that other people are 'blocked' about certain questions, so that without being aware of it, they are avoiding the confrontation of contradictions in certain ideas that may be extremely dear to them. \n"
+      },
+      "date": 1611754980989
+    },
+    {
+      "type": "add",
+      "id": "6ede0df33b69e55f",
+      "item": {
+        "type": "markdown",
+        "id": "6ede0df33b69e55f",
+        "text": "The very nature of such a 'block' is, however, that it is a kind of insensitivity or 'anesthesia' about one's own contradictions. \n"
+      },
+      "after": "7d600b7a-6b5d-47fe-ab7e-298e62d12619",
+      "date": 1611754991674
+    },
+    {
+      "type": "add",
+      "id": "f8530c6f9f71f4fe",
+      "item": {
+        "type": "markdown",
+        "id": "f8530c6f9f71f4fe",
+        "text": "Evidently then, what is crucial is to be aware of the nature of one's own 'blocks'. If one is alert and attentive, he can see for example that whenever certain questions arise, there are fleeting sensations of fear, which push him away from consideration of those questions, and of pleasure, which attract his thoughts and cause them to be occupied with other questions. \n"
+      },
+      "after": "6ede0df33b69e55f",
+      "date": 1611755002866
+    },
+    {
+      "type": "add",
+      "id": "cdf589cf19a64dd6",
+      "item": {
+        "type": "markdown",
+        "id": "cdf589cf19a64dd6",
+        "text": "So, one is able to keep away from whatever it is that he thinks may disturb him. And as a result, he can be subtle at defending his own ideas, when he supposes that he is really listening to what other people have to say. When we come together to talk, or otherwise to act in common, can each one of us be aware of the subtle fear and pleasure sensations that 'block' the ability to listen freely?"
+      },
+      "after": "f8530c6f9f71f4fe",
+      "date": 1611755011904
+    },
+    {
+      "type": "remove",
+      "id": "8e8c1e9c-3cae-43b7-a045-6e5458c9f5ff",
+      "date": 1611755027714
+    },
+    {
+      "type": "remove",
+      "id": "bed05917-2575-45a6-b5b6-e256f98886c0",
+      "date": 1611755030684
+    },
+    {
+      "type": "edit",
+      "id": "7d600b7a-6b5d-47fe-ab7e-298e62d12619",
+      "item": {
+        "id": "7d600b7a-6b5d-47fe-ab7e-298e62d12619",
+        "type": "markdown",
+        "text": "# Critique\n"
+      },
+      "date": 1611755076965
+    },
+    {
+      "type": "add",
+      "id": "09a8ea4cc62687a1",
+      "item": {
+        "type": "markdown",
+        "id": "09a8ea4cc62687a1",
+        "text": "As far as I can tell most everything that has been written about Bohm Dialogue's is both important and sensible. There I so far nothing I can find in it that helps build new forms of dialogue, that is not patently obvious to an empathic facilitator, which is disappointing. \n"
+      },
+      "after": "7d600b7a-6b5d-47fe-ab7e-298e62d12619",
+      "date": 1611755277613
+    },
+    {
+      "type": "add",
+      "id": "8c9efc7ebe3921f9",
+      "item": {
+        "type": "markdown",
+        "id": "8c9efc7ebe3921f9",
+        "text": "It appears to be the case that is often the case that an eminent mind in a prestigious academic field is simply lending his credibility to wisdom that you might find in greater abundance in your grandmother or a homeless person. It is hard to judge this without going to the source, but so far I can see no benefit to that line of research."
+      },
+      "after": "09a8ea4cc62687a1",
+      "date": 1611755339040
+    },
+    {
+      "type": "remove",
+      "id": "f8530c6f9f71f4fe",
+      "date": 1611755344851
+    },
+    {
+      "type": "remove",
+      "id": "cdf589cf19a64dd6",
+      "date": 1611755346895
+    },
+    {
+      "type": "edit",
+      "id": "6ede0df33b69e55f",
+      "item": {
+        "type": "markdown",
+        "id": "6ede0df33b69e55f",
+        "text": "That is to say nothing against everything that is contained in the practice, or theory - just that has not thought through problematic areas, nor come up with much new. We might benefit by checking in with this form of dialogue to double check we have not gone against its core distinctions and implemented its main recommendations, but we will not find much more help when it comes to designing effective social methodologies.\n"
+      },
+      "date": 1611755540682
+    },
+    {
+      "type": "add",
+      "id": "ab9e371c288b3e84",
+      "item": {
+        "type": "markdown",
+        "id": "ab9e371c288b3e84",
+        "text": "The distinction between dialogue, discussion and debate might be useful to borrow, though it seems problematic to restrict the notion of dialogue to the very specific form of dialogue that we understand as [[active listening]]."
+      },
+      "after": "6ede0df33b69e55f",
+      "date": 1611755623163
+    },
+    {
+      "type": "edit",
+      "id": "09a8ea4cc62687a1",
+      "item": {
+        "type": "markdown",
+        "id": "09a8ea4cc62687a1",
+        "text": "As far as I can tell most everything that has been written about Bohm Dialogue's is both important and sensible. There is so far nothing I can find in the theory that helps build new forms of dialogue, that is not patently obvious to an empathic facilitator, which is disappointing. \n"
+      },
+      "date": 1611755660830
+    }
+  ],
+  "story": [
+    {
+      "id": "8dc6c455-9560-425f-948e-5593fd34cd87",
+      "type": "markdown",
+      "text": "Bohm introduced a concept of dialogue, stating that:\n> dialogue can be considered as a free flow of meaning between people in communication, in the sense of a stream that flows between banks."
+    },
+    {
+      "id": "767921a6-ad27-469d-bd22-aea7996a355a",
+      "type": "markdown",
+      "text": "These \"banks\" are understood as representing the various points of view of the participants - [https://en.wikipedia.org/wiki/Bohm_Dialogue#The_theory_of_dialogue wikipedia]"
+    },
+    {
+      "id": "09a4e34d-e414-45bb-8cc4-2c0377d9a378",
+      "type": "factory",
+      "text": "> ...it may turn out that such a form of free exchange of ideas and information is of fundamental relevance for transforming culture and freeing it of destructive [[misinformation]], so that creativity can be liberated – [[David Bohm]]"
+    },
+    {
+      "id": "d5cb98c2-30cc-49f8-a156-21c122d63c0e",
+      "type": "markdown",
+      "text": "A dialogue has no predefined purpose, no agenda, other than that of inquiring into the movement of thought, and exploring the process of \"thinking together\" collectively. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "932a94eeccea21d6",
+      "text": "This activity can allow group participants to examine their preconceptions and [[prejudice]]s, as well as to explore the more general movement of thought. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "158b86cd66d59e2b",
+      "text": "Bohm's intention regarding the suggested minimum number of participants was to replicate a social/cultural dynamic (rather than a family dynamic). \n"
+    },
+    {
+      "type": "markdown",
+      "id": "ea7c1462bce7ebac",
+      "text": "This form of dialogue seeks to enable an awareness of why communicating in the verbal sphere is so much more difficult and conflict-ridden than in all other areas of [[human activity]] and endeavor."
+    },
+    {
+      "id": "b0b5fceb-8d3c-4f32-af7d-84745b8978e9",
+      "type": "markdown",
+      "text": "Dialogue should not be confused with discussion or debate, both of which, says Bohm, suggest working towards a goal or reaching a decision, rather than simply exploring and learning. Meeting without an agenda or fixed objective is done to create a \"free space\" for something new to happen."
+    },
+    {
+      "id": "27c763d0-3d3b-4de6-860c-87e40ed79250",
+      "type": "markdown",
+      "text": "David Bohm said:"
+    },
+    {
+      "id": "f727bb59-0d65-42a5-b4c0-63b8dccb73a4",
+      "type": "markdown",
+      "text": "> Dialogue is really aimed at going into the whole thought process and changing the way the thought process occurs collectively. We haven't really paid much attention to thought as a process. \n\n> We have \"engaged\" in thoughts, but we have only paid attention to the content, not to the process. \n\n> Why does thought require attention? Everything requires attention, really. If we ran machines without paying attention to them, they would break down. Our thought, too, is a process, and it requires attention, otherwise it's going to go wrong. (Bohm, \"On Dialogue\", p.10.)"
+    },
+    {
+      "id": "68fbf776-577b-43be-bca6-67c29812471b",
+      "type": "markdown",
+      "text": "Arleta Griffor (member of the research group of Bohm's collaborator) underlines the importance of the kind of [[active listening]] involved in the Bohm dialogue:\n> thoroughgoing suspension of tacit individual and cultural infrastructures, in the context of full [[attention]] to their contents, frees the mind to move in new ways … The mind is then able to respond to creative new perceptions going beyond the particular points of view that have been suspended."
+    },
+    {
+      "id": "4dd18484-a3c7-44ee-9067-b0be859cb904",
+      "type": "markdown",
+      "text": "Griffor emphasizes that in conventional discussion:\n> [T]he self-defensive activity of each participant's [[idiosyncrasy]] […] prevents listening\" and that, in contrast, giving full attention to what the other participants mean can free the mind from socio-cultural accumulation, allow a free flow of meaning between people in a dialogue and give rise to shared perception and the creation of shared meaning in the sense of shared significance, intention, purpose and value."
+    },
+    {
+      "id": "7d600b7a-6b5d-47fe-ab7e-298e62d12619",
+      "type": "markdown",
+      "text": "# Critique\n"
+    },
+    {
+      "type": "markdown",
+      "id": "09a8ea4cc62687a1",
+      "text": "As far as I can tell most everything that has been written about Bohm Dialogue's is both important and sensible. There is so far nothing I can find in the theory that helps build new forms of dialogue, that is not patently obvious to an empathic facilitator, which is disappointing. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "8c9efc7ebe3921f9",
+      "text": "It appears to be the case that is often the case that an eminent mind in a prestigious academic field is simply lending his credibility to wisdom that you might find in greater abundance in your grandmother or a homeless person. It is hard to judge this without going to the source, but so far I can see no benefit to that line of research."
+    },
+    {
+      "type": "markdown",
+      "id": "6ede0df33b69e55f",
+      "text": "That is to say nothing against everything that is contained in the practice, or theory - just that has not thought through problematic areas, nor come up with much new. We might benefit by checking in with this form of dialogue to double check we have not gone against its core distinctions and implemented its main recommendations, but we will not find much more help when it comes to designing effective social methodologies.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "ab9e371c288b3e84",
+      "text": "The distinction between dialogue, discussion and debate might be useful to borrow, though it seems problematic to restrict the notion of dialogue to the very specific form of dialogue that we understand as [[active listening]]."
+    }
+  ]
+}
