@@ -1,0 +1,513 @@
+{
+  "title": "Transcription",
+  "journal": [
+    {
+      "item": {
+        "title": "Transcription",
+        "story": ""
+      },
+      "date": 1611740082894,
+      "type": "create"
+    },
+    {
+      "id": "b5ca37fafe8eefb8",
+      "type": "add",
+      "item": {
+        "id": "b5ca37fafe8eefb8",
+        "type": "factory"
+      },
+      "date": 1611740084100
+    },
+    {
+      "id": "b5ca37fafe8eefb8",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "transcription-api",
+        "site": "api.c0de.academy",
+        "text": "It seems like Amazon has the cheepest and most accurate service - [https://www.armedia.com/blog/transcription-services-aws-google-ibm-nuance/ review]",
+        "title": "Transcription API",
+        "id": "b5ca37fafe8eefb8"
+      },
+      "date": 1611740086667
+    },
+    {
+      "id": "db5c29db518e1fec",
+      "type": "add",
+      "item": {
+        "id": "db5c29db518e1fec",
+        "type": "factory"
+      },
+      "after": "b5ca37fafe8eefb8",
+      "date": 1611740104766
+    },
+    {
+      "id": "9fbee73719047fa8",
+      "type": "add",
+      "item": {
+        "id": "9fbee73719047fa8",
+        "type": "factory"
+      },
+      "after": "db5c29db518e1fec",
+      "date": 1611740105738
+    },
+    {
+      "id": "db5c29db518e1fec",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "audio-transcription",
+        "site": "audio.permanent.wiki",
+        "text": "Here we look at technologies that we can use to integrate speech and audio into wiki.",
+        "title": "Audio Transcription",
+        "id": "db5c29db518e1fec"
+      },
+      "date": 1611740107084
+    },
+    {
+      "id": "9fbee73719047fa8",
+      "order": [
+        "9fbee73719047fa8",
+        "b5ca37fafe8eefb8",
+        "db5c29db518e1fec"
+      ],
+      "type": "move",
+      "date": 1611740120222
+    },
+    {
+      "id": "9fbee73719047fa8",
+      "type": "edit",
+      "item": {
+        "text": "Here we research automatic captioning or transcription for audio or video files.\n",
+        "id": "9fbee73719047fa8",
+        "type": "markdown"
+      },
+      "date": 1611740191832
+    },
+    {
+      "id": "a20d7a64a3ee002d",
+      "type": "add",
+      "item": {
+        "text": "- Automatic captioning of Youtube - [https://support.google.com/youtube/answer/6373554?hl=en-GB youtube]",
+        "id": "a20d7a64a3ee002d",
+        "type": "markdown"
+      },
+      "after": "9fbee73719047fa8",
+      "date": 1611740218763
+    },
+    {
+      "id": "a20d7a64a3ee002d",
+      "type": "edit",
+      "item": {
+        "text": "- Automatic captioning of Youtube - [https://support.google.com/youtube/answer/6373554?hl=en-GB youtube]\n- How to Transcribe YouTube Videos Automatically",
+        "id": "a20d7a64a3ee002d",
+        "type": "markdown"
+      },
+      "date": 1611740244124
+    },
+    {
+      "id": "a20d7a64a3ee002d",
+      "type": "edit",
+      "item": {
+        "text": "- Automatic captioning of Youtube - [https://support.google.com/youtube/answer/6373554?hl=en-GB youtube]\n- Transcribe YouTube Videos Automatically",
+        "id": "a20d7a64a3ee002d",
+        "type": "markdown"
+      },
+      "date": 1611740254998
+    },
+    {
+      "id": "a20d7a64a3ee002d",
+      "type": "edit",
+      "item": {
+        "text": "- Automatic captioning of Youtube - [https://support.google.com/youtube/answer/6373554?hl=en-GB youtube]\n- Transcribe YouTube Videos - [https://www.hongkiat.com/blog/three-ways-transcribe-youtube-videos/ hongkiat.com]",
+        "id": "a20d7a64a3ee002d",
+        "type": "markdown"
+      },
+      "date": 1611740273671
+    },
+    {
+      "id": "a20d7a64a3ee002d",
+      "type": "edit",
+      "item": {
+        "text": "- Automatic captioning of Youtube - [https://support.google.com/youtube/answer/6373554?hl=en-GB youtube]\n- Transcribe YouTube Videos - [https://www.hongkiat.com/blog/three-ways-transcribe-youtube-videos/ hongkiat.com]\n- [https://get.otter.ai/interview-transcription/?keywordgroup=voice+to+text&utm_content=transcription&utm_source=google_ads&utm_medium=cpc&utm_campaign=Search_Transcription_SelfServe_CPC&utm_term=youtube%20automatic%20transcription&gclid=CjwKCAiAu8SABhAxEiwAsodSZLuoanCEnQB5nE9XCVye57ZGwGK-unXMbQnzuadf9hW-Rz4c3eWjVRoCnNsQAvD_BwE otter.ai]",
+        "id": "a20d7a64a3ee002d",
+        "type": "markdown"
+      },
+      "date": 1611740305060
+    },
+    {
+      "id": "a20d7a64a3ee002d",
+      "type": "edit",
+      "item": {
+        "text": "- Automatic captioning of Youtube - [https://support.google.com/youtube/answer/6373554?hl=en-GB youtube]\n- Transcribe YouTube Videos - [https://www.hongkiat.com/blog/three-ways-transcribe-youtube-videos/ hongkiat.com]\n- [https://get.otter.ai/interview-transcription/?keywordgroup=voice+to+text&utm_content=transcription&utm_source=google_ads&utm_medium=cpc&utm_campaign=Search_Transcription_SelfServe_CPC&utm_term=youtube%20automatic%20transcription&gclid=CjwKCAiAu8SABhAxEiwAsodSZLuoanCEnQB5nE9XCVye57ZGwGK-unXMbQnzuadf9hW-Rz4c3eWjVRoCnNsQAvD_BwE Otter.ai]",
+        "id": "a20d7a64a3ee002d",
+        "type": "markdown"
+      },
+      "date": 1611740314263
+    },
+    {
+      "id": "a20d7a64a3ee002d",
+      "type": "edit",
+      "item": {
+        "text": "- Automatic captioning of Youtube - [https://support.google.com/youtube/answer/6373554?hl=en-GB youtube]\n- Transcribe YouTube Videos - [https://www.hongkiat.com/blog/three-ways-transcribe-youtube-videos/ hongkiat.com]\n- [https://get.otter.ai/interview-transcription/?keywordgroup=voice+to+text&utm_content=transcription&utm_source=google_ads&utm_medium=cpc&utm_campaign=Search_Transcription_SelfServe_CPC&utm_term=youtube%20automatic%20transcription&gclid=CjwKCAiAu8SABhAxEiwAsodSZLuoanCEnQB5nE9XCVye57ZGwGK-unXMbQnzuadf9hW-Rz4c3eWjVRoCnNsQAvD_BwE Otter.ai] and [https://trint.com/integrations?utm_medium=ppc&utm_source=adwords&utm_campaign=DE%7CGeneric&utm_content=9335724690%7C91643484382&utm_term=kwd-296761087840&tid=177432e657f721-009d32adf5f30e-6915227c-1fa400-177432e6580e00 trint.com]",
+        "id": "a20d7a64a3ee002d",
+        "type": "markdown"
+      },
+      "date": 1611740339077
+    },
+    {
+      "id": "08735371c5cb5cb4",
+      "type": "add",
+      "item": {
+        "id": "08735371c5cb5cb4",
+        "type": "factory"
+      },
+      "after": "db5c29db518e1fec",
+      "date": 1611740434802
+    },
+    {
+      "id": "08735371c5cb5cb4",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "transcription-software",
+        "site": "outlandish.academy",
+        "text": "Transcription software assists in the conversion of human speech into a text transcript. The primary meaning of the term \"transcription software\" has changed over time, with the introduction of new technologies such as natural language speech recognition.",
+        "title": "Transcription (software)",
+        "id": "08735371c5cb5cb4"
+      },
+      "date": 1611740437431
+    },
+    {
+      "id": "af306b2311ae4ee3",
+      "type": "add",
+      "item": {
+        "id": "af306b2311ae4ee3",
+        "type": "factory"
+      },
+      "after": "08735371c5cb5cb4",
+      "date": 1611740586242
+    },
+    {
+      "id": "af306b2311ae4ee3",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "web-speech-api",
+        "site": "outlandish.academy",
+        "text": "The Web Speech API aims to provide an alternative input method for web applications (without using a keyboard). With this API, developers can give web apps the ability to transcribe voice to text, from the computer's microphone.",
+        "title": "Web Speech API",
+        "id": "af306b2311ae4ee3"
+      },
+      "date": 1611740588651
+    },
+    {
+      "id": "b81443a4d8da5f8f",
+      "type": "add",
+      "item": {
+        "id": "b81443a4d8da5f8f",
+        "type": "factory"
+      },
+      "after": "af306b2311ae4ee3",
+      "date": 1611740592164
+    },
+    {
+      "id": "b81443a4d8da5f8f",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "google-cloud-speech-api",
+        "site": "outlandish.academy",
+        "text": "Google Cloud Speech [[API]] enables developers to convert audio to text by applying powerful neural network models in an easy to use API - [https://cloud.google.com/speech/?gclid=CjwKEAjww_a8BRDB-O-OqZb_vRASJAA9yrc5NlS9bfBEKZ50vGer1z0igd3-gcqeI68K5RiLfoIzFxoCBuLw_wcB cloud.google.com]",
+        "title": "Google Cloud Speech API",
+        "id": "b81443a4d8da5f8f"
+      },
+      "date": 1611740594739
+    },
+    {
+      "id": "08735371c5cb5cb4",
+      "order": [
+        "9fbee73719047fa8",
+        "a20d7a64a3ee002d",
+        "08735371c5cb5cb4",
+        "b5ca37fafe8eefb8",
+        "db5c29db518e1fec",
+        "af306b2311ae4ee3",
+        "b81443a4d8da5f8f"
+      ],
+      "type": "move",
+      "date": 1611740601854
+    },
+    {
+      "date": 1611740415350,
+      "type": "remove",
+      "id": "b81443a4d8da5f8f"
+    },
+    {
+      "date": 1611740415350,
+      "type": "remove",
+      "id": "af306b2311ae4ee3"
+    },
+    {
+      "date": 1611740415350,
+      "type": "remove",
+      "id": "db5c29db518e1fec"
+    },
+    {
+      "date": 1611740415350,
+      "type": "remove",
+      "id": "b5ca37fafe8eefb8"
+    },
+    {
+      "date": 1611740415350,
+      "type": "remove",
+      "id": "08735371c5cb5cb4"
+    },
+    {
+      "type": "add",
+      "id": "7edbd993-c822-4998-9690-6ae7c18f5f66",
+      "item": {
+        "id": "7edbd993-c822-4998-9690-6ae7c18f5f66",
+        "type": "factory"
+      },
+      "date": 1611740415351,
+      "after": "a20d7a64a3ee002d"
+    },
+    {
+      "id": "7edbd993-c822-4998-9690-6ae7c18f5f66",
+      "type": "edit",
+      "item": {
+        "type": "markdown",
+        "id": "7edbd993-c822-4998-9690-6ae7c18f5f66",
+        "text": "# See also"
+      },
+      "date": 1611740415351
+    },
+    {
+      "type": "add",
+      "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "item": {
+        "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+        "type": "factory"
+      },
+      "date": 1611740415352,
+      "after": "7edbd993-c822-4998-9690-6ae7c18f5f66"
+    },
+    {
+      "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "type": "edit",
+      "item": {
+        "type": "markdown",
+        "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+        "text": "- [[Transcription (software)]]\n- [[Transcription API]]\n- [[Audio Transcription]]\n- [[Web Speech API]]\n- [[Google Cloud Speech API]]"
+      },
+      "date": 1611740415352
+    },
+    {
+      "type": "fork",
+      "date": 1611740746377
+    },
+    {
+      "type": "edit",
+      "id": "a20d7a64a3ee002d",
+      "item": {
+        "text": "# Transcribing Youtube videos\n",
+        "type": "markdown",
+        "id": "a20d7a64a3ee002d"
+      },
+      "date": 1611740763716
+    },
+    {
+      "type": "add",
+      "id": "7db26987b9bb83ea",
+      "item": {
+        "type": "markdown",
+        "id": "7db26987b9bb83ea",
+        "text": "- Automatic captioning of Youtube - [https://support.google.com/youtube/answer/6373554?hl=en-GB youtube]\n- Transcribe YouTube Videos - [https://www.hongkiat.com/blog/three-ways-transcribe-youtube-videos/ hongkiat.com]\n\n"
+      },
+      "after": "a20d7a64a3ee002d",
+      "date": 1611740767357
+    },
+    {
+      "type": "add",
+      "id": "6da9fe63a5b46497",
+      "item": {
+        "type": "markdown",
+        "id": "6da9fe63a5b46497",
+        "text": "- [https://get.otter.ai/interview-transcription/?keywordgroup=voice+to+text&utm_content=transcription&utm_source=google_ads&utm_medium=cpc&utm_campaign=Search_Transcription_SelfServe_CPC&utm_term=youtube%20automatic%20transcription&gclid=CjwKCAiAu8SABhAxEiwAsodSZLuoanCEnQB5nE9XCVye57ZGwGK-unXMbQnzuadf9hW-Rz4c3eWjVRoCnNsQAvD_BwE Otter.ai] and [https://trint.com/integrations?utm_medium=ppc&utm_source=adwords&utm_campaign=DE%7CGeneric&utm_content=9335724690%7C91643484382&utm_term=kwd-296761087840&tid=177432e657f721-009d32adf5f30e-6915227c-1fa400-177432e6580e00 trint.com]"
+      },
+      "after": "7db26987b9bb83ea",
+      "date": 1611740768067
+    },
+    {
+      "id": "6da9fe63a5b46497",
+      "type": "move",
+      "order": [
+        "9fbee73719047fa8",
+        "a20d7a64a3ee002d",
+        "7db26987b9bb83ea",
+        "7edbd993-c822-4998-9690-6ae7c18f5f66",
+        "6da9fe63a5b46497",
+        "e962b124-2b6c-4bcc-8176-22c47353bf35"
+      ],
+      "date": 1611740772326
+    },
+    {
+      "id": "6da9fe63a5b46497",
+      "type": "remove",
+      "date": 1611740779841
+    },
+    {
+      "type": "edit",
+      "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "item": {
+        "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+        "type": "markdown",
+        "text": "- [[Transcription (software)]]\n- [[Transcription API]]\n- [[Audio Transcription]]\n- [[Web Speech API]]\n- [[Google Cloud Speech API]]\n- [[Text Mining]]\n"
+      },
+      "date": 1611740814515
+    },
+    {
+      "type": "add",
+      "id": "19cfde00ec5b7c79",
+      "item": {
+        "type": "markdown",
+        "id": "19cfde00ec5b7c79",
+        "text": "YouTube can use speech recognition technology to automatically create captions for your videos.\n\n> Note: These automatic captions are generated by machine learning algorithms, so the quality of the captions may vary. We encourage creators to provide professional captions first. YouTube is constantly improving its speech recognition technology. However, automatic captions might misrepresent the spoken content due to mispronunciations, accents, dialects or background noise. You should always review automatic captions and edit any parts that haven't been properly transcribed."
+      },
+      "after": "a20d7a64a3ee002d",
+      "date": 1611741033595
+    },
+    {
+      "type": "edit",
+      "id": "7db26987b9bb83ea",
+      "item": {
+        "type": "markdown",
+        "id": "7db26987b9bb83ea",
+        "text": "- Transcribe YouTube Videos - [https://www.hongkiat.com/blog/three-ways-transcribe-youtube-videos/ hongkiat.com]\n\n"
+      },
+      "date": 1611741057137
+    },
+    {
+      "type": "edit",
+      "id": "19cfde00ec5b7c79",
+      "item": {
+        "type": "markdown",
+        "id": "19cfde00ec5b7c79",
+        "text": "YouTube can use speech recognition technology to automatically create captions for your videos - [https://support.google.com/youtube/answer/6373554?hl=en-GB youtube]\n\n> Note: These automatic captions are generated by machine learning algorithms, so the quality of the captions may vary. We encourage creators to provide professional captions first. YouTube is constantly improving its speech recognition technology. However, automatic captions might misrepresent the spoken content due to mispronunciations, accents, dialects or background noise. You should always review automatic captions and edit any parts that haven't been properly transcribed."
+      },
+      "date": 1611741067281
+    },
+    {
+      "id": "7db26987b9bb83ea",
+      "type": "move",
+      "order": [
+        "9fbee73719047fa8",
+        "a20d7a64a3ee002d",
+        "7db26987b9bb83ea",
+        "19cfde00ec5b7c79",
+        "7edbd993-c822-4998-9690-6ae7c18f5f66",
+        "e962b124-2b6c-4bcc-8176-22c47353bf35"
+      ],
+      "date": 1611741078439
+    },
+    {
+      "type": "edit",
+      "id": "19cfde00ec5b7c79",
+      "item": {
+        "type": "markdown",
+        "id": "19cfde00ec5b7c79",
+        "text": "YouTube can use speech recognition technology to automatically create captions for your videos - [https://support.google.com/youtube/answer/6373554?hl=en-GB youtube]\n"
+      },
+      "date": 1611741082967
+    },
+    {
+      "type": "add",
+      "id": "c9b8f7a3302c2097",
+      "item": {
+        "type": "markdown",
+        "id": "c9b8f7a3302c2097",
+        "text": "> Note: These automatic captions are generated by machine learning algorithms, so the quality of the captions may vary. We encourage creators to provide professional captions first. YouTube is constantly improving its speech recognition technology. However, automatic captions might misrepresent the spoken content due to mispronunciations, accents, dialects or background noise. \n\n> You should always review automatic captions and edit any parts that haven't been properly transcribed."
+      },
+      "after": "19cfde00ec5b7c79",
+      "date": 1611741094516
+    },
+    {
+      "type": "edit",
+      "id": "c9b8f7a3302c2097",
+      "item": {
+        "type": "markdown",
+        "id": "c9b8f7a3302c2097",
+        "text": "> Note: These automatic captions are generated by machine learning algorithms, so the quality of the captions may vary. We encourage creators to provide professional captions first. \n\n> YouTube is constantly improving its speech recognition technology. However, automatic captions might misrepresent the spoken content due to mispronunciations, accents, dialects or background noise. \n\n> You should always review automatic captions and edit any parts that haven't been properly transcribed."
+      },
+      "date": 1611741109953
+    },
+    {
+      "id": "19cfde00ec5b7c79",
+      "type": "move",
+      "order": [
+        "9fbee73719047fa8",
+        "a20d7a64a3ee002d",
+        "19cfde00ec5b7c79",
+        "7db26987b9bb83ea",
+        "c9b8f7a3302c2097",
+        "7edbd993-c822-4998-9690-6ae7c18f5f66",
+        "e962b124-2b6c-4bcc-8176-22c47353bf35"
+      ],
+      "date": 1611741113719
+    },
+    {
+      "type": "add",
+      "id": "8e1c49bfeb3dd241",
+      "item": {
+        "type": "markdown",
+        "id": "8e1c49bfeb3dd241",
+        "text": "A key aim for the outlandish P2P methodology is to provide access to teaching in many languages, and a=in an interactive format. Generating transcripts for video and audio files is a key step towards that goal.\n"
+      },
+      "after": "9fbee73719047fa8",
+      "date": 1611741714451
+    }
+  ],
+  "story": [
+    {
+      "text": "Here we research automatic captioning or transcription for audio or video files.\n",
+      "type": "markdown",
+      "id": "9fbee73719047fa8"
+    },
+    {
+      "type": "markdown",
+      "id": "8e1c49bfeb3dd241",
+      "text": "A key aim for the outlandish P2P methodology is to provide access to teaching in many languages, and a=in an interactive format. Generating transcripts for video and audio files is a key step towards that goal.\n"
+    },
+    {
+      "text": "# Transcribing Youtube videos\n",
+      "type": "markdown",
+      "id": "a20d7a64a3ee002d"
+    },
+    {
+      "type": "markdown",
+      "id": "19cfde00ec5b7c79",
+      "text": "YouTube can use speech recognition technology to automatically create captions for your videos - [https://support.google.com/youtube/answer/6373554?hl=en-GB youtube]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "7db26987b9bb83ea",
+      "text": "- Transcribe YouTube Videos - [https://www.hongkiat.com/blog/three-ways-transcribe-youtube-videos/ hongkiat.com]\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "c9b8f7a3302c2097",
+      "text": "> Note: These automatic captions are generated by machine learning algorithms, so the quality of the captions may vary. We encourage creators to provide professional captions first. \n\n> YouTube is constantly improving its speech recognition technology. However, automatic captions might misrepresent the spoken content due to mispronunciations, accents, dialects or background noise. \n\n> You should always review automatic captions and edit any parts that haven't been properly transcribed."
+    },
+    {
+      "id": "7edbd993-c822-4998-9690-6ae7c18f5f66",
+      "type": "markdown",
+      "text": "# See also"
+    },
+    {
+      "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "type": "markdown",
+      "text": "- [[Transcription (software)]]\n- [[Transcription API]]\n- [[Audio Transcription]]\n- [[Web Speech API]]\n- [[Google Cloud Speech API]]\n- [[Text Mining]]\n"
+    }
+  ]
+}
