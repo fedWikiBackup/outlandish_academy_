@@ -466,6 +466,58 @@
       },
       "after": "9fbee73719047fa8",
       "date": 1611741714451
+    },
+    {
+      "type": "add",
+      "id": "24f2c92b5ac8e2b4",
+      "item": {
+        "type": "markdown",
+        "id": "24f2c92b5ac8e2b4",
+        "text": "> Note: I'm not sure how well Youtube works - but it is getting very good rapidly. Using Otter.ai seems to be the recommended quality way to go. Currently that involves extracting the audio track I believe. The aim should be to build processes into WCS that automate / and / or make this easy to do for every course."
+      },
+      "after": "8e1c49bfeb3dd241",
+      "date": 1611741784219
+    },
+    {
+      "type": "edit",
+      "id": "24f2c92b5ac8e2b4",
+      "item": {
+        "type": "markdown",
+        "id": "24f2c92b5ac8e2b4",
+        "text": "> Note: I'm not sure how well Youtube works - but it is getting very good rapidly. \n"
+      },
+      "date": 1611741803112
+    },
+    {
+      "type": "add",
+      "id": "0688d993297665f0",
+      "item": {
+        "type": "markdown",
+        "id": "0688d993297665f0",
+        "text": "# Current recommendation\nUsing Otter.ai seems to be the recommended quality way to go. Currently that involves extracting the audio track I believe. The aim should be to build processes into WCS that automate / and / or make this easy to do for every course."
+      },
+      "after": "24f2c92b5ac8e2b4",
+      "date": 1611741809414
+    },
+    {
+      "type": "edit",
+      "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "item": {
+        "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+        "type": "markdown",
+        "text": "- [[Transcription (software)]]\n- [[Transcription API]]\n- [[Audio Transcription]]\n- [[Web Speech API]]\n- [[Google Cloud Speech API]]\n- [[Text Mining]]\n- [[many Voices]]\n"
+      },
+      "date": 1611742323935
+    },
+    {
+      "type": "edit",
+      "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "item": {
+        "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+        "type": "markdown",
+        "text": "- [[Transcription (software)]]\n- [[Transcription API]]\n- [[Audio Transcription]]\n- [[Web Speech API]]\n- [[Google Cloud Speech API]]\n- [[Text Mining]]\n- [[Many Voices]]\n"
+      },
+      "date": 1611742328030
     }
   ],
   "story": [
@@ -478,6 +530,16 @@
       "type": "markdown",
       "id": "8e1c49bfeb3dd241",
       "text": "A key aim for the outlandish P2P methodology is to provide access to teaching in many languages, and a=in an interactive format. Generating transcripts for video and audio files is a key step towards that goal.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "24f2c92b5ac8e2b4",
+      "text": "> Note: I'm not sure how well Youtube works - but it is getting very good rapidly. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "0688d993297665f0",
+      "text": "# Current recommendation\nUsing Otter.ai seems to be the recommended quality way to go. Currently that involves extracting the audio track I believe. The aim should be to build processes into WCS that automate / and / or make this easy to do for every course."
     },
     {
       "text": "# Transcribing Youtube videos\n",
@@ -507,7 +569,7 @@
     {
       "id": "e962b124-2b6c-4bcc-8176-22c47353bf35",
       "type": "markdown",
-      "text": "- [[Transcription (software)]]\n- [[Transcription API]]\n- [[Audio Transcription]]\n- [[Web Speech API]]\n- [[Google Cloud Speech API]]\n- [[Text Mining]]\n"
+      "text": "- [[Transcription (software)]]\n- [[Transcription API]]\n- [[Audio Transcription]]\n- [[Web Speech API]]\n- [[Google Cloud Speech API]]\n- [[Text Mining]]\n- [[Many Voices]]\n"
     }
   ]
 }
