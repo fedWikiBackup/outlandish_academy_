@@ -1,0 +1,284 @@
+{
+  "title": "Transcription API",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "0c2dbe9b9c244b9b",
+      "text": "It seems like Amazon has the cheepest and most accurate service - [https://www.armedia.com/blog/transcription-services-aws-google-ibm-nuance/ review]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "45f91d0a95395bd2",
+      "text": "# Amazon Transcribe\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b3afe97823cf3dc8",
+      "text": "Currently, Amazon’s transcription service is able to process multimedia content:\n\n- Duration: maximum 2 hours,\n- Custom Vocabulary: maximum 50 KB file size\n- Sampling rate: from 8KHz (telephony audio) to 48Kh\n- Languages: English and Spanish\n- Formats: In WAV, mp3, mp4, FLAC\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "abf8727f49a25040",
+      "text": "Thanks to AWS processing prowess, Amazon Transcribe is doing transcription at an astonishing speed.\n\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "e34e17e9bae55986",
+      "text": "The best thing about Amazon Transcribe is the accuracy of transcriptions. AWS has been the world’s most comprehensive and broadly adopted cloud platform for the last 12 years. This experience can be seen in the accuracy Amazon Transcribe shows in their results.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "acdad4314e7b8e14",
+      "text": "Upon signup, start analyzing up to 60 minutes of audio monthly, free for the first 12 months.  Amazon Transcribe API is billed monthly at a rate of $0.00056 per second - [https://aws.amazon.com/transcribe/pricing/?nc=sn&loc=3 pricing]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "b0e1bfa844b2c170",
+      "text": "\n"
+    },
+    {
+      "type": "markdown",
+      "id": "4f19666e6642390c",
+      "text": "# API Research\n- https://www.one-tab.com/page/JmLYQdTeTp6W8-fr70Dqgw\n"
+    },
+    {
+      "type": "markdown",
+      "id": "3371d516eb19f1a6",
+      "text": "# See also"
+    },
+    {
+      "type": "markdown",
+      "id": "1556007de08f301d",
+      "text": "- [[Text Mining]]\n- [[Transcription (software)]]\n- [[Transcription API]]\n- [[Audio Transcription]]\n- [[Web Speech API]]\n- [[Google Cloud Speech API]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Transcription API",
+        "story": []
+      },
+      "date": 1577129282673
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0c2dbe9b9c244b9b"
+      },
+      "id": "0c2dbe9b9c244b9b",
+      "type": "add",
+      "date": 1577129283854
+    },
+    {
+      "type": "edit",
+      "id": "0c2dbe9b9c244b9b",
+      "item": {
+        "type": "markdown",
+        "id": "0c2dbe9b9c244b9b",
+        "text": "It seems like Amazon has the cheepest and most accurate service:\n"
+      },
+      "date": 1577129317595
+    },
+    {
+      "type": "add",
+      "id": "4f19666e6642390c",
+      "item": {
+        "type": "markdown",
+        "id": "4f19666e6642390c",
+        "text": "# API Research\n- https://www.one-tab.com/page/JmLYQdTeTp6W8-fr70Dqgw\n"
+      },
+      "after": "0c2dbe9b9c244b9b",
+      "date": 1577129331367
+    },
+    {
+      "type": "add",
+      "id": "3371d516eb19f1a6",
+      "item": {
+        "type": "markdown",
+        "id": "3371d516eb19f1a6",
+        "text": "# See also"
+      },
+      "after": "4f19666e6642390c",
+      "date": 1577129334339
+    },
+    {
+      "type": "add",
+      "id": "393ee0487495af74",
+      "item": {
+        "type": "markdown",
+        "id": "393ee0487495af74",
+        "text": "- (see [https://www.armedia.com/blog/transcription-services-aws-google-ibm-nuance/ review)"
+      },
+      "after": "0c2dbe9b9c244b9b",
+      "date": 1577129416898
+    },
+    {
+      "type": "edit",
+      "id": "393ee0487495af74",
+      "item": {
+        "type": "markdown",
+        "id": "393ee0487495af74",
+        "text": "- see [https://www.armedia.com/blog/transcription-services-aws-google-ibm-nuance/ review)"
+      },
+      "date": 1577129425190
+    },
+    {
+      "type": "edit",
+      "id": "393ee0487495af74",
+      "item": {
+        "type": "markdown",
+        "id": "393ee0487495af74",
+        "text": "- see [https://www.armedia.com/blog/transcription-services-aws-google-ibm-nuance/ review]"
+      },
+      "date": 1577129437399
+    },
+    {
+      "type": "remove",
+      "id": "393ee0487495af74",
+      "date": 1577129492768
+    },
+    {
+      "type": "edit",
+      "id": "0c2dbe9b9c244b9b",
+      "item": {
+        "type": "markdown",
+        "id": "0c2dbe9b9c244b9b",
+        "text": "It seems like Amazon has the cheepest and most accurate service - [https://www.armedia.com/blog/transcription-services-aws-google-ibm-nuance/ review]\n"
+      },
+      "date": 1577129500920
+    },
+    {
+      "type": "add",
+      "id": "45f91d0a95395bd2",
+      "item": {
+        "type": "markdown",
+        "id": "45f91d0a95395bd2",
+        "text": "# Amazon Transcribe\n"
+      },
+      "after": "0c2dbe9b9c244b9b",
+      "date": 1577129509294
+    },
+    {
+      "type": "add",
+      "id": "b3afe97823cf3dc8",
+      "item": {
+        "type": "markdown",
+        "id": "b3afe97823cf3dc8",
+        "text": "Currently, Amazon’s transcription service is able to process multimedia content:\n\n- Duration: maximum 2 hours,\n- Custom Vocabulary: maximum 50 KB file size\n- Sampling rate: from 8KHz (telephony audio) to 48Kh\n- Languages: English and Spanish\n- Formats: In WAV, mp3, mp4, FLAC\n\n"
+      },
+      "after": "45f91d0a95395bd2",
+      "date": 1577129527151
+    },
+    {
+      "type": "add",
+      "id": "abf8727f49a25040",
+      "item": {
+        "type": "markdown",
+        "id": "abf8727f49a25040",
+        "text": "Thanks to AWS processing prowess, Amazon Transcribe is doing transcription at an astonishing speed.\n\n\n"
+      },
+      "after": "b3afe97823cf3dc8",
+      "date": 1577129530337
+    },
+    {
+      "type": "add",
+      "id": "e34e17e9bae55986",
+      "item": {
+        "type": "markdown",
+        "id": "e34e17e9bae55986",
+        "text": "The best thing about Amazon Transcribe is the accuracy of transcriptions. AWS has been the world’s most comprehensive and broadly adopted cloud platform for the last 12 years. This experience can be seen in the accuracy Amazon Transcribe shows in their results."
+      },
+      "after": "abf8727f49a25040",
+      "date": 1577129530874
+    },
+    {
+      "type": "edit",
+      "id": "e34e17e9bae55986",
+      "item": {
+        "type": "markdown",
+        "id": "e34e17e9bae55986",
+        "text": "The best thing about Amazon Transcribe is the accuracy of transcriptions. AWS has been the world’s most comprehensive and broadly adopted cloud platform for the last 12 years. This experience can be seen in the accuracy Amazon Transcribe shows in their results.\n"
+      },
+      "date": 1577129558718
+    },
+    {
+      "type": "add",
+      "id": "acdad4314e7b8e14",
+      "item": {
+        "type": "markdown",
+        "id": "acdad4314e7b8e14",
+        "text": "Amazon Transcribe API is billed monthly at a rate of $0.00056 per second. Usage is billed in one-second increments, with a minimum per request charge of 15 seconds.\n\n"
+      },
+      "after": "e34e17e9bae55986",
+      "date": 1577129561678
+    },
+    {
+      "type": "edit",
+      "id": "acdad4314e7b8e14",
+      "item": {
+        "type": "markdown",
+        "id": "acdad4314e7b8e14",
+        "text": "Amazon Transcribe API is billed monthly at a rate of $0.00056 per second - [https://aws.amazon.com/transcribe/pricing/?nc=sn&loc=3 pricing]\n"
+      },
+      "date": 1577129683735
+    },
+    {
+      "type": "add",
+      "id": "b0e1bfa844b2c170",
+      "item": {
+        "type": "markdown",
+        "id": "b0e1bfa844b2c170",
+        "text": "Usage is billed in one-second increments, with a minimum per request charge of 15 seconds.\n\n"
+      },
+      "after": "acdad4314e7b8e14",
+      "date": 1577129684251
+    },
+    {
+      "type": "edit",
+      "id": "b0e1bfa844b2c170",
+      "item": {
+        "type": "markdown",
+        "id": "b0e1bfa844b2c170",
+        "text": "\n"
+      },
+      "date": 1577129695473
+    },
+    {
+      "type": "edit",
+      "id": "acdad4314e7b8e14",
+      "item": {
+        "type": "markdown",
+        "id": "acdad4314e7b8e14",
+        "text": "Upon signup, start analyzing up to 60 minutes of audio monthly, free for the first 12 months.  Amazon Transcribe API is billed monthly at a rate of $0.00056 per second - [https://aws.amazon.com/transcribe/pricing/?nc=sn&loc=3 pricing]\n"
+      },
+      "date": 1577129848507
+    },
+    {
+      "id": "1556007de08f301d",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "1556007de08f301d",
+        "text": "- [[Text Mining]]\n- [[Transcription API]]"
+      },
+      "after": "3371d516eb19f1a6",
+      "date": 1577183827569
+    },
+    {
+      "type": "fork",
+      "site": "api.c0de.academy",
+      "date": 1611740348891
+    },
+    {
+      "type": "edit",
+      "id": "1556007de08f301d",
+      "item": {
+        "type": "markdown",
+        "id": "1556007de08f301d",
+        "text": "- [[Text Mining]]\n- [[Transcription (software)]]\n- [[Transcription API]]\n- [[Audio Transcription]]\n- [[Web Speech API]]\n- [[Google Cloud Speech API]]"
+      },
+      "date": 1611740812432
+    }
+  ]
+}
