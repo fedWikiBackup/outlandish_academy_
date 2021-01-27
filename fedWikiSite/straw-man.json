@@ -1,0 +1,109 @@
+{
+  "title": "Straw man",
+  "journal": [
+    {
+      "date": 1606308622537,
+      "item": {
+        "title": "Straw man",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1606308873754
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5cd91e96d7611fb5"
+      },
+      "id": "5cd91e96d7611fb5",
+      "type": "add",
+      "after": "1fc4079e-14bb-40e0-8d3e-f5097f3f7844",
+      "date": 1606308973528
+    },
+    {
+      "type": "edit",
+      "id": "5cd91e96d7611fb5",
+      "item": {
+        "type": "markdown",
+        "id": "5cd91e96d7611fb5",
+        "text": "# See also\n\n- [[Straw man]]\n- [[Steelman argument]]\n- [[Nut Picking]]\n"
+      },
+      "date": 1606308975543
+    },
+    {
+      "type": "edit",
+      "id": "5cd91e96d7611fb5",
+      "item": {
+        "type": "markdown",
+        "id": "5cd91e96d7611fb5",
+        "text": "# See also\n\n- [[Steelman argument]]\n- [[Nut Picking]]\n"
+      },
+      "date": 1606308982857
+    },
+    {
+      "type": "fork",
+      "site": "david.dojo.fed.wiki",
+      "date": 1611755823571
+    }
+  ],
+  "story": [
+    {
+      "id": "bc274354-21f8-4f2b-af2f-9ddd7aa77e29",
+      "type": "markdown",
+      "text": "A __straw man__ (sometimes written as __strawman__, also sometimes __straw dog__) is a form of [[logical argument]] and an [[informal fallacy]] of having the impression of refuting an argument, whereas the proper idea of argument under discussion was not addressed or properly refuted. One who engages in this fallacy is said to be \"attacking a straw man\" - [https://en.wikipedia.org/wiki/Straw_man wikipedia]"
+    },
+    {
+      "id": "2f3886fd-be5a-4abb-ae28-35ee6ae221b2",
+      "type": "html",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://commons.wikimedia.org/wiki/File:Wdzydze_strach.jpg' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wdzydze_strach.jpg/420px-Wdzydze_strach.jpg'>\n</a>\n<p class=caption>\nA straw man - [https://commons.wikimedia.org/wiki/File:Wdzydze_strach.jpg wikimedia]\n</p></div>"
+    },
+    {
+      "id": "8f1095f0-87d3-4c27-b60f-1ec80cfc4a1d",
+      "type": "markdown",
+      "text": "The typical straw man argument creates the illusion of having completely refuted or defeated an opponent's proposition through the covert replacement of it with a different proposition (i.e., \"stand up a straw man\") and the subsequent refutation of that false argument (\"knock down a straw man\") instead of the opponent's proposition. Straw man arguments have been used throughout history in [[polemic]], particularly regarding highly charged emotional subjects."
+    },
+    {
+      "id": "0864bb67-2cb9-4896-9727-74b202b1f6f8",
+      "type": "markdown",
+      "text": "Straw man tactics in the United Kingdom may also be known as an [[Aunt Sally#Language]], after a pub game of the same name, where patrons throw sticks or battens at a post to knock off a [[Glossary of cue sports terms#skittle]] balanced on top."
+    },
+    {
+      "id": "b12ce3d4-5285-49a2-a533-28f1ccf611e5",
+      "type": "markdown",
+      "text": "# Sections"
+    },
+    {
+      "id": "730a1a7a-72dd-42e9-b9b4-04c8adfdf740",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"History\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Straw man&action=edit&section=1\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "0dee40cf-a8de-4037-a05f-3a1668d3cf6a",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Structure\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Straw man&action=edit&section=2\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "ab0fbd36-ba9e-4e81-bd84-049bfd2974ab",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Examples\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Straw man&action=edit&section=3\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "d4211914-2099-4811-b2ed-167e9b44e7e6",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Contemporary work\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Straw man&action=edit&section=4\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "1fc4079e-14bb-40e0-8d3e-f5097f3f7844",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Steelmanning\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Straw man&action=edit&section=5\">\n<input type=submit value=create></form>"
+    },
+    {
+      "type": "markdown",
+      "id": "5cd91e96d7611fb5",
+      "text": "# See also\n\n- [[Steelman argument]]\n- [[Nut Picking]]\n"
+    }
+  ]
+}
