@@ -1,0 +1,71 @@
+{
+  "title": "Many Voices",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "aff719761e223f4a",
+      "text": "I see the path to this through creating partnerships. I had a discussion with a language school based in the US yesterday - the explicitly mentioned Urdu as a focus. The \"WCS Translation project\" should involve our contact working with translation and Wikipedia, and other such interested parties.\n\nAs with everything - I am proposing taking the task of what we need to build and turning it into a WCS Study Group - that is applying the p2p methodology radically to our own internal practice.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "49b2ee30d34d25b2",
+      "text": "In the case of translation it would be something like:\n\n1) Convene a group with energy around translation issues. In this case the \"Speaking in Tongues\" proto- group  described earlier with deaf community, software developers, and indigenous language\n\n2) Run a time limited set of workshops with the group. Explore software tools, build community, look for funding in the course / workshops\n\n3) Award a WCS Certificate in \"Translation / Diversity\" and require participants to pay back their learning by teaching what they have leraned or by other ways of supporting WCS.\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "154dc2a5394ad520",
+      "text": "So basically I hope to get the transcription and translation aspect tackled over the next 12 weeks by getting a group together looking at how we work with video and translation - I'm thinking of calling this at the moment the Many Voices course."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Many Voices",
+        "story": []
+      },
+      "date": 1611742331046
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "aff719761e223f4a"
+      },
+      "id": "aff719761e223f4a",
+      "type": "add",
+      "date": 1611742331957
+    },
+    {
+      "type": "edit",
+      "id": "aff719761e223f4a",
+      "item": {
+        "type": "markdown",
+        "id": "aff719761e223f4a",
+        "text": "I see the path to this through creating partnerships. I had a discussion with a language school based in the US yesterday - the explicitly mentioned Urdu as a focus. The \"WCS Translation project\" should involve our contact working with translation and Wikipedia, and other such interested parties.\n\nAs with everything - I am proposing taking the task of what we need to build and turning it into a WCS Study Group - that is applying the p2p methodology radically to our own internal practice.\n"
+      },
+      "date": 1611742350247
+    },
+    {
+      "type": "add",
+      "id": "49b2ee30d34d25b2",
+      "item": {
+        "type": "markdown",
+        "id": "49b2ee30d34d25b2",
+        "text": "In the case of translation it would be something like:\n\n1) Convene a group with energy around translation issues. In this case the \"Speaking in Tongues\" proto- group  described earlier with deaf community, software developers, and indigenous language\n\n2) Run a time limited set of workshops with the group. Explore software tools, build community, look for funding in the course / workshops\n\n3) Award a WCS Certificate in \"Translation / Diversity\" and require participants to pay back their learning by teaching what they have leraned or by other ways of supporting WCS.\n\n"
+      },
+      "after": "aff719761e223f4a",
+      "date": 1611742357999
+    },
+    {
+      "type": "add",
+      "id": "154dc2a5394ad520",
+      "item": {
+        "type": "markdown",
+        "id": "154dc2a5394ad520",
+        "text": "So basically I hope to get the transcription and translation aspect tackled over the next 12 weeks by getting a group together looking at how we work with video and translation - I'm thinking of calling this at the moment the Many Voices course."
+      },
+      "after": "49b2ee30d34d25b2",
+      "date": 1611742358474
+    }
+  ]
+}
