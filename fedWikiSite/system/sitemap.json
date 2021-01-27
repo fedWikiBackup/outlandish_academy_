@@ -2564,7 +2564,7 @@
   {
     "slug": "transcription",
     "title": "Transcription",
-    "date": 1611741714451,
+    "date": 1611742328030,
     "synopsis": "Here we research automatic captioning or transcription for audio or video files.",
     "links": {
       "transcription-software": "e962b124-2b6c-4bcc-8176-22c47353bf35",
@@ -2572,7 +2572,8 @@
       "audio-transcription": "e962b124-2b6c-4bcc-8176-22c47353bf35",
       "web-speech-api": "e962b124-2b6c-4bcc-8176-22c47353bf35",
       "google-cloud-speech-api": "e962b124-2b6c-4bcc-8176-22c47353bf35",
-      "text-mining": "e962b124-2b6c-4bcc-8176-22c47353bf35"
+      "text-mining": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "many-voices": "e962b124-2b6c-4bcc-8176-22c47353bf35"
     }
   },
   {
@@ -2630,5 +2631,11 @@
       "web-speech-api": "078517e0a275b5ac",
       "google-cloud-speech-api": "078517e0a275b5ac"
     }
+  },
+  {
+    "slug": "many-voices",
+    "title": "Many Voices",
+    "date": 1611742358474,
+    "synopsis": "I see the path to this through creating partnerships. I had a discussion with a language school based in the US yesterday - the explicitly mentioned Urdu as a focus. The \"WCS Translation project\" should involve our contact working with translation and Wikipedia, and other such interested parties."
   }
 ]
