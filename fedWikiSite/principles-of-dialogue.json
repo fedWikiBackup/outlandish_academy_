@@ -1,0 +1,138 @@
+{
+  "title": "Principles of dialogue",
+  "journal": [
+    {
+      "date": 1606305212440,
+      "item": {
+        "title": "Principles of dialogue",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1606305469163
+    },
+    {
+      "id": "f94f677e-1eba-4928-b977-9f1763313b95",
+      "type": "remove",
+      "date": 1606305471771
+    },
+    {
+      "type": "remove",
+      "id": "fdd9d4e4-a0f7-41ad-b69d-877422c7db29",
+      "date": 1606305479349
+    },
+    {
+      "type": "fork",
+      "site": "david.dojo.fed.wiki"
+    },
+    {
+      "type": "edit",
+      "id": "a91488d8-a9f9-4b00-a682-e59fc4baaa75",
+      "item": {
+        "id": "a91488d8-a9f9-4b00-a682-e59fc4baaa75",
+        "type": "markdown",
+        "text": "> The group agrees that no group-level decisions will be made in the conversation.'' \"...In the dialogue group we are not going to decide what to do about anything. This is crucial. Otherwise we are not free. We must have an empty space where we are not obliged to anything, nor to come to any conclusions, nor to say anything or not say anything. It's open and free.\" (Bohm, \"On Dialogue\", p.18-19.) - [https://en.wikipedia.org/wiki/Bohm_Dialogue#Principles_of_dialogue wikipedia]"
+      },
+      "date": 1611755702531
+    },
+    {
+      "type": "edit",
+      "id": "0a4f0eda-771e-48b1-b159-7a0cea49a28e",
+      "item": {
+        "id": "0a4f0eda-771e-48b1-b159-7a0cea49a28e",
+        "type": "markdown",
+        "text": "> Each individual agrees to suspend judgement in the conversation.'' (Specifically, if the individual hears an idea he doesn't like, he does not attack that idea.) \"...people in any group will bring to it assumptions, and as the group continues meeting, those assumptions will come up. What is called for is to suspend those assumptions, so that you neither carry them out nor suppress them. You don't believe them, nor do you disbelieve them; you don't judge them as good or bad...(Bohm, \"On Dialogue\", p.22.)\""
+      },
+      "date": 1611755729240
+    },
+    {
+      "type": "edit",
+      "id": "694b1fe4-15b1-40c4-bbb4-94b51de3dfea",
+      "item": {
+        "id": "694b1fe4-15b1-40c4-bbb4-94b51de3dfea",
+        "type": "markdown",
+        "text": "> As these individuals \"suspend judgement\" they also simultaneously are as honest and transparent as possible.'' (Specifically, if the individual has a \"good idea\" that he might otherwise hold back from the group because it is too controversial, he will share that idea in this conversation.)"
+      },
+      "date": 1611755744868
+    },
+    {
+      "type": "edit",
+      "id": "caf0d7a1-594d-43dd-a112-7153abfbc602",
+      "item": {
+        "id": "caf0d7a1-594d-43dd-a112-7153abfbc602",
+        "type": "markdown",
+        "text": "> Individuals in the conversation try to build on other individuals' ideas in the conversation.'' (The group often comes up with ideas that are far beyond what any of the individuals thought possible before the conversation began.)"
+      },
+      "date": 1611755760519
+    },
+    {
+      "type": "edit",
+      "id": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d",
+      "item": {
+        "id": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d",
+        "type": "markdown",
+        "text": "- [[Steel man argument]]"
+      },
+      "date": 1611755773318
+    },
+    {
+      "type": "edit",
+      "id": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d",
+      "item": {
+        "id": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d",
+        "type": "markdown",
+        "text": "- [[Steel man]]"
+      },
+      "date": 1611755786838
+    },
+    {
+      "type": "edit",
+      "id": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d",
+      "item": {
+        "id": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d",
+        "type": "markdown",
+        "text": "- [[Steel man]] and [[Straw man]]"
+      },
+      "date": 1611755809801
+    },
+    {
+      "type": "edit",
+      "id": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d",
+      "item": {
+        "id": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d",
+        "type": "markdown",
+        "text": "- [[Steelman argument]] and [[Straw man]]"
+      },
+      "date": 1611755837439
+    }
+  ],
+  "story": [
+    {
+      "id": "a91488d8-a9f9-4b00-a682-e59fc4baaa75",
+      "type": "markdown",
+      "text": "> The group agrees that no group-level decisions will be made in the conversation.'' \"...In the dialogue group we are not going to decide what to do about anything. This is crucial. Otherwise we are not free. We must have an empty space where we are not obliged to anything, nor to come to any conclusions, nor to say anything or not say anything. It's open and free.\" (Bohm, \"On Dialogue\", p.18-19.) - [https://en.wikipedia.org/wiki/Bohm_Dialogue#Principles_of_dialogue wikipedia]"
+    },
+    {
+      "id": "0a4f0eda-771e-48b1-b159-7a0cea49a28e",
+      "type": "markdown",
+      "text": "> Each individual agrees to suspend judgement in the conversation.'' (Specifically, if the individual hears an idea he doesn't like, he does not attack that idea.) \"...people in any group will bring to it assumptions, and as the group continues meeting, those assumptions will come up. What is called for is to suspend those assumptions, so that you neither carry them out nor suppress them. You don't believe them, nor do you disbelieve them; you don't judge them as good or bad...(Bohm, \"On Dialogue\", p.22.)\""
+    },
+    {
+      "id": "694b1fe4-15b1-40c4-bbb4-94b51de3dfea",
+      "type": "markdown",
+      "text": "> As these individuals \"suspend judgement\" they also simultaneously are as honest and transparent as possible.'' (Specifically, if the individual has a \"good idea\" that he might otherwise hold back from the group because it is too controversial, he will share that idea in this conversation.)"
+    },
+    {
+      "id": "caf0d7a1-594d-43dd-a112-7153abfbc602",
+      "type": "markdown",
+      "text": "> Individuals in the conversation try to build on other individuals' ideas in the conversation.'' (The group often comes up with ideas that are far beyond what any of the individuals thought possible before the conversation began.)"
+    },
+    {
+      "id": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d",
+      "type": "markdown",
+      "text": "- [[Steelman argument]] and [[Straw man]]"
+    }
+  ]
+}
