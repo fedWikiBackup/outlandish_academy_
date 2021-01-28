@@ -2506,10 +2506,10 @@
   {
     "slug": "world-climate-school-platform",
     "title": "World Climate School Platform",
-    "date": 1611137420773,
-    "synopsis": "We need a new platform for the [[World Climate school]].",
+    "date": 1611830808406,
+    "synopsis": "We need a new platform for the [[World Climate chool]].",
     "links": {
-      "world-climate-school": "7aac5714939a5daf"
+      "world-climate-chool": "7aac5714939a5daf"
     }
   },
   {
@@ -2644,10 +2644,11 @@
   {
     "slug": "bohm-dialogue",
     "title": "Bohm Dialogue",
-    "date": 1606305547213,
+    "date": 1611756032315,
     "synopsis": "A __Bohm Dialogue__ is a freely flowing group [[conversation]] in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and non-judgementally. This can lead to new and deeper understanding.",
     "links": {
       "conversation": "cf24812b-78ae-490a-9ae8-33b9bec0a8e1",
+      "workshop": "5cf9d7f7-15c4-4aba-8f30-2a98c9ca1074",
       "human-nature": "0bc09c00f4af730a",
       "consciousness": "0bc09c00f4af730a",
       "david-bohm": "0bc09c00f4af730a",
@@ -2743,6 +2744,39 @@
       "impulse-psychology": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc",
       "judgment": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc",
       "thought-process": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc"
+    }
+  },
+  {
+    "slug": "world-climate-school",
+    "title": "World Climate School",
+    "date": 1611831005001,
+    "synopsis": "The __World Climate School__ is an organization focusing on increasing climate change awareness around the world in an exponential way through a teach-the-teacher program, where participants go through a program of modules with information about climate change and other related challenges, the solutions and how to develop Climate Action Plans.",
+    "links": {
+      "world-climate-school-pakistan": "ac3a3a2d1fcf6319",
+      "wcs-mission-statement": "0eb889ebc6ba7019",
+      "living-document": "0eb889ebc6ba7019",
+      "wcs-vision": "7c1ae84e5df838d3",
+      "wcs-program": "7c1ae84e5df838d3",
+      "wcs-strategy": "7c1ae84e5df838d3",
+      "wcs-technology-strategy": "7c1ae84e5df838d3",
+      "wcs-governance": "7c1ae84e5df838d3",
+      "wcs-partnerships": "7c1ae84e5df838d3",
+      "world-climate-school": "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+      "grow-a-tree": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "weforestorg": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "help-orphans-for-future-nation": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "learning-garden": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "miombo": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "baobab": "e4de431e-b307-4d96-98e9-248d762a6f98"
+    }
+  },
+  {
+    "slug": "wcs-partnerships",
+    "title": "WCS Partnerships",
+    "date": 1611830782019,
+    "synopsis": "[[SDGs Academy Pakistan]] is the most important partner, and we are connecting World Climate School  - Paksitan - Zimbabwe togehter in a very dynamic way.  To learn from each other.",
+    "links": {
+      "sdgs-academy-pakistan": "fd8f15ea23b284c4"
     }
   }
 ]
