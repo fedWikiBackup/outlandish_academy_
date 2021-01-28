@@ -1,0 +1,75 @@
+{
+  "title": "WCS Partnerships",
+  "story": [
+    {
+      "type": "markdown",
+      "id": "ae314d74fd084093",
+      "text": "Crucial to a fast expansion of the WCS partnerships and alliances are crucial, both at the international level and the country chapter level. We also need to design a platform where all these partnerships can interconnect.\nDoughnut Economics\nDrawdown\nTED Countdown project\n\nPartnerships India\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "fd8f15ea23b284c4",
+      "text": "[[SDGs Academy Pakistan]] is the most important partner, and we are connecting World Climate School  - Paksitan - Zimbabwe togehter in a very dynamic way.  To learn from each other. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "WCS Partnerships",
+        "story": []
+      },
+      "date": 1611575408242
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae88e0c438a66625"
+      },
+      "id": "ae88e0c438a66625",
+      "type": "add",
+      "date": 1611575409291
+    },
+    {
+      "id": "ae314d74fd084093",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "ae314d74fd084093",
+        "text": "Crucial to a fast expansion of the WCS partnerships and alliances are crucial, both at the international level and the country chapter level. We also need to design a platform where all these partnerships can interconnect.\nPartnerships International (wish list)\nDoughnut Economics\nDrawdown\nTED Countdown project\n\nPartnerships India\n"
+      },
+      "after": "ae88e0c438a66625",
+      "date": 1611575413792
+    },
+    {
+      "type": "fork",
+      "site": "david.greendeal.wiki"
+    },
+    {
+      "id": "fd8f15ea23b284c4",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "fd8f15ea23b284c4",
+        "text": "[[SDGs Academy Pakistan]] is the most important partner, and we are connecting World Climate School  - Paksitan - Zimbabwe togehter in a very dynamic way.  To learn from each other. "
+      },
+      "after": "ae314d74fd084093",
+      "date": 1611830768160
+    },
+    {
+      "type": "remove",
+      "id": "ae88e0c438a66625",
+      "date": 1611830772637
+    },
+    {
+      "type": "edit",
+      "id": "ae314d74fd084093",
+      "item": {
+        "type": "markdown",
+        "id": "ae314d74fd084093",
+        "text": "Crucial to a fast expansion of the WCS partnerships and alliances are crucial, both at the international level and the country chapter level. We also need to design a platform where all these partnerships can interconnect.\nDoughnut Economics\nDrawdown\nTED Countdown project\n\nPartnerships India\n"
+      },
+      "date": 1611830782019
+    }
+  ]
+}

@@ -4,7 +4,7 @@
     {
       "type": "markdown",
       "id": "7aac5714939a5daf",
-      "text": "We need a new platform for the [[World Climate school]]."
+      "text": "We need a new platform for the [[World Climate chool]]."
     },
     {
       "type": "markdown",
@@ -66,6 +66,110 @@
         "text": "We need a new platform for the [[World Climate school]]."
       },
       "date": 1611137420773
+    },
+    {
+      "id": "7646d1cef7ed5618",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "7646d1cef7ed5618",
+        "text": "- [https://worldclimateschool.org/blog/ World Climate School Blog]\n- [https://worldclimateschool.org/contact/ Contact World Climate School]"
+      },
+      "after": "62a91c391a6d9270",
+      "date": 1611830678268
+    },
+    {
+      "id": "ac3a3a2d1fcf6319",
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "ac3a3a2d1fcf6319",
+        "text": "YOUTUBE K-lOmaPhe0o\nFounder Hans Jørgen Rasmussen  - Presenting Modul 3 World Climate School Pakistan\n"
+      },
+      "after": "7646d1cef7ed5618",
+      "date": 1611830682136
+    },
+    {
+      "id": "fd8f15ea23b284c4",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "fd8f15ea23b284c4",
+        "text": "[[SDGs Academy Pakistan]] is the most important partner, and we are connecting World Climate School  - Paksitan - Zimbabwe togehter in a very dynamic way.  To learn from each other. "
+      },
+      "after": "ac3a3a2d1fcf6319",
+      "date": 1611830689155
+    },
+    {
+      "id": "29a35e33aac4c4db",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "29a35e33aac4c4db",
+        "text": "[https://worldclimateschool.org/contact/ World Climate School]"
+      },
+      "after": "62a91c391a6d9270",
+      "date": 1611830697400
+    },
+    {
+      "type": "edit",
+      "id": "29a35e33aac4c4db",
+      "item": {
+        "type": "paragraph",
+        "id": "29a35e33aac4c4db",
+        "text": "- [https://worldclimateschool.org/contact/ World Climate School]"
+      },
+      "date": 1611830734645
+    },
+    {
+      "type": "edit",
+      "id": "29a35e33aac4c4db",
+      "item": {
+        "type": "markdown",
+        "id": "29a35e33aac4c4db",
+        "text": "- [https://worldclimateschool.org/contact/ World Climate School]"
+      },
+      "date": 1611830735995
+    },
+    {
+      "type": "remove",
+      "id": "7646d1cef7ed5618",
+      "date": 1611830737814
+    },
+    {
+      "type": "edit",
+      "id": "29a35e33aac4c4db",
+      "item": {
+        "type": "markdown",
+        "id": "29a35e33aac4c4db",
+        "text": "- [https://worldclimateschool.org/contact/ World Climate School]\n- [https://worldclimateschool.org/blog/ World Climate School Blog]\n- [https://worldclimateschool.org/contact/ Contact World Climate School]"
+      },
+      "date": 1611830739372
+    },
+    {
+      "id": "29a35e33aac4c4db",
+      "type": "remove",
+      "date": 1611830744789
+    },
+    {
+      "id": "ac3a3a2d1fcf6319",
+      "type": "remove",
+      "date": 1611830751963
+    },
+    {
+      "id": "fd8f15ea23b284c4",
+      "type": "remove",
+      "date": 1611830768159
+    },
+    {
+      "type": "edit",
+      "id": "7aac5714939a5daf",
+      "item": {
+        "type": "markdown",
+        "id": "7aac5714939a5daf",
+        "text": "We need a new platform for the [[World Climate chool]]."
+      },
+      "date": 1611830808406
     }
   ]
 }
