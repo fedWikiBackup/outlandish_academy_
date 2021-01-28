@@ -1,0 +1,610 @@
+{
+  "title": "World Climate School",
+  "journal": [
+    {
+      "item": {
+        "title": "World Climate School",
+        "story": ""
+      },
+      "date": 1603956393591,
+      "type": "create"
+    },
+    {
+      "id": "7fb5ad5bfd1fed4f",
+      "type": "add",
+      "item": {
+        "id": "7fb5ad5bfd1fed4f",
+        "type": "factory"
+      },
+      "date": 1603956395387
+    },
+    {
+      "date": 1603956403130,
+      "type": "remove",
+      "id": "7fb5ad5bfd1fed4f"
+    },
+    {
+      "id": "4cbf1a1c596f5801",
+      "type": "add",
+      "item": {
+        "id": "4cbf1a1c596f5801",
+        "type": "factory"
+      },
+      "date": 1603956410245
+    },
+    {
+      "site": "greendeal.wiki",
+      "date": 1606254623091,
+      "type": "fork"
+    },
+    {
+      "type": "add",
+      "id": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "item": {
+        "id": "e4de431e-b307-4d96-98e9-248d762a6f98",
+        "type": "factory"
+      },
+      "date": 1606254403723,
+      "after": "4cbf1a1c596f5801"
+    },
+    {
+      "id": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "type": "edit",
+      "item": {
+        "type": "markdown",
+        "id": "e4de431e-b307-4d96-98e9-248d762a6f98",
+        "text": "world-climate-school david.greendeal.wiki"
+      },
+      "date": 1606254403723
+    },
+    {
+      "type": "fork",
+      "date": 1606254675767
+    },
+    {
+      "type": "edit",
+      "id": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "item": {
+        "id": "e4de431e-b307-4d96-98e9-248d762a6f98",
+        "type": "markdown",
+        "text": "# See also\n\n- [[Grow a Tree]]\n- [[Weforest.org]]\n- [[Help Orphans for Future Nation]]\n- [[World Climate School]]\n- [[Learning Garden]]\n- [[Miombo]]\n- [[Baobab]]"
+      },
+      "date": 1606254844941
+    },
+    {
+      "type": "edit",
+      "id": "4cbf1a1c596f5801",
+      "item": {
+        "type": "markdown",
+        "id": "4cbf1a1c596f5801",
+        "text": "This is a website for people dedicated to and passionate about raising awareness about climate change.\n"
+      },
+      "date": 1606254922747
+    },
+    {
+      "type": "add",
+      "id": "384f342757f3a606",
+      "item": {
+        "type": "markdown",
+        "id": "384f342757f3a606",
+        "text": "In order to avoid collapse of our civilisation, we need a rapid raise in global awareness about this. Education is crucial if we shall succeed, and World Climate School is committed to be effective in this endeavour."
+      },
+      "after": "4cbf1a1c596f5801",
+      "date": 1606254931226
+    },
+    {
+      "type": "add",
+      "id": "7646d1cef7ed5618",
+      "item": {
+        "type": "markdown",
+        "id": "7646d1cef7ed5618",
+        "text": "- https://worldclimateschool.org/blog/"
+      },
+      "after": "4cbf1a1c596f5801",
+      "date": 1606254972138
+    },
+    {
+      "id": "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+      "type": "add",
+      "item": {
+        "id": "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://worldclimateschool.org/wp-content/uploads/2017/01/WORLD-CLIMATE-SCHOO-LOGO-OK-2.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://worldclimateschool.org/wp-content/uploads/2017/01/WORLD-CLIMATE-SCHOO-LOGO-OK-2.png'>\n</a>\n<p class=caption>\nThis is an image - [https://worldclimateschool.org/wp-content/uploads/2017/01/WORLD-CLIMATE-SCHOO-LOGO-OK-2.png worldclimateschool.org]\n</p></div>"
+      },
+      "after": "384f342757f3a606",
+      "date": 1608566894394
+    },
+    {
+      "type": "edit",
+      "id": "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+      "item": {
+        "id": "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+        "type": "html",
+        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://worldclimateschool.org/wp-content/uploads/2017/01/WORLD-CLIMATE-SCHOO-LOGO-OK-2.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://worldclimateschool.org/wp-content/uploads/2017/01/WORLD-CLIMATE-SCHOO-LOGO-OK-2.png'>\n</a>\n<p class=caption>\n[[World Climate school]] based in Norway - [- https://worldclimateschool.org/blog/ worldclimateschool.org]\n</p></div>"
+      },
+      "date": 1608566928861
+    },
+    {
+      "type": "edit",
+      "id": "384f342757f3a606",
+      "item": {
+        "type": "markdown",
+        "id": "384f342757f3a606",
+        "text": "In order to avoid collapse of our civilisation, we need a rapid raise in global awareness about this. Education is crucial if we shall succeed, and World Climate School is committed to be effective in this endeavour.\n"
+      },
+      "date": 1611574995697
+    },
+    {
+      "type": "add",
+      "id": "7c1ae84e5df838d3",
+      "item": {
+        "type": "markdown",
+        "id": "7c1ae84e5df838d3",
+        "text": "- [[WCS Vision]]"
+      },
+      "after": "384f342757f3a606",
+      "date": 1611575003769
+    },
+    {
+      "id": "4866d33f0127b8a5",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "4866d33f0127b8a5",
+        "text": "# About the World Climate School\nThe World Climate School is an organization focusing on increasing climate change awareness around the world in an exponential way through a teach-the-teacher program, where participants go through a program of modules with information about climate change and other related challenges, the solutions and how to develop Climate Action Plans. Participants then gather new participants in their circle to go through this cycle to create new educators and activists. \n\n"
+      },
+      "after": "384f342757f3a606",
+      "date": 1611575077822
+    },
+    {
+      "id": "1fdc46ea31a13a39",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "1fdc46ea31a13a39",
+        "text": "# About Us\nThe World Climate School was founded by Hans Joergen Rasmussen, Danish, born 1945, retired psychologist, after joined by Rob de Laet, Dutch, born 1956, retired entrepreneur and Inger-Mette Stenseth from Norway, climate activist and entrepreneur. In January 2021 David Bovill and David Rogers joined.\n \n\n"
+      },
+      "after": "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+      "date": 1611575287142
+    },
+    {
+      "id": "9b7a8a54ec88e232",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "9b7a8a54ec88e232",
+        "text": "# Mission\n"
+      },
+      "after": "4866d33f0127b8a5",
+      "date": 1611575500416
+    },
+    {
+      "id": "4f2b748db671acd1",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "4f2b748db671acd1",
+        "text": "To create exponential awareness and education about the enormous challenges we face as our species is destroying the viability of our Planet, what solutions are needed and how this can revitalize communities and habitats around the world.\n\n"
+      },
+      "after": "4866d33f0127b8a5",
+      "date": 1611575502825
+    },
+    {
+      "id": "9b7a8a54ec88e232",
+      "type": "move",
+      "order": [
+        "4cbf1a1c596f5801",
+        "7646d1cef7ed5618",
+        "384f342757f3a606",
+        "4866d33f0127b8a5",
+        "9b7a8a54ec88e232",
+        "4f2b748db671acd1",
+        "7c1ae84e5df838d3",
+        "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+        "1fdc46ea31a13a39",
+        "e4de431e-b307-4d96-98e9-248d762a6f98"
+      ],
+      "date": 1611575504141
+    },
+    {
+      "type": "edit",
+      "id": "4f2b748db671acd1",
+      "item": {
+        "type": "markdown",
+        "id": "4f2b748db671acd1",
+        "text": "> To create exponential awareness and education about the enormous challenges we face as our species is destroying the viability of our Planet, what solutions are needed and how this can revitalize communities and habitats around the world.\n\n"
+      },
+      "date": 1611575518017
+    },
+    {
+      "type": "edit",
+      "id": "9b7a8a54ec88e232",
+      "item": {
+        "type": "markdown",
+        "id": "9b7a8a54ec88e232",
+        "text": "# Mission Statement\n"
+      },
+      "date": 1611575525827
+    },
+    {
+      "type": "remove",
+      "id": "4f2b748db671acd1",
+      "date": 1611575529346
+    },
+    {
+      "type": "edit",
+      "id": "9b7a8a54ec88e232",
+      "item": {
+        "type": "markdown",
+        "id": "9b7a8a54ec88e232",
+        "text": "# Mission Statement\n> To create exponential awareness and education about the enormous challenges we face as our species is destroying the viability of our Planet, what solutions are needed and how this can revitalize communities and habitats around the world.\n\n"
+      },
+      "date": 1611575530834
+    },
+    {
+      "id": "9b7a8a54ec88e232",
+      "type": "move",
+      "order": [
+        "4cbf1a1c596f5801",
+        "7646d1cef7ed5618",
+        "384f342757f3a606",
+        "9b7a8a54ec88e232",
+        "4866d33f0127b8a5",
+        "7c1ae84e5df838d3",
+        "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+        "1fdc46ea31a13a39",
+        "e4de431e-b307-4d96-98e9-248d762a6f98"
+      ],
+      "date": 1611575533062
+    },
+    {
+      "id": "4866d33f0127b8a5",
+      "type": "move",
+      "order": [
+        "4866d33f0127b8a5",
+        "4cbf1a1c596f5801",
+        "7646d1cef7ed5618",
+        "384f342757f3a606",
+        "9b7a8a54ec88e232",
+        "7c1ae84e5df838d3",
+        "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+        "1fdc46ea31a13a39",
+        "e4de431e-b307-4d96-98e9-248d762a6f98"
+      ],
+      "date": 1611575545065
+    },
+    {
+      "type": "edit",
+      "id": "4866d33f0127b8a5",
+      "item": {
+        "type": "markdown",
+        "id": "4866d33f0127b8a5",
+        "text": "The World Climate School is an organization focusing on increasing climate change awareness around the world in an exponential way through a teach-the-teacher program, where participants go through a program of modules with information about climate change and other related challenges, the solutions and how to develop Climate Action Plans. Participants then gather new participants in their circle to go through this cycle to create new educators and activists. \n\n"
+      },
+      "date": 1611575549281
+    },
+    {
+      "type": "edit",
+      "id": "4866d33f0127b8a5",
+      "item": {
+        "type": "markdown",
+        "id": "4866d33f0127b8a5",
+        "text": "The __World Climate School__ is an organization focusing on increasing climate change awareness around the world in an exponential way through a teach-the-teacher program, where participants go through a program of modules with information about climate change and other related challenges, the solutions and how to develop Climate Action Plans. Participants then gather new participants in their circle to go through this cycle to create new educators and activists. \n\n"
+      },
+      "date": 1611575557353
+    },
+    {
+      "type": "remove",
+      "id": "4cbf1a1c596f5801",
+      "date": 1611575575080
+    },
+    {
+      "id": "f6de965e446574fe",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "f6de965e446574fe",
+        "text": " - [[WCS Program]]\n"
+      },
+      "after": "7c1ae84e5df838d3",
+      "date": 1611575609063
+    },
+    {
+      "id": "486ddd3a71bc9191",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "486ddd3a71bc9191",
+        "text": "- [[WCS Strategy]]\n"
+      },
+      "after": "f6de965e446574fe",
+      "date": 1611575611696
+    },
+    {
+      "id": "e51016137af5b5df",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "e51016137af5b5df",
+        "text": "- [[WCS Technology Strategy]]"
+      },
+      "after": "486ddd3a71bc9191",
+      "date": 1611575613455
+    },
+    {
+      "id": "f623891907a0365e",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "f623891907a0365e",
+        "text": "- [[WCS Governance]]\n"
+      },
+      "after": "e51016137af5b5df",
+      "date": 1611575615419
+    },
+    {
+      "id": "f1742be07392b372",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "f1742be07392b372",
+        "text": "- [[WCS Partnerships]]\n"
+      },
+      "after": "e51016137af5b5df",
+      "date": 1611575617483
+    },
+    {
+      "id": "f623891907a0365e",
+      "type": "move",
+      "order": [
+        "4866d33f0127b8a5",
+        "7646d1cef7ed5618",
+        "384f342757f3a606",
+        "9b7a8a54ec88e232",
+        "7c1ae84e5df838d3",
+        "f6de965e446574fe",
+        "486ddd3a71bc9191",
+        "e51016137af5b5df",
+        "f623891907a0365e",
+        "f1742be07392b372",
+        "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+        "1fdc46ea31a13a39",
+        "e4de431e-b307-4d96-98e9-248d762a6f98"
+      ],
+      "date": 1611575619214
+    },
+    {
+      "type": "edit",
+      "id": "4866d33f0127b8a5",
+      "item": {
+        "type": "markdown",
+        "id": "4866d33f0127b8a5",
+        "text": "The __World Climate School__ is an organization focusing on increasing climate change awareness around the world in an exponential way through a teach-the-teacher program, where participants go through a program of modules with information about climate change and other related challenges, the solutions and how to develop Climate Action Plans. \n"
+      },
+      "date": 1611575640568
+    },
+    {
+      "type": "add",
+      "id": "85172572ff683a57",
+      "item": {
+        "type": "markdown",
+        "id": "85172572ff683a57",
+        "text": "Participants then gather new participants in their circle to go through this cycle to create new educators and activists. \n\n"
+      },
+      "after": "4866d33f0127b8a5",
+      "date": 1611575641037
+    },
+    {
+      "id": "9b7a8a54ec88e232",
+      "type": "move",
+      "order": [
+        "4866d33f0127b8a5",
+        "9b7a8a54ec88e232",
+        "85172572ff683a57",
+        "7646d1cef7ed5618",
+        "384f342757f3a606",
+        "7c1ae84e5df838d3",
+        "f6de965e446574fe",
+        "486ddd3a71bc9191",
+        "e51016137af5b5df",
+        "f623891907a0365e",
+        "f1742be07392b372",
+        "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+        "1fdc46ea31a13a39",
+        "e4de431e-b307-4d96-98e9-248d762a6f98"
+      ],
+      "date": 1611575664396
+    },
+    {
+      "type": "remove",
+      "id": "f1742be07392b372",
+      "date": 1611602576737
+    },
+    {
+      "type": "remove",
+      "id": "f623891907a0365e",
+      "date": 1611602578725
+    },
+    {
+      "type": "remove",
+      "id": "e51016137af5b5df",
+      "date": 1611602581754
+    },
+    {
+      "type": "remove",
+      "id": "486ddd3a71bc9191",
+      "date": 1611602584267
+    },
+    {
+      "type": "remove",
+      "id": "f6de965e446574fe",
+      "date": 1611602587047
+    },
+    {
+      "type": "edit",
+      "id": "7c1ae84e5df838d3",
+      "item": {
+        "type": "markdown",
+        "id": "7c1ae84e5df838d3",
+        "text": "- [[WCS Vision]]\n- [[WCS Program]]\n- [[WCS Strategy]]\n- [[WCS Technology Strategy]]\n- [[WCS Governance]]\n- [[WCS Partnerships]]\n"
+      },
+      "date": 1611602589913
+    },
+    {
+      "type": "fork",
+      "site": "david.greendeal.wiki",
+      "date": 1611830649818
+    },
+    {
+      "id": "29a35e33aac4c4db",
+      "type": "add",
+      "item": {
+        "type": "markdown",
+        "id": "29a35e33aac4c4db",
+        "text": "- [https://worldclimateschool.org/contact/ World Climate School]\n- [https://worldclimateschool.org/blog/ World Climate School Blog]\n- [https://worldclimateschool.org/contact/ Contact World Climate School]"
+      },
+      "after": "85172572ff683a57",
+      "date": 1611830744790
+    },
+    {
+      "type": "remove",
+      "id": "7646d1cef7ed5618",
+      "date": 1611830748024
+    },
+    {
+      "id": "ac3a3a2d1fcf6319",
+      "type": "add",
+      "item": {
+        "type": "video",
+        "id": "ac3a3a2d1fcf6319",
+        "text": "YOUTUBE K-lOmaPhe0o\nFounder Hans Jørgen Rasmussen  - Presenting Modul 3 World Climate School Pakistan\n"
+      },
+      "after": "4866d33f0127b8a5",
+      "date": 1611830751964
+    },
+    {
+      "type": "edit",
+      "id": "ac3a3a2d1fcf6319",
+      "item": {
+        "type": "video",
+        "id": "ac3a3a2d1fcf6319",
+        "text": "YOUTUBE K-lOmaPhe0o\nFounder Hans Jørgen Rasmussen  - Presenting Module 3 World Climate School Pakistan\n"
+      },
+      "date": 1611830797633
+    },
+    {
+      "type": "edit",
+      "id": "ac3a3a2d1fcf6319",
+      "item": {
+        "type": "video",
+        "id": "ac3a3a2d1fcf6319",
+        "text": "YOUTUBE K-lOmaPhe0o\nFounder Hans Jørgen Rasmussen  - Presenting Module 3 [[World Climate School Pakistan]]\n"
+      },
+      "date": 1611830846038
+    },
+    {
+      "type": "edit",
+      "id": "9b7a8a54ec88e232",
+      "item": {
+        "type": "markdown",
+        "id": "9b7a8a54ec88e232",
+        "text": "# Mission Statement\n"
+      },
+      "date": 1611830935076
+    },
+    {
+      "type": "add",
+      "id": "0eb889ebc6ba7019",
+      "item": {
+        "type": "markdown",
+        "id": "0eb889ebc6ba7019",
+        "text": "WE ARE CURRENLTY WORKING WITH OUR PARTENRS TO DEVELOP A [[WCS Mission Statement]] as a living document.\n"
+      },
+      "after": "9b7a8a54ec88e232",
+      "date": 1611830965273
+    },
+    {
+      "type": "add",
+      "id": "7f3d74ec849c30fe",
+      "item": {
+        "type": "markdown",
+        "id": "7f3d74ec849c30fe",
+        "text": "> To create exponential awareness and education about the enormous challenges we face as our species is destroying the viability of our Planet, what solutions are needed and how this can revitalize communities and habitats around the world.\n\n"
+      },
+      "after": "0eb889ebc6ba7019",
+      "date": 1611830966548
+    },
+    {
+      "type": "edit",
+      "id": "0eb889ebc6ba7019",
+      "item": {
+        "type": "markdown",
+        "id": "0eb889ebc6ba7019",
+        "text": "We are currenlty working with our partners to develop a [[WCS Mission Statement]] as a [[Living Document]].\n"
+      },
+      "date": 1611831005001
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "4866d33f0127b8a5",
+      "text": "The __World Climate School__ is an organization focusing on increasing climate change awareness around the world in an exponential way through a teach-the-teacher program, where participants go through a program of modules with information about climate change and other related challenges, the solutions and how to develop Climate Action Plans. \n"
+    },
+    {
+      "type": "video",
+      "id": "ac3a3a2d1fcf6319",
+      "text": "YOUTUBE K-lOmaPhe0o\nFounder Hans Jørgen Rasmussen  - Presenting Module 3 [[World Climate School Pakistan]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "9b7a8a54ec88e232",
+      "text": "# Mission Statement\n"
+    },
+    {
+      "type": "markdown",
+      "id": "0eb889ebc6ba7019",
+      "text": "We are currenlty working with our partners to develop a [[WCS Mission Statement]] as a [[Living Document]].\n"
+    },
+    {
+      "type": "markdown",
+      "id": "7f3d74ec849c30fe",
+      "text": "> To create exponential awareness and education about the enormous challenges we face as our species is destroying the viability of our Planet, what solutions are needed and how this can revitalize communities and habitats around the world.\n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "85172572ff683a57",
+      "text": "Participants then gather new participants in their circle to go through this cycle to create new educators and activists. \n\n"
+    },
+    {
+      "type": "markdown",
+      "id": "29a35e33aac4c4db",
+      "text": "- [https://worldclimateschool.org/contact/ World Climate School]\n- [https://worldclimateschool.org/blog/ World Climate School Blog]\n- [https://worldclimateschool.org/contact/ Contact World Climate School]"
+    },
+    {
+      "type": "markdown",
+      "id": "384f342757f3a606",
+      "text": "In order to avoid collapse of our civilisation, we need a rapid raise in global awareness about this. Education is crucial if we shall succeed, and World Climate School is committed to be effective in this endeavour.\n"
+    },
+    {
+      "type": "markdown",
+      "id": "7c1ae84e5df838d3",
+      "text": "- [[WCS Vision]]\n- [[WCS Program]]\n- [[WCS Strategy]]\n- [[WCS Technology Strategy]]\n- [[WCS Governance]]\n- [[WCS Partnerships]]\n"
+    },
+    {
+      "id": "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+      "type": "html",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://worldclimateschool.org/wp-content/uploads/2017/01/WORLD-CLIMATE-SCHOO-LOGO-OK-2.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://worldclimateschool.org/wp-content/uploads/2017/01/WORLD-CLIMATE-SCHOO-LOGO-OK-2.png'>\n</a>\n<p class=caption>\n[[World Climate school]] based in Norway - [- https://worldclimateschool.org/blog/ worldclimateschool.org]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "1fdc46ea31a13a39",
+      "text": "# About Us\nThe World Climate School was founded by Hans Joergen Rasmussen, Danish, born 1945, retired psychologist, after joined by Rob de Laet, Dutch, born 1956, retired entrepreneur and Inger-Mette Stenseth from Norway, climate activist and entrepreneur. In January 2021 David Bovill and David Rogers joined.\n \n\n"
+    },
+    {
+      "id": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "type": "markdown",
+      "text": "# See also\n\n- [[Grow a Tree]]\n- [[Weforest.org]]\n- [[Help Orphans for Future Nation]]\n- [[World Climate School]]\n- [[Learning Garden]]\n- [[Miombo]]\n- [[Baobab]]"
+    }
+  ]
+}
