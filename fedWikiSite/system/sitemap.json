@@ -230,6 +230,20 @@
     }
   },
   {
+    "slug": "audio-transcription",
+    "title": "Audio Transcription",
+    "date": 1611740857811,
+    "synopsis": "Here we look at technologies that we can use to integrate speech and audio into wiki.",
+    "links": {
+      "transcription-software": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "transcription-api": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "audio-transcription": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "web-speech-api": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "google-cloud-speech-api": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
+      "text-mining": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860"
+    }
+  },
+  {
     "slug": "autonomous-school-zrich",
     "title": "Autonomous School Zürich",
     "date": 1523966259209,
@@ -282,6 +296,35 @@
     }
   },
   {
+    "slug": "bohm-dialogue",
+    "title": "Bohm Dialogue",
+    "date": 1611756032315,
+    "synopsis": "A __Bohm Dialogue__ is a freely flowing group [[conversation]] in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and non-judgementally. This can lead to new and deeper understanding.",
+    "links": {
+      "conversation": "cf24812b-78ae-490a-9ae8-33b9bec0a8e1",
+      "workshop": "5cf9d7f7-15c4-4aba-8f30-2a98c9ca1074",
+      "human-nature": "0bc09c00f4af730a",
+      "consciousness": "0bc09c00f4af730a",
+      "david-bohm": "0bc09c00f4af730a",
+      "the-theory-of-dialogue": "3c0bd99e-67f0-4817-a514-b89d10bc5fdf",
+      "principles-of-dialogue": "3c0bd99e-67f0-4817-a514-b89d10bc5fdf",
+      "the-experience-of-a-dialogue": "3c0bd99e-67f0-4817-a514-b89d10bc5fdf",
+      "bohm-dialogue": "3fa1242d-358f-48f2-a1b3-258097bc3f22",
+      "organizational-development": "3fa1242d-358f-48f2-a1b3-258097bc3f22",
+      "appreciative-inquiry": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
+      "communicative-action": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
+      "dialogue": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
+      "dialogue-mapping": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
+      "double-loop-learning": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
+      "improvisation": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
+      "insight-dialogue": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
+      "learning-circle": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
+      "nonviolent-communication": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
+      "present": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
+      "theory-u": "5adc04a9-cef2-483c-9067-534cbd6e11b8"
+    }
+  },
+  {
     "slug": "bounded-context",
     "title": "Bounded Context",
     "date": 1495912710704,
@@ -316,6 +359,19 @@
     "synopsis": "Needed to focus on the team's objectives, draw out team members and delegate work appropriately.",
     "links": {
       "belbin-team-roles": "5a88bb2d58ffbcf7"
+    }
+  },
+  {
+    "slug": "commons-outpost",
+    "title": "Commons Outpost",
+    "date": 1591610547111,
+    "synopsis": "The [[Commons Outpost]] will start life as a [[revIgnitor server]] running most probably under Apache, and look to migrate that to run either as a native Livecode server (listening on a local private port), or under a [[Caddy server]] (preferred).",
+    "links": {
+      "commons-outpost": "8083aef57072cad1",
+      "revignitor-server": "8083aef57072cad1",
+      "caddy-server": "8083aef57072cad1",
+      "the-commons": "0ea65f446d6d1752",
+      "deno": "38c8611bdbd836e7"
     }
   },
   {
@@ -541,10 +597,64 @@
     "synopsis": "Doris Helen Kearns Goodwin (born January 4, 1943)[1] is an American biographer, historian, former sports journalist and political commentator."
   },
   {
+    "slug": "earth-day-2021",
+    "title": "Earth Day 2021",
+    "date": 1611054272290,
+    "synopsis": "[[Earth Day]] is an annual celebration that has taken place in April each year since 1970. It takes place each year on:",
+    "links": {
+      "earth-day": "b28b56f2be458a5b",
+      "earth-day-network": "8d445981ecab6529",
+      "learning-cohort": "70e0c67a396ffc94",
+      "wiki-and-the-environment": "e4498fede2652953",
+      "molde-learning-garden": "8bd6b54bbe6784e2",
+      "home-studio": "85072eeeea341f6b",
+      "community-obeya-room": "85072eeeea341f6b",
+      "sound-garden": "a5076bc2e7ca3f43",
+      "earth-sounds": "5bf790bd27b82bca",
+      "green-wiki": "3eb3947058d61959"
+    }
+  },
+  {
+    "slug": "earth-day-team",
+    "title": "Earth Day Team",
+    "date": 1611065625519,
+    "synopsis": "We are proposing creating a series of integrated [[Livecode]] apps used for environmental education and showcasing these on [[Earth Day 2021]].",
+    "links": {
+      "livecode": "bb14a60492f837c0",
+      "earth-day-2021": "bb14a60492f837c0",
+      "expereince-api": "a8764a93eb14348b",
+      "dsaf": "a8764a93eb14348b",
+      "scorm-cloud": "a8764a93eb14348b"
+    }
+  },
+  {
     "slug": "education-for-all",
     "title": "Education for All",
     "date": 1436693245799,
     "synopsis": "Education For All — The Student Story - a Youtube playlist on Al Jazeera English - [https://www.youtube.com/playlist?list=PLzGHKb8i9vTwsd7NUWiu5WTAIEq931nM7 youtube.com]"
+  },
+  {
+    "slug": "experience-api",
+    "title": "Experience API",
+    "date": 1611065777689,
+    "synopsis": "The Experience API ([[xAPI]]), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]",
+    "links": {
+      "xapi": "271e3210e9a73700",
+      "restful": "6530df07a7e530a2",
+      "json-rpc": "6530df07a7e530a2",
+      "growth-of-xapi": "1fb49b43111ec96a",
+      "advanced-distributed-learning": "5fecfad7b67a4a27",
+      "scorm": "bbf9dcfc78d30586",
+      "restful-web-service": "d47db21b6c8366fb",
+      "json": "d47db21b6c8366fb",
+      "learning-outside-the-browser": "7656e089d86ca3e2",
+      "group-learning": "26d03d09cd267891",
+      "learning-games-and-simulations": "701acc8917068e7c",
+      "control-over-learning-content": "34197480bb3411eb",
+      "livecode-xapi": "d7fe9473dc6196e7",
+      "xapi-learning-cohort": "772758af3a09bcdf",
+      "oauth": "b7a7e12e205f24cf"
+    }
   },
   {
     "slug": "expert-groups",
@@ -733,6 +843,27 @@
     }
   },
   {
+    "slug": "google-cloud-speech-api",
+    "title": "Google Cloud Speech API",
+    "date": 1470319934135,
+    "synopsis": "Google Cloud Speech [[API]] enables developers to convert audio to text by applying powerful neural network models in an easy to use API - [https://cloud.google.com/speech/?gclid=CjwKEAjww_a8BRDB-O-OqZb_vRASJAA9yrc5NlS9bfBEKZ50vGer1z0igd3-gcqeI68K5RiLfoIzFxoCBuLw_wcB cloud.google.com]",
+    "links": {
+      "api": "39ca9e4cddfa7306"
+    }
+  },
+  {
+    "slug": "grassblade",
+    "title": "GrassBlade",
+    "date": 1611137055460,
+    "synopsis": "Glassblade provides an easy a suite of tools that make integrating various elements of a modern learning management solution (LMS) interoperate around modern standards like the experience api ([[xAPI]]).",
+    "links": {
+      "xapi": "550de57eab512f55",
+      "experience-api": "cfe65aa95cc299a0",
+      "glassblade": "8ec1badd5520e8d0",
+      "lrs": "8ec1badd5520e8d0"
+    }
+  },
+  {
     "slug": "group-learning",
     "title": "Group Learning",
     "date": 1424003582082,
@@ -740,6 +871,15 @@
     "links": {
       "viral-academy-methodology": "8ba6cc26cad6914c",
       "experience-api": "8ba6cc26cad6914c"
+    }
+  },
+  {
+    "slug": "growth-of-xapi",
+    "title": "Growth of xAPI",
+    "date": 1611047476399,
+    "synopsis": "Adoption of [[xAPI]] may be slow, but it is growing continuous linear fashion, in a conservative market.",
+    "links": {
+      "xapi": "183a20ded9d54eaf"
     }
   },
   {
@@ -835,6 +975,23 @@
     "synopsis": "Needed to plan a workable strategy and carry it out as efficiently as possible.",
     "links": {
       "belbin-team-roles": "5a88bb2d58ffbcf7"
+    }
+  },
+  {
+    "slug": "inger-mette-stenseth-activity",
+    "title": "Inger-Mette Stenseth Activity",
+    "date": 1611138151798,
+    "synopsis": "Here we list all the sites we know of that concentrate on the technical and social aspects of writing in [[Federated Wiki]]. See [[Fedwiki Sites]] for a list of domains we use in the views below:",
+    "links": {
+      "federated-wiki": "2581edca1c3a105d",
+      "fedwiki-sites": "2581edca1c3a105d",
+      "inger-mette-stenseth-index": "f2e58789948ca8a6",
+      "inger-mette-stenseth-sites": "f2e58789948ca8a6",
+      "inger-mette-stenseth-recent-sites": "f2e58789948ca8a6",
+      "activity": "8ac5da9f5a523940",
+      "fedwiki-activity": "8ac5da9f5a523940",
+      "atopia-activity": "8ac5da9f5a523940",
+      "federation-activity": "8ac5da9f5a523940"
     }
   },
   {
@@ -948,6 +1105,29 @@
       "see-also": "e7886a1b-aa39-40b2-b46c-270d01807fc3",
       "references": "e7886a1b-aa39-40b2-b46c-270d01807fc3",
       "external-links": "e7886a1b-aa39-40b2-b46c-270d01807fc3"
+    }
+  },
+  {
+    "slug": "learning-cohort",
+    "title": "Learning Cohort",
+    "date": 1611054783042,
+    "synopsis": "The __Learning Cohort__ is an informal group of [[Makers]] interested in education that have agreed to come together for a 12 week hack between Thursday 4th February and [[Earth Day 2021]] which is on Thursday 22nd April, 2021.",
+    "links": {
+      "makers": "15f2a6d90d9b36eb",
+      "earth-day-2021": "15f2a6d90d9b36eb",
+      "xapi": "510decfe4625a37b",
+      "experience-api": "510decfe4625a37b",
+      "learning-cohort-teams": "a3a8ca5be16b1d8f"
+    }
+  },
+  {
+    "slug": "learning-cohort-teams",
+    "title": "Learning Cohort Teams",
+    "date": 1611053687192,
+    "synopsis": "Participants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!).",
+    "links": {
+      "earth-day-team": "ed7c89a9214e0a39",
+      "makeymakey-team": "ed7c89a9214e0a39"
     }
   },
   {
@@ -1134,10 +1314,69 @@
     "synopsis": "We use a time based currency: Students are required to pass on their learning in order to earn credits that they can use to take further free courses."
   },
   {
+    "slug": "learning-tools-interoperability",
+    "title": "Learning Tools Interoperability",
+    "date": 1611676188661,
+    "synopsis": "__Learning Tools Interoperability__ (__LTI__) is an education technology specification developed by the [[IMS Global Learning Consortium]].",
+    "links": {
+      "ims-global-learning-consortium": "3d94c3ee-d027-4786-8e76-1afaf82faba6",
+      "oauth2": "ebc4445f9ff1cb86",
+      "openid-connect": "ebc4445f9ff1cb86",
+      "json-web-token": "ebc4445f9ff1cb86",
+      "learning-management-system": "ba7bf98c05b2447c",
+      "world-wide-web": "ba7bf98c05b2447c",
+      "pearson-plc": "9f3f18e4-0d30-4172-8f17-2b42f2db9acb",
+      "mcgraw-hill-education": "9f3f18e4-0d30-4172-8f17-2b42f2db9acb",
+      "d2l": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "instructure": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "blackboard-learn": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "benchprep": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "lams": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "sakai-software": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "moodle": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "open-edx": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
+      "google-summer-of-code": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
+      "charles-severance": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
+      "representational-state-transferrest": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
+      "json-web-tokenjwt": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
+      "xapi": "3908ac20c6bb43e0",
+      "experience-api": "3908ac20c6bb43e0",
+      "learning-tools-interoperability": "3908ac20c6bb43e0",
+      "growth-of-xapi": "3908ac20c6bb43e0"
+    }
+  },
+  {
     "slug": "life-long",
     "title": "Life-long",
     "date": 1603037945438,
     "synopsis": "(Students are Teachers)"
+  },
+  {
+    "slug": "lifter-lms",
+    "title": "Lifter LMS",
+    "date": 1611137140621,
+    "synopsis": "Combine [[Lifter LMS]] (WordPress LMS plugin) with [[GrassBlade]] to deliver SCORM and [[XAPI]] interactive elearning content.",
+    "links": {
+      "lifter-lms": "090f349ccead9b72",
+      "grassblade": "090f349ccead9b72",
+      "xapi": "090f349ccead9b72",
+      "scorm": "7e266ec3f2bccb81",
+      "lrs": "7e266ec3f2bccb81",
+      "wordpress": "7e266ec3f2bccb81"
+    }
+  },
+  {
+    "slug": "livecode-xapi",
+    "title": "Livecode xAPI",
+    "date": 1611053687191,
+    "synopsis": "We are proposing running a [[Livecode Dojo]] from February till Thursday 22nd April 2021. We will work around a series of small Livecode applications created for mobile, tablet and desktop that interface with each other using the [[experience api]] ([[xAPI]]).",
+    "links": {
+      "livecode-dojo": "9562e756b75c02b7",
+      "experience-api": "9562e756b75c02b7",
+      "xapi": "9562e756b75c02b7",
+      "xapi-learning-cohort": "98eb5eb499d627cc",
+      "learning-cohort-teams": "cfcd43a5fcafae1a"
+    }
   },
   {
     "slug": "livelihood-pods",
@@ -1155,6 +1394,36 @@
       "business-models": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
       "collaborative-economy": "031cbdbf-2c0d-4798-8230-01e1b59c850a",
       "open-company-formats": "031cbdbf-2c0d-4798-8230-01e1b59c850a"
+    }
+  },
+  {
+    "slug": "local-search-outpost",
+    "title": "Local Search Outpost",
+    "date": 1604508183272,
+    "synopsis": "Create repeatable way to update an index of local sites."
+  },
+  {
+    "slug": "lrsio",
+    "title": "LRS.io",
+    "date": 1611067661889,
+    "synopsis": "Welcome to the Veracity Learning LRS Users Manual. This page should give you everything you need to get started using the tool. We're working hard to document all the features and functions of the LRS, plus add tips and tricks, explanations, and caveats to help you get the most our of the software."
+  },
+  {
+    "slug": "makeymakey-team",
+    "title": "MakeyMakey Team",
+    "date": 1611053641171,
+    "synopsis": "This [[Livecode]] team is based on a 2020 cohort:",
+    "links": {
+      "livecode": "9c4dca114251caaa"
+    }
+  },
+  {
+    "slug": "many-voices",
+    "title": "Many Voices",
+    "date": 1611752334373,
+    "synopsis": "__Many Voices__ is a project to create an intoxicating platform for visual and non-written languages. We focus in particular (but not exclusively) on sign language, and indigenous languages, and together create an audiovisual landscape of diverse language modalities. All voices welcome.",
+    "links": {
+      "study-circle": "55426425a62a7077"
     }
   },
   {
@@ -1347,6 +1616,17 @@
     }
   },
   {
+    "slug": "nut-picking",
+    "title": "Nut Picking",
+    "date": 1606308938781,
+    "synopsis": "Below are a collection of links imported from [[OneTab]]. You can view these links here - [https://www.one-tab.com/page/l02dQnCRRPy00qZWLCretQ one-tab.com]:",
+    "links": {
+      "onetab": "aae3d68d-4bf8-4816-8d05-fdadfe3743e8",
+      "straw-man": "5d6fd35172ab6d16",
+      "steelman-argument": "5d6fd35172ab6d16"
+    }
+  },
+  {
     "slug": "obstacles-to-pbl",
     "title": "Obstacles to PBL",
     "date": 1498649467368,
@@ -1438,6 +1718,32 @@
     }
   },
   {
+    "slug": "outpost",
+    "title": "Outpost",
+    "date": 1611047463077,
+    "synopsis": "An outpost is an applications that deviate substantially from the routine behavior of wiki while still cooperating in the federation. Typically these are situated in order to access unique features in their environment or possibly to explore emerging technology expected to become the new norm once proven.",
+    "links": {
+      "outpost-thinking": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09",
+      "commons-outpost": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09",
+      "local-search-outpost": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09",
+      "seran-outpost": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09"
+    }
+  },
+  {
+    "slug": "outpost-thinking",
+    "title": "Outpost Thinking",
+    "date": 1610746985487,
+    "synopsis": "We built the federation based on the promiscuous sharing of simple things with the hope that this would lead the community to save indefinitely things worth saving. Within a year we had moved from ruby to node without leaving ruby sites behind. Now, in the federation's ninth year, we consider how this process might be further distributed.",
+    "links": {
+      "federation-friendly-outposts": "758c33e5e69b47ed",
+      "nodes-mistakes": "8e807989f2a9052c",
+      "meta-sites-and-pages": "dfb78275c34d747d",
+      "modular-client": "67d7c83674c9549b",
+      "serving-executables": "266a3788ee885765",
+      "smallest-wiki-revisited": "759915e69faf9ed8"
+    }
+  },
+  {
     "slug": "paper-prototyping",
     "title": "Paper prototyping",
     "date": 1554130626841,
@@ -1507,6 +1813,16 @@
     "title": "Presenter",
     "date": 1498675562707,
     "synopsis": "A page with 1 items."
+  },
+  {
+    "slug": "principles-of-dialogue",
+    "title": "Principles of dialogue",
+    "date": 1611755837439,
+    "synopsis": "> The group agrees that no group-level decisions will be made in the conversation.'' \"...In the dialogue group we are not going to decide what to do about anything. This is crucial. Otherwise we are not free. We must have an empty space where we are not obliged to anything, nor to come to any conclusions, nor to say anything or not say anything. It's open and free.\" (Bohm, \"On Dialogue\", p.18-19.) - [https://en.wikipedia.org/wiki/Bohm_Dialogue#Principles_of_dialogue wikipedia]",
+    "links": {
+      "steelman-argument": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d",
+      "straw-man": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d"
+    }
   },
   {
     "slug": "product-owner",
@@ -1725,6 +2041,16 @@
     "synopsis": "We start with an activity called Sentences About."
   },
   {
+    "slug": "seran-outpost",
+    "title": "Seran Outpost",
+    "date": 1607257106271,
+    "synopsis": "The __Seran Outpost__ is a [[deno]] server for fedwiki that is written to provide a number of programmatic services to the federation, most notably scraping the federation - [https://github.com/WardCunningham/seran-wiki/blob/master/.github/workflows/dockerimage.yml github]",
+    "links": {
+      "deno": "d536e5dc64315ce7",
+      "one-wiki-hosting-guide": "53d09c975172480a"
+    }
+  },
+  {
     "slug": "shaper",
     "title": "Shaper",
     "date": 1570549422473,
@@ -1826,6 +2152,33 @@
       "sprint-retrospective": "630085fe-b9fa-4d58-a628-b719aa68a4d0",
       "technology-demo--demo": "301ccf2b-a538-40cf-9c4f-4b2b7792dd00",
       "free-culture": "b5b93114-515e-4114-b4c6-bbb5c5a5ed06"
+    }
+  },
+  {
+    "slug": "steelman-argument",
+    "title": "Steelman Argument",
+    "date": 1611755885340,
+    "synopsis": "We abbreviate the phrase [[steel man]] here to the singular steelman to signify its importance as a concept.",
+    "links": {
+      "steel-man": "e186d0a891327d2e",
+      "straw-man": "459446c2a23a2a9a",
+      "nut-picking": "459446c2a23a2a9a",
+      "principles-of-dialogue": "459446c2a23a2a9a"
+    }
+  },
+  {
+    "slug": "straw-man",
+    "title": "Straw man",
+    "date": 1606308982857,
+    "synopsis": "A __straw man__ (sometimes written as __strawman__, also sometimes __straw dog__) is a form of [[logical argument]] and an [[informal fallacy]] of having the impression of refuting an argument, whereas the proper idea of argument under discussion was not addressed or properly refuted. One who engages in this fallacy is said to be \"attacking a straw man\" - [https://en.wikipedia.org/wiki/Straw_man wikipedia]",
+    "links": {
+      "logical-argument": "bc274354-21f8-4f2b-af2f-9ddd7aa77e29",
+      "informal-fallacy": "bc274354-21f8-4f2b-af2f-9ddd7aa77e29",
+      "polemic": "8f1095f0-87d3-4c27-b60f-1ec80cfc4a1d",
+      "aunt-sallylanguage": "0864bb67-2cb9-4896-9727-74b202b1f6f8",
+      "glossary-of-cue-sports-termsskittle": "0864bb67-2cb9-4896-9727-74b202b1f6f8",
+      "steelman-argument": "5cd91e96d7611fb5",
+      "nut-picking": "5cd91e96d7611fb5"
     }
   },
   {
@@ -2003,6 +2356,34 @@
     }
   },
   {
+    "slug": "the-experience-of-a-dialogue",
+    "title": "The experience of a dialogue",
+    "date": 1611756032315,
+    "synopsis": "Participants \"suspend\" their [[belief]]s, [[opinion]]s, [[impulse (psychology)]], and [[judgment]]s while speaking together, in order to see the movement of the group's [[thought process]]es and what their effects may be.",
+    "links": {
+      "belief": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc",
+      "opinion": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc",
+      "impulse-psychology": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc",
+      "judgment": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc",
+      "thought-process": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc"
+    }
+  },
+  {
+    "slug": "the-theory-of-dialogue",
+    "title": "The theory of dialogue",
+    "date": 1611755660830,
+    "synopsis": "Bohm introduced a concept of dialogue, stating that:",
+    "links": {
+      "misinformation": "09a4e34d-e414-45bb-8cc4-2c0377d9a378",
+      "david-bohm": "09a4e34d-e414-45bb-8cc4-2c0377d9a378",
+      "prejudice": "932a94eeccea21d6",
+      "human-activity": "ea7c1462bce7ebac",
+      "active-listening": "68fbf776-577b-43be-bca6-67c29812471b",
+      "attention": "68fbf776-577b-43be-bca6-67c29812471b",
+      "idiosyncrasy": "4dd18484-a3c7-44ee-9067-b0be859cb904"
+    }
+  },
+  {
     "slug": "theatre-conversations",
     "title": "Theatre Conversations",
     "date": 1459353771214,
@@ -2086,6 +2467,48 @@
     }
   },
   {
+    "slug": "transcription",
+    "title": "Transcription",
+    "date": 1611742328030,
+    "synopsis": "Here we research automatic captioning or transcription for audio or video files.",
+    "links": {
+      "transcription-software": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "transcription-api": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "audio-transcription": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "web-speech-api": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "google-cloud-speech-api": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "text-mining": "e962b124-2b6c-4bcc-8176-22c47353bf35",
+      "many-voices": "e962b124-2b6c-4bcc-8176-22c47353bf35"
+    }
+  },
+  {
+    "slug": "transcription-api",
+    "title": "Transcription API",
+    "date": 1611740812432,
+    "synopsis": "It seems like Amazon has the cheepest and most accurate service - [https://www.armedia.com/blog/transcription-services-aws-google-ibm-nuance/ review]",
+    "links": {
+      "text-mining": "1556007de08f301d",
+      "transcription-software": "1556007de08f301d",
+      "transcription-api": "1556007de08f301d",
+      "audio-transcription": "1556007de08f301d",
+      "web-speech-api": "1556007de08f301d",
+      "google-cloud-speech-api": "1556007de08f301d"
+    }
+  },
+  {
+    "slug": "transcription-software",
+    "title": "Transcription (software)",
+    "date": 1611740804653,
+    "synopsis": "Transcription software assists in the conversion of human speech into a text transcript. The primary meaning of the term \"transcription software\" has changed over time, with the introduction of new technologies such as natural language speech recognition.",
+    "links": {
+      "transcription-software": "078517e0a275b5ac",
+      "transcription-api": "078517e0a275b5ac",
+      "audio-transcription": "078517e0a275b5ac",
+      "web-speech-api": "078517e0a275b5ac",
+      "google-cloud-speech-api": "078517e0a275b5ac"
+    }
+  },
+  {
     "slug": "trevors-activity",
     "title": "Trevor's Activity",
     "date": 1501449413530,
@@ -2144,6 +2567,15 @@
     }
   },
   {
+    "slug": "wcs-partnerships",
+    "title": "WCS Partnerships",
+    "date": 1611830782019,
+    "synopsis": "[[SDGs Academy Pakistan]] is the most important partner, and we are connecting World Climate School  - Paksitan - Zimbabwe togehter in a very dynamic way.  To learn from each other.",
+    "links": {
+      "sdgs-academy-pakistan": "fd8f15ea23b284c4"
+    }
+  },
+  {
     "slug": "we-make-the-road-by-walking",
     "title": "we make the road by walking",
     "date": 1419008605970,
@@ -2151,6 +2583,12 @@
     "links": {
       "we-make-the-road-by-walking-talk-page": "1ac34b5147f96b8c"
     }
+  },
+  {
+    "slug": "web-speech-api",
+    "title": "Web Speech API",
+    "date": 1470320618178,
+    "synopsis": "The Web Speech API aims to provide an alternative input method for web applications (without using a keyboard). With this API, developers can give web apps the ability to transcribe voice to text, from the computer's microphone."
   },
   {
     "slug": "weekly-rhythm",
@@ -2233,6 +2671,39 @@
     }
   },
   {
+    "slug": "world-climate-school",
+    "title": "World Climate School",
+    "date": 1611831005001,
+    "synopsis": "The __World Climate School__ is an organization focusing on increasing climate change awareness around the world in an exponential way through a teach-the-teacher program, where participants go through a program of modules with information about climate change and other related challenges, the solutions and how to develop Climate Action Plans.",
+    "links": {
+      "world-climate-school-pakistan": "ac3a3a2d1fcf6319",
+      "wcs-mission-statement": "0eb889ebc6ba7019",
+      "living-document": "0eb889ebc6ba7019",
+      "wcs-vision": "7c1ae84e5df838d3",
+      "wcs-program": "7c1ae84e5df838d3",
+      "wcs-strategy": "7c1ae84e5df838d3",
+      "wcs-technology-strategy": "7c1ae84e5df838d3",
+      "wcs-governance": "7c1ae84e5df838d3",
+      "wcs-partnerships": "7c1ae84e5df838d3",
+      "world-climate-school": "ab585b0d-a122-414c-afd6-2cc208a03a9b",
+      "grow-a-tree": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "weforestorg": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "help-orphans-for-future-nation": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "learning-garden": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "miombo": "e4de431e-b307-4d96-98e9-248d762a6f98",
+      "baobab": "e4de431e-b307-4d96-98e9-248d762a6f98"
+    }
+  },
+  {
+    "slug": "world-climate-school-platform",
+    "title": "World Climate School Platform",
+    "date": 1611830808406,
+    "synopsis": "We need a new platform for the [[World Climate chool]].",
+    "links": {
+      "world-climate-chool": "7aac5714939a5daf"
+    }
+  },
+  {
     "slug": "writers",
     "title": "Writers",
     "date": 1427366243620,
@@ -2269,29 +2740,6 @@
     }
   },
   {
-    "slug": "experience-api",
-    "title": "Experience API",
-    "date": 1611065777689,
-    "synopsis": "The Experience API ([[xAPI]]), also known as the Tin Can API is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences - [https://en.wikipedia.org/wiki/Experience_API_%28Tin_Can_API%29 wikipedia]",
-    "links": {
-      "xapi": "271e3210e9a73700",
-      "restful": "6530df07a7e530a2",
-      "json-rpc": "6530df07a7e530a2",
-      "growth-of-xapi": "1fb49b43111ec96a",
-      "advanced-distributed-learning": "5fecfad7b67a4a27",
-      "scorm": "bbf9dcfc78d30586",
-      "restful-web-service": "d47db21b6c8366fb",
-      "json": "d47db21b6c8366fb",
-      "learning-outside-the-browser": "7656e089d86ca3e2",
-      "group-learning": "26d03d09cd267891",
-      "learning-games-and-simulations": "701acc8917068e7c",
-      "control-over-learning-content": "34197480bb3411eb",
-      "livecode-xapi": "d7fe9473dc6196e7",
-      "xapi-learning-cohort": "772758af3a09bcdf",
-      "oauth": "b7a7e12e205f24cf"
-    }
-  },
-  {
     "slug": "xapi",
     "title": "xAPI",
     "date": 1611676135895,
@@ -2316,83 +2764,6 @@
     }
   },
   {
-    "slug": "growth-of-xapi",
-    "title": "Growth of xAPI",
-    "date": 1611047476399,
-    "synopsis": "Adoption of [[xAPI]] may be slow, but it is growing continuous linear fashion, in a conservative market.",
-    "links": {
-      "xapi": "183a20ded9d54eaf"
-    }
-  },
-  {
-    "slug": "outpost",
-    "title": "Outpost",
-    "date": 1611047463077,
-    "synopsis": "An outpost is an applications that deviate substantially from the routine behavior of wiki while still cooperating in the federation. Typically these are situated in order to access unique features in their environment or possibly to explore emerging technology expected to become the new norm once proven.",
-    "links": {
-      "outpost-thinking": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09",
-      "commons-outpost": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09",
-      "local-search-outpost": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09",
-      "seran-outpost": "178b2eef-b0fa-4455-8ece-4d0ff1e1fc09"
-    }
-  },
-  {
-    "slug": "outpost-thinking",
-    "title": "Outpost Thinking",
-    "date": 1610746985487,
-    "synopsis": "We built the federation based on the promiscuous sharing of simple things with the hope that this would lead the community to save indefinitely things worth saving. Within a year we had moved from ruby to node without leaving ruby sites behind. Now, in the federation's ninth year, we consider how this process might be further distributed.",
-    "links": {
-      "federation-friendly-outposts": "758c33e5e69b47ed",
-      "nodes-mistakes": "8e807989f2a9052c",
-      "meta-sites-and-pages": "dfb78275c34d747d",
-      "modular-client": "67d7c83674c9549b",
-      "serving-executables": "266a3788ee885765",
-      "smallest-wiki-revisited": "759915e69faf9ed8"
-    }
-  },
-  {
-    "slug": "commons-outpost",
-    "title": "Commons Outpost",
-    "date": 1591610547111,
-    "synopsis": "The [[Commons Outpost]] will start life as a [[revIgnitor server]] running most probably under Apache, and look to migrate that to run either as a native Livecode server (listening on a local private port), or under a [[Caddy server]] (preferred).",
-    "links": {
-      "commons-outpost": "8083aef57072cad1",
-      "revignitor-server": "8083aef57072cad1",
-      "caddy-server": "8083aef57072cad1",
-      "the-commons": "0ea65f446d6d1752",
-      "deno": "38c8611bdbd836e7"
-    }
-  },
-  {
-    "slug": "local-search-outpost",
-    "title": "Local Search Outpost",
-    "date": 1604508183272,
-    "synopsis": "Create repeatable way to update an index of local sites."
-  },
-  {
-    "slug": "seran-outpost",
-    "title": "Seran Outpost",
-    "date": 1607257106271,
-    "synopsis": "The __Seran Outpost__ is a [[deno]] server for fedwiki that is written to provide a number of programmatic services to the federation, most notably scraping the federation - [https://github.com/WardCunningham/seran-wiki/blob/master/.github/workflows/dockerimage.yml github]",
-    "links": {
-      "deno": "d536e5dc64315ce7",
-      "one-wiki-hosting-guide": "53d09c975172480a"
-    }
-  },
-  {
-    "slug": "livecode-xapi",
-    "title": "Livecode xAPI",
-    "date": 1611053687191,
-    "synopsis": "We are proposing running a [[Livecode Dojo]] from February till Thursday 22nd April 2021. We will work around a series of small Livecode applications created for mobile, tablet and desktop that interface with each other using the [[experience api]] ([[xAPI]]).",
-    "links": {
-      "livecode-dojo": "9562e756b75c02b7",
-      "experience-api": "9562e756b75c02b7",
-      "xapi": "9562e756b75c02b7",
-      "xapi-learning-cohort": "98eb5eb499d627cc",
-      "learning-cohort-teams": "cfcd43a5fcafae1a"
-    }
-  },
-  {
     "slug": "xapi-cohort",
     "title": "xAPI Cohort",
     "date": 1611048736204,
@@ -2406,377 +2777,6 @@
     "links": {
       "experience-api": "15f2a6d90d9b36eb",
       "learning-cohort-teams": "a3a8ca5be16b1d8f"
-    }
-  },
-  {
-    "slug": "learning-cohort-teams",
-    "title": "Learning Cohort Teams",
-    "date": 1611053687192,
-    "synopsis": "Participants form teams based on shared interests and work together on an xAPI project. Each cohort features some predefined projects so you can jump right into something that sounds interesting and of course you can come with your own project idea and gather a team around you to get moving (or bring your team!).",
-    "links": {
-      "earth-day-team": "ed7c89a9214e0a39",
-      "makeymakey-team": "ed7c89a9214e0a39"
-    }
-  },
-  {
-    "slug": "earth-day-team",
-    "title": "Earth Day Team",
-    "date": 1611065625519,
-    "synopsis": "We are proposing creating a series of integrated [[Livecode]] apps used for environmental education and showcasing these on [[Earth Day 2021]].",
-    "links": {
-      "livecode": "bb14a60492f837c0",
-      "earth-day-2021": "bb14a60492f837c0",
-      "expereince-api": "a8764a93eb14348b",
-      "dsaf": "a8764a93eb14348b",
-      "scorm-cloud": "a8764a93eb14348b"
-    }
-  },
-  {
-    "slug": "makeymakey-team",
-    "title": "MakeyMakey Team",
-    "date": 1611053641171,
-    "synopsis": "This [[Livecode]] team is based on a 2020 cohort:",
-    "links": {
-      "livecode": "9c4dca114251caaa"
-    }
-  },
-  {
-    "slug": "earth-day-2021",
-    "title": "Earth Day 2021",
-    "date": 1611054272290,
-    "synopsis": "[[Earth Day]] is an annual celebration that has taken place in April each year since 1970. It takes place each year on:",
-    "links": {
-      "earth-day": "b28b56f2be458a5b",
-      "earth-day-network": "8d445981ecab6529",
-      "learning-cohort": "70e0c67a396ffc94",
-      "wiki-and-the-environment": "e4498fede2652953",
-      "molde-learning-garden": "8bd6b54bbe6784e2",
-      "home-studio": "85072eeeea341f6b",
-      "community-obeya-room": "85072eeeea341f6b",
-      "sound-garden": "a5076bc2e7ca3f43",
-      "earth-sounds": "5bf790bd27b82bca",
-      "green-wiki": "3eb3947058d61959"
-    }
-  },
-  {
-    "slug": "learning-cohort",
-    "title": "Learning Cohort",
-    "date": 1611054783042,
-    "synopsis": "The __Learning Cohort__ is an informal group of [[Makers]] interested in education that have agreed to come together for a 12 week hack between Thursday 4th February and [[Earth Day 2021]] which is on Thursday 22nd April, 2021.",
-    "links": {
-      "makers": "15f2a6d90d9b36eb",
-      "earth-day-2021": "15f2a6d90d9b36eb",
-      "xapi": "510decfe4625a37b",
-      "experience-api": "510decfe4625a37b",
-      "learning-cohort-teams": "a3a8ca5be16b1d8f"
-    }
-  },
-  {
-    "slug": "lifter-lms",
-    "title": "Lifter LMS",
-    "date": 1611137140621,
-    "synopsis": "Combine [[Lifter LMS]] (WordPress LMS plugin) with [[GrassBlade]] to deliver SCORM and [[XAPI]] interactive elearning content.",
-    "links": {
-      "lifter-lms": "090f349ccead9b72",
-      "grassblade": "090f349ccead9b72",
-      "xapi": "090f349ccead9b72",
-      "scorm": "7e266ec3f2bccb81",
-      "lrs": "7e266ec3f2bccb81",
-      "wordpress": "7e266ec3f2bccb81"
-    }
-  },
-  {
-    "slug": "lrsio",
-    "title": "LRS.io",
-    "date": 1611067661889,
-    "synopsis": "Welcome to the Veracity Learning LRS Users Manual. This page should give you everything you need to get started using the tool. We're working hard to document all the features and functions of the LRS, plus add tips and tricks, explanations, and caveats to help you get the most our of the software."
-  },
-  {
-    "slug": "grassblade",
-    "title": "GrassBlade",
-    "date": 1611137055460,
-    "synopsis": "Glassblade provides an easy a suite of tools that make integrating various elements of a modern learning management solution (LMS) interoperate around modern standards like the experience api ([[xAPI]]).",
-    "links": {
-      "xapi": "550de57eab512f55",
-      "experience-api": "cfe65aa95cc299a0",
-      "glassblade": "8ec1badd5520e8d0",
-      "lrs": "8ec1badd5520e8d0"
-    }
-  },
-  {
-    "slug": "world-climate-school-platform",
-    "title": "World Climate School Platform",
-    "date": 1611830808406,
-    "synopsis": "We need a new platform for the [[World Climate chool]].",
-    "links": {
-      "world-climate-chool": "7aac5714939a5daf"
-    }
-  },
-  {
-    "slug": "inger-mette-stenseth-activity",
-    "title": "Inger-Mette Stenseth Activity",
-    "date": 1611138151798,
-    "synopsis": "Here we list all the sites we know of that concentrate on the technical and social aspects of writing in [[Federated Wiki]]. See [[Fedwiki Sites]] for a list of domains we use in the views below:",
-    "links": {
-      "federated-wiki": "2581edca1c3a105d",
-      "fedwiki-sites": "2581edca1c3a105d",
-      "inger-mette-stenseth-index": "f2e58789948ca8a6",
-      "inger-mette-stenseth-sites": "f2e58789948ca8a6",
-      "inger-mette-stenseth-recent-sites": "f2e58789948ca8a6",
-      "activity": "8ac5da9f5a523940",
-      "fedwiki-activity": "8ac5da9f5a523940",
-      "atopia-activity": "8ac5da9f5a523940",
-      "federation-activity": "8ac5da9f5a523940"
-    }
-  },
-  {
-    "slug": "learning-tools-interoperability",
-    "title": "Learning Tools Interoperability",
-    "date": 1611676188661,
-    "synopsis": "__Learning Tools Interoperability__ (__LTI__) is an education technology specification developed by the [[IMS Global Learning Consortium]].",
-    "links": {
-      "ims-global-learning-consortium": "3d94c3ee-d027-4786-8e76-1afaf82faba6",
-      "oauth2": "ebc4445f9ff1cb86",
-      "openid-connect": "ebc4445f9ff1cb86",
-      "json-web-token": "ebc4445f9ff1cb86",
-      "learning-management-system": "ba7bf98c05b2447c",
-      "world-wide-web": "ba7bf98c05b2447c",
-      "pearson-plc": "9f3f18e4-0d30-4172-8f17-2b42f2db9acb",
-      "mcgraw-hill-education": "9f3f18e4-0d30-4172-8f17-2b42f2db9acb",
-      "d2l": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
-      "instructure": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
-      "blackboard-learn": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
-      "benchprep": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
-      "lams": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
-      "sakai-software": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
-      "moodle": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
-      "open-edx": "32d5ddb1-58f5-4a14-b5f8-28abc82d3059",
-      "google-summer-of-code": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
-      "charles-severance": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
-      "representational-state-transferrest": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
-      "json-web-tokenjwt": "97da6fc1-e900-4d0e-9d90-dd6e4230907f",
-      "xapi": "3908ac20c6bb43e0",
-      "experience-api": "3908ac20c6bb43e0",
-      "learning-tools-interoperability": "3908ac20c6bb43e0",
-      "growth-of-xapi": "3908ac20c6bb43e0"
-    }
-  },
-  {
-    "slug": "transcription",
-    "title": "Transcription",
-    "date": 1611742328030,
-    "synopsis": "Here we research automatic captioning or transcription for audio or video files.",
-    "links": {
-      "transcription-software": "e962b124-2b6c-4bcc-8176-22c47353bf35",
-      "transcription-api": "e962b124-2b6c-4bcc-8176-22c47353bf35",
-      "audio-transcription": "e962b124-2b6c-4bcc-8176-22c47353bf35",
-      "web-speech-api": "e962b124-2b6c-4bcc-8176-22c47353bf35",
-      "google-cloud-speech-api": "e962b124-2b6c-4bcc-8176-22c47353bf35",
-      "text-mining": "e962b124-2b6c-4bcc-8176-22c47353bf35",
-      "many-voices": "e962b124-2b6c-4bcc-8176-22c47353bf35"
-    }
-  },
-  {
-    "slug": "transcription-api",
-    "title": "Transcription API",
-    "date": 1611740812432,
-    "synopsis": "It seems like Amazon has the cheepest and most accurate service - [https://www.armedia.com/blog/transcription-services-aws-google-ibm-nuance/ review]",
-    "links": {
-      "text-mining": "1556007de08f301d",
-      "transcription-software": "1556007de08f301d",
-      "transcription-api": "1556007de08f301d",
-      "audio-transcription": "1556007de08f301d",
-      "web-speech-api": "1556007de08f301d",
-      "google-cloud-speech-api": "1556007de08f301d"
-    }
-  },
-  {
-    "slug": "audio-transcription",
-    "title": "Audio Transcription",
-    "date": 1611740857811,
-    "synopsis": "Here we look at technologies that we can use to integrate speech and audio into wiki.",
-    "links": {
-      "transcription-software": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
-      "transcription-api": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
-      "audio-transcription": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
-      "web-speech-api": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
-      "google-cloud-speech-api": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860",
-      "text-mining": "a41c4d2d-2bfd-4600-ba59-19ed8fcc2860"
-    }
-  },
-  {
-    "slug": "web-speech-api",
-    "title": "Web Speech API",
-    "date": 1470320618178,
-    "synopsis": "The Web Speech API aims to provide an alternative input method for web applications (without using a keyboard). With this API, developers can give web apps the ability to transcribe voice to text, from the computer's microphone."
-  },
-  {
-    "slug": "google-cloud-speech-api",
-    "title": "Google Cloud Speech API",
-    "date": 1470319934135,
-    "synopsis": "Google Cloud Speech [[API]] enables developers to convert audio to text by applying powerful neural network models in an easy to use API - [https://cloud.google.com/speech/?gclid=CjwKEAjww_a8BRDB-O-OqZb_vRASJAA9yrc5NlS9bfBEKZ50vGer1z0igd3-gcqeI68K5RiLfoIzFxoCBuLw_wcB cloud.google.com]",
-    "links": {
-      "api": "39ca9e4cddfa7306"
-    }
-  },
-  {
-    "slug": "transcription-software",
-    "title": "Transcription (software)",
-    "date": 1611740804653,
-    "synopsis": "Transcription software assists in the conversion of human speech into a text transcript. The primary meaning of the term \"transcription software\" has changed over time, with the introduction of new technologies such as natural language speech recognition.",
-    "links": {
-      "transcription-software": "078517e0a275b5ac",
-      "transcription-api": "078517e0a275b5ac",
-      "audio-transcription": "078517e0a275b5ac",
-      "web-speech-api": "078517e0a275b5ac",
-      "google-cloud-speech-api": "078517e0a275b5ac"
-    }
-  },
-  {
-    "slug": "many-voices",
-    "title": "Many Voices",
-    "date": 1611752334373,
-    "synopsis": "__Many Voices__ is a project to create an intoxicating platform for visual and non-written languages. We focus in particular (but not exclusively) on sign language, and indigenous languages, and together create an audiovisual landscape of diverse language modalities. All voices welcome.",
-    "links": {
-      "study-circle": "55426425a62a7077"
-    }
-  },
-  {
-    "slug": "bohm-dialogue",
-    "title": "Bohm Dialogue",
-    "date": 1611756032315,
-    "synopsis": "A __Bohm Dialogue__ is a freely flowing group [[conversation]] in which participants attempt to reach a common understanding, experiencing everyone's point of view fully, equally and non-judgementally. This can lead to new and deeper understanding.",
-    "links": {
-      "conversation": "cf24812b-78ae-490a-9ae8-33b9bec0a8e1",
-      "workshop": "5cf9d7f7-15c4-4aba-8f30-2a98c9ca1074",
-      "human-nature": "0bc09c00f4af730a",
-      "consciousness": "0bc09c00f4af730a",
-      "david-bohm": "0bc09c00f4af730a",
-      "the-theory-of-dialogue": "3c0bd99e-67f0-4817-a514-b89d10bc5fdf",
-      "principles-of-dialogue": "3c0bd99e-67f0-4817-a514-b89d10bc5fdf",
-      "the-experience-of-a-dialogue": "3c0bd99e-67f0-4817-a514-b89d10bc5fdf",
-      "bohm-dialogue": "3fa1242d-358f-48f2-a1b3-258097bc3f22",
-      "organizational-development": "3fa1242d-358f-48f2-a1b3-258097bc3f22",
-      "appreciative-inquiry": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
-      "communicative-action": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
-      "dialogue": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
-      "dialogue-mapping": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
-      "double-loop-learning": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
-      "improvisation": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
-      "insight-dialogue": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
-      "learning-circle": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
-      "nonviolent-communication": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
-      "present": "5adc04a9-cef2-483c-9067-534cbd6e11b8",
-      "theory-u": "5adc04a9-cef2-483c-9067-534cbd6e11b8"
-    }
-  },
-  {
-    "slug": "the-theory-of-dialogue",
-    "title": "The theory of dialogue",
-    "date": 1611755660830,
-    "synopsis": "Bohm introduced a concept of dialogue, stating that:",
-    "links": {
-      "misinformation": "09a4e34d-e414-45bb-8cc4-2c0377d9a378",
-      "david-bohm": "09a4e34d-e414-45bb-8cc4-2c0377d9a378",
-      "prejudice": "932a94eeccea21d6",
-      "human-activity": "ea7c1462bce7ebac",
-      "active-listening": "68fbf776-577b-43be-bca6-67c29812471b",
-      "attention": "68fbf776-577b-43be-bca6-67c29812471b",
-      "idiosyncrasy": "4dd18484-a3c7-44ee-9067-b0be859cb904"
-    }
-  },
-  {
-    "slug": "principles-of-dialogue",
-    "title": "Principles of dialogue",
-    "date": 1611755837439,
-    "synopsis": "> The group agrees that no group-level decisions will be made in the conversation.'' \"...In the dialogue group we are not going to decide what to do about anything. This is crucial. Otherwise we are not free. We must have an empty space where we are not obliged to anything, nor to come to any conclusions, nor to say anything or not say anything. It's open and free.\" (Bohm, \"On Dialogue\", p.18-19.) - [https://en.wikipedia.org/wiki/Bohm_Dialogue#Principles_of_dialogue wikipedia]",
-    "links": {
-      "steelman-argument": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d",
-      "straw-man": "32d4adba-e708-4ab9-b78a-d81d53cf2f7d"
-    }
-  },
-  {
-    "slug": "straw-man",
-    "title": "Straw man",
-    "date": 1606308982857,
-    "synopsis": "A __straw man__ (sometimes written as __strawman__, also sometimes __straw dog__) is a form of [[logical argument]] and an [[informal fallacy]] of having the impression of refuting an argument, whereas the proper idea of argument under discussion was not addressed or properly refuted. One who engages in this fallacy is said to be \"attacking a straw man\" - [https://en.wikipedia.org/wiki/Straw_man wikipedia]",
-    "links": {
-      "logical-argument": "bc274354-21f8-4f2b-af2f-9ddd7aa77e29",
-      "informal-fallacy": "bc274354-21f8-4f2b-af2f-9ddd7aa77e29",
-      "polemic": "8f1095f0-87d3-4c27-b60f-1ec80cfc4a1d",
-      "aunt-sallylanguage": "0864bb67-2cb9-4896-9727-74b202b1f6f8",
-      "glossary-of-cue-sports-termsskittle": "0864bb67-2cb9-4896-9727-74b202b1f6f8",
-      "steelman-argument": "5cd91e96d7611fb5",
-      "nut-picking": "5cd91e96d7611fb5"
-    }
-  },
-  {
-    "slug": "steelman-argument",
-    "title": "Steelman Argument",
-    "date": 1611755885340,
-    "synopsis": "We abbreviate the phrase [[steel man]] here to the singular steelman to signify its importance as a concept.",
-    "links": {
-      "steel-man": "e186d0a891327d2e",
-      "straw-man": "459446c2a23a2a9a",
-      "nut-picking": "459446c2a23a2a9a",
-      "principles-of-dialogue": "459446c2a23a2a9a"
-    }
-  },
-  {
-    "slug": "nut-picking",
-    "title": "Nut Picking",
-    "date": 1606308938781,
-    "synopsis": "Below are a collection of links imported from [[OneTab]]. You can view these links here - [https://www.one-tab.com/page/l02dQnCRRPy00qZWLCretQ one-tab.com]:",
-    "links": {
-      "onetab": "aae3d68d-4bf8-4816-8d05-fdadfe3743e8",
-      "straw-man": "5d6fd35172ab6d16",
-      "steelman-argument": "5d6fd35172ab6d16"
-    }
-  },
-  {
-    "slug": "the-experience-of-a-dialogue",
-    "title": "The experience of a dialogue",
-    "date": 1611756032315,
-    "synopsis": "Participants \"suspend\" their [[belief]]s, [[opinion]]s, [[impulse (psychology)]], and [[judgment]]s while speaking together, in order to see the movement of the group's [[thought process]]es and what their effects may be.",
-    "links": {
-      "belief": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc",
-      "opinion": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc",
-      "impulse-psychology": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc",
-      "judgment": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc",
-      "thought-process": "0f7a9e7d-b1a5-4177-83c7-07e2c49bf8dc"
-    }
-  },
-  {
-    "slug": "world-climate-school",
-    "title": "World Climate School",
-    "date": 1611831005001,
-    "synopsis": "The __World Climate School__ is an organization focusing on increasing climate change awareness around the world in an exponential way through a teach-the-teacher program, where participants go through a program of modules with information about climate change and other related challenges, the solutions and how to develop Climate Action Plans.",
-    "links": {
-      "world-climate-school-pakistan": "ac3a3a2d1fcf6319",
-      "wcs-mission-statement": "0eb889ebc6ba7019",
-      "living-document": "0eb889ebc6ba7019",
-      "wcs-vision": "7c1ae84e5df838d3",
-      "wcs-program": "7c1ae84e5df838d3",
-      "wcs-strategy": "7c1ae84e5df838d3",
-      "wcs-technology-strategy": "7c1ae84e5df838d3",
-      "wcs-governance": "7c1ae84e5df838d3",
-      "wcs-partnerships": "7c1ae84e5df838d3",
-      "world-climate-school": "ab585b0d-a122-414c-afd6-2cc208a03a9b",
-      "grow-a-tree": "e4de431e-b307-4d96-98e9-248d762a6f98",
-      "weforestorg": "e4de431e-b307-4d96-98e9-248d762a6f98",
-      "help-orphans-for-future-nation": "e4de431e-b307-4d96-98e9-248d762a6f98",
-      "learning-garden": "e4de431e-b307-4d96-98e9-248d762a6f98",
-      "miombo": "e4de431e-b307-4d96-98e9-248d762a6f98",
-      "baobab": "e4de431e-b307-4d96-98e9-248d762a6f98"
-    }
-  },
-  {
-    "slug": "wcs-partnerships",
-    "title": "WCS Partnerships",
-    "date": 1611830782019,
-    "synopsis": "[[SDGs Academy Pakistan]] is the most important partner, and we are connecting World Climate School  - Paksitan - Zimbabwe togehter in a very dynamic way.  To learn from each other.",
-    "links": {
-      "sdgs-academy-pakistan": "fd8f15ea23b284c4"
     }
   }
 ]
