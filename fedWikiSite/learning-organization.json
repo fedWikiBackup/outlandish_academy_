@@ -2,7 +2,7 @@
   "title": "Learning organization",
   "journal": [
     {
-      "date": 1604672703905,
+      "date": 1612443878105,
       "item": {
         "title": "Learning organization",
         "story": ""
@@ -11,384 +11,232 @@
     },
     {
       "type": "fork",
-      "date": 1604672930789
+      "date": 1612444221684
     },
     {
-      "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+      "id": "d5758d65-b644-49dc-b1be-4331e0249af5",
       "type": "add",
       "item": {
-        "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
-        "type": "html",
-        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Organisation.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Organisation.png'>\n</a>\n<p class=caption>\nThis is an image - [http://outlandish.academy/assets/Learning_Organisation.png outlandish.academy]\n</p></div>"
+        "id": "d5758d65-b644-49dc-b1be-4331e0249af5",
+        "type": "markdown",
+        "text": "# Characteristics"
       },
-      "after": "3485b1bc-e94d-4d38-a3b8-46c43b3eb28f",
-      "date": 1604672947039
+      "after": "49952dea-f65f-4b90-9945-357a10bdbc60",
+      "date": 1612444242799
     },
     {
-      "id": "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
+      "id": "0879f861-880d-484e-bde8-0dd820938c7e",
       "type": "add",
       "item": {
-        "id": "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
-        "type": "html",
-        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Radar.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Radar.png'>\n</a>\n<p class=caption>\nThis is an image - [http://outlandish.academy/assets/Learning_Radar.png outlandish.academy]\n</p></div>"
-      },
-      "after": "73210725-23d2-41f5-a1ce-f198824bbdd6",
-      "date": 1604755060167
-    },
-    {
-      "type": "edit",
-      "id": "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
-      "item": {
-        "id": "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
-        "type": "html",
-        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Radar.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Radar.png'>\n</a>\n<p class=caption>\n[[Learning Radar]] - [http://outlandish.academy/assets/Learning_Radar.png outlandish.academy]\n</p></div>"
-      },
-      "date": 1604755186546
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "8e3f31cd93a1c802"
-      },
-      "id": "8e3f31cd93a1c802",
-      "type": "add",
-      "after": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
-      "date": 1604755201493
-    },
-    {
-      "id": "8e3f31cd93a1c802",
-      "type": "move",
-      "order": [
-        "3485b1bc-e94d-4d38-a3b8-46c43b3eb28f",
-        "dccb34e0-e619-4ed5-bba9-996293c1d016",
-        "73210725-23d2-41f5-a1ce-f198824bbdd6",
-        "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
-        "8e3f31cd93a1c802",
-        "e6aac7d1-639d-44d4-acd1-871c6630917d",
-        "d5858f73-2fe7-422c-a74e-b17448f8afea",
-        "8a5b2854-9987-4cbd-b1c8-902721af0862",
-        "d869d29c-a24c-419e-b8c5-284a42116c49",
-        "b1f093ca-98ee-4acc-ad6c-191e4436baba",
-        "c546da03-beec-4855-af89-0fadf7b31b86",
-        "df21cf1b-61c4-4e46-b57b-e9315b3efd38"
-      ],
-      "date": 1604755203681
-    },
-    {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
+        "id": "0879f861-880d-484e-bde8-0dd820938c7e",
         "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Safe Learning Environment]]\n1. [[fsad]]"
+        "text": "There are many definitions of a learning organization as well as typologies of kinds of learning organizations - [https://en.wikipedia.org/wiki/Learning_organization#Characteristics wikipedia]"
       },
-      "date": 1604755224001
+      "after": "d5758d65-b644-49dc-b1be-4331e0249af5",
+      "date": 1612444245488
     },
     {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
-        "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Shared Vision]]"
-      },
-      "date": 1604755248566
-    },
-    {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
-        "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following best mothods]]"
-      },
-      "date": 1604755266367
-    },
-    {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
-        "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]"
-      },
-      "date": 1604755277659
-    },
-    {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
-        "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]"
-      },
-      "date": 1604755299394
-    },
-    {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
-        "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement?]]"
-      },
-      "date": 1604755331412
-    },
-    {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
-        "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement?]]\n1. [[Sharing learning]]"
-      },
-      "date": 1604755363251
-    },
-    {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
-        "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing learning]]"
-      },
-      "date": 1604755373683
-    },
-    {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
-        "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Safe Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]"
-      },
-      "date": 1604755380558
-    },
-    {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
-        "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Learning Environment]]\n1. [[Shared Vision]]\n1. [[Following Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]"
-      },
-      "date": 1604755393113
-    },
-    {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
-        "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Learning Environment]]\n1. [[Shared Vision]]\n1. [[Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]"
-      },
-      "date": 1604755399190
-    },
-    {
-      "item": {
-        "type": "factory",
-        "id": "2a3ac2111882c25b"
-      },
-      "id": "2a3ac2111882c25b",
-      "type": "add",
-      "after": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
-      "date": 1604755429189
-    },
-    {
-      "type": "edit",
-      "id": "8e3f31cd93a1c802",
-      "item": {
-        "type": "markdown",
-        "id": "8e3f31cd93a1c802",
-        "text": "1. [[Learning Environment]]\n1. [[Shared Vision]]\n1. [[Best Methods]]\n1. [[Self Managed Teams]]\n1. [[Continual Improvement]]\n1. [[Sharing Learning]]\n"
-      },
-      "date": 1604755574840
-    },
-    {
-      "type": "add",
-      "id": "ba94b30289d46f92",
-      "item": {
-        "type": "markdown",
-        "id": "ba94b30289d46f92",
-        "text": "[[About Radar Plugin]]"
-      },
-      "after": "8e3f31cd93a1c802",
-      "date": 1604755586540
-    },
-    {
-      "id": "d4041124d849e461",
+      "id": "51690c91-c906-4848-a6b4-5071fcca8f9c",
       "type": "add",
       "item": {
-        "type": "radar",
-        "id": "d4041124d849e461"
+        "id": "51690c91-c906-4848-a6b4-5071fcca8f9c",
+        "type": "markdown",
+        "text": "[[Peter Senge]] stated in an interview that a learning organization is a group of people working together collectively to enhance their capacities to create results they really care about. Senge popularized the concept of the learning organization through his book ''[[The Fifth Discipline]]''. In the book, he proposed the following five characteristics:"
       },
-      "after": "8e3f31cd93a1c802",
-      "date": 1604755622138
+      "after": "0879f861-880d-484e-bde8-0dd820938c7e",
+      "date": 1612444247505
     },
     {
-      "id": "e7a0d5250ad3e09e",
+      "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
       "type": "add",
       "item": {
-        "type": "method",
-        "id": "e7a0d5250ad3e09e",
-        "text": "518475 Canada\n8240958 China\n762543 Germany\n2069738 India\n574667 Iran\n1138432 Japan\n1688688 Russia\n493158 United Kingdom\n5492170 United States"
+        "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+        "type": "markdown",
+        "text": "- [[Systems thinking]]"
       },
-      "after": "8e3f31cd93a1c802",
-      "date": 1604755642443
+      "after": "51690c91-c906-4848-a6b4-5071fcca8f9c",
+      "date": 1612444263717
     },
     {
       "type": "edit",
-      "id": "e7a0d5250ad3e09e",
+      "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
       "item": {
-        "type": "method",
-        "id": "e7a0d5250ad3e09e",
-        "text": "6 Learning Environment\n3 Shared Vision\n1 Best Methods\n9 Self Managed Teams\n2 Continual Improvement\n4 Sharing Learning"
+        "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+        "type": "markdown",
+        "text": "1. [[Systems thinking]]"
       },
-      "date": 1604755746750
+      "date": 1612444331671
     },
     {
-      "id": "8e3f31cd93a1c802",
-      "type": "move",
-      "order": [
-        "3485b1bc-e94d-4d38-a3b8-46c43b3eb28f",
-        "dccb34e0-e619-4ed5-bba9-996293c1d016",
-        "73210725-23d2-41f5-a1ce-f198824bbdd6",
-        "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
-        "e7a0d5250ad3e09e",
-        "d4041124d849e461",
-        "8e3f31cd93a1c802",
-        "ba94b30289d46f92",
-        "e6aac7d1-639d-44d4-acd1-871c6630917d",
-        "d5858f73-2fe7-422c-a74e-b17448f8afea",
-        "8a5b2854-9987-4cbd-b1c8-902721af0862",
-        "d869d29c-a24c-419e-b8c5-284a42116c49",
-        "b1f093ca-98ee-4acc-ad6c-191e4436baba",
-        "c546da03-beec-4855-af89-0fadf7b31b86",
-        "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
-        "2a3ac2111882c25b"
-      ],
-      "date": 1604755789450
-    },
-    {
-      "type": "edit",
-      "id": "d4041124d849e461",
+      "id": "d1840a72-41f7-4aa9-bb72-224519e7f107",
+      "type": "add",
       "item": {
-        "type": "radar",
-        "id": "d4041124d849e461",
-        "text": " "
+        "id": "d1840a72-41f7-4aa9-bb72-224519e7f107",
+        "type": "markdown",
+        "text": "- [[Personal mastery]]"
       },
-      "date": 1604755958882
+      "after": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+      "date": 1612444342936
     },
     {
-      "type": "edit",
-      "id": "d4041124d849e461",
-      "item": {
-        "type": "radar",
-        "id": "d4041124d849e461",
-        "text": "10.0"
-      },
-      "date": 1604756023711
-    },
-    {
-      "id": "e7a0d5250ad3e09e",
       "type": "remove",
-      "date": 1604756071858
-    },
-    {
-      "id": "d4041124d849e461",
-      "type": "remove",
-      "date": 1604756074865
-    },
-    {
-      "id": "8e3f31cd93a1c802",
-      "type": "remove",
-      "date": 1604756080069
-    },
-    {
-      "id": "ba94b30289d46f92",
-      "type": "remove",
-      "date": 1604756128991
+      "id": "d1840a72-41f7-4aa9-bb72-224519e7f107",
+      "date": 1612444347220
     },
     {
       "type": "edit",
-      "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+      "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
       "item": {
-        "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
-        "type": "html",
-        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Organisation.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Organisation.png'>\n</a>\n<p class=caption>\n[[Core principles of the [[Learning Radar]] - [http://outlandish.academy/assets/Learning_Organisation.png outlandish.academy]\n</p></div>"
+        "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+        "type": "markdown",
+        "text": "1. [[Systems thinking]]\n1. [[Personal mastery]]"
       },
-      "date": 1604756501567
+      "date": 1612444351367
+    },
+    {
+      "id": "22e55298-9d9e-4c23-8ee2-10069b5eab5f",
+      "type": "add",
+      "item": {
+        "id": "22e55298-9d9e-4c23-8ee2-10069b5eab5f",
+        "type": "markdown",
+        "text": "- [[Mental models]]"
+      },
+      "after": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+      "date": 1612444364537
+    },
+    {
+      "id": "a66330e8-dddb-45f0-818d-8aac6cb9c249",
+      "type": "add",
+      "item": {
+        "id": "a66330e8-dddb-45f0-818d-8aac6cb9c249",
+        "type": "markdown",
+        "text": "- [[Shared vision]]"
+      },
+      "after": "22e55298-9d9e-4c23-8ee2-10069b5eab5f",
+      "date": 1612444373230
+    },
+    {
+      "id": "33752c58-22c3-43c4-8b37-7c287bd922cf",
+      "type": "add",
+      "item": {
+        "id": "33752c58-22c3-43c4-8b37-7c287bd922cf",
+        "type": "markdown",
+        "text": "- [[Team learning]]"
+      },
+      "after": "a66330e8-dddb-45f0-818d-8aac6cb9c249",
+      "date": 1612444387311
+    },
+    {
+      "type": "remove",
+      "id": "22e55298-9d9e-4c23-8ee2-10069b5eab5f",
+      "date": 1612444399795
     },
     {
       "type": "edit",
-      "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
+      "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
       "item": {
-        "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
-        "type": "html",
-        "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Organisation.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Organisation.png'>\n</a>\n<p class=caption>\nCore principles of the [[Learning Radar]] - [http://outlandish.academy/assets/Learning_Organisation.png outlandish.academy]\n</p></div>"
+        "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+        "type": "markdown",
+        "text": "1. [[Systems thinking]]\n1. [[Personal mastery]]\n1. [[Mental models]]"
       },
-      "date": 1604756511080
+      "date": 1612444403000
+    },
+    {
+      "type": "remove",
+      "id": "33752c58-22c3-43c4-8b37-7c287bd922cf",
+      "date": 1612444407193
+    },
+    {
+      "type": "remove",
+      "id": "a66330e8-dddb-45f0-818d-8aac6cb9c249",
+      "date": 1612444410674
+    },
+    {
+      "type": "edit",
+      "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+      "item": {
+        "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+        "type": "markdown",
+        "text": "1. [[Systems thinking]]\n1. [[Personal mastery]]\n1. [[Mental models]]\n1. [[Shared vision]]\n1. [[Team learning]]"
+      },
+      "date": 1612444412804
+    },
+    {
+      "type": "edit",
+      "id": "51690c91-c906-4848-a6b4-5071fcca8f9c",
+      "item": {
+        "id": "51690c91-c906-4848-a6b4-5071fcca8f9c",
+        "type": "markdown",
+        "text": "[[Peter Senge]] stated in an interview that a learning organization is a group of people working together collectively to enhance their capacities to create results they really care about. Senge popularized the concept of the learning organization through his book [[The Fifth Discipline]]. In the book, he proposed the following five characteristics:"
+      },
+      "date": 1612444422925
+    },
+    {
+      "type": "remove",
+      "id": "328dcf0c-6f0a-4560-81ec-cf50049ea900",
+      "date": 1612444434603
     }
   ],
   "story": [
     {
-      "id": "3485b1bc-e94d-4d38-a3b8-46c43b3eb28f",
+      "id": "187150db-54bb-4c2f-9f1a-c744e4f3e41e",
       "type": "markdown",
       "text": "In business management, a __learning organization__ is a [[company]] that facilitates the learning of its members and continuously transforms itself. The concept was coined through the work and research of [[Peter Senge]] and his colleagues - [https://en.wikipedia.org/wiki/Learning_organization wikipedia]"
     },
     {
-      "id": "dccb34e0-e619-4ed5-bba9-996293c1d016",
-      "type": "html",
-      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Organisation.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Organisation.png'>\n</a>\n<p class=caption>\nCore principles of the [[Learning Radar]] - [http://outlandish.academy/assets/Learning_Organisation.png outlandish.academy]\n</p></div>"
-    },
-    {
-      "id": "73210725-23d2-41f5-a1ce-f198824bbdd6",
+      "id": "49952dea-f65f-4b90-9945-357a10bdbc60",
       "type": "markdown",
-      "text": "Learning organizations develop as a result of the pressures facing modern organizations; this enables them to remain [[competitive]] in the business environment."
+      "text": "Learning organizations may develop as a result of the pressures facing modern organizations; this enables them to remain [[competitive]] in the business environment."
     },
     {
-      "id": "a8fa3efb-9d01-48f5-82e0-40ae2688f696",
-      "type": "html",
-      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='http://outlandish.academy/assets/Learning_Radar.png' target='_blank'><img style='display:block; margin:auto; width:100%;' src='http://outlandish.academy/assets/Learning_Radar.png'>\n</a>\n<p class=caption>\n[[Learning Radar]] - [http://outlandish.academy/assets/Learning_Radar.png outlandish.academy]\n</p></div>"
+      "id": "d5758d65-b644-49dc-b1be-4331e0249af5",
+      "type": "markdown",
+      "text": "# Characteristics"
     },
     {
-      "id": "e6aac7d1-639d-44d4-acd1-871c6630917d",
+      "id": "0879f861-880d-484e-bde8-0dd820938c7e",
+      "type": "markdown",
+      "text": "There are many definitions of a learning organization as well as typologies of kinds of learning organizations - [https://en.wikipedia.org/wiki/Learning_organization#Characteristics wikipedia]"
+    },
+    {
+      "id": "51690c91-c906-4848-a6b4-5071fcca8f9c",
+      "type": "markdown",
+      "text": "[[Peter Senge]] stated in an interview that a learning organization is a group of people working together collectively to enhance their capacities to create results they really care about. Senge popularized the concept of the learning organization through his book [[The Fifth Discipline]]. In the book, he proposed the following five characteristics:"
+    },
+    {
+      "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+      "type": "markdown",
+      "text": "1. [[Systems thinking]]\n1. [[Personal mastery]]\n1. [[Mental models]]\n1. [[Shared vision]]\n1. [[Team learning]]"
+    },
+    {
+      "id": "3b3f916e-60d4-4b56-8c75-a30e1db4234f",
       "type": "markdown",
       "text": "# Sections"
     },
     {
-      "id": "d5858f73-2fe7-422c-a74e-b17448f8afea",
+      "id": "d460a8c7-48ca-4e2f-960f-8c45894d7dd9",
       "type": "html",
-      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Characteristics\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Learning organization&action=edit&section=1\">\n<input type=submit value=create></form>"
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Development\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Learning organization&action=edit&section=7\">\n<input type=submit value=create></form>"
     },
     {
-      "id": "8a5b2854-9987-4cbd-b1c8-902721af0862",
+      "id": "9d3f2266-1c0b-42ae-82a4-23883529d8cd",
       "type": "html",
-      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Development\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Learning organization&action=edit&section=2\">\n<input type=submit value=create></form>"
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Benefits\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Learning organization&action=edit&section=8\">\n<input type=submit value=create></form>"
     },
     {
-      "id": "d869d29c-a24c-419e-b8c5-284a42116c49",
+      "id": "09117c19-234a-447f-b063-dde3afb1f091",
       "type": "html",
-      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Benefits\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Learning organization&action=edit&section=3\">\n<input type=submit value=create></form>"
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Barriers\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Learning organization&action=edit&section=9\">\n<input type=submit value=create></form>"
     },
     {
-      "id": "b1f093ca-98ee-4acc-ad6c-191e4436baba",
-      "type": "html",
-      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Barriers\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Learning organization&action=edit&section=4\">\n<input type=submit value=create></form>"
-    },
-    {
-      "id": "c546da03-beec-4855-af89-0fadf7b31b86",
+      "id": "368c2707-dd51-4c2c-99f5-b3cb0449b1cf",
       "type": "markdown",
       "text": "# See also"
     },
     {
-      "id": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
+      "id": "3d42313e-c289-437e-bdec-3aa9063de251",
       "type": "markdown",
-      "text": "- [[Community of practice]]\n- [[Knowledge capture]]\n- [[Knowledge management]]\n- [[Knowledge organization]]\n- [[Learning agenda]]\n- [[Organizational learning]]\n- [[Professional learning community]]\n- [[Reflective practice]]\n- [[The Learning Organization]]"
-    },
-    {
-      "type": "factory",
-      "id": "2a3ac2111882c25b"
+      "text": "- [[Community of practice]]\n- [[Knowledge capture]]\n- [[Knowledge management]]\n- [[Knowledge organization]]\n- [[Lean startup]]\n- [[Learning agenda]]\n- [[Organizational learning]]\n- [[Professional learning community]]\n- [[Reflective practice]]"
     }
   ]
 }
