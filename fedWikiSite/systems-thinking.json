@@ -1,0 +1,117 @@
+{
+  "title": "Systems thinking",
+  "journal": [
+    {
+      "date": 1612443912752,
+      "item": {
+        "title": "Systems thinking",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1612444256271
+    },
+    {
+      "type": "remove",
+      "id": "526fe586-b2b7-4029-96c5-0f90d0afb221",
+      "date": 1612444260456
+    },
+    {
+      "id": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+      "type": "remove",
+      "date": 1612444263716
+    },
+    {
+      "type": "edit",
+      "id": "33a618c5-5147-47ad-8933-e8601543b4ef",
+      "item": {
+        "id": "33a618c5-5147-47ad-8933-e8601543b4ef",
+        "type": "markdown",
+        "text": "The idea of the learning organization developed from a body of work called [[systems thinking]]. This is a conceptual framework that allows people to study businesses as bounded objects. \n"
+      },
+      "date": 1612444276566
+    },
+    {
+      "type": "add",
+      "id": "1c6bda01dae059aa",
+      "item": {
+        "type": "markdown",
+        "id": "1c6bda01dae059aa",
+        "text": "[[Learning organization]]s use this method of thinking when assessing their company and have information systems that measure the performance of the organization as a whole and of its various components. \n"
+      },
+      "after": "33a618c5-5147-47ad-8933-e8601543b4ef",
+      "date": 1612444286780
+    },
+    {
+      "type": "add",
+      "id": "d8f7cb2b3ede033e",
+      "item": {
+        "type": "markdown",
+        "id": "d8f7cb2b3ede033e",
+        "text": "Systems thinking states that all the characteristics of a learning organization must be apparent at once in an organization for it to be a learning organization. If some of these characteristics are missing then the organization will fall short of its goal. \n"
+      },
+      "after": "1c6bda01dae059aa",
+      "date": 1612444290993
+    },
+    {
+      "type": "add",
+      "id": "10d42e0d9c313c97",
+      "item": {
+        "type": "markdown",
+        "id": "10d42e0d9c313c97",
+        "text": "However, O'Keeffe believes that the characteristics of a learning organization are factors that are gradually acquired, rather than developed simultaneously."
+      },
+      "after": "d8f7cb2b3ede033e",
+      "date": 1612444296988
+    },
+    {
+      "type": "edit",
+      "id": "33a618c5-5147-47ad-8933-e8601543b4ef",
+      "item": {
+        "id": "33a618c5-5147-47ad-8933-e8601543b4ef",
+        "type": "markdown",
+        "text": "The idea of the learning organization developed from a body of work called [[systems thinking]]. This is a conceptual framework that allows people to study businesses as bounded objects - [https://en.wikipedia.org/wiki/Learning_organization#Systems_thinking wikipedia]\n"
+      },
+      "date": 1612444300039
+    },
+    {
+      "type": "edit",
+      "id": "d71992a5-16f9-46a4-ae85-a6628a1aaa3e",
+      "item": {
+        "id": "d71992a5-16f9-46a4-ae85-a6628a1aaa3e",
+        "type": "markdown",
+        "text": "# See also\n- [[Learning organization]]"
+      },
+      "date": 1612444325867
+    }
+  ],
+  "story": [
+    {
+      "id": "33a618c5-5147-47ad-8933-e8601543b4ef",
+      "type": "markdown",
+      "text": "The idea of the learning organization developed from a body of work called [[systems thinking]]. This is a conceptual framework that allows people to study businesses as bounded objects - [https://en.wikipedia.org/wiki/Learning_organization#Systems_thinking wikipedia]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "1c6bda01dae059aa",
+      "text": "[[Learning organization]]s use this method of thinking when assessing their company and have information systems that measure the performance of the organization as a whole and of its various components. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "d8f7cb2b3ede033e",
+      "text": "Systems thinking states that all the characteristics of a learning organization must be apparent at once in an organization for it to be a learning organization. If some of these characteristics are missing then the organization will fall short of its goal. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "10d42e0d9c313c97",
+      "text": "However, O'Keeffe believes that the characteristics of a learning organization are factors that are gradually acquired, rather than developed simultaneously."
+    },
+    {
+      "id": "d71992a5-16f9-46a4-ae85-a6628a1aaa3e",
+      "type": "markdown",
+      "text": "# See also\n- [[Learning organization]]"
+    }
+  ]
+}

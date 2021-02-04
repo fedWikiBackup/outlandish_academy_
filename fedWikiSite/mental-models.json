@@ -1,0 +1,39 @@
+{
+  "title": "Mental models",
+  "journal": [
+    {
+      "date": 1612444020282,
+      "item": {
+        "title": "Mental models",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1612444361365
+    },
+    {
+      "id": "22e55298-9d9e-4c23-8ee2-10069b5eab5f",
+      "type": "remove",
+      "date": 1612444364536
+    }
+  ],
+  "story": [
+    {
+      "id": "0667a8ff-2c8e-4d7c-9b29-514366c94db3",
+      "type": "markdown",
+      "text": "Assumptions and generalizations held by individuals and organizations are called [[mental model]]s. Personal mental models describe what people can or cannot detect. Due to selective observation, mental models might limit peoples’ observations. To become a learning organization, these models must be identified and challenged. Individuals tend to espouse theories, which are what they intend to follow, and theories-in-use, which are what they actually do. Similarly, organizations tend to have 'memories' which preserve certain behaviours, norms and values. In creating a learning environment it is important to replace confrontational attitudes with an open culture that promotes inquiry and trust. To achieve this, the learning organization needs mechanisms for locating and assessing organizational theories of action. Unwanted values need to be discarded in a process called 'unlearning'. Wang and Ahmed refer to this as 'triple loop learning'. For organizations, problems arise when mental models evolve beneath the level of awareness. Thus it is important to examine business issues and actively question current business practices and new skills before they become integrated into new practices - [https://en.wikipedia.org/wiki/Learning_organization#Mental_models wikipedia]"
+    },
+    {
+      "id": "690054c9-ddf7-4619-a3bb-232888ada3ef",
+      "type": "markdown",
+      "text": "# Tools\n\nSearch for [[free culture]] images for this page on [https://www.google.com/search?as_st=y&tbm=isch&as_q=Learning+organization+Mental+models&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&gws_rd=ssl google]"
+    },
+    {
+      "id": "93674b3a-fbf1-425c-bf7f-4dae9228ede5",
+      "type": "markdown",
+      "text": "# Mental models"
+    }
+  ]
+}

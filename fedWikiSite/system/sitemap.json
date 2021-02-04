@@ -1171,22 +1171,27 @@
   {
     "slug": "learning-organization",
     "title": "Learning organization",
-    "date": 1604756511080,
+    "date": 1612444434603,
     "synopsis": "In business management, a __learning organization__ is a [[company]] that facilitates the learning of its members and continuously transforms itself. The concept was coined through the work and research of [[Peter Senge]] and his colleagues - [https://en.wikipedia.org/wiki/Learning_organization wikipedia]",
     "links": {
-      "company": "3485b1bc-e94d-4d38-a3b8-46c43b3eb28f",
-      "peter-senge": "3485b1bc-e94d-4d38-a3b8-46c43b3eb28f",
-      "learning-radar": "dccb34e0-e619-4ed5-bba9-996293c1d016",
-      "competitive": "73210725-23d2-41f5-a1ce-f198824bbdd6",
-      "community-of-practice": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
-      "knowledge-capture": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
-      "knowledge-management": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
-      "knowledge-organization": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
-      "learning-agenda": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
-      "organizational-learning": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
-      "professional-learning-community": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
-      "reflective-practice": "df21cf1b-61c4-4e46-b57b-e9315b3efd38",
-      "the-learning-organization": "df21cf1b-61c4-4e46-b57b-e9315b3efd38"
+      "company": "187150db-54bb-4c2f-9f1a-c744e4f3e41e",
+      "peter-senge": "187150db-54bb-4c2f-9f1a-c744e4f3e41e",
+      "competitive": "49952dea-f65f-4b90-9945-357a10bdbc60",
+      "the-fifth-discipline": "51690c91-c906-4848-a6b4-5071fcca8f9c",
+      "systems-thinking": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+      "personal-mastery": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+      "mental-models": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+      "shared-vision": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+      "team-learning": "c5c57d73-9786-41ee-b6cc-5207087e02e3",
+      "community-of-practice": "3d42313e-c289-437e-bdec-3aa9063de251",
+      "knowledge-capture": "3d42313e-c289-437e-bdec-3aa9063de251",
+      "knowledge-management": "3d42313e-c289-437e-bdec-3aa9063de251",
+      "knowledge-organization": "3d42313e-c289-437e-bdec-3aa9063de251",
+      "lean-startup": "3d42313e-c289-437e-bdec-3aa9063de251",
+      "learning-agenda": "3d42313e-c289-437e-bdec-3aa9063de251",
+      "organizational-learning": "3d42313e-c289-437e-bdec-3aa9063de251",
+      "professional-learning-community": "3d42313e-c289-437e-bdec-3aa9063de251",
+      "reflective-practice": "3d42313e-c289-437e-bdec-3aa9063de251"
     }
   },
   {
@@ -2926,6 +2931,59 @@
       "time-credits": "b7c444ff295e8a27",
       "protip-chrome-extension": "b7c444ff295e8a27",
       "time-accounts": "1db4e42a8ab11f04"
+    }
+  },
+  {
+    "slug": "systems-thinking",
+    "title": "Systems thinking",
+    "date": 1612444325867,
+    "synopsis": "The idea of the learning organization developed from a body of work called [[systems thinking]]. This is a conceptual framework that allows people to study businesses as bounded objects - [https://en.wikipedia.org/wiki/Learning_organization#Systems_thinking wikipedia]",
+    "links": {
+      "systems-thinking": "33a618c5-5147-47ad-8933-e8601543b4ef",
+      "learning-organization": "1c6bda01dae059aa"
+    }
+  },
+  {
+    "slug": "personal-mastery",
+    "title": "Personal mastery",
+    "date": 1612444342935,
+    "synopsis": "The commitment by an individual to the process of learning is known as personal mastery. There is a [[competitive advantage]] for an organization whose workforce can learn more quickly than the workforce of other organizations. Learning is considered to be more than just acquiring information; it is expanding the ability to be more productive by learning how to apply our skills to work in the most valuable way. Personal mastery appears also in a spiritual way as, for example, clarification of focus, personal vision and ability to see and interpret realit",
+    "links": {
+      "competitive-advantage": "bf4dcf49-cd68-41e9-88d2-17d8526a2fc6",
+      "organizational-learning": "bf4dcf49-cd68-41e9-88d2-17d8526a2fc6",
+      "free-culture": "7d810102-3a65-415e-984c-1013da8f844d"
+    }
+  },
+  {
+    "slug": "mental-models",
+    "title": "Mental models",
+    "date": 1612444364536,
+    "synopsis": "Assumptions and generalizations held by individuals and organizations are called [[mental model]]s. Personal mental models describe what people can or cannot detect. Due to selective observation, mental models might limit peoples’ observations. To become a learning organization, these models must be identified and challenged. Individuals tend to espouse theories, which are what they intend to follow, and theories-in-use, which are what they actually do. Similarly, organizations tend to have 'memories' which preserve certain behaviours, norms and values. ",
+    "links": {
+      "mental-model": "0667a8ff-2c8e-4d7c-9b29-514366c94db3",
+      "free-culture": "690054c9-ddf7-4619-a3bb-232888ada3ef"
+    }
+  },
+  {
+    "slug": "shared-vision",
+    "title": "Shared vision",
+    "date": 1612444380442,
+    "synopsis": "The development of a shared vision is important in motivating the staff to learn, as it creates a common identity that provides focus and energy for learning. The most successful visions build on the individual visions of the employees at all levels of the organization, thus the creation of a shared vision can be hindered by traditional structures where the company vision is imposed from above. Therefore, learning organizations tend to have flat, decentralized [[organizational structure]]s. The shared vision is often to succeed against a competitor; howe",
+    "links": {
+      "organizational-structure": "26afc1b4-2be7-4ccb-8609-5823aafef5e3",
+      "peter-senge": "26afc1b4-2be7-4ccb-8609-5823aafef5e3"
+    }
+  },
+  {
+    "slug": "team-learning",
+    "title": "Team learning",
+    "date": 1612444390820,
+    "synopsis": "The accumulation of individual learning constitutes [[team learning]]. The benefit of team or shared learning is that staff learn more quickly and the problem solving capacity of the organization is improved through better access to knowledge and expertise. Learning organizations have structures that facilitate team learning with features such as boundary crossing and openness. In team meetings members can learn better from each other by concentrating on listening, avoiding interruption, being interested and responding. In such a learning environment, pe",
+    "links": {
+      "team-learning": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
+      "action-learning": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
+      "dialogue": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
+      "learning-cycle": "3e59b2a5-4441-47e5-b9df-1658991d39c6"
     }
   }
 ]
