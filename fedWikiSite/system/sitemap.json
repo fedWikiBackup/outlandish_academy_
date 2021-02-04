@@ -2977,13 +2977,47 @@
   {
     "slug": "team-learning",
     "title": "Team learning",
-    "date": 1612444390820,
-    "synopsis": "The accumulation of individual learning constitutes [[team learning]]. The benefit of team or shared learning is that staff learn more quickly and the problem solving capacity of the organization is improved through better access to knowledge and expertise. Learning organizations have structures that facilitate team learning with features such as boundary crossing and openness. In team meetings members can learn better from each other by concentrating on listening, avoiding interruption, being interested and responding. In such a learning environment, pe",
+    "date": 1612448076094,
+    "synopsis": "The accumulation of individual learning constitutes [[team learning]]. The benefit of team or shared learning is that staff learn more quickly and the problem solving capacity of the organization is improved through better access to knowledge and expertise - [https://en.wikipedia.org/wiki/Learning_organization#Team_learning wikipedia]",
     "links": {
       "team-learning": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
-      "action-learning": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
-      "dialogue": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
-      "learning-cycle": "3e59b2a5-4441-47e5-b9df-1658991d39c6"
+      "action-learning": "39c591a64d553254",
+      "dialogue": "39c591a64d553254",
+      "learning-cycle": "39c591a64d553254"
+    }
+  },
+  {
+    "slug": "peter-senge",
+    "title": "Peter Senge",
+    "date": 1612448874852,
+    "synopsis": "__Peter Michael Senge__ (born 1947) is an American systems scientist, Senior Lecturer in Leadership and Sustainability at the [[MIT Sloan School of Management]], co-faculty at the [[New England Complex Systems Institute]], and the founder of the [[Society for Organizational Learning]]  - [https://en.wikipedia.org/wiki/Peter_Senge wikipedia]",
+    "links": {
+      "mit-sloan-school-of-management": "da198ee1f3151a75",
+      "new-england-complex-systems-institute": "da198ee1f3151a75",
+      "society-for-organizational-learning": "da198ee1f3151a75",
+      "the-fifth-discipline": "29b121334d281d92",
+      "robert-fritz": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "ford-motor-company": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "chrysler": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "royal-dutch-shell": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "att-corporation": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "hanover-insurance": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "harley-davidson": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "peter-senge": "25e1fe190741cb8d",
+      "stanford-california": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "aerospace-engineering": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "stanford-university": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "master-of-science": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "mit": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "meditation": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+      "tassajara-zen-mountain-center": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+      "zen-buddhist": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+      "organizational-learning": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "system-dynamics": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "systems-thinking": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "strategy-dynamics": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "strategic-management": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "organizational-communication": "59d4f341-ef7f-4cce-b162-8f2cf4c10785"
     }
   }
 ]

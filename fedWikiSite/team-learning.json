@@ -22,18 +22,190 @@
       "type": "remove",
       "id": "0ae00c74-cfed-4040-b294-a7c27c08995b",
       "date": 1612444390820
+    },
+    {
+      "type": "edit",
+      "id": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
+      "item": {
+        "id": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
+        "type": "markdown",
+        "text": "The accumulation of individual learning constitutes [[team learning]]. The benefit of team or shared learning is that staff learn more quickly and the problem solving capacity of the organization is improved through better access to knowledge and expertise. \n"
+      },
+      "date": 1612447886951
+    },
+    {
+      "type": "add",
+      "id": "cfe5e9820c2e4ff5",
+      "item": {
+        "type": "markdown",
+        "id": "cfe5e9820c2e4ff5",
+        "text": "Learning organizations have structures that facilitate team learning with features such as boundary crossing and openness. In team meetings members can learn better from each other by concentrating on listening, avoiding interruption, being interested and responding. \n"
+      },
+      "after": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
+      "date": 1612447900781
+    },
+    {
+      "type": "add",
+      "id": "aa6d762c05779b33",
+      "item": {
+        "type": "markdown",
+        "id": "aa6d762c05779b33",
+        "text": "In such a learning environment, people don't have to hide or overlook their disagreements, so they make their collective understanding richer. \n"
+      },
+      "after": "cfe5e9820c2e4ff5",
+      "date": 1612447912988
+    },
+    {
+      "type": "add",
+      "id": "94f8aed59657930a",
+      "item": {
+        "type": "markdown",
+        "id": "94f8aed59657930a",
+        "text": "Three dimensions of team learning, according to Senge, are: \n- the ability to think insightfully about complex issues\n- the ability to take innovative, coordinated action\n- the ability to create a network that will allow other teams to take action as well\n"
+      },
+      "after": "aa6d762c05779b33",
+      "date": 1612447956882
+    },
+    {
+      "type": "add",
+      "id": "50f5309574d2236d",
+      "item": {
+        "type": "markdown",
+        "id": "50f5309574d2236d",
+        "text": "In a learning organization, teams learn how to think together. Team learning is process of adapting and developing the team capacity to create the results that its members really want. Team learning requires individuals to engage in dialogue and discussion; therefore team members must develop open communication, shared meaning, and shared understanding. Learning organizations typically have excellent knowledge management structures, allowing creation, acquisition, dissemination, and implementation of this knowledge in the organization. Teams use tools such as an [[action learning]] cycle and [[dialogue]]. Team learning is only one element of the [[learning cycle]]. For the cycle to be complete, it has to include all five characteristics which are mentioned above - [https://en.wikipedia.org/wiki/Learning_organization#Team_learning wikipedia]"
+      },
+      "after": "94f8aed59657930a",
+      "date": 1612447958191
+    },
+    {
+      "type": "edit",
+      "id": "94f8aed59657930a",
+      "item": {
+        "type": "markdown",
+        "id": "94f8aed59657930a",
+        "text": "Three dimensions of team learning, according to Senge, are the ability to: \n\n- Think insightfully about complex issues\n- Take innovative, coordinated action\n- Create a network that will allow other teams to take action as well\n"
+      },
+      "date": 1612447982698
+    },
+    {
+      "type": "edit",
+      "id": "50f5309574d2236d",
+      "item": {
+        "type": "markdown",
+        "id": "50f5309574d2236d",
+        "text": "In a learning organization, teams learn how to think together. Team learning is process of adapting and developing the team capacity to create the results that its members really want. \n"
+      },
+      "date": 1612448010579
+    },
+    {
+      "type": "add",
+      "id": "4b7883f14aa9f402",
+      "item": {
+        "type": "markdown",
+        "id": "4b7883f14aa9f402",
+        "text": "Team learning requires individuals to engage in dialogue and discussion; therefore team members must develop:\n- open communication\n- shared meaning, and\n- shared understanding. \n"
+      },
+      "after": "50f5309574d2236d",
+      "date": 1612448033361
+    },
+    {
+      "type": "add",
+      "id": "845771fac91cfd9f",
+      "item": {
+        "type": "markdown",
+        "id": "845771fac91cfd9f",
+        "text": "Learning organizations typically have excellent knowledge management structures, allowing creation, acquisition, dissemination, and implementation of this knowledge in the organization. \n"
+      },
+      "after": "4b7883f14aa9f402",
+      "date": 1612448043694
+    },
+    {
+      "type": "add",
+      "id": "39c591a64d553254",
+      "item": {
+        "type": "markdown",
+        "id": "39c591a64d553254",
+        "text": "Teams use tools such as an [[action learning]] cycle and [[dialogue]]. Team learning is only one element of the [[learning cycle]]. For the cycle to be complete, it has to include all five characteristics which are mentioned above"
+      },
+      "after": "845771fac91cfd9f",
+      "date": 1612448061006
+    },
+    {
+      "type": "edit",
+      "id": "39c591a64d553254",
+      "item": {
+        "type": "markdown",
+        "id": "39c591a64d553254",
+        "text": "Teams use tools such as an [[action learning]] cycle and [[dialogue]]. Team learning is only one element of the [[learning cycle]]. For the cycle to be complete, it has to include all five characteristics which are mentioned above."
+      },
+      "date": 1612448066974
+    },
+    {
+      "type": "edit",
+      "id": "143d8b95-fdb0-4089-bfea-78231a9a0724",
+      "item": {
+        "id": "143d8b95-fdb0-4089-bfea-78231a9a0724",
+        "type": "markdown",
+        "text": "# See also"
+      },
+      "date": 1612448070945
+    },
+    {
+      "type": "edit",
+      "id": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
+      "item": {
+        "id": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
+        "type": "markdown",
+        "text": "The accumulation of individual learning constitutes [[team learning]]. The benefit of team or shared learning is that staff learn more quickly and the problem solving capacity of the organization is improved through better access to knowledge and expertise - [https://en.wikipedia.org/wiki/Learning_organization#Team_learning wikipedia]"
+      },
+      "date": 1612448076094
     }
   ],
   "story": [
     {
       "id": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
       "type": "markdown",
-      "text": "The accumulation of individual learning constitutes [[team learning]]. The benefit of team or shared learning is that staff learn more quickly and the problem solving capacity of the organization is improved through better access to knowledge and expertise. Learning organizations have structures that facilitate team learning with features such as boundary crossing and openness. In team meetings members can learn better from each other by concentrating on listening, avoiding interruption, being interested and responding. In such a learning environment, people don't have to hide or overlook their disagreements, so they make their collective understanding richer. Three dimensions of team learning, according to Senge, are: \"the ability to think insightfully about complex issues\", \"the ability to take innovative, coordinated action\", and \"the ability to create a network that will allow other teams to take action as well\". In a learning organization, teams learn how to think together. Team learning is process of adapting and developing the team capacity to create the results that its members really want. Team learning requires individuals to engage in dialogue and discussion; therefore team members must develop open communication, shared meaning, and shared understanding. Learning organizations typically have excellent knowledge management structures, allowing creation, acquisition, dissemination, and implementation of this knowledge in the organization. Teams use tools such as an [[action learning]] cycle and [[dialogue]]. Team learning is only one element of the [[learning cycle]]. For the cycle to be complete, it has to include all five characteristics which are mentioned above - [https://en.wikipedia.org/wiki/Learning_organization#Team_learning wikipedia]"
+      "text": "The accumulation of individual learning constitutes [[team learning]]. The benefit of team or shared learning is that staff learn more quickly and the problem solving capacity of the organization is improved through better access to knowledge and expertise - [https://en.wikipedia.org/wiki/Learning_organization#Team_learning wikipedia]"
+    },
+    {
+      "type": "markdown",
+      "id": "cfe5e9820c2e4ff5",
+      "text": "Learning organizations have structures that facilitate team learning with features such as boundary crossing and openness. In team meetings members can learn better from each other by concentrating on listening, avoiding interruption, being interested and responding. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "aa6d762c05779b33",
+      "text": "In such a learning environment, people don't have to hide or overlook their disagreements, so they make their collective understanding richer. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "94f8aed59657930a",
+      "text": "Three dimensions of team learning, according to Senge, are the ability to: \n\n- Think insightfully about complex issues\n- Take innovative, coordinated action\n- Create a network that will allow other teams to take action as well\n"
+    },
+    {
+      "type": "markdown",
+      "id": "50f5309574d2236d",
+      "text": "In a learning organization, teams learn how to think together. Team learning is process of adapting and developing the team capacity to create the results that its members really want. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "4b7883f14aa9f402",
+      "text": "Team learning requires individuals to engage in dialogue and discussion; therefore team members must develop:\n- open communication\n- shared meaning, and\n- shared understanding. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "845771fac91cfd9f",
+      "text": "Learning organizations typically have excellent knowledge management structures, allowing creation, acquisition, dissemination, and implementation of this knowledge in the organization. \n"
+    },
+    {
+      "type": "markdown",
+      "id": "39c591a64d553254",
+      "text": "Teams use tools such as an [[action learning]] cycle and [[dialogue]]. Team learning is only one element of the [[learning cycle]]. For the cycle to be complete, it has to include all five characteristics which are mentioned above."
     },
     {
       "id": "143d8b95-fdb0-4089-bfea-78231a9a0724",
       "type": "markdown",
-      "text": "# Team learning"
+      "text": "# See also"
     }
   ]
 }
