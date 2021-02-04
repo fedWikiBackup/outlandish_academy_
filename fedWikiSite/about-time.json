@@ -1,0 +1,494 @@
+{
+  "title": "About Time",
+  "journal": [
+    {
+      "item": {
+        "title": "About Time",
+        "story": ""
+      },
+      "date": 1475587811020,
+      "type": "create"
+    },
+    {
+      "id": "f55c70658f15ff07",
+      "type": "add",
+      "item": {
+        "id": "f55c70658f15ff07",
+        "type": "factory"
+      },
+      "date": 1475587812486
+    },
+    {
+      "id": "f55c70658f15ff07",
+      "type": "edit",
+      "item": {
+        "text": "Time and therefore change which leads to uncertainty are not built into our programming languages. Indeed nor is it built into much of our philosophy, or common sense modes of thinking.  What would a language look like that builds in the idea of time?",
+        "id": "f55c70658f15ff07",
+        "type": "paragraph"
+      },
+      "date": 1475587910579
+    },
+    {
+      "id": "da36a0d5e0954878",
+      "type": "add",
+      "item": {
+        "id": "da36a0d5e0954878",
+        "type": "factory"
+      },
+      "after": "f55c70658f15ff07",
+      "date": 1475587911539
+    },
+    {
+      "id": "da36a0d5e0954878",
+      "type": "edit",
+      "item": {
+        "text": "# See also",
+        "id": "da36a0d5e0954878",
+        "type": "markdown"
+      },
+      "date": 1475587917612
+    },
+    {
+      "id": "7d573f45d7065260",
+      "type": "add",
+      "item": {
+        "id": "7d573f45d7065260",
+        "type": "factory"
+      },
+      "after": "da36a0d5e0954878",
+      "date": 1475587919341
+    },
+    {
+      "id": "7d573f45d7065260",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "daedalus-now-bloom",
+        "site": "future.fedwiki.org",
+        "text": "Bloom is a programming language for the cloud and other distributed computing systems. BOOM is the research project at UC Berkeley that is developing Bloom, as part of a larger agenda to make it easy to build distributed software systems.\n",
+        "title": "Daedalus (now Bloom)",
+        "id": "7d573f45d7065260"
+      },
+      "date": 1475587921659
+    },
+    {
+      "id": "bfc4187421c60210",
+      "type": "add",
+      "item": {
+        "id": "bfc4187421c60210",
+        "type": "factory"
+      },
+      "after": "7d573f45d7065260",
+      "date": 1475587958310
+    },
+    {
+      "id": "bfc4187421c60210",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "tau-chain",
+        "site": "future.fedwiki.org",
+        "text": "τ-chain (pronounced tau-chain) is a decentralized peer-to-peer network having three unified faces: Rules, Proofs, and Computer Programs, allowing a generalization of virtually any centralized or decentralized P2P network, together with many new abilities, as we present on this note - [http://tauchain.org/tauchain.pdf pdf]",
+        "title": "Tau Chain",
+        "id": "bfc4187421c60210"
+      },
+      "date": 1475587960382
+    },
+    {
+      "id": "ce40c69d3d0976c7",
+      "type": "add",
+      "item": {
+        "id": "ce40c69d3d0976c7",
+        "type": "factory"
+      },
+      "after": "bfc4187421c60210",
+      "date": 1475588093853
+    },
+    {
+      "id": "ce40c69d3d0976c7",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "concurrency-computer-science",
+        "site": "future.fedwiki.org",
+        "text": "In computer science, concurrency is the decomposability property of a program, algorithm, or problem into order-independent or partially-ordered components or units - [https://en.wikipedia.org/wiki/Concurrency_(computer_science) wikipedia]",
+        "title": "Concurrency (computer science)",
+        "id": "ce40c69d3d0976c7"
+      },
+      "date": 1475588110707
+    },
+    {
+      "id": "ce40c69d3d0976c7",
+      "order": [
+        "f55c70658f15ff07",
+        "da36a0d5e0954878",
+        "7d573f45d7065260",
+        "ce40c69d3d0976c7",
+        "bfc4187421c60210"
+      ],
+      "type": "move",
+      "date": 1475588114302
+    },
+    {
+      "site": "future.fedwiki.org",
+      "date": 1475588260862,
+      "type": "fork"
+    },
+    {
+      "id": "55195e015c1ac3e7",
+      "type": "add",
+      "item": {
+        "text": "So what other ways aide from blockchain based state-clocks can we deal with uncertainty and time in distributed programming?",
+        "id": "55195e015c1ac3e7",
+        "type": "paragraph"
+      },
+      "after": "f55c70658f15ff07",
+      "date": 1475588344314
+    },
+    {
+      "site": "c0de.academy",
+      "type": "fork"
+    },
+    {
+      "id": "46d1a3457d515a1a",
+      "type": "add",
+      "item": {
+        "id": "46d1a3457d515a1a",
+        "type": "factory"
+      },
+      "after": "bfc4187421c60210",
+      "date": 1612438537897
+    },
+    {
+      "id": "46d1a3457d515a1a",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "time-zone-problems",
+        "site": "future.fedwiki.org",
+        "text": "Time seems really straightforward and turns out not to be.",
+        "title": "Time Zone Problems",
+        "id": "46d1a3457d515a1a"
+      },
+      "date": 1612438540381
+    },
+    {
+      "id": "a419e7963c02581c",
+      "type": "add",
+      "item": {
+        "id": "a419e7963c02581c",
+        "type": "factory"
+      },
+      "after": "46d1a3457d515a1a",
+      "date": 1612438541529
+    },
+    {
+      "id": "a419e7963c02581c",
+      "type": "edit",
+      "item": {
+        "type": "reference",
+        "slug": "time-account",
+        "site": "future.fedwiki.org",
+        "text": "A time-account is a personal ledger which tracks time spend and time received by a member of the federation.",
+        "title": "Time Account",
+        "id": "a419e7963c02581c"
+      },
+      "date": 1612438544810
+    },
+    {
+      "id": "180284c1a3e492ce",
+      "type": "add",
+      "item": {
+        "id": "180284c1a3e492ce",
+        "type": "factory"
+      },
+      "after": "a419e7963c02581c",
+      "date": 1612438549583
+    },
+    {
+      "id": "112fbe50ff01f206",
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "slug": "protip-timer-plugin",
+        "site": "future.fedwiki.org",
+        "text": "The ProTip Timer Plugin logs the time spent viewing pages around the federation. The information is incrementally stored in a local database - let's call it a [[Time Account]] - which the client stores in its [[HTML5 Local Storage]], and is not therefore revealed to the server.",
+        "title": "ProTip Timer Plugin",
+        "id": "112fbe50ff01f206"
+      },
+      "after": "a419e7963c02581c",
+      "date": 1612438552514
+    },
+    {
+      "id": "4108c3effef79ca7",
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "slug": "learning-timebank",
+        "site": "future.fedwiki.org",
+        "text": "We use a time based currency: Students are required to pass on their learning in order to earn credits that they can use to take further free courses.",
+        "title": "Learning TimeBank",
+        "id": "4108c3effef79ca7"
+      },
+      "after": "112fbe50ff01f206",
+      "date": 1612438555954
+    },
+    {
+      "id": "c72037f9752f7f6e",
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "slug": "when-their-time-is-right",
+        "site": "future.fedwiki.org",
+        "text": "Much of what lives and survives is about timing, not essence. How do we care for ideas who's timing is wrong? How do we judge the right time for an idea?",
+        "title": "When Their Time Is Right",
+        "id": "c72037f9752f7f6e"
+      },
+      "after": "4108c3effef79ca7",
+      "date": 1612438569990
+    },
+    {
+      "id": "3d21c7046319ef6e",
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "slug": "daily-scrum",
+        "site": "outlandish.academy",
+        "text": "Each day during a sprint, the team holds a daily scrum (or [[stand-up meeting]]) with specific guidelines - [https://en.wikipedia.org/wiki/Scrum_(software_development)#Daily_Scrum wikipedia]",
+        "title": "Daily Scrum",
+        "id": "3d21c7046319ef6e"
+      },
+      "after": "c72037f9752f7f6e",
+      "date": 1612438580251
+    },
+    {
+      "id": "66908bf12d8ed328",
+      "type": "add",
+      "item": {
+        "type": "reference",
+        "slug": "this-wiki-is-too-long",
+        "site": "future.fedwiki.org",
+        "text": "We write our ideas in wiki as a way to explore the topics. Invoking [[Benjamin Franklin]]: \"I have already made this paper too long, for which I must crave pardon, not having now time to make it shorter.\"",
+        "title": "This Wiki Is Too Long",
+        "id": "66908bf12d8ed328"
+      },
+      "after": "3d21c7046319ef6e",
+      "date": 1612438606656
+    },
+    {
+      "date": 1612438702583,
+      "type": "remove",
+      "id": "180284c1a3e492ce"
+    },
+    {
+      "date": 1612438718902,
+      "type": "remove",
+      "id": "7d573f45d7065260"
+    },
+    {
+      "id": "46d1a3457d515a1a",
+      "order": [
+        "f55c70658f15ff07",
+        "55195e015c1ac3e7",
+        "da36a0d5e0954878",
+        "46d1a3457d515a1a",
+        "ce40c69d3d0976c7",
+        "bfc4187421c60210",
+        "a419e7963c02581c",
+        "112fbe50ff01f206",
+        "4108c3effef79ca7",
+        "c72037f9752f7f6e",
+        "3d21c7046319ef6e",
+        "66908bf12d8ed328"
+      ],
+      "type": "move",
+      "date": 1612438729621
+    },
+    {
+      "id": "4108c3effef79ca7",
+      "order": [
+        "f55c70658f15ff07",
+        "55195e015c1ac3e7",
+        "da36a0d5e0954878",
+        "4108c3effef79ca7",
+        "46d1a3457d515a1a",
+        "ce40c69d3d0976c7",
+        "bfc4187421c60210",
+        "a419e7963c02581c",
+        "112fbe50ff01f206",
+        "c72037f9752f7f6e",
+        "3d21c7046319ef6e",
+        "66908bf12d8ed328"
+      ],
+      "type": "move",
+      "date": 1612438734027
+    },
+    {
+      "id": "c72037f9752f7f6e",
+      "order": [
+        "f55c70658f15ff07",
+        "55195e015c1ac3e7",
+        "da36a0d5e0954878",
+        "c72037f9752f7f6e",
+        "4108c3effef79ca7",
+        "46d1a3457d515a1a",
+        "ce40c69d3d0976c7",
+        "bfc4187421c60210",
+        "a419e7963c02581c",
+        "112fbe50ff01f206",
+        "3d21c7046319ef6e",
+        "66908bf12d8ed328"
+      ],
+      "type": "move",
+      "date": 1612438737010
+    },
+    {
+      "id": "3d21c7046319ef6e",
+      "order": [
+        "f55c70658f15ff07",
+        "55195e015c1ac3e7",
+        "da36a0d5e0954878",
+        "c72037f9752f7f6e",
+        "3d21c7046319ef6e",
+        "4108c3effef79ca7",
+        "46d1a3457d515a1a",
+        "ce40c69d3d0976c7",
+        "bfc4187421c60210",
+        "a419e7963c02581c",
+        "112fbe50ff01f206",
+        "66908bf12d8ed328"
+      ],
+      "type": "move",
+      "date": 1612438740911
+    },
+    {
+      "id": "66908bf12d8ed328",
+      "order": [
+        "f55c70658f15ff07",
+        "55195e015c1ac3e7",
+        "da36a0d5e0954878",
+        "66908bf12d8ed328",
+        "c72037f9752f7f6e",
+        "3d21c7046319ef6e",
+        "4108c3effef79ca7",
+        "46d1a3457d515a1a",
+        "ce40c69d3d0976c7",
+        "bfc4187421c60210",
+        "a419e7963c02581c",
+        "112fbe50ff01f206"
+      ],
+      "type": "move",
+      "date": 1612438747344
+    },
+    {
+      "id": "a419e7963c02581c",
+      "order": [
+        "f55c70658f15ff07",
+        "55195e015c1ac3e7",
+        "da36a0d5e0954878",
+        "66908bf12d8ed328",
+        "c72037f9752f7f6e",
+        "3d21c7046319ef6e",
+        "4108c3effef79ca7",
+        "a419e7963c02581c",
+        "46d1a3457d515a1a",
+        "ce40c69d3d0976c7",
+        "bfc4187421c60210",
+        "112fbe50ff01f206"
+      ],
+      "type": "move",
+      "date": 1612438952287
+    },
+    {
+      "date": 1612438666164,
+      "type": "remove",
+      "id": "112fbe50ff01f206"
+    },
+    {
+      "date": 1612438666164,
+      "type": "remove",
+      "id": "bfc4187421c60210"
+    },
+    {
+      "date": 1612438666164,
+      "type": "remove",
+      "id": "ce40c69d3d0976c7"
+    },
+    {
+      "date": 1612438666164,
+      "type": "remove",
+      "id": "46d1a3457d515a1a"
+    },
+    {
+      "date": 1612438666164,
+      "type": "remove",
+      "id": "a419e7963c02581c"
+    },
+    {
+      "date": 1612438666164,
+      "type": "remove",
+      "id": "4108c3effef79ca7"
+    },
+    {
+      "date": 1612438666164,
+      "type": "remove",
+      "id": "3d21c7046319ef6e"
+    },
+    {
+      "date": 1612438666164,
+      "type": "remove",
+      "id": "c72037f9752f7f6e"
+    },
+    {
+      "date": 1612438666164,
+      "type": "remove",
+      "id": "66908bf12d8ed328"
+    },
+    {
+      "type": "add",
+      "id": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "item": {
+        "id": "dd3d8e77-b904-4137-b3da-20185e190965",
+        "type": "factory"
+      },
+      "date": 1612438666165,
+      "after": "da36a0d5e0954878"
+    },
+    {
+      "id": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "type": "edit",
+      "item": {
+        "type": "markdown",
+        "id": "dd3d8e77-b904-4137-b3da-20185e190965",
+        "text": "- [[This Wiki Is Too Long]]\n- [[When Their Time Is Right]]\n- [[Daily Scrum]]\n- [[Learning TimeBank]]\n- [[Time Account]]\n- [[Time Zone Problems]]\n- [[Concurrency (computer science)]]\n- [[Tau Chain]]\n- [[ProTip Timer Plugin]]"
+      },
+      "date": 1612438666165
+    },
+    {
+      "type": "fork",
+      "date": 1612439006940
+    }
+  ],
+  "story": [
+    {
+      "text": "Time and therefore change which leads to uncertainty are not built into our programming languages. Indeed nor is it built into much of our philosophy, or common sense modes of thinking.  What would a language look like that builds in the idea of time?",
+      "type": "paragraph",
+      "id": "f55c70658f15ff07"
+    },
+    {
+      "text": "So what other ways aide from blockchain based state-clocks can we deal with uncertainty and time in distributed programming?",
+      "type": "paragraph",
+      "id": "55195e015c1ac3e7"
+    },
+    {
+      "text": "# See also",
+      "type": "markdown",
+      "id": "da36a0d5e0954878"
+    },
+    {
+      "id": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "type": "markdown",
+      "text": "- [[This Wiki Is Too Long]]\n- [[When Their Time Is Right]]\n- [[Daily Scrum]]\n- [[Learning TimeBank]]\n- [[Time Account]]\n- [[Time Zone Problems]]\n- [[Concurrency (computer science)]]\n- [[Tau Chain]]\n- [[ProTip Timer Plugin]]"
+    }
+  ]
+}

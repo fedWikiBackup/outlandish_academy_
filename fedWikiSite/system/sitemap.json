@@ -1310,7 +1310,7 @@
   {
     "slug": "learning-timebank",
     "title": "Learning TimeBank",
-    "date": 1425213406472,
+    "date": 1438597525934,
     "synopsis": "We use a time based currency: Students are required to pass on their learning in order to earn credits that they can use to take further free courses."
   },
   {
@@ -2777,6 +2777,155 @@
     "links": {
       "experience-api": "15f2a6d90d9b36eb",
       "learning-cohort-teams": "a3a8ca5be16b1d8f"
+    }
+  },
+  {
+    "slug": "about-time",
+    "title": "About Time",
+    "date": 1612438666165,
+    "synopsis": "Time and therefore change which leads to uncertainty are not built into our programming languages. Indeed nor is it built into much of our philosophy, or common sense modes of thinking.  What would a language look like that builds in the idea of time?",
+    "links": {
+      "this-wiki-is-too-long": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "when-their-time-is-right": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "daily-scrum": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "learning-timebank": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "time-account": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "time-zone-problems": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "concurrency-computer-science": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "tau-chain": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "protip-timer-plugin": "dd3d8e77-b904-4137-b3da-20185e190965"
+    }
+  },
+  {
+    "slug": "this-wiki-is-too-long",
+    "title": "This Wiki Is Too Long",
+    "date": 1612438772771,
+    "synopsis": "We write our ideas in wiki as a way to explore the topics. Invoking [[Benjamin Franklin]]: ",
+    "links": {
+      "benjamin-franklin": "780eee8f66ddc5aa"
+    }
+  },
+  {
+    "slug": "when-their-time-is-right",
+    "title": "When Their Time Is Right",
+    "date": 1612438841831,
+    "synopsis": "Much of what lives and survives is about timing, not essence. How do we care for ideas who's timing is wrong? How do we judge the right time for an idea?"
+  },
+  {
+    "slug": "shared-data-plugin",
+    "title": "Shared Data Plugin",
+    "date": 1438597685060,
+    "synopsis": "Some initial thoughts on how can we introduce a simple shared data model across Fedwiki installations:",
+    "links": {
+      "firebase": "32ddaf1bd2a912d6",
+      "simpledb": "32ddaf1bd2a912d6",
+      "dat": "32ddaf1bd2a912d6",
+      "form-plugin": "32ddaf1bd2a912d6",
+      "result-plugin": "32ddaf1bd2a912d6",
+      "about-data-plugin": "3170471337602357",
+      "tranport-plugin": "3170471337602357",
+      "json-data-story-item": "3170471337602357",
+      "crud-operations": "d8bac97390b688b6"
+    }
+  },
+  {
+    "slug": "data-and-javascript",
+    "title": "Data and Javascript",
+    "date": 1438597504250,
+    "synopsis": "Here we gather some links and ideas related to using data in the javascript centred world of the Federation:",
+    "links": {
+      "federated-data": "ba5451d28ca92f51",
+      "nosql": "9bd89ad41a2fd134",
+      "federated-wiki": "0d41c1e62f5209d9",
+      "linked-data": "0d41c1e62f5209d9",
+      "web-we-want": "0d41c1e62f5209d9",
+      "dat": "cdb2caf500585677",
+      "command-line": "cdb2caf500585677",
+      "rest": "cdb2caf500585677",
+      "javascript": "cdb2caf500585677"
+    }
+  },
+  {
+    "slug": "time-zone-problems",
+    "title": "Time Zone Problems",
+    "date": 1543329660353,
+    "synopsis": "Time seems really straightforward and turns out not to be.",
+    "links": {
+      "exploring-time": "0aa0e49103ebe87a"
+    }
+  },
+  {
+    "slug": "concurrency-computer-science",
+    "title": "Concurrency (computer science)",
+    "date": 1475588155398,
+    "synopsis": "In computer science, concurrency is the decomposability property of a program, algorithm, or problem into order-independent or partially-ordered components or units - [https://en.wikipedia.org/wiki/Concurrency_(computer_science) wikipedia]",
+    "links": {
+      "petri-nets": "dbd0c796b4b6334c",
+      "actor-model": "dbd0c796b4b6334c",
+      "reo-coordination-language": "dbd0c796b4b6334c",
+      "plato": "9c0dc9fa-b591-4355-a2df-8953990382c0",
+      "socrates": "9c0dc9fa-b591-4355-a2df-8953990382c0",
+      "voltaire": "9c0dc9fa-b591-4355-a2df-8953990382c0",
+      "descartes": "9c0dc9fa-b591-4355-a2df-8953990382c0",
+      "issues": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "theory": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "practice": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "see-also": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "references": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "further-reading": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "external-links": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d"
+    }
+  },
+  {
+    "slug": "tau-chain",
+    "title": "Tau Chain",
+    "date": 1548442960582,
+    "synopsis": "τ-chain (pronounced tau-chain) is a decentralized peer-to-peer network having three unified faces: Rules, Proofs, and Computer Programs, allowing a generalization of virtually any centralized or decentralized P2P network, together with many new abilities, as we present on this note - [http://tauchain.org/tauchain.pdf pdf]",
+    "links": {
+      "tau-chain": "ce0aa3ab34635a94",
+      "blockchain": "ce0aa3ab34635a94",
+      "peter-suber": "51f0b75e61d97634",
+      "nomic": "51f0b75e61d97634",
+      "the-dao-hack": "2f8a4e6657c92236",
+      "dao-private-keys": "2f8a4e6657c92236",
+      "multisigs-cant-secure-dao-keys": "2f8a4e6657c92236",
+      "dao-design-jam": "2f8a4e6657c92236",
+      "about-time": "2f8a4e6657c92236",
+      "daedalus-now-bloom": "2f8a4e6657c92236",
+      "the-eve-of-abstraction": "2f8a4e6657c92236",
+      "bitcoin": "f833a46eed51d551",
+      "ethereum": "f833a46eed51d551",
+      "kademlia": "566e3d6efc3b587c",
+      "dht": "566e3d6efc3b587c",
+      "bittorrent": "2d1ee7ca108b7602",
+      "type-theory": "4fb4b1f45bfab7b8",
+      "turing-machine": "81d1e43a7015e55e",
+      "godel": "9a9ef803eabe12ec",
+      "russell": "9a9ef803eabe12ec",
+      "halting-problem": "9a9ef803eabe12ec"
+    }
+  },
+  {
+    "slug": "time-account",
+    "title": "Time Account",
+    "date": 1429982014940,
+    "synopsis": "A time-account is a personal ledger which tracks time spend and time received by a member of the federation.",
+    "links": {
+      "time-account-viewer-plugin": "f5b74795d106953b"
+    }
+  },
+  {
+    "slug": "protip-timer-plugin",
+    "title": "ProTip Timer Plugin",
+    "date": 1429830591208,
+    "synopsis": "The ProTip Timer Plugin logs the time spent viewing pages around the federation. The information is incrementally stored in a local database - let's call it a [[Time Account]] - which the client stores in its [[HTML5 Local Storage]], and is not therefore revealed to the server.",
+    "links": {
+      "time-account": "01011db0f5961a83",
+      "html5-local-storage": "01011db0f5961a83",
+      "fedwiki-pages": "2591c8730756136a",
+      "time-credits": "b7c444ff295e8a27",
+      "protip-chrome-extension": "b7c444ff295e8a27",
+      "time-accounts": "1db4e42a8ab11f04"
     }
   }
 ]
