@@ -1,0 +1,383 @@
+{
+  "title": "Peter Senge",
+  "journal": [
+    {
+      "date": 1612448108796,
+      "item": {
+        "title": "Peter Senge",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1612448456254
+    },
+    {
+      "id": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "type": "add",
+      "item": {
+        "id": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+        "type": "markdown",
+        "text": "An engineer by training, Peter was a protégé of John H. Hopkins and has followed closely the works of Michael Peters and [[Robert Fritz]] and based his books on pioneering work with the five disciplines at [[Ford Motor Company]], [[Chrysler]], [[Royal Dutch Shell]], [[AT&T Corporation]], [[Hanover Insurance]], and [[Harley-Davidson]], since the 1970s - [https://en.wikipedia.org/wiki/Peter_Senge#Work wikipedia]"
+      },
+      "after": "d7266908-b9d3-4f06-9207-8c320a2dc0ac",
+      "date": 1612448471345
+    },
+    {
+      "id": "dc334e15-c40f-4640-8ba4-d76178c0db9a",
+      "type": "add",
+      "item": {
+        "id": "dc334e15-c40f-4640-8ba4-d76178c0db9a",
+        "type": "markdown",
+        "text": "# Work"
+      },
+      "after": "d7266908-b9d3-4f06-9207-8c320a2dc0ac",
+      "date": 1612448477975
+    },
+    {
+      "id": "2d59faef-e415-4184-91d4-67e8fea359b6",
+      "type": "add",
+      "item": {
+        "id": "2d59faef-e415-4184-91d4-67e8fea359b6",
+        "type": "markdown",
+        "text": "# Life and career"
+      },
+      "after": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "date": 1612448493147
+    },
+    {
+      "id": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "type": "add",
+      "item": {
+        "id": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+        "type": "markdown",
+        "text": "Peter Senge was born in [[Stanford, California]]. He received a B.S. in [[Aerospace engineering]] from [[Stanford University]]. While at Stanford, Senge also studied philosophy. He later earned an [[Master of Science]] in social systems modeling from [[MIT]] in 1972, as well as a PhD in Management from the [[MIT Sloan School of Management]] in 1978 - [https://en.wikipedia.org/wiki/Peter_Senge#Life_and_career wikipedia]"
+      },
+      "after": "2d59faef-e415-4184-91d4-67e8fea359b6",
+      "date": 1612448496109
+    },
+    {
+      "id": "146cba71-eee4-45f6-aec6-119e527d36fe",
+      "type": "add",
+      "item": {
+        "id": "146cba71-eee4-45f6-aec6-119e527d36fe",
+        "type": "markdown",
+        "text": "He is the founding chair of the [[Society for Organizational Learning]] (SoL).  This organization helps with the communication of ideas between large corporations.  It replaced the previous organization known as the Center for Organizational Learning at MIT."
+      },
+      "after": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "date": 1612448506994
+    },
+    {
+      "id": "02063b58-0c2f-43f1-bfee-a71b6c7eacc0",
+      "type": "add",
+      "item": {
+        "id": "02063b58-0c2f-43f1-bfee-a71b6c7eacc0",
+        "type": "markdown",
+        "text": "He is co-Founder, and sits on the Board of Directors, of the [https://www.academyforchange.org Academy for Systems Change]. This non-profit organization works with leaders to grow their ability to lead in complex social systems that foster biological, social and economic well-being. The focus is on awareness-based systems thinking tools, methods and approaches."
+      },
+      "after": "146cba71-eee4-45f6-aec6-119e527d36fe",
+      "date": 1612448511317
+    },
+    {
+      "id": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+      "type": "add",
+      "item": {
+        "id": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+        "type": "markdown",
+        "text": "He has had a regular [[meditation]] practice since 1996 and began meditating with a trip to [[Tassajara Zen Mountain Center]], a [[Zen Buddhist]] monastery, before attending Stanford. He recommends meditation or similar forms of contemplative practice."
+      },
+      "after": "02063b58-0c2f-43f1-bfee-a71b6c7eacc0",
+      "date": 1612448516369
+    },
+    {
+      "type": "remove",
+      "id": "187bd196-7121-42e6-8ae7-dfa4ea662746",
+      "date": 1612448535250
+    },
+    {
+      "type": "remove",
+      "id": "f8a62cab-0975-42d4-b59e-ba148bc45dea",
+      "date": 1612448537539
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "25e1fe190741cb8d"
+      },
+      "id": "25e1fe190741cb8d",
+      "type": "add",
+      "after": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "date": 1612448546065
+    },
+    {
+      "id": "25e1fe190741cb8d",
+      "type": "move",
+      "order": [
+        "c4273e82-fd38-4344-bc91-e3f7d1bd2dbe",
+        "d7266908-b9d3-4f06-9207-8c320a2dc0ac",
+        "dc334e15-c40f-4640-8ba4-d76178c0db9a",
+        "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+        "25e1fe190741cb8d",
+        "2d59faef-e415-4184-91d4-67e8fea359b6",
+        "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+        "146cba71-eee4-45f6-aec6-119e527d36fe",
+        "02063b58-0c2f-43f1-bfee-a71b6c7eacc0",
+        "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+        "a3fbfb3a-d5ff-47d9-bda4-04581f2789ff",
+        "98583c8e-016c-4a5c-bee0-47139d3f96f1",
+        "6999d668-9894-4f5b-9126-356a68ff112a",
+        "59d4f341-ef7f-4cce-b162-8f2cf4c10785"
+      ],
+      "date": 1612448550532
+    },
+    {
+      "type": "edit",
+      "id": "25e1fe190741cb8d",
+      "item": {
+        "type": "video",
+        "id": "25e1fe190741cb8d",
+        "text": "YOUTUBE 0QtQqZ6Q5-o\n(double-click to edit caption)\n"
+      },
+      "date": 1612448556466
+    },
+    {
+      "type": "edit",
+      "id": "c4273e82-fd38-4344-bc91-e3f7d1bd2dbe",
+      "item": {
+        "id": "c4273e82-fd38-4344-bc91-e3f7d1bd2dbe",
+        "type": "markdown",
+        "text": "__Peter Michael Senge__ (born 1947) is an American [[systems science]] who is a senior lecturer at the [[MIT Sloan School of Management]], co-faculty at the [[New England Complex Systems Institute]], and the founder of the [[Society for Organizational Learning]]. He is known as the author of the book [[The Fifth Discipline]] (1990, rev. 2006) - [https://en.wikipedia.org/wiki/Peter_Senge wikipedia]\n"
+      },
+      "date": 1612448618410
+    },
+    {
+      "type": "add",
+      "id": "da198ee1f3151a75",
+      "item": {
+        "type": "markdown",
+        "id": "da198ee1f3151a75",
+        "text": "Peter Senge is a Senior Lecturer in Leadership and Sustainability at the MIT. He is the founding chair of the Society for Organizational Learning (SoL) and the author of the widely acclaimed book, The Fifth Discipline: The Art and Practice of The Learning Organization. The Journal of Business Strategy (September/October 1999) named Senge one of the 24 people who has had the greatest influence on business strategy over the last 100 years."
+      },
+      "after": "c4273e82-fd38-4344-bc91-e3f7d1bd2dbe",
+      "date": 1612448619520
+    },
+    {
+      "type": "edit",
+      "id": "da198ee1f3151a75",
+      "item": {
+        "type": "markdown",
+        "id": "da198ee1f3151a75",
+        "text": "Peter Senge is a Senior Lecturer in Leadership and Sustainability at the MIT. He is the founding chair of the Society for Organizational Learning (SoL). The Journal of Business Strategy (September/October 1999) named Senge one of the 24 people who has had the greatest influence on business strategy over the last 100 years."
+      },
+      "date": 1612448681091
+    },
+    {
+      "id": "da198ee1f3151a75",
+      "type": "move",
+      "order": [
+        "da198ee1f3151a75",
+        "c4273e82-fd38-4344-bc91-e3f7d1bd2dbe",
+        "d7266908-b9d3-4f06-9207-8c320a2dc0ac",
+        "dc334e15-c40f-4640-8ba4-d76178c0db9a",
+        "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+        "25e1fe190741cb8d",
+        "2d59faef-e415-4184-91d4-67e8fea359b6",
+        "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+        "146cba71-eee4-45f6-aec6-119e527d36fe",
+        "02063b58-0c2f-43f1-bfee-a71b6c7eacc0",
+        "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+        "a3fbfb3a-d5ff-47d9-bda4-04581f2789ff",
+        "98583c8e-016c-4a5c-bee0-47139d3f96f1",
+        "6999d668-9894-4f5b-9126-356a68ff112a",
+        "59d4f341-ef7f-4cce-b162-8f2cf4c10785"
+      ],
+      "date": 1612448682634
+    },
+    {
+      "type": "edit",
+      "id": "da198ee1f3151a75",
+      "item": {
+        "type": "markdown",
+        "id": "da198ee1f3151a75",
+        "text": "__Peter Michael Senge__ (born 1947) is an American [[systems science]] and a Senior Lecturer in Leadership and Sustainability at the MIT. He is the founding chair of the Society for Organizational Learning (SoL). The Journal of Business Strategy (September/October 1999) named Senge one of the 24 people who has had the greatest influence on business strategy over the last 100 years."
+      },
+      "date": 1612448724962
+    },
+    {
+      "type": "edit",
+      "id": "da198ee1f3151a75",
+      "item": {
+        "type": "markdown",
+        "id": "da198ee1f3151a75",
+        "text": "__Peter Michael Senge__ (born 1947) is an American systems scientist, Senior Lecturer in Leadership and Sustainability at the [[MIT Sloan School of Management]], co-faculty at the [[New England Complex Systems Institute]], and the founder of the [[Society for Organizational Learning]]\n"
+      },
+      "date": 1612448781436
+    },
+    {
+      "type": "add",
+      "id": "29b121334d281d92",
+      "item": {
+        "type": "markdown",
+        "id": "29b121334d281d92",
+        "text": "He is the founding chair of the Society for Organizational Learning (SoL). The Journal of Business Strategy (September/October 1999) named Senge one of the 24 people who has had the greatest influence on business strategy over the last 100 years."
+      },
+      "after": "da198ee1f3151a75",
+      "date": 1612448788780
+    },
+    {
+      "type": "edit",
+      "id": "29b121334d281d92",
+      "item": {
+        "type": "markdown",
+        "id": "29b121334d281d92",
+        "text": "The Journal of Business Strategy (September/October 1999) named Senge one of the 24 people who has had the greatest influence on business strategy over the last 100 years."
+      },
+      "date": 1612448800389
+    },
+    {
+      "type": "remove",
+      "id": "c4273e82-fd38-4344-bc91-e3f7d1bd2dbe",
+      "date": 1612448812534
+    },
+    {
+      "type": "edit",
+      "id": "29b121334d281d92",
+      "item": {
+        "type": "markdown",
+        "id": "29b121334d281d92",
+        "text": "The Journal of Business Strategy (September/October 1999) named Senge one of the 24 people who has had the greatest influence on business strategy over the last 100 years. He is known as the author of the book [[The Fifth Discipline]] (1990, rev. 2006) - [https://en.wikipedia.org/wiki/Peter_Senge wikipedia]\n"
+      },
+      "date": 1612448816225
+    },
+    {
+      "type": "edit",
+      "id": "29b121334d281d92",
+      "item": {
+        "type": "markdown",
+        "id": "29b121334d281d92",
+        "text": "The Journal of Business Strategy (September/October 1999) named Senge one of the 24 people who has had the greatest influence on business strategy over the last 100 years. He is known as the author of the book [[The Fifth Discipline]] (1990, rev. 2006)."
+      },
+      "date": 1612448821728
+    },
+    {
+      "id": "29b121334d281d92",
+      "type": "move",
+      "order": [
+        "da198ee1f3151a75",
+        "d7266908-b9d3-4f06-9207-8c320a2dc0ac",
+        "29b121334d281d92",
+        "dc334e15-c40f-4640-8ba4-d76178c0db9a",
+        "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+        "25e1fe190741cb8d",
+        "2d59faef-e415-4184-91d4-67e8fea359b6",
+        "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+        "146cba71-eee4-45f6-aec6-119e527d36fe",
+        "02063b58-0c2f-43f1-bfee-a71b6c7eacc0",
+        "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+        "a3fbfb3a-d5ff-47d9-bda4-04581f2789ff",
+        "98583c8e-016c-4a5c-bee0-47139d3f96f1",
+        "6999d668-9894-4f5b-9126-356a68ff112a",
+        "59d4f341-ef7f-4cce-b162-8f2cf4c10785"
+      ],
+      "date": 1612448823830
+    },
+    {
+      "type": "edit",
+      "id": "da198ee1f3151a75",
+      "item": {
+        "type": "markdown",
+        "id": "da198ee1f3151a75",
+        "text": "__Peter Michael Senge__ (born 1947) is an American systems scientist, Senior Lecturer in Leadership and Sustainability at the [[MIT Sloan School of Management]], co-faculty at the [[New England Complex Systems Institute]], and the founder of the [[Society for Organizational Learning]]  - [https://en.wikipedia.org/wiki/Peter_Senge wikipedia]\n\n"
+      },
+      "date": 1612448829569
+    },
+    {
+      "type": "edit",
+      "id": "25e1fe190741cb8d",
+      "item": {
+        "type": "video",
+        "id": "25e1fe190741cb8d",
+        "text": "YOUTUBE 0QtQqZ6Q5-o\n[[Peter Senge]]'s keynote speech \"Systems Thinking for a Better World\" at the 30th Anniversary Seminar of the Systems Analysis Laboratory \"Being Better in the World of Systems\" at Aalto University, 20 November 2014."
+      },
+      "date": 1612448874852
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "da198ee1f3151a75",
+      "text": "__Peter Michael Senge__ (born 1947) is an American systems scientist, Senior Lecturer in Leadership and Sustainability at the [[MIT Sloan School of Management]], co-faculty at the [[New England Complex Systems Institute]], and the founder of the [[Society for Organizational Learning]]  - [https://en.wikipedia.org/wiki/Peter_Senge wikipedia]\n\n"
+    },
+    {
+      "id": "d7266908-b9d3-4f06-9207-8c320a2dc0ac",
+      "type": "html",
+      "text": "<div style='padding: 12px; background:#eee; width:96%; align=centered;'>\n<a href='https://upload.wikimedia.org/wikipedia/commons/3/3a/Peter_Senge_at_Quest_to_Learn.jpg' target='_blank'><img style='display:block; margin:auto; width:100%;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Peter_Senge_at_Quest_to_Learn.jpg/242px-Peter_Senge_at_Quest_to_Learn.jpg'>\n</a>\n<p class=caption>\nPeter Senge.  - [https://upload.wikimedia.org/wikipedia/commons/3/3a/Peter_Senge_at_Quest_to_Learn.jpg wikimedia]\n</p></div>"
+    },
+    {
+      "type": "markdown",
+      "id": "29b121334d281d92",
+      "text": "The Journal of Business Strategy (September/October 1999) named Senge one of the 24 people who has had the greatest influence on business strategy over the last 100 years. He is known as the author of the book [[The Fifth Discipline]] (1990, rev. 2006)."
+    },
+    {
+      "id": "dc334e15-c40f-4640-8ba4-d76178c0db9a",
+      "type": "markdown",
+      "text": "# Work"
+    },
+    {
+      "id": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "type": "markdown",
+      "text": "An engineer by training, Peter was a protégé of John H. Hopkins and has followed closely the works of Michael Peters and [[Robert Fritz]] and based his books on pioneering work with the five disciplines at [[Ford Motor Company]], [[Chrysler]], [[Royal Dutch Shell]], [[AT&T Corporation]], [[Hanover Insurance]], and [[Harley-Davidson]], since the 1970s - [https://en.wikipedia.org/wiki/Peter_Senge#Work wikipedia]"
+    },
+    {
+      "type": "video",
+      "id": "25e1fe190741cb8d",
+      "text": "YOUTUBE 0QtQqZ6Q5-o\n[[Peter Senge]]'s keynote speech \"Systems Thinking for a Better World\" at the 30th Anniversary Seminar of the Systems Analysis Laboratory \"Being Better in the World of Systems\" at Aalto University, 20 November 2014."
+    },
+    {
+      "id": "2d59faef-e415-4184-91d4-67e8fea359b6",
+      "type": "markdown",
+      "text": "# Life and career"
+    },
+    {
+      "id": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "type": "markdown",
+      "text": "Peter Senge was born in [[Stanford, California]]. He received a B.S. in [[Aerospace engineering]] from [[Stanford University]]. While at Stanford, Senge also studied philosophy. He later earned an [[Master of Science]] in social systems modeling from [[MIT]] in 1972, as well as a PhD in Management from the [[MIT Sloan School of Management]] in 1978 - [https://en.wikipedia.org/wiki/Peter_Senge#Life_and_career wikipedia]"
+    },
+    {
+      "id": "146cba71-eee4-45f6-aec6-119e527d36fe",
+      "type": "markdown",
+      "text": "He is the founding chair of the [[Society for Organizational Learning]] (SoL).  This organization helps with the communication of ideas between large corporations.  It replaced the previous organization known as the Center for Organizational Learning at MIT."
+    },
+    {
+      "id": "02063b58-0c2f-43f1-bfee-a71b6c7eacc0",
+      "type": "markdown",
+      "text": "He is co-Founder, and sits on the Board of Directors, of the [https://www.academyforchange.org Academy for Systems Change]. This non-profit organization works with leaders to grow their ability to lead in complex social systems that foster biological, social and economic well-being. The focus is on awareness-based systems thinking tools, methods and approaches."
+    },
+    {
+      "id": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+      "type": "markdown",
+      "text": "He has had a regular [[meditation]] practice since 1996 and began meditating with a trip to [[Tassajara Zen Mountain Center]], a [[Zen Buddhist]] monastery, before attending Stanford. He recommends meditation or similar forms of contemplative practice."
+    },
+    {
+      "id": "a3fbfb3a-d5ff-47d9-bda4-04581f2789ff",
+      "type": "markdown",
+      "text": "# Sections"
+    },
+    {
+      "id": "98583c8e-016c-4a5c-bee0-47139d3f96f1",
+      "type": "html",
+      "text": "<form action=\"https://rest.livecode.world/mediawiki/importSection\"><input name=section_title size=60 value=\"Publications\">\n<input name=url type=hidden value=\"https://en.wikipedia.org/w/index.php?title=Peter Senge&action=edit&section=5\">\n<input type=submit value=create></form>"
+    },
+    {
+      "id": "6999d668-9894-4f5b-9126-356a68ff112a",
+      "type": "markdown",
+      "text": "# See also"
+    },
+    {
+      "id": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "type": "markdown",
+      "text": "- [[Organizational learning]]\n- [[System dynamics]]\n- [[Systems thinking]]\n- [[Strategy dynamics]]\n- [[Strategic management]]\n- [[Organizational communication]]"
+    }
+  ]
+}
