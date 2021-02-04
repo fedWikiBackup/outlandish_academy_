@@ -1,0 +1,39 @@
+{
+  "title": "Shared vision",
+  "journal": [
+    {
+      "date": 1612444027599,
+      "item": {
+        "title": "Shared vision",
+        "story": ""
+      },
+      "type": "create"
+    },
+    {
+      "type": "fork",
+      "date": 1612444369025
+    },
+    {
+      "id": "a66330e8-dddb-45f0-818d-8aac6cb9c249",
+      "type": "remove",
+      "date": 1612444373229
+    },
+    {
+      "type": "remove",
+      "id": "9c62cb90-2804-42e8-8e84-6b21066973fa",
+      "date": 1612444380442
+    }
+  ],
+  "story": [
+    {
+      "id": "26afc1b4-2be7-4ccb-8609-5823aafef5e3",
+      "type": "markdown",
+      "text": "The development of a shared vision is important in motivating the staff to learn, as it creates a common identity that provides focus and energy for learning. The most successful visions build on the individual visions of the employees at all levels of the organization, thus the creation of a shared vision can be hindered by traditional structures where the company vision is imposed from above. Therefore, learning organizations tend to have flat, decentralized [[organizational structure]]s. The shared vision is often to succeed against a competitor; however, [[Peter Senge]] states that these are transitory goals and suggests that there should also be long-term goals that are intrinsic within the company. On the other hand, the lack of clearly defined goals can negatively affect the organisation, as it cannot attain its members trust. Applying the practices of a shared vision creates a suitable environment for the development of trust through communication and collaboration within the organization. As a result, the built shared vision encourages the members to share their own experiences and opinions, thus enhancing effects of organizational learning - [https://en.wikipedia.org/wiki/Learning_organization#Shared_vision wikipedia]"
+    },
+    {
+      "id": "b8bcbc69-03e8-409e-8cb5-c136082d6072",
+      "type": "markdown",
+      "text": "# Shared vision"
+    }
+  ]
+}
