@@ -1,0 +1,740 @@
+{
+  "title": "Learning in Public",
+  "journal": [
+    {
+      "item": {
+        "title": "Learning in Public",
+        "story": ""
+      },
+      "type": "create",
+      "date": 1613309993988
+    },
+    {
+      "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+      "type": "add",
+      "item": {
+        "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+        "type": "factory"
+      },
+      "date": 1613309993988
+    },
+    {
+      "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+      "type": "edit",
+      "item": {
+        "text": "Anna Gat (@TheAnnaGat), founder of Interintellect, and Anne-Laure Le Cunff (@anthilemoon), founder of Ness Labs, join Erik on this episode to discuss: - [https://www.listennotes.com/e/625e2111a34b4be1b59dab9f73bd40f3/ listen]",
+        "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+        "type": "markdown"
+      },
+      "date": 1613309993988
+    },
+    {
+      "id": "fe263ce2-34a9-4b4b-895c-cfa16445e6f9",
+      "type": "add",
+      "item": {
+        "id": "fe263ce2-34a9-4b4b-895c-cfa16445e6f9",
+        "type": "factory"
+      },
+      "after": "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+      "date": 1613309993989
+    },
+    {
+      "id": "fe263ce2-34a9-4b4b-895c-cfa16445e6f9",
+      "type": "edit",
+      "item": {
+        "text": "https://www.listennotes.com/e/p/625e2111a34b4be1b59dab9f73bd40f3/\n[[Learning in Public with Anna Gat and Anne-Laure Le Cunff]] - [ ]",
+        "id": "fe263ce2-34a9-4b4b-895c-cfa16445e6f9",
+        "type": "audio"
+      },
+      "date": 1613309993989
+    },
+    {
+      "id": "20293879-3e5e-4b42-9dc6-fb81872716fa",
+      "type": "add",
+      "item": {
+        "id": "20293879-3e5e-4b42-9dc6-fb81872716fa",
+        "type": "factory"
+      },
+      "after": "fe263ce2-34a9-4b4b-895c-cfa16445e6f9",
+      "date": 1613309993989
+    },
+    {
+      "id": "20293879-3e5e-4b42-9dc6-fb81872716fa",
+      "type": "edit",
+      "item": {
+        "text": "<div class='item image ui-sortable-handle'>\n<img class='thumbnail' src='https://cdn-images-1.listennotes.com/podcasts/village-globals-venture-stories-village-EMZHkqIA_Fc-Zbiejgx0l-F.300x300.jpg'>\n<p class=caption>\n[[Learning in Public with Anna Gat and Anne-Laure Le Cunff]] - [https://www.listennotes.com/e/625e2111a34b4be1b59dab9f73bd40f3/ listen]\n</p></div>",
+        "id": "20293879-3e5e-4b42-9dc6-fb81872716fa",
+        "type": "html"
+      },
+      "date": 1613309993989
+    },
+    {
+      "id": "eba1ec92-488a-421f-95b5-6f3e3a42c826",
+      "type": "add",
+      "item": {
+        "id": "eba1ec92-488a-421f-95b5-6f3e3a42c826",
+        "type": "factory"
+      },
+      "after": "20293879-3e5e-4b42-9dc6-fb81872716fa",
+      "date": 1613309993990
+    },
+    {
+      "id": "eba1ec92-488a-421f-95b5-6f3e3a42c826",
+      "type": "edit",
+      "item": {
+        "text": "- What it’s like putting on virtual events in the COVID era.",
+        "id": "eba1ec92-488a-421f-95b5-6f3e3a42c826",
+        "type": "markdown"
+      },
+      "date": 1613309993990
+    },
+    {
+      "id": "fdc0046c-e870-458f-a253-3ba042e5b840",
+      "type": "add",
+      "item": {
+        "id": "fdc0046c-e870-458f-a253-3ba042e5b840",
+        "type": "factory"
+      },
+      "after": "eba1ec92-488a-421f-95b5-6f3e3a42c826",
+      "date": 1613309993990
+    },
+    {
+      "id": "fdc0046c-e870-458f-a253-3ba042e5b840",
+      "type": "edit",
+      "item": {
+        "text": "- The difference between public and private language.",
+        "id": "fdc0046c-e870-458f-a253-3ba042e5b840",
+        "type": "markdown"
+      },
+      "date": 1613309993990
+    },
+    {
+      "id": "a7f5aa3c-c8bf-472d-bb7d-d40a26853ea8",
+      "type": "add",
+      "item": {
+        "id": "a7f5aa3c-c8bf-472d-bb7d-d40a26853ea8",
+        "type": "factory"
+      },
+      "after": "fdc0046c-e870-458f-a253-3ba042e5b840",
+      "date": 1613309993991
+    },
+    {
+      "id": "a7f5aa3c-c8bf-472d-bb7d-d40a26853ea8",
+      "type": "edit",
+      "item": {
+        "text": "- How to scale a community while keeping it human, including the best tools to use.",
+        "id": "a7f5aa3c-c8bf-472d-bb7d-d40a26853ea8",
+        "type": "markdown"
+      },
+      "date": 1613309993991
+    },
+    {
+      "id": "9f4a710e-91fa-4ebd-88fb-34575b53ea08",
+      "type": "add",
+      "item": {
+        "id": "9f4a710e-91fa-4ebd-88fb-34575b53ea08",
+        "type": "factory"
+      },
+      "after": "a7f5aa3c-c8bf-472d-bb7d-d40a26853ea8",
+      "date": 1613309993992
+    },
+    {
+      "id": "9f4a710e-91fa-4ebd-88fb-34575b53ea08",
+      "type": "edit",
+      "item": {
+        "text": "- The importance of documentation in community-building.",
+        "id": "9f4a710e-91fa-4ebd-88fb-34575b53ea08",
+        "type": "markdown"
+      },
+      "date": 1613309993992
+    },
+    {
+      "id": "8b1d31e0-a7e3-4ec5-a1cd-495b9ea28dbf",
+      "type": "add",
+      "item": {
+        "id": "8b1d31e0-a7e3-4ec5-a1cd-495b9ea28dbf",
+        "type": "factory"
+      },
+      "after": "9f4a710e-91fa-4ebd-88fb-34575b53ea08",
+      "date": 1613309993992
+    },
+    {
+      "id": "8b1d31e0-a7e3-4ec5-a1cd-495b9ea28dbf",
+      "type": "edit",
+      "item": {
+        "text": "- The community architect role.",
+        "id": "8b1d31e0-a7e3-4ec5-a1cd-495b9ea28dbf",
+        "type": "markdown"
+      },
+      "date": 1613309993992
+    },
+    {
+      "id": "1bb91bf5-7092-4497-a825-1c89a43c1018",
+      "type": "add",
+      "item": {
+        "id": "1bb91bf5-7092-4497-a825-1c89a43c1018",
+        "type": "factory"
+      },
+      "after": "8b1d31e0-a7e3-4ec5-a1cd-495b9ea28dbf",
+      "date": 1613309993993
+    },
+    {
+      "id": "1bb91bf5-7092-4497-a825-1c89a43c1018",
+      "type": "edit",
+      "item": {
+        "text": "- How to think about which topics are off-limits for a group.",
+        "id": "1bb91bf5-7092-4497-a825-1c89a43c1018",
+        "type": "markdown"
+      },
+      "date": 1613309993993
+    },
+    {
+      "id": "0af750ea-c0a0-4687-9f41-7bab3fb0e98a",
+      "type": "add",
+      "item": {
+        "id": "0af750ea-c0a0-4687-9f41-7bab3fb0e98a",
+        "type": "factory"
+      },
+      "after": "1bb91bf5-7092-4497-a825-1c89a43c1018",
+      "date": 1613309993993
+    },
+    {
+      "id": "0af750ea-c0a0-4687-9f41-7bab3fb0e98a",
+      "type": "edit",
+      "item": {
+        "text": "- The advent of the generalist.",
+        "id": "0af750ea-c0a0-4687-9f41-7bab3fb0e98a",
+        "type": "markdown"
+      },
+      "date": 1613309993994
+    },
+    {
+      "id": "1606d8f3-0304-47f7-be36-87411b9bf667",
+      "type": "add",
+      "item": {
+        "id": "1606d8f3-0304-47f7-be36-87411b9bf667",
+        "type": "factory"
+      },
+      "after": "0af750ea-c0a0-4687-9f41-7bab3fb0e98a",
+      "date": 1613309993994
+    },
+    {
+      "id": "1606d8f3-0304-47f7-be36-87411b9bf667",
+      "type": "edit",
+      "item": {
+        "text": "- The secret to great meetups.",
+        "id": "1606d8f3-0304-47f7-be36-87411b9bf667",
+        "type": "markdown"
+      },
+      "date": 1613309993994
+    },
+    {
+      "id": "ca3c4bab-0043-4163-b9ba-eb06cdb11c17",
+      "type": "add",
+      "item": {
+        "id": "ca3c4bab-0043-4163-b9ba-eb06cdb11c17",
+        "type": "factory"
+      },
+      "after": "1606d8f3-0304-47f7-be36-87411b9bf667",
+      "date": 1613309993995
+    },
+    {
+      "id": "ca3c4bab-0043-4163-b9ba-eb06cdb11c17",
+      "type": "edit",
+      "item": {
+        "text": "*The deadline to get your application in for the spring vintage of the Village Global Accelerator is March 1st! It’s a personalized and tight-knit program with an amazing network of peers, advisors, and experts. Companies that have been through the accelerator have raised from some of the top venture funds in the world, likea16z, First Round Capital, Founders Fund, Lux Capital, True Ventures, Felicis and more.",
+        "id": "ca3c4bab-0043-4163-b9ba-eb06cdb11c17",
+        "type": "markdown"
+      },
+      "date": 1613309993995
+    },
+    {
+      "id": "d5aab866-169f-474b-9538-ebd9691a6695",
+      "type": "add",
+      "item": {
+        "id": "d5aab866-169f-474b-9538-ebd9691a6695",
+        "type": "factory"
+      },
+      "after": "ca3c4bab-0043-4163-b9ba-eb06cdb11c17",
+      "date": 1613309993995
+    },
+    {
+      "id": "d5aab866-169f-474b-9538-ebd9691a6695",
+      "type": "edit",
+      "item": {
+        "text": "Learn more and apply at www.villageglobal.vc/accelerator!",
+        "id": "d5aab866-169f-474b-9538-ebd9691a6695",
+        "type": "markdown"
+      },
+      "date": 1613309993995
+    },
+    {
+      "id": "e9600e5b-9c83-4ea5-9a60-8d2ff8729542",
+      "type": "add",
+      "item": {
+        "id": "e9600e5b-9c83-4ea5-9a60-8d2ff8729542",
+        "type": "factory"
+      },
+      "after": "d5aab866-169f-474b-9538-ebd9691a6695",
+      "date": 1613309993996
+    },
+    {
+      "id": "e9600e5b-9c83-4ea5-9a60-8d2ff8729542",
+      "type": "edit",
+      "item": {
+        "text": "Thanks for listening — if you like what you hear, please review us on your favorite podcast platform.",
+        "id": "e9600e5b-9c83-4ea5-9a60-8d2ff8729542",
+        "type": "markdown"
+      },
+      "date": 1613309993996
+    },
+    {
+      "id": "ef40f18c-e657-47b5-a70d-df6d3b3f0084",
+      "type": "add",
+      "item": {
+        "id": "ef40f18c-e657-47b5-a70d-df6d3b3f0084",
+        "type": "factory"
+      },
+      "after": "e9600e5b-9c83-4ea5-9a60-8d2ff8729542",
+      "date": 1613309993997
+    },
+    {
+      "id": "ef40f18c-e657-47b5-a70d-df6d3b3f0084",
+      "type": "edit",
+      "item": {
+        "text": "Check us out on the web at www.villageglobal.vc or get in touch with us on Twitter @villageglobal.",
+        "id": "ef40f18c-e657-47b5-a70d-df6d3b3f0084",
+        "type": "markdown"
+      },
+      "date": 1613309993997
+    },
+    {
+      "id": "99639ed6-9b77-4c98-923c-df9719206768",
+      "type": "add",
+      "item": {
+        "id": "99639ed6-9b77-4c98-923c-df9719206768",
+        "type": "factory"
+      },
+      "after": "ef40f18c-e657-47b5-a70d-df6d3b3f0084",
+      "date": 1613309993997
+    },
+    {
+      "id": "99639ed6-9b77-4c98-923c-df9719206768",
+      "type": "edit",
+      "item": {
+        "text": "Want to get updates from us? Subscribe to get a peek inside the Village. We’ll send you reading recommendations, exclusive event invites, and commentary on the latest happenings in Silicon Valley. www.villageglobal.vc/signup",
+        "id": "99639ed6-9b77-4c98-923c-df9719206768",
+        "type": "markdown"
+      },
+      "date": 1613309993997
+    },
+    {
+      "id": "2ed6b04a-6fd9-4e39-b2bc-ec5f8dcfbe82",
+      "type": "add",
+      "item": {
+        "id": "2ed6b04a-6fd9-4e39-b2bc-ec5f8dcfbe82",
+        "type": "factory"
+      },
+      "after": "99639ed6-9b77-4c98-923c-df9719206768",
+      "date": 1613309993998
+    },
+    {
+      "id": "2ed6b04a-6fd9-4e39-b2bc-ec5f8dcfbe82",
+      "type": "edit",
+      "item": {
+        "text": "# Village Global's Venture Stories",
+        "id": "2ed6b04a-6fd9-4e39-b2bc-ec5f8dcfbe82",
+        "type": "markdown"
+      },
+      "date": 1613309993998
+    },
+    {
+      "id": "7671b60a-2361-46b4-9719-6f64851432e8",
+      "type": "add",
+      "item": {
+        "id": "7671b60a-2361-46b4-9719-6f64851432e8",
+        "type": "factory"
+      },
+      "after": "2ed6b04a-6fd9-4e39-b2bc-ec5f8dcfbe82",
+      "date": 1613309993998
+    },
+    {
+      "id": "7671b60a-2361-46b4-9719-6f64851432e8",
+      "type": "edit",
+      "item": {
+        "text": "Village Global's Venture Stories takes you inside the world of venture capital and technology, featuring enlightening interviews with entrepreneurs, investors and tech industry leaders. The podcast is hosted by Village Global partner and co-founder Erik Torenberg. Check us out on the web at villageglobal.vc/podcast for more.",
+        "id": "7671b60a-2361-46b4-9719-6f64851432e8",
+        "type": "markdown"
+      },
+      "date": 1613309993999
+    },
+    {
+      "id": "0b2c99f5-1ee7-4989-bdb6-da8b04517348",
+      "type": "add",
+      "item": {
+        "id": "0b2c99f5-1ee7-4989-bdb6-da8b04517348",
+        "type": "factory"
+      },
+      "after": "7671b60a-2361-46b4-9719-6f64851432e8",
+      "date": 1613309993999
+    },
+    {
+      "id": "0b2c99f5-1ee7-4989-bdb6-da8b04517348",
+      "type": "edit",
+      "item": {
+        "text": "<div class='item image ui-sortable-handle'>\n<img class='thumbnail' src='https://cdn-images-1.listennotes.com/podcasts/village-globals-venture-stories-village-EMZHkqIA_Fc-Zbiejgx0l-F.300x300.jpg'>\n<p class=caption>\n[[Village Global's Venture Stories]] by Village Global - [http://www.villageglobal.vc?utm_source=listennotes.com&utm_campaign=Listen+Notes&utm_medium=website listen]\n</p></div>",
+        "id": "0b2c99f5-1ee7-4989-bdb6-da8b04517348",
+        "type": "html"
+      },
+      "date": 1613309993999
+    },
+    {
+      "date": 1613310353111,
+      "type": "fork"
+    },
+    {
+      "type": "fork",
+      "date": 1613310396679
+    },
+    {
+      "type": "edit",
+      "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+      "item": {
+        "text": "Anna Gat (@TheAnnaGat), founder of Interintellect, and Anne-Laure Le Cunff (@anthilemoon), founder of Ness Labs, join Erik on this episode to discuss: - [https://www.listennotes.com/e/625e2111a34b4be1b59dab9f73bd40f3/ listen]\n",
+        "type": "markdown",
+        "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26"
+      },
+      "date": 1613310494756
+    },
+    {
+      "type": "add",
+      "id": "92db2d29dc58db32",
+      "item": {
+        "type": "markdown",
+        "id": "92db2d29dc58db32",
+        "text": "- [https://twitter.com/TheAnnaGat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor sadf]"
+      },
+      "after": "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+      "date": 1613310503708
+    },
+    {
+      "type": "edit",
+      "id": "92db2d29dc58db32",
+      "item": {
+        "type": "markdown",
+        "id": "92db2d29dc58db32",
+        "text": "- [https://twitter.com/TheAnnaGat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @TheAnnaGat]"
+      },
+      "date": 1613310517523
+    },
+    {
+      "type": "edit",
+      "id": "92db2d29dc58db32",
+      "item": {
+        "type": "markdown",
+        "id": "92db2d29dc58db32",
+        "text": "- [https://twitter.com/TheAnnaGat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @TheAnnaGat]\n- https://interintellect.com/"
+      },
+      "date": 1613310546253
+    },
+    {
+      "type": "edit",
+      "id": "92db2d29dc58db32",
+      "item": {
+        "type": "markdown",
+        "id": "92db2d29dc58db32",
+        "text": "- [https://twitter.com/TheAnnaGat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @TheAnnaGat]\n- https://interintellect.com"
+      },
+      "date": 1613310553088
+    },
+    {
+      "type": "edit",
+      "id": "92db2d29dc58db32",
+      "item": {
+        "type": "markdown",
+        "id": "92db2d29dc58db32",
+        "text": "- [https://twitter.com/TheAnnaGat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @TheAnnaGat] - https://interintellect.com\n- [https://twitter.com/anthilemoon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor asdf]"
+      },
+      "date": 1613310633620
+    },
+    {
+      "type": "edit",
+      "id": "92db2d29dc58db32",
+      "item": {
+        "type": "markdown",
+        "id": "92db2d29dc58db32",
+        "text": "- [https://twitter.com/TheAnnaGat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @TheAnnaGat] - https://interintellect.com\n- [https://twitter.com/anthilemoon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @anthilemoon]"
+      },
+      "date": 1613310651342
+    },
+    {
+      "type": "edit",
+      "id": "92db2d29dc58db32",
+      "item": {
+        "type": "markdown",
+        "id": "92db2d29dc58db32",
+        "text": "- [https://twitter.com/TheAnnaGat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @TheAnnaGat] - https://interintellect.com\n- [https://twitter.com/anthilemoon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @anthilemoon] - https://nesslabs.com/"
+      },
+      "date": 1613310664930
+    },
+    {
+      "type": "edit",
+      "id": "fe263ce2-34a9-4b4b-895c-cfa16445e6f9",
+      "item": {
+        "text": "https://www.listennotes.com/e/p/625e2111a34b4be1b59dab9f73bd40f3/\n[[Learning in Public]] with Anna Gat and Anne-Laure Le Cunff - [https://www.listennotes.com/e/625e2111a34b4be1b59dab9f73bd40f3/ listen]",
+        "type": "audio",
+        "id": "fe263ce2-34a9-4b4b-895c-cfa16445e6f9"
+      },
+      "date": 1613310742850
+    },
+    {
+      "id": "92db2d29dc58db32",
+      "type": "move",
+      "order": [
+        "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+        "fe263ce2-34a9-4b4b-895c-cfa16445e6f9",
+        "92db2d29dc58db32",
+        "20293879-3e5e-4b42-9dc6-fb81872716fa",
+        "eba1ec92-488a-421f-95b5-6f3e3a42c826",
+        "fdc0046c-e870-458f-a253-3ba042e5b840",
+        "a7f5aa3c-c8bf-472d-bb7d-d40a26853ea8",
+        "9f4a710e-91fa-4ebd-88fb-34575b53ea08",
+        "8b1d31e0-a7e3-4ec5-a1cd-495b9ea28dbf",
+        "1bb91bf5-7092-4497-a825-1c89a43c1018",
+        "0af750ea-c0a0-4687-9f41-7bab3fb0e98a",
+        "1606d8f3-0304-47f7-be36-87411b9bf667",
+        "ca3c4bab-0043-4163-b9ba-eb06cdb11c17",
+        "d5aab866-169f-474b-9538-ebd9691a6695",
+        "e9600e5b-9c83-4ea5-9a60-8d2ff8729542",
+        "ef40f18c-e657-47b5-a70d-df6d3b3f0084",
+        "99639ed6-9b77-4c98-923c-df9719206768",
+        "2ed6b04a-6fd9-4e39-b2bc-ec5f8dcfbe82",
+        "7671b60a-2361-46b4-9719-6f64851432e8",
+        "0b2c99f5-1ee7-4989-bdb6-da8b04517348"
+      ],
+      "date": 1613310751053
+    },
+    {
+      "type": "edit",
+      "id": "fe263ce2-34a9-4b4b-895c-cfa16445e6f9",
+      "item": {
+        "text": "https://www.listennotes.com/e/p/625e2111a34b4be1b59dab9f73bd40f3/\n[[Learning in Public]] with Anna Gat and Anne-Laure Le Cunff",
+        "type": "audio",
+        "id": "fe263ce2-34a9-4b4b-895c-cfa16445e6f9"
+      },
+      "date": 1613310768417
+    },
+    {
+      "type": "edit",
+      "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+      "item": {
+        "text": "Anna Gat ([https://twitter.com/TheAnnaGat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @TheAnnaGat]), founder of Interintellect, and Anne-Laure Le Cunff (@anthilemoon), founder of Ness Labs, join Erik on this episode to discuss: - [https://www.listennotes.com/e/625e2111a34b4be1b59dab9f73bd40f3/ listen]\n",
+        "type": "markdown",
+        "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26"
+      },
+      "date": 1613310796138
+    },
+    {
+      "type": "edit",
+      "id": "92db2d29dc58db32",
+      "item": {
+        "type": "markdown",
+        "id": "92db2d29dc58db32",
+        "text": "- https://interintellect.com\n- https://nesslabs.com/"
+      },
+      "date": 1613310830816
+    },
+    {
+      "type": "edit",
+      "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+      "item": {
+        "text": "Anna Gat ([https://twitter.com/TheAnnaGat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @TheAnnaGat]), founder of Interintellect, and Anne-Laure Le Cunff ([https://twitter.com/anthilemoon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @anthilemoon]), founder of Ness Labs, join Erik on this episode to discuss: - [https://www.listennotes.com/e/625e2111a34b4be1b59dab9f73bd40f3/ listen]\n",
+        "type": "markdown",
+        "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26"
+      },
+      "date": 1613310839932
+    },
+    {
+      "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+      "type": "move",
+      "order": [
+        "fe263ce2-34a9-4b4b-895c-cfa16445e6f9",
+        "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+        "92db2d29dc58db32",
+        "20293879-3e5e-4b42-9dc6-fb81872716fa",
+        "eba1ec92-488a-421f-95b5-6f3e3a42c826",
+        "fdc0046c-e870-458f-a253-3ba042e5b840",
+        "a7f5aa3c-c8bf-472d-bb7d-d40a26853ea8",
+        "9f4a710e-91fa-4ebd-88fb-34575b53ea08",
+        "8b1d31e0-a7e3-4ec5-a1cd-495b9ea28dbf",
+        "1bb91bf5-7092-4497-a825-1c89a43c1018",
+        "0af750ea-c0a0-4687-9f41-7bab3fb0e98a",
+        "1606d8f3-0304-47f7-be36-87411b9bf667",
+        "ca3c4bab-0043-4163-b9ba-eb06cdb11c17",
+        "d5aab866-169f-474b-9538-ebd9691a6695",
+        "e9600e5b-9c83-4ea5-9a60-8d2ff8729542",
+        "ef40f18c-e657-47b5-a70d-df6d3b3f0084",
+        "99639ed6-9b77-4c98-923c-df9719206768",
+        "2ed6b04a-6fd9-4e39-b2bc-ec5f8dcfbe82",
+        "7671b60a-2361-46b4-9719-6f64851432e8",
+        "0b2c99f5-1ee7-4989-bdb6-da8b04517348"
+      ],
+      "date": 1613310863589
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5485cc7297a68756"
+      },
+      "id": "5485cc7297a68756",
+      "type": "add",
+      "after": "0b2c99f5-1ee7-4989-bdb6-da8b04517348",
+      "date": 1613310879285
+    },
+    {
+      "id": "5485cc7297a68756",
+      "type": "move",
+      "order": [
+        "5485cc7297a68756",
+        "fe263ce2-34a9-4b4b-895c-cfa16445e6f9",
+        "d61afccf-c4e6-4163-b792-6459a2cf1d26",
+        "92db2d29dc58db32",
+        "20293879-3e5e-4b42-9dc6-fb81872716fa",
+        "eba1ec92-488a-421f-95b5-6f3e3a42c826",
+        "fdc0046c-e870-458f-a253-3ba042e5b840",
+        "a7f5aa3c-c8bf-472d-bb7d-d40a26853ea8",
+        "9f4a710e-91fa-4ebd-88fb-34575b53ea08",
+        "8b1d31e0-a7e3-4ec5-a1cd-495b9ea28dbf",
+        "1bb91bf5-7092-4497-a825-1c89a43c1018",
+        "0af750ea-c0a0-4687-9f41-7bab3fb0e98a",
+        "1606d8f3-0304-47f7-be36-87411b9bf667",
+        "ca3c4bab-0043-4163-b9ba-eb06cdb11c17",
+        "d5aab866-169f-474b-9538-ebd9691a6695",
+        "e9600e5b-9c83-4ea5-9a60-8d2ff8729542",
+        "ef40f18c-e657-47b5-a70d-df6d3b3f0084",
+        "99639ed6-9b77-4c98-923c-df9719206768",
+        "2ed6b04a-6fd9-4e39-b2bc-ec5f8dcfbe82",
+        "7671b60a-2361-46b4-9719-6f64851432e8",
+        "0b2c99f5-1ee7-4989-bdb6-da8b04517348"
+      ],
+      "date": 1613310885129
+    },
+    {
+      "type": "edit",
+      "id": "5485cc7297a68756",
+      "item": {
+        "type": "markdown",
+        "id": "5485cc7297a68756",
+        "text": "Here is a great podcast with an in depth chatty discussion about how the [[outlandish methodology]] works at a social level. Let's review these spaces and see if we can work with them."
+      },
+      "date": 1613310966270
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "5485cc7297a68756",
+      "text": "Here is a great podcast with an in depth chatty discussion about how the [[outlandish methodology]] works at a social level. Let's review these spaces and see if we can work with them."
+    },
+    {
+      "text": "https://www.listennotes.com/e/p/625e2111a34b4be1b59dab9f73bd40f3/\n[[Learning in Public]] with Anna Gat and Anne-Laure Le Cunff",
+      "type": "audio",
+      "id": "fe263ce2-34a9-4b4b-895c-cfa16445e6f9"
+    },
+    {
+      "text": "Anna Gat ([https://twitter.com/TheAnnaGat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @TheAnnaGat]), founder of Interintellect, and Anne-Laure Le Cunff ([https://twitter.com/anthilemoon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor @anthilemoon]), founder of Ness Labs, join Erik on this episode to discuss: - [https://www.listennotes.com/e/625e2111a34b4be1b59dab9f73bd40f3/ listen]\n",
+      "type": "markdown",
+      "id": "d61afccf-c4e6-4163-b792-6459a2cf1d26"
+    },
+    {
+      "type": "markdown",
+      "id": "92db2d29dc58db32",
+      "text": "- https://interintellect.com\n- https://nesslabs.com/"
+    },
+    {
+      "text": "<div class='item image ui-sortable-handle'>\n<img class='thumbnail' src='https://cdn-images-1.listennotes.com/podcasts/village-globals-venture-stories-village-EMZHkqIA_Fc-Zbiejgx0l-F.300x300.jpg'>\n<p class=caption>\n[[Learning in Public with Anna Gat and Anne-Laure Le Cunff]] - [https://www.listennotes.com/e/625e2111a34b4be1b59dab9f73bd40f3/ listen]\n</p></div>",
+      "type": "html",
+      "id": "20293879-3e5e-4b42-9dc6-fb81872716fa"
+    },
+    {
+      "text": "- What it’s like putting on virtual events in the COVID era.",
+      "type": "markdown",
+      "id": "eba1ec92-488a-421f-95b5-6f3e3a42c826"
+    },
+    {
+      "text": "- The difference between public and private language.",
+      "type": "markdown",
+      "id": "fdc0046c-e870-458f-a253-3ba042e5b840"
+    },
+    {
+      "text": "- How to scale a community while keeping it human, including the best tools to use.",
+      "type": "markdown",
+      "id": "a7f5aa3c-c8bf-472d-bb7d-d40a26853ea8"
+    },
+    {
+      "text": "- The importance of documentation in community-building.",
+      "type": "markdown",
+      "id": "9f4a710e-91fa-4ebd-88fb-34575b53ea08"
+    },
+    {
+      "text": "- The community architect role.",
+      "type": "markdown",
+      "id": "8b1d31e0-a7e3-4ec5-a1cd-495b9ea28dbf"
+    },
+    {
+      "text": "- How to think about which topics are off-limits for a group.",
+      "type": "markdown",
+      "id": "1bb91bf5-7092-4497-a825-1c89a43c1018"
+    },
+    {
+      "text": "- The advent of the generalist.",
+      "type": "markdown",
+      "id": "0af750ea-c0a0-4687-9f41-7bab3fb0e98a"
+    },
+    {
+      "text": "- The secret to great meetups.",
+      "type": "markdown",
+      "id": "1606d8f3-0304-47f7-be36-87411b9bf667"
+    },
+    {
+      "text": "*The deadline to get your application in for the spring vintage of the Village Global Accelerator is March 1st! It’s a personalized and tight-knit program with an amazing network of peers, advisors, and experts. Companies that have been through the accelerator have raised from some of the top venture funds in the world, likea16z, First Round Capital, Founders Fund, Lux Capital, True Ventures, Felicis and more.",
+      "type": "markdown",
+      "id": "ca3c4bab-0043-4163-b9ba-eb06cdb11c17"
+    },
+    {
+      "text": "Learn more and apply at www.villageglobal.vc/accelerator!",
+      "type": "markdown",
+      "id": "d5aab866-169f-474b-9538-ebd9691a6695"
+    },
+    {
+      "text": "Thanks for listening — if you like what you hear, please review us on your favorite podcast platform.",
+      "type": "markdown",
+      "id": "e9600e5b-9c83-4ea5-9a60-8d2ff8729542"
+    },
+    {
+      "text": "Check us out on the web at www.villageglobal.vc or get in touch with us on Twitter @villageglobal.",
+      "type": "markdown",
+      "id": "ef40f18c-e657-47b5-a70d-df6d3b3f0084"
+    },
+    {
+      "text": "Want to get updates from us? Subscribe to get a peek inside the Village. We’ll send you reading recommendations, exclusive event invites, and commentary on the latest happenings in Silicon Valley. www.villageglobal.vc/signup",
+      "type": "markdown",
+      "id": "99639ed6-9b77-4c98-923c-df9719206768"
+    },
+    {
+      "text": "# Village Global's Venture Stories",
+      "type": "markdown",
+      "id": "2ed6b04a-6fd9-4e39-b2bc-ec5f8dcfbe82"
+    },
+    {
+      "text": "Village Global's Venture Stories takes you inside the world of venture capital and technology, featuring enlightening interviews with entrepreneurs, investors and tech industry leaders. The podcast is hosted by Village Global partner and co-founder Erik Torenberg. Check us out on the web at villageglobal.vc/podcast for more.",
+      "type": "markdown",
+      "id": "7671b60a-2361-46b4-9719-6f64851432e8"
+    },
+    {
+      "text": "<div class='item image ui-sortable-handle'>\n<img class='thumbnail' src='https://cdn-images-1.listennotes.com/podcasts/village-globals-venture-stories-village-EMZHkqIA_Fc-Zbiejgx0l-F.300x300.jpg'>\n<p class=caption>\n[[Village Global's Venture Stories]] by Village Global - [http://www.villageglobal.vc?utm_source=listennotes.com&utm_campaign=Listen+Notes&utm_medium=website listen]\n</p></div>",
+      "type": "html",
+      "id": "0b2c99f5-1ee7-4989-bdb6-da8b04517348"
+    }
+  ]
+}
