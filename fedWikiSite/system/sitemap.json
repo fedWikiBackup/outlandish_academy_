@@ -1,5 +1,22 @@
 [
   {
+    "slug": "about-time",
+    "title": "About Time",
+    "date": 1612438666165,
+    "synopsis": "Time and therefore change which leads to uncertainty are not built into our programming languages. Indeed nor is it built into much of our philosophy, or common sense modes of thinking.  What would a language look like that builds in the idea of time?",
+    "links": {
+      "this-wiki-is-too-long": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "when-their-time-is-right": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "daily-scrum": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "learning-timebank": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "time-account": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "time-zone-problems": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "concurrency-computer-science": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "tau-chain": "dd3d8e77-b904-4137-b3da-20185e190965",
+      "protip-timer-plugin": "dd3d8e77-b904-4137-b3da-20185e190965"
+    }
+  },
+  {
     "slug": "academy-methodology",
     "title": "Academy Methodology",
     "date": 1604843287463,
@@ -384,6 +401,28 @@
     }
   },
   {
+    "slug": "concurrency-computer-science",
+    "title": "Concurrency (computer science)",
+    "date": 1475588155398,
+    "synopsis": "In computer science, concurrency is the decomposability property of a program, algorithm, or problem into order-independent or partially-ordered components or units - [https://en.wikipedia.org/wiki/Concurrency_(computer_science) wikipedia]",
+    "links": {
+      "petri-nets": "dbd0c796b4b6334c",
+      "actor-model": "dbd0c796b4b6334c",
+      "reo-coordination-language": "dbd0c796b4b6334c",
+      "plato": "9c0dc9fa-b591-4355-a2df-8953990382c0",
+      "socrates": "9c0dc9fa-b591-4355-a2df-8953990382c0",
+      "voltaire": "9c0dc9fa-b591-4355-a2df-8953990382c0",
+      "descartes": "9c0dc9fa-b591-4355-a2df-8953990382c0",
+      "issues": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "theory": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "practice": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "see-also": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "references": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "further-reading": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
+      "external-links": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d"
+    }
+  },
+  {
     "slug": "conferences-and-meetups",
     "title": "Conferences and Meetups",
     "date": 1498657066136,
@@ -488,6 +527,23 @@
       "stand-up-meeting": "83750d55-d94a-4f35-a00b-8b8991753313",
       "timeboxingtimeboxed": "3441d0d1-5924-4358-998d-a23a11db4b64",
       "free-culture": "2d177745-ce7e-4039-9056-0e82118f3166"
+    }
+  },
+  {
+    "slug": "data-and-javascript",
+    "title": "Data and Javascript",
+    "date": 1438597504250,
+    "synopsis": "Here we gather some links and ideas related to using data in the javascript centred world of the Federation:",
+    "links": {
+      "federated-data": "ba5451d28ca92f51",
+      "nosql": "9bd89ad41a2fd134",
+      "federated-wiki": "0d41c1e62f5209d9",
+      "linked-data": "0d41c1e62f5209d9",
+      "web-we-want": "0d41c1e62f5209d9",
+      "dat": "cdb2caf500585677",
+      "command-line": "cdb2caf500585677",
+      "rest": "cdb2caf500585677",
+      "javascript": "cdb2caf500585677"
     }
   },
   {
@@ -1467,6 +1523,16 @@
     }
   },
   {
+    "slug": "mental-models",
+    "title": "Mental models",
+    "date": 1612444364536,
+    "synopsis": "Assumptions and generalizations held by individuals and organizations are called [[mental model]]s. Personal mental models describe what people can or cannot detect. Due to selective observation, mental models might limit peoples’ observations. To become a learning organization, these models must be identified and challenged. Individuals tend to espouse theories, which are what they intend to follow, and theories-in-use, which are what they actually do. Similarly, organizations tend to have 'memories' which preserve certain behaviours, norms and values. ",
+    "links": {
+      "mental-model": "0667a8ff-2c8e-4d7c-9b29-514366c94db3",
+      "free-culture": "690054c9-ddf7-4619-a3bb-232888ada3ef"
+    }
+  },
+  {
     "slug": "mike-caulfield",
     "title": "Mike Caulfield",
     "date": 1423103632203,
@@ -1771,6 +1837,51 @@
     "synopsis": "Permanent Web Sites"
   },
   {
+    "slug": "personal-mastery",
+    "title": "Personal mastery",
+    "date": 1612444342935,
+    "synopsis": "The commitment by an individual to the process of learning is known as personal mastery. There is a [[competitive advantage]] for an organization whose workforce can learn more quickly than the workforce of other organizations. Learning is considered to be more than just acquiring information; it is expanding the ability to be more productive by learning how to apply our skills to work in the most valuable way. Personal mastery appears also in a spiritual way as, for example, clarification of focus, personal vision and ability to see and interpret realit",
+    "links": {
+      "competitive-advantage": "bf4dcf49-cd68-41e9-88d2-17d8526a2fc6",
+      "organizational-learning": "bf4dcf49-cd68-41e9-88d2-17d8526a2fc6",
+      "free-culture": "7d810102-3a65-415e-984c-1013da8f844d"
+    }
+  },
+  {
+    "slug": "peter-senge",
+    "title": "Peter Senge",
+    "date": 1612448874852,
+    "synopsis": "__Peter Michael Senge__ (born 1947) is an American systems scientist, Senior Lecturer in Leadership and Sustainability at the [[MIT Sloan School of Management]], co-faculty at the [[New England Complex Systems Institute]], and the founder of the [[Society for Organizational Learning]]  - [https://en.wikipedia.org/wiki/Peter_Senge wikipedia]",
+    "links": {
+      "mit-sloan-school-of-management": "da198ee1f3151a75",
+      "new-england-complex-systems-institute": "da198ee1f3151a75",
+      "society-for-organizational-learning": "da198ee1f3151a75",
+      "the-fifth-discipline": "29b121334d281d92",
+      "robert-fritz": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "ford-motor-company": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "chrysler": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "royal-dutch-shell": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "att-corporation": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "hanover-insurance": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "harley-davidson": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
+      "peter-senge": "25e1fe190741cb8d",
+      "stanford-california": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "aerospace-engineering": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "stanford-university": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "master-of-science": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "mit": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
+      "meditation": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+      "tassajara-zen-mountain-center": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+      "zen-buddhist": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
+      "organizational-learning": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "system-dynamics": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "systems-thinking": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "strategy-dynamics": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "strategic-management": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
+      "organizational-communication": "59d4f341-ef7f-4cce-b162-8f2cf4c10785"
+    }
+  },
+  {
     "slug": "plant",
     "title": "Plant",
     "date": 1570549300855,
@@ -1880,6 +1991,20 @@
       "service-learning": "ce06e6ef-e904-4368-b9cf-1a50c1beed75",
       "integrated-studies": "ce06e6ef-e904-4368-b9cf-1a50c1beed75",
       "history-of-project-based-learning": "ce06e6ef-e904-4368-b9cf-1a50c1beed75"
+    }
+  },
+  {
+    "slug": "protip-timer-plugin",
+    "title": "ProTip Timer Plugin",
+    "date": 1429830591208,
+    "synopsis": "The ProTip Timer Plugin logs the time spent viewing pages around the federation. The information is incrementally stored in a local database - let's call it a [[Time Account]] - which the client stores in its [[HTML5 Local Storage]], and is not therefore revealed to the server.",
+    "links": {
+      "time-account": "01011db0f5961a83",
+      "html5-local-storage": "01011db0f5961a83",
+      "fedwiki-pages": "2591c8730756136a",
+      "time-credits": "b7c444ff295e8a27",
+      "protip-chrome-extension": "b7c444ff295e8a27",
+      "time-accounts": "1db4e42a8ab11f04"
     }
   },
   {
@@ -2062,6 +2187,33 @@
     "synopsis": "Provides the necessary drive to ensure that the team keeps moving and does not lose focus or momentum.",
     "links": {
       "belbin-team-roles": "5a88bb2d58ffbcf7"
+    }
+  },
+  {
+    "slug": "shared-data-plugin",
+    "title": "Shared Data Plugin",
+    "date": 1438597685060,
+    "synopsis": "Some initial thoughts on how can we introduce a simple shared data model across Fedwiki installations:",
+    "links": {
+      "firebase": "32ddaf1bd2a912d6",
+      "simpledb": "32ddaf1bd2a912d6",
+      "dat": "32ddaf1bd2a912d6",
+      "form-plugin": "32ddaf1bd2a912d6",
+      "result-plugin": "32ddaf1bd2a912d6",
+      "about-data-plugin": "3170471337602357",
+      "tranport-plugin": "3170471337602357",
+      "json-data-story-item": "3170471337602357",
+      "crud-operations": "d8bac97390b688b6"
+    }
+  },
+  {
+    "slug": "shared-vision",
+    "title": "Shared vision",
+    "date": 1612444380442,
+    "synopsis": "The development of a shared vision is important in motivating the staff to learn, as it creates a common identity that provides focus and energy for learning. The most successful visions build on the individual visions of the employees at all levels of the organization, thus the creation of a shared vision can be hindered by traditional structures where the company vision is imposed from above. Therefore, learning organizations tend to have flat, decentralized [[organizational structure]]s. The shared vision is often to succeed against a competitor; howe",
+    "links": {
+      "organizational-structure": "26afc1b4-2be7-4ccb-8609-5823aafef5e3",
+      "peter-senge": "26afc1b4-2be7-4ccb-8609-5823aafef5e3"
     }
   },
   {
@@ -2275,6 +2427,45 @@
     }
   },
   {
+    "slug": "systems-thinking",
+    "title": "Systems thinking",
+    "date": 1612444325867,
+    "synopsis": "The idea of the learning organization developed from a body of work called [[systems thinking]]. This is a conceptual framework that allows people to study businesses as bounded objects - [https://en.wikipedia.org/wiki/Learning_organization#Systems_thinking wikipedia]",
+    "links": {
+      "systems-thinking": "33a618c5-5147-47ad-8933-e8601543b4ef",
+      "learning-organization": "1c6bda01dae059aa"
+    }
+  },
+  {
+    "slug": "tau-chain",
+    "title": "Tau Chain",
+    "date": 1548442960582,
+    "synopsis": "τ-chain (pronounced tau-chain) is a decentralized peer-to-peer network having three unified faces: Rules, Proofs, and Computer Programs, allowing a generalization of virtually any centralized or decentralized P2P network, together with many new abilities, as we present on this note - [http://tauchain.org/tauchain.pdf pdf]",
+    "links": {
+      "tau-chain": "ce0aa3ab34635a94",
+      "blockchain": "ce0aa3ab34635a94",
+      "peter-suber": "51f0b75e61d97634",
+      "nomic": "51f0b75e61d97634",
+      "the-dao-hack": "2f8a4e6657c92236",
+      "dao-private-keys": "2f8a4e6657c92236",
+      "multisigs-cant-secure-dao-keys": "2f8a4e6657c92236",
+      "dao-design-jam": "2f8a4e6657c92236",
+      "about-time": "2f8a4e6657c92236",
+      "daedalus-now-bloom": "2f8a4e6657c92236",
+      "the-eve-of-abstraction": "2f8a4e6657c92236",
+      "bitcoin": "f833a46eed51d551",
+      "ethereum": "f833a46eed51d551",
+      "kademlia": "566e3d6efc3b587c",
+      "dht": "566e3d6efc3b587c",
+      "bittorrent": "2d1ee7ca108b7602",
+      "type-theory": "4fb4b1f45bfab7b8",
+      "turing-machine": "81d1e43a7015e55e",
+      "godel": "9a9ef803eabe12ec",
+      "russell": "9a9ef803eabe12ec",
+      "halting-problem": "9a9ef803eabe12ec"
+    }
+  },
+  {
     "slug": "teach-forwards",
     "title": "Teach Forwards",
     "date": 1603037898069,
@@ -2310,6 +2501,18 @@
       "dan-linna": "fc2af98726ae1455",
       "teaching-space": "fc2af98726ae1455",
       "future-law": "fc2af98726ae1455"
+    }
+  },
+  {
+    "slug": "team-learning",
+    "title": "Team learning",
+    "date": 1612448076094,
+    "synopsis": "The accumulation of individual learning constitutes [[team learning]]. The benefit of team or shared learning is that staff learn more quickly and the problem solving capacity of the organization is improved through better access to knowledge and expertise - [https://en.wikipedia.org/wiki/Learning_organization#Team_learning wikipedia]",
+    "links": {
+      "team-learning": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
+      "action-learning": "39c591a64d553254",
+      "dialogue": "39c591a64d553254",
+      "learning-cycle": "39c591a64d553254"
     }
   },
   {
@@ -2401,6 +2604,15 @@
     }
   },
   {
+    "slug": "this-wiki-is-too-long",
+    "title": "This Wiki Is Too Long",
+    "date": 1612438772771,
+    "synopsis": "We write our ideas in wiki as a way to explore the topics. Invoking [[Benjamin Franklin]]: ",
+    "links": {
+      "benjamin-franklin": "780eee8f66ddc5aa"
+    }
+  },
+  {
     "slug": "thought-garden-project-activity",
     "title": "Thought Garden Project Activity",
     "date": 1503250152070,
@@ -2449,6 +2661,24 @@
       "documentary-events": "5bd1507f8634457b",
       "conversation-clubs": "5bd1507f8634457b",
       "thought-garden-installation": "5bd1507f8634457b"
+    }
+  },
+  {
+    "slug": "time-account",
+    "title": "Time Account",
+    "date": 1429982014940,
+    "synopsis": "A time-account is a personal ledger which tracks time spend and time received by a member of the federation.",
+    "links": {
+      "time-account-viewer-plugin": "f5b74795d106953b"
+    }
+  },
+  {
+    "slug": "time-zone-problems",
+    "title": "Time Zone Problems",
+    "date": 1543329660353,
+    "synopsis": "Time seems really straightforward and turns out not to be.",
+    "links": {
+      "exploring-time": "0aa0e49103ebe87a"
     }
   },
   {
@@ -2640,6 +2870,12 @@
     "synopsis": "A page with 1 items."
   },
   {
+    "slug": "when-their-time-is-right",
+    "title": "When Their Time Is Right",
+    "date": 1612438841831,
+    "synopsis": "Much of what lives and survives is about timing, not essence. How do we care for ideas who's timing is wrong? How do we judge the right time for an idea?"
+  },
+  {
     "slug": "wiki-essay",
     "title": "Wiki Essay",
     "date": 1425296904453,
@@ -2782,242 +3018,6 @@
     "links": {
       "experience-api": "15f2a6d90d9b36eb",
       "learning-cohort-teams": "a3a8ca5be16b1d8f"
-    }
-  },
-  {
-    "slug": "about-time",
-    "title": "About Time",
-    "date": 1612438666165,
-    "synopsis": "Time and therefore change which leads to uncertainty are not built into our programming languages. Indeed nor is it built into much of our philosophy, or common sense modes of thinking.  What would a language look like that builds in the idea of time?",
-    "links": {
-      "this-wiki-is-too-long": "dd3d8e77-b904-4137-b3da-20185e190965",
-      "when-their-time-is-right": "dd3d8e77-b904-4137-b3da-20185e190965",
-      "daily-scrum": "dd3d8e77-b904-4137-b3da-20185e190965",
-      "learning-timebank": "dd3d8e77-b904-4137-b3da-20185e190965",
-      "time-account": "dd3d8e77-b904-4137-b3da-20185e190965",
-      "time-zone-problems": "dd3d8e77-b904-4137-b3da-20185e190965",
-      "concurrency-computer-science": "dd3d8e77-b904-4137-b3da-20185e190965",
-      "tau-chain": "dd3d8e77-b904-4137-b3da-20185e190965",
-      "protip-timer-plugin": "dd3d8e77-b904-4137-b3da-20185e190965"
-    }
-  },
-  {
-    "slug": "this-wiki-is-too-long",
-    "title": "This Wiki Is Too Long",
-    "date": 1612438772771,
-    "synopsis": "We write our ideas in wiki as a way to explore the topics. Invoking [[Benjamin Franklin]]: ",
-    "links": {
-      "benjamin-franklin": "780eee8f66ddc5aa"
-    }
-  },
-  {
-    "slug": "when-their-time-is-right",
-    "title": "When Their Time Is Right",
-    "date": 1612438841831,
-    "synopsis": "Much of what lives and survives is about timing, not essence. How do we care for ideas who's timing is wrong? How do we judge the right time for an idea?"
-  },
-  {
-    "slug": "shared-data-plugin",
-    "title": "Shared Data Plugin",
-    "date": 1438597685060,
-    "synopsis": "Some initial thoughts on how can we introduce a simple shared data model across Fedwiki installations:",
-    "links": {
-      "firebase": "32ddaf1bd2a912d6",
-      "simpledb": "32ddaf1bd2a912d6",
-      "dat": "32ddaf1bd2a912d6",
-      "form-plugin": "32ddaf1bd2a912d6",
-      "result-plugin": "32ddaf1bd2a912d6",
-      "about-data-plugin": "3170471337602357",
-      "tranport-plugin": "3170471337602357",
-      "json-data-story-item": "3170471337602357",
-      "crud-operations": "d8bac97390b688b6"
-    }
-  },
-  {
-    "slug": "data-and-javascript",
-    "title": "Data and Javascript",
-    "date": 1438597504250,
-    "synopsis": "Here we gather some links and ideas related to using data in the javascript centred world of the Federation:",
-    "links": {
-      "federated-data": "ba5451d28ca92f51",
-      "nosql": "9bd89ad41a2fd134",
-      "federated-wiki": "0d41c1e62f5209d9",
-      "linked-data": "0d41c1e62f5209d9",
-      "web-we-want": "0d41c1e62f5209d9",
-      "dat": "cdb2caf500585677",
-      "command-line": "cdb2caf500585677",
-      "rest": "cdb2caf500585677",
-      "javascript": "cdb2caf500585677"
-    }
-  },
-  {
-    "slug": "time-zone-problems",
-    "title": "Time Zone Problems",
-    "date": 1543329660353,
-    "synopsis": "Time seems really straightforward and turns out not to be.",
-    "links": {
-      "exploring-time": "0aa0e49103ebe87a"
-    }
-  },
-  {
-    "slug": "concurrency-computer-science",
-    "title": "Concurrency (computer science)",
-    "date": 1475588155398,
-    "synopsis": "In computer science, concurrency is the decomposability property of a program, algorithm, or problem into order-independent or partially-ordered components or units - [https://en.wikipedia.org/wiki/Concurrency_(computer_science) wikipedia]",
-    "links": {
-      "petri-nets": "dbd0c796b4b6334c",
-      "actor-model": "dbd0c796b4b6334c",
-      "reo-coordination-language": "dbd0c796b4b6334c",
-      "plato": "9c0dc9fa-b591-4355-a2df-8953990382c0",
-      "socrates": "9c0dc9fa-b591-4355-a2df-8953990382c0",
-      "voltaire": "9c0dc9fa-b591-4355-a2df-8953990382c0",
-      "descartes": "9c0dc9fa-b591-4355-a2df-8953990382c0",
-      "issues": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
-      "theory": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
-      "practice": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
-      "see-also": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
-      "references": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
-      "further-reading": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d",
-      "external-links": "f8fbda60-7233-46ec-8ccd-c6e7d850c14d"
-    }
-  },
-  {
-    "slug": "tau-chain",
-    "title": "Tau Chain",
-    "date": 1548442960582,
-    "synopsis": "τ-chain (pronounced tau-chain) is a decentralized peer-to-peer network having three unified faces: Rules, Proofs, and Computer Programs, allowing a generalization of virtually any centralized or decentralized P2P network, together with many new abilities, as we present on this note - [http://tauchain.org/tauchain.pdf pdf]",
-    "links": {
-      "tau-chain": "ce0aa3ab34635a94",
-      "blockchain": "ce0aa3ab34635a94",
-      "peter-suber": "51f0b75e61d97634",
-      "nomic": "51f0b75e61d97634",
-      "the-dao-hack": "2f8a4e6657c92236",
-      "dao-private-keys": "2f8a4e6657c92236",
-      "multisigs-cant-secure-dao-keys": "2f8a4e6657c92236",
-      "dao-design-jam": "2f8a4e6657c92236",
-      "about-time": "2f8a4e6657c92236",
-      "daedalus-now-bloom": "2f8a4e6657c92236",
-      "the-eve-of-abstraction": "2f8a4e6657c92236",
-      "bitcoin": "f833a46eed51d551",
-      "ethereum": "f833a46eed51d551",
-      "kademlia": "566e3d6efc3b587c",
-      "dht": "566e3d6efc3b587c",
-      "bittorrent": "2d1ee7ca108b7602",
-      "type-theory": "4fb4b1f45bfab7b8",
-      "turing-machine": "81d1e43a7015e55e",
-      "godel": "9a9ef803eabe12ec",
-      "russell": "9a9ef803eabe12ec",
-      "halting-problem": "9a9ef803eabe12ec"
-    }
-  },
-  {
-    "slug": "time-account",
-    "title": "Time Account",
-    "date": 1429982014940,
-    "synopsis": "A time-account is a personal ledger which tracks time spend and time received by a member of the federation.",
-    "links": {
-      "time-account-viewer-plugin": "f5b74795d106953b"
-    }
-  },
-  {
-    "slug": "protip-timer-plugin",
-    "title": "ProTip Timer Plugin",
-    "date": 1429830591208,
-    "synopsis": "The ProTip Timer Plugin logs the time spent viewing pages around the federation. The information is incrementally stored in a local database - let's call it a [[Time Account]] - which the client stores in its [[HTML5 Local Storage]], and is not therefore revealed to the server.",
-    "links": {
-      "time-account": "01011db0f5961a83",
-      "html5-local-storage": "01011db0f5961a83",
-      "fedwiki-pages": "2591c8730756136a",
-      "time-credits": "b7c444ff295e8a27",
-      "protip-chrome-extension": "b7c444ff295e8a27",
-      "time-accounts": "1db4e42a8ab11f04"
-    }
-  },
-  {
-    "slug": "systems-thinking",
-    "title": "Systems thinking",
-    "date": 1612444325867,
-    "synopsis": "The idea of the learning organization developed from a body of work called [[systems thinking]]. This is a conceptual framework that allows people to study businesses as bounded objects - [https://en.wikipedia.org/wiki/Learning_organization#Systems_thinking wikipedia]",
-    "links": {
-      "systems-thinking": "33a618c5-5147-47ad-8933-e8601543b4ef",
-      "learning-organization": "1c6bda01dae059aa"
-    }
-  },
-  {
-    "slug": "personal-mastery",
-    "title": "Personal mastery",
-    "date": 1612444342935,
-    "synopsis": "The commitment by an individual to the process of learning is known as personal mastery. There is a [[competitive advantage]] for an organization whose workforce can learn more quickly than the workforce of other organizations. Learning is considered to be more than just acquiring information; it is expanding the ability to be more productive by learning how to apply our skills to work in the most valuable way. Personal mastery appears also in a spiritual way as, for example, clarification of focus, personal vision and ability to see and interpret realit",
-    "links": {
-      "competitive-advantage": "bf4dcf49-cd68-41e9-88d2-17d8526a2fc6",
-      "organizational-learning": "bf4dcf49-cd68-41e9-88d2-17d8526a2fc6",
-      "free-culture": "7d810102-3a65-415e-984c-1013da8f844d"
-    }
-  },
-  {
-    "slug": "mental-models",
-    "title": "Mental models",
-    "date": 1612444364536,
-    "synopsis": "Assumptions and generalizations held by individuals and organizations are called [[mental model]]s. Personal mental models describe what people can or cannot detect. Due to selective observation, mental models might limit peoples’ observations. To become a learning organization, these models must be identified and challenged. Individuals tend to espouse theories, which are what they intend to follow, and theories-in-use, which are what they actually do. Similarly, organizations tend to have 'memories' which preserve certain behaviours, norms and values. ",
-    "links": {
-      "mental-model": "0667a8ff-2c8e-4d7c-9b29-514366c94db3",
-      "free-culture": "690054c9-ddf7-4619-a3bb-232888ada3ef"
-    }
-  },
-  {
-    "slug": "shared-vision",
-    "title": "Shared vision",
-    "date": 1612444380442,
-    "synopsis": "The development of a shared vision is important in motivating the staff to learn, as it creates a common identity that provides focus and energy for learning. The most successful visions build on the individual visions of the employees at all levels of the organization, thus the creation of a shared vision can be hindered by traditional structures where the company vision is imposed from above. Therefore, learning organizations tend to have flat, decentralized [[organizational structure]]s. The shared vision is often to succeed against a competitor; howe",
-    "links": {
-      "organizational-structure": "26afc1b4-2be7-4ccb-8609-5823aafef5e3",
-      "peter-senge": "26afc1b4-2be7-4ccb-8609-5823aafef5e3"
-    }
-  },
-  {
-    "slug": "team-learning",
-    "title": "Team learning",
-    "date": 1612448076094,
-    "synopsis": "The accumulation of individual learning constitutes [[team learning]]. The benefit of team or shared learning is that staff learn more quickly and the problem solving capacity of the organization is improved through better access to knowledge and expertise - [https://en.wikipedia.org/wiki/Learning_organization#Team_learning wikipedia]",
-    "links": {
-      "team-learning": "3e59b2a5-4441-47e5-b9df-1658991d39c6",
-      "action-learning": "39c591a64d553254",
-      "dialogue": "39c591a64d553254",
-      "learning-cycle": "39c591a64d553254"
-    }
-  },
-  {
-    "slug": "peter-senge",
-    "title": "Peter Senge",
-    "date": 1612448874852,
-    "synopsis": "__Peter Michael Senge__ (born 1947) is an American systems scientist, Senior Lecturer in Leadership and Sustainability at the [[MIT Sloan School of Management]], co-faculty at the [[New England Complex Systems Institute]], and the founder of the [[Society for Organizational Learning]]  - [https://en.wikipedia.org/wiki/Peter_Senge wikipedia]",
-    "links": {
-      "mit-sloan-school-of-management": "da198ee1f3151a75",
-      "new-england-complex-systems-institute": "da198ee1f3151a75",
-      "society-for-organizational-learning": "da198ee1f3151a75",
-      "the-fifth-discipline": "29b121334d281d92",
-      "robert-fritz": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
-      "ford-motor-company": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
-      "chrysler": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
-      "royal-dutch-shell": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
-      "att-corporation": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
-      "hanover-insurance": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
-      "harley-davidson": "cf48c272-a341-4c4a-a5e2-c0b2f03cd585",
-      "peter-senge": "25e1fe190741cb8d",
-      "stanford-california": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
-      "aerospace-engineering": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
-      "stanford-university": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
-      "master-of-science": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
-      "mit": "77d3c9a2-15e6-4f28-8ffa-0ae9ad346a41",
-      "meditation": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
-      "tassajara-zen-mountain-center": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
-      "zen-buddhist": "ec6a02db-0716-49bb-95b3-95e2fdb0a9e1",
-      "organizational-learning": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
-      "system-dynamics": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
-      "systems-thinking": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
-      "strategy-dynamics": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
-      "strategic-management": "59d4f341-ef7f-4cce-b162-8f2cf4c10785",
-      "organizational-communication": "59d4f341-ef7f-4cce-b162-8f2cf4c10785"
     }
   }
 ]
